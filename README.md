@@ -18,3 +18,4 @@ Gidole Sans Free Font
 
 * Create an [issue](https://github.com/gidole/sans/issues/new) with your feedback, idea, request etc.
 * [Fork](https://github.com/gidole/sans/fork) me and contribute with improved/alternate/new characters or help me with some of the itmems on the todo list :)
+* gidole.github.io - I want to create a simple webpage to show the font. If you wanna help? :) It has it's own repo: https://github.com/gidole/gidole.github.io
