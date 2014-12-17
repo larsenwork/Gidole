@@ -1,15 +1,15 @@
 StartChar: Ccedilla
 Encoding: 448 199 192
-Width: 526
+Width: 521
 VWidth: 0
-HStem: -200 55<164.814 326.654> -6 70<204.775 382.212> 603 70<204.775 382.942>
+Flags: W
+HStem: -200 55<164.814 326.654> -6 70<204.775 389.01> 603 70<204.775 385.957>
 VStem: 65 74<129.695 534.141> 329.714 58<-138.403 -84.8355>
 LayerCount: 4
 Back
 Fore
 Refer: 190 184 N 1 0 0 1 65.714 0 2
 Refer: 15 67 N 1 0 0 1 0 0 3
-Validated: 5
 Layer: 2
 Layer: 3
 EndChar
