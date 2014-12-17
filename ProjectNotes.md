@@ -27,7 +27,7 @@ BLack       900		148/140 pt
 * l dot
 * only an the letter glyphs - e.g. not accents, space characters etc.
 
-#### Creating the *circle*
+**Creating the _circle_**
 ```
 965 circle +100 -40
 8 circle 430*364 -> 390*384
