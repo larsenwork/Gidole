@@ -1,0 +1,30 @@
+StartChar: P
+Encoding: 287 80 31
+Width: 527
+VWidth: 0
+Flags: W
+HStem: 0 21G<80 153> 258 69<153 353.086> 598 69<153 353.498>
+VStem: 80 73<0 258 327 598> 409 73<380.303 544.337>
+LayerCount: 4
+Back
+Fore
+SplineSet
+153 598 m 1
+ 153 327 l 1
+ 282 327 l 2
+ 351 327 409 371 409 462 c 0
+ 409 554 352 598 282 598 c 2
+ 153 598 l 1
+80 667 m 1
+ 282 667 l 2
+ 388 667 482 602 482 462 c 0
+ 482 323 387 258 282 258 c 2
+ 153 258 l 1
+ 153 0 l 1
+ 80 0 l 1
+ 80 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

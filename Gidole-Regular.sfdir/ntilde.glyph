@@ -1,0 +1,16 @@
+StartChar: ntilde
+Encoding: 437 241 181
+Width: 515
+VWidth: 0
+Flags: W
+HStem: 0 21<70 140 380 450> 417 66<195.335 330.895> 540 50<293.443 364.265> 599 50<186.219 255.475>
+VStem: 70 70<0 358.787 418 477> 129 50<546 592.061> 371 50<596.728 642> 380 70<0 361.55>
+LayerCount: 4
+Back
+Fore
+Refer: 183 732 N 1 0 0 1 49 29 2
+Refer: 58 110 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

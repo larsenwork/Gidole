@@ -1,0 +1,32 @@
+StartChar: K
+Encoding: 290 75 34
+Width: 559
+VWidth: 0
+Flags: W
+HStem: 0 21G<80 154 431.886 534> 647 20G<80 154 418.615 521>
+VStem: 80 74<0 236 324 667>
+AnchorPoint: "Top" 0 0 basechar 0
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Bottom" 290 0 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+154 0 m 1
+ 80 0 l 1
+ 80 667 l 1
+ 154 667 l 1
+ 154 324 l 1
+ 435 667 l 1
+ 521 667 l 1
+ 263 358 l 1
+ 534 0 l 1
+ 447 0 l 1
+ 215 307 l 1
+ 154 236 l 1
+ 154 0 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

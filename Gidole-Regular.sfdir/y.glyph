@@ -1,0 +1,26 @@
+StartChar: y
+Encoding: 326 121 70
+Width: 520
+VWidth: 0
+Flags: W
+AnchorPoint: "Bottom" 0 0 basechar 0
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Top" 260 546 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+30 477 m 1
+ 104 477 l 1
+ 260 81 l 1
+ 416 477 l 1
+ 490 477 l 1
+ 222 -185 l 1
+ 149 -185 l 1
+ 223 0 l 1
+ 30 477 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,32 @@
+StartChar: E
+Encoding: 274 69 18
+Width: 495
+VWidth: 0
+Flags: W
+HStem: 0 70<156 440> 308 70<156 389> 597 70<154 439>
+VStem: 80 76<70 308 378 597>
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Bottom" 256 0 basechar 0
+AnchorPoint: "Top" 256 730 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+80 667 m 1
+ 439 667 l 1
+ 439 597 l 1
+ 154 597 l 1
+ 154 378 l 1
+ 389 378 l 1
+ 389 308 l 1
+ 156 308 l 1
+ 156 70 l 1
+ 440 70 l 1
+ 440 0 l 1
+ 80 0 l 1
+ 80 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

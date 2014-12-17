@@ -1,0 +1,39 @@
+StartChar: trademark
+Encoding: 382 8482 126
+Width: 648
+VWidth: 0
+Flags: W
+HStem: 622 45<50 139 186 275>
+VStem: 139 47<334 622> 315 46<334 573> 552 46<334 574>
+LayerCount: 4
+Back
+Fore
+SplineSet
+50 667 m 1
+ 275 667 l 1
+ 275 622 l 1
+ 186 622 l 1
+ 186 334 l 1
+ 139 334 l 1
+ 139 622 l 1
+ 50 622 l 1
+ 50 667 l 1
+315 667 m 1
+ 357 667 l 1
+ 456 473 l 1
+ 556 667 l 1
+ 598 667 l 1
+ 598 334 l 1
+ 552 334 l 1
+ 552 574 l 1
+ 473 416 l 1
+ 440 416 l 1
+ 361 573 l 1
+ 361 334 l 1
+ 315 334 l 1
+ 315 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

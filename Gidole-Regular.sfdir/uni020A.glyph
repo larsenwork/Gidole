@@ -1,0 +1,17 @@
+StartChar: uni020A
+Encoding: 570 522 314
+Width: 234
+VWidth: 0
+Flags: W
+HStem: 0 21<80 154> 647 20<80 154> 819 50<56.5078 177.289>
+VStem: -22 50<730 789.452> 80 74<0 667> 206 50<730 789.452>
+CounterMasks: 1 1c
+LayerCount: 4
+Back
+Fore
+Refer: 437 785 N 1 0 0 1 -92 213 2
+Refer: 21 73 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,15 @@
+StartChar: uni2271
+Encoding: 619 8817 363
+Width: 480
+VWidth: 0
+HStem: 95 56<80 400>
+VStem: 80 320<151 207> 89 302
+LayerCount: 4
+Back
+Fore
+Refer: 73 47 N 1 0 0 1 89 -58 2
+Refer: 119 8805 N 1 0 0 1 0 0 3
+Validated: 5
+Layer: 2
+Layer: 3
+EndChar

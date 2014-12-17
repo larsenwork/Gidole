@@ -1,0 +1,16 @@
+StartChar: Uogonek
+Encoding: 653 370 397
+Width: 570
+VWidth: 0
+Flags: W
+HStem: -202 55<268.282 341.693> -20 20<235 317> -6 70<206.534 363.466> 647 20<70 144 426 500>
+VStem: 70 74<129.695 667> 212 50<-142.413 -37.2377> 426 74<129.695 667>
+LayerCount: 4
+Back
+Fore
+Refer: 399 731 N 1 0 0 1 112 0 2
+Refer: 24 85 N 1 0 0 1 0 0 3
+Validated: 5
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,15 @@
+StartChar: omacron
+Encoding: 518 333 262
+Width: 490
+VWidth: 0
+HStem: -6 66<176.804 313.196> 417 66<176.804 312.99> 547 56<109 379>
+VStem: 50 70<120.972 355.551> 109 270<547 603> 370 70<120.972 356.428>
+LayerCount: 4
+Back
+Fore
+Refer: 195 175 N 1 0 0 1 19 29 2
+Refer: 53 111 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

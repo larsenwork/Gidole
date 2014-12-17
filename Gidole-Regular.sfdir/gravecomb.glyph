@@ -1,0 +1,21 @@
+StartChar: gravecomb
+Encoding: 694 768 438
+Width: 332
+Flags: W
+HStem: 517 131
+VStem: 80 172
+AnchorPoint: "Top" 187 517 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+80 648 m 25
+ 157 648 l 25
+ 252 517 l 1
+ 186 517 l 1
+ 80 648 l 25
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

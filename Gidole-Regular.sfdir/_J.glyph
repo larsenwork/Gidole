@@ -1,0 +1,28 @@
+StartChar: J
+Encoding: 278 74 22
+Width: 466
+VWidth: 0
+Flags: W
+HStem: -6 70<136.811 273.411> 647 20G<322 396>
+VStem: 322 74<118.264 667>
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Bottom" 211 0 basechar 0
+AnchorPoint: "Top" 359 730 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+322 667 m 1
+ 396 667 l 1
+ 396 200 l 2
+ 396 59 300 -6 211 -6 c 0
+ 183 -6 102 -6 30 88 c 1
+ 87 132 l 1
+ 139 64 189 64 211 64 c 0
+ 263 64 322 107 322 200 c 2
+ 322 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

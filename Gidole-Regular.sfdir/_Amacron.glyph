@@ -1,0 +1,15 @@
+StartChar: Amacron
+Encoding: 461 256 205
+Width: 589
+VWidth: 0
+HStem: 0 21<25 107.909 482.091 564> 165 70<180 409> 647 20<255.864 334.106> 731 56<159 429>
+VStem: 159 270<731 787>
+LayerCount: 4
+Back
+Fore
+Refer: 195 175 N 1 0 0 1 69 213 2
+Refer: 13 65 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

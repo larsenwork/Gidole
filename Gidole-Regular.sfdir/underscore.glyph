@@ -1,0 +1,20 @@
+StartChar: underscore
+Encoding: 386 95 130
+Width: 420
+VWidth: 0
+Flags: W
+HStem: -66 66<25 395>
+LayerCount: 4
+Back
+Fore
+SplineSet
+25 0 m 1
+ 395 0 l 1
+ 395 -66 l 1
+ 25 -66 l 1
+ 25 0 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

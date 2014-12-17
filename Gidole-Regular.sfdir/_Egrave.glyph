@@ -1,0 +1,15 @@
+StartChar: Egrave
+Encoding: 421 200 165
+Width: 495
+VWidth: 0
+HStem: 0 70<156 440> 308 70<156 389> 597 70<154 439> 730 131
+VStem: 80 76<70 308 378 597> 149 172
+LayerCount: 4
+Back
+Fore
+Refer: 438 768 N 1 0 0 1 69 213 2
+Refer: 18 69 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

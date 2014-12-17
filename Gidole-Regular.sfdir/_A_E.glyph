@@ -1,0 +1,36 @@
+StartChar: AE
+Encoding: 297 198 41
+Width: 809
+Flags: W
+HStem: 0 69<499 733> 165 70<243 428> 308 69<499 700> 597 70<499 723>
+VStem: 428 71<69 165 235 308 377 588>
+LayerCount: 4
+Back
+Fore
+SplineSet
+120 0 m 1
+ 41 0 l 1
+ 395 667 l 1
+ 723 667 l 1
+ 723 597 l 1
+ 499 597 l 1
+ 499 377 l 1
+ 700 377 l 1
+ 700 308 l 1
+ 499 308 l 1
+ 499 69 l 1
+ 733 69 l 1
+ 733 0 l 1
+ 428 0 l 1
+ 428 165 l 1
+ 207 165 l 1
+ 120 0 l 1
+428 588 m 1
+ 243 235 l 1
+ 428 235 l 1
+ 428 588 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

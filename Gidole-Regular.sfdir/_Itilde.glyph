@@ -1,0 +1,17 @@
+StartChar: Itilde
+Encoding: 492 296 236
+Width: 234
+VWidth: 0
+Flags: W
+HStem: 0 21<80 154> 647 20<80 154> 724 50<135.443 206.265> 783 50<28.2187 97.475>
+VStem: -29 50<730 776.061> 80 74<0 667> 213 50<780.728 826>
+CounterMasks: 1 0e
+LayerCount: 4
+Back
+Fore
+Refer: 183 732 N 1 0 0 1 -109 213 2
+Refer: 21 73 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

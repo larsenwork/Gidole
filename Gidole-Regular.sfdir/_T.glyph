@@ -1,0 +1,28 @@
+StartChar: T
+Encoding: 285 84 29
+Width: 490
+VWidth: 0
+Flags: W
+HStem: 0 21G<208 282> 597 70<20 208 282 470>
+VStem: 208 74<0 597>
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Bottom" 246 0 basechar 0
+AnchorPoint: "Top" 245 730 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+20 667 m 1
+ 470 667 l 1
+ 470 597 l 1
+ 282 597 l 1
+ 282 0 l 1
+ 208 0 l 1
+ 208 597 l 1
+ 20 597 l 1
+ 20 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

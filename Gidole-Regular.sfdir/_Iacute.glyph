@@ -1,0 +1,16 @@
+StartChar: Iacute
+Encoding: 433 205 177
+Width: 234
+VWidth: 0
+Flags: W
+HStem: 0 21<80 154> 647 20<80 154> 730 131
+VStem: 52 172 80 74<0 667>
+LayerCount: 4
+Back
+Fore
+Refer: 439 769 N 1 0 0 1 -28 213 2
+Refer: 21 73 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar
