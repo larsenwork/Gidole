@@ -1,34 +1,91 @@
-**Possible weights**
-```
-One         100		3.7/3.5 pt		
-Two         200		5.5%		
-Three       300		13%		
-Four        400		22.5%	
-Five        500		34%		
+*Capital letters + nummerals
 
-ExtraLight  100		47.5%	
-Light       200		63%
-Book        300		80.5%
-Regular     400		74/70 70/66 pt		
-Medium      500		20%
-SemiBold    600		40%
-Bold        700		60%
-Ekstrabold  800		80%
-BLack       900		148/140 pt
+**Even**
+```
+H 85
+U 75
+O 65
+8,Z,2,6,9,5 60
+T,Ø 55
+X 45
+A, V 35
 ```
 
-**Missing glyphs**
-* Some small greek ones (currently a 
-* Some fractions
-
-**Don't use build function on these**
-* L caron
-* l caron
-* l dot
-* only an the letter glyphs - e.g. not accents, space characters etc.
-
-**Creating the _circle_**
+**Left**
 ```
-965 circle +100 -40
-8 circle 430*364 -> 390*384
+4 60
+1 55
+S 52
+J 45
 ```
+
+**Right**
+```
+E 65
+F 60
+Q 56 (thingy is 9pt out)
+L,S,P,R,4 55
+C 50
+```
+
+*Small characters
+
+**Even**
+```
+l 75
+i 69
+u 65
+e 58
+o,z 55
+ø 50
+f 45
+x 40
+v 35
+```
+
+**Left**
+```
+a 55
+s 47
+```
+
+**Right**
+```
+a 68
+s, c 50
+r 45
+```
+
+*Spacing characters
+
+**Even**
+```
++ 80
+! 79
+. 50
+_ 35
+/ 10
+```
+
+**Left**
+```
+( 80
+[ 85
+{ 60
+```
+
+**Right**
+```
+space 300
+(,[ 30
+{ 40
+& 55
+```
+
+*Other
+```
+Dot below baseline: 63
+```
+
+*Missing
+* ~y and forward

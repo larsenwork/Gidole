@@ -1,7 +1,8 @@
 StartChar: nacute
 Encoding: 324 324 256
-Width: 515
+Width: 512
 VWidth: 0
+Flags: W
 HStem: 0 21<70 140 380 450> 417 66<195.335 330.895> 546 131
 VStem: 70 70<0 358.787 418 477> 210 172 380 70<0 361.55>
 LayerCount: 4

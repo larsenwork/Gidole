@@ -1,13 +1,14 @@
 StartChar: Agrave
 Encoding: 192 192 164
-Width: 589
+Width: 619
 VWidth: 0
-HStem: 0 21<25 107.909 482.091 564> 165 70<180 409> 647 20<255.864 334.106> 730 131
-VStem: 188 172
+Flags: HW
+HStem: 0 21<40 122.909 497.091 579> 165 70<195 424> 647 20<270.864 349.106> 730 131
+VStem: 203 172
 LayerCount: 4
 Back
 Fore
-Refer: 433 768 N 1 0 0 1 108 213 2
+Refer: 433 768 N 1 0 0 1 123 213 2
 Refer: 13 65 N 1 0 0 1 0 0 3
 Layer: 2
 Layer: 3

@@ -2,14 +2,14 @@ StartChar: AEacute
 Encoding: 508 508 306
 Width: 809
 VWidth: 0
-HStem: 0 69<499 733> 165 70<243 428> 308 69<499 700> 597 70<499 723> 733 131
-VStem: 428 71<69 165 235 308 377 588> 526 172
+Flags: H
+HStem: 0 69<498 732> 165 70<242 427> 308 69<498 699> 597 70<498 722> 733 131
+VStem: 427 71<69 165 235 308 377 588> 525 172
 LayerCount: 4
 Back
 Fore
-Refer: 434 769 N 1 0 0 1 446 216 2
+Refer: 434 769 N 1 0 0 1 445 216 2
 Refer: 41 198 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

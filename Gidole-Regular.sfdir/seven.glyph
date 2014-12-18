@@ -1,22 +1,21 @@
 StartChar: seven
 Encoding: 55 55 9
-Width: 485
-Flags: W
-HStem: 0 21G<94 181.493> 597 70<45 347>
+Width: 520
+Flags: HW
+HStem: 0 21G<114 201.493> 597 70<65 367>
 LayerCount: 4
 Back
 Fore
 SplineSet
-45 667 m 1
- 435 667 l 1
- 435 617 l 1
- 173 0 l 1
- 94 0 l 1
- 347 597 l 1
- 45 597 l 1
- 45 667 l 1
+65 667 m 1
+ 455 667 l 1
+ 455 617 l 1
+ 193 0 l 1
+ 114 0 l 1
+ 367 597 l 1
+ 65 597 l 1
+ 65 667 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

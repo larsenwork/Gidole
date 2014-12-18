@@ -1,7 +1,7 @@
 StartChar: five
 Encoding: 53 53 7
-Width: 496
-Flags: W
+Width: 506
+Flags: HW
 HStem: -6 70<161.883 313.084> 345 70<177.632 313.084> 597 70<154 411>
 VStem: 82 72<388 597> 367 74<120.624 288.006>
 LayerCount: 4
@@ -25,7 +25,6 @@ SplineSet
  82 328 l 1
  82 667 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

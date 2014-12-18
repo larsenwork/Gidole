@@ -1,15 +1,15 @@
 StartChar: Uhungarumlaut
 Encoding: 368 368 293
-Width: 570
+Width: 580
 VWidth: 0
-HStem: -6 70<206.534 363.466> 647 20<70 144 426 500> 730 131
-VStem: 70 74<129.695 667> 159 313 426 74<129.695 667>
+Flags: HW
+HStem: -6 70<211.534 368.466> 647 20<75 149 431 505> 730 131
+VStem: 75 74<129.695 667> 164 313 431 74<129.695 667>
 LayerCount: 4
 Back
 Fore
-Refer: 199 733 N 1 0 0 1 79 213 2
+Refer: 199 733 N 1 0 0 1 84 213 2
 Refer: 24 85 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

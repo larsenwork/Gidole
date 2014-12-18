@@ -2,7 +2,7 @@ StartChar: gamma
 Encoding: 947 947 421
 Width: 556
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 411 66<30 99.424>
 VStem: 259 74<-185 0>
 LayerCount: 4

@@ -1,37 +1,36 @@
 StartChar: R
 Encoding: 82 82 32
-Width: 548
+Width: 553
 VWidth: 0
-Flags: W
-HStem: 0 21G<80 153 406.506 493> 258 69<153 304.626> 598 69<153 353.498>
-VStem: 80 73<0 258 327 598> 408 74<379.345 544.337>
-AnchorPoint: "Center" 0 0 basechar 0
-AnchorPoint: "Bottom" 282 0 basechar 0
-AnchorPoint: "Top" 260 730 basechar 0
+Flags: HW
+HStem: 0 21G<85 158 411.506 498> 258 69<158 309.626> 598 69<158 358.498>
+VStem: 85 73<0 258 327 598> 413 74<379.345 544.337>
+AnchorPoint: "Center" 5 0 basechar 0
+AnchorPoint: "Bottom" 287 0 basechar 0
+AnchorPoint: "Top" 265 730 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-80 667 m 1
- 282 667 l 0
- 388 667 482 602 482 462 c 0
- 482 367 437 306 375 277 c 1
- 493 0 l 1
- 415 0 l 1
- 305 259 l 1
- 297 258 290 258 282 258 c 2
- 153 258 l 1
- 153 0 l 1
- 80 0 l 1
- 80 667 l 1
-153 598 m 1
- 153 327 l 1
- 282 327 l 2
- 351 327 408 371 408 462 c 0
- 408 554 352 598 282 598 c 2
- 153 598 l 1
+85 667 m 1
+ 287 667 l 0
+ 393 667 487 602 487 462 c 0
+ 487 367 442 306 380 277 c 1
+ 498 0 l 1
+ 420 0 l 1
+ 310 259 l 1
+ 302 258 295 258 287 258 c 2
+ 158 258 l 1
+ 158 0 l 1
+ 85 0 l 1
+ 85 667 l 1
+158 598 m 1
+ 158 327 l 1
+ 287 327 l 2
+ 356 327 413 371 413 462 c 0
+ 413 554 357 598 287 598 c 2
+ 158 598 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

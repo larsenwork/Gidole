@@ -24,7 +24,10 @@ BLack       900		148/140 pt
 **Don't use build function on these**
 * L caron
 * l caron
-* l dot
+* L middle dot
+* l middle dot
+* iogonek
+* tdotbelow
 * only an the letter glyphs - e.g. not accents, space characters etc.
 
 **Creating the _circle_**

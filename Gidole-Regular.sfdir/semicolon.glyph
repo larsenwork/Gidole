@@ -1,8 +1,8 @@
 StartChar: semicolon
 Encoding: 59 59 40
-Width: 214
+Width: 213
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 283 102<63.2266 148.773>
 VStem: 56 102<2.13565 87.877 291.898 376.102>
 LayerCount: 4
@@ -23,7 +23,6 @@ SplineSet
  76 283 55 304 55 334 c 0
  55 364 76 385 106 385 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar
