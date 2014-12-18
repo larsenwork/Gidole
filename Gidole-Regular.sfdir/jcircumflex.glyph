@@ -1,5 +1,5 @@
 StartChar: jcircumflex
-Encoding: 500 309 244
+Encoding: 309 309 244
 Width: 222
 VWidth: 0
 HStem: -190 62<0 68.3464> 543 131
@@ -8,7 +8,7 @@ LayerCount: 4
 Back
 Fore
 Refer: 143 710 N 1 0 0 1 -114 26 2
-Refer: 440 567 N 1 0 0 1 0 0 3
+Refer: 436 567 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2
 Layer: 3

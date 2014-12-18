@@ -1,8 +1,8 @@
 StartChar: g
-Encoding: 315 103 59
+Encoding: 103 103 59
 Width: 508
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -191 66<144.404 310.446> -6 66<176.684 314.665> 417 66<176.684 314.665>
 VStem: 50 70<120.572 355.551> 370 68<-63.8752 59 118.213 358.524 417 477>
 AnchorPoint: "Center" 0 0 basechar 0

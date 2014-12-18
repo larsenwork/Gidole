@@ -1,5 +1,5 @@
 StartChar: Ugrave
-Encoding: 423 217 167
+Encoding: 217 217 167
 Width: 570
 VWidth: 0
 HStem: -6 70<206.534 363.466> 647 20<70 144 426 500> 730 131
@@ -7,7 +7,7 @@ VStem: 70 74<129.695 667> 178 172 426 74<129.695 667>
 LayerCount: 4
 Back
 Fore
-Refer: 438 768 N 1 0 0 1 98 213 2
+Refer: 434 768 N 1 0 0 1 98 213 2
 Refer: 24 85 N 1 0 0 1 0 0 3
 Layer: 2
 Layer: 3

@@ -1,5 +1,5 @@
 StartChar: aogonek
-Encoding: 632 261 376
+Encoding: 261 261 372
 Width: 483
 VWidth: 0
 Flags: W
@@ -8,7 +8,7 @@ VStem: 60 69<87.2396 197.547> 313 50<-142.413 -37.2377> 350 68<0 59 117.918 231.
 LayerCount: 4
 Back
 Fore
-Refer: 399 731 N 1 0 0 1 213 0 2
+Refer: 395 731 N 1 0 0 1 213 0 2
 Refer: 47 97 N 1 0 0 1 0 0 3
 Validated: 5
 Layer: 2
