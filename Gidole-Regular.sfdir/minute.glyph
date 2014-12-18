@@ -1,0 +1,19 @@
+StartChar: minute
+Encoding: 8242 8242 439
+Width: 416
+Flags: W
+HStem: 456 211
+VStem: 90 236
+LayerCount: 4
+Back
+Fore
+SplineSet
+244 667 m 1
+ 326 667 l 1
+ 161 456 l 1
+ 90 456 l 1
+ 244 667 l 1
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar
