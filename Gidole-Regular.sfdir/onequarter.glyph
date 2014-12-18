@@ -2,7 +2,7 @@ StartChar: onequarter
 Encoding: 188 188 363
 Width: 704
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 21G<132 216.795 531 589> 68 57<487 531 589 612> 647 20G<122.476 214 481.205 566>
 VStem: 152 62<376 597> 531 58<0 68 125 173>
 LayerCount: 4
