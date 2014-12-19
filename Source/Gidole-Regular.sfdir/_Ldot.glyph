@@ -1,0 +1,15 @@
+StartChar: Ldot
+Encoding: 309 319 253
+Width: 520
+VWidth: 0
+Flags: W
+HStem: 0 70<159 465> 283 102<256.227 341.773> 647 20<85 159>
+VStem: 85 74<70 667> 248 102<291.227 376.773>
+LayerCount: 4
+Back
+Fore
+Refer: 100 183 N 1 0 0 1 168 84 2
+Refer: 23 76 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

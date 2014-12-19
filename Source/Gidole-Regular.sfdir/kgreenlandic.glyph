@@ -1,0 +1,28 @@
+StartChar: kgreenlandic
+Encoding: 483 312 432
+Width: 467
+VWidth: 0
+Flags: W
+HStem: 0 21G<75 143 332.132 427>
+VStem: 75 68<0 137 228 477>
+LayerCount: 4
+Back
+Fore
+SplineSet
+75 477 m 1
+ 143 477 l 1
+ 143 228 l 1
+ 330 477 l 1
+ 412 477 l 1
+ 245 260 l 1
+ 427 0 l 1
+ 346 0 l 1
+ 199 212 l 1
+ 143 137 l 1
+ 143 0 l 1
+ 75 0 l 1
+ 75 477 l 1
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

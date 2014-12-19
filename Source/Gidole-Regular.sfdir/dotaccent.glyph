@@ -1,0 +1,22 @@
+StartChar: dotaccent
+Encoding: 250 729 196
+Width: 194
+VWidth: 0
+Flags: W
+HStem: 511 94<56.5618 137.671>
+VStem: 50 94<517.897 598.103>
+AnchorPoint: "Bottom" 97 668 mark 0
+AnchorPoint: "Top" 97.5 517 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+97 605 m 0
+ 125 605 144 586 144 558 c 0
+ 144 530 125 511 97 511 c 0
+ 70 511 50 530 50 558 c 0
+ 50 586 70 605 97 605 c 0
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

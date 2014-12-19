@@ -1,0 +1,24 @@
+StartChar: v
+Encoding: 118 118 45
+Width: 507
+Flags: W
+HStem: 0 21G<215.117 291.883>
+AnchorPoint: "Bottom" 5 0 basechar 0
+AnchorPoint: "Center" 5 0 basechar 0
+AnchorPoint: "Top" 253.5 546 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+35 477 m 1
+ 109 477 l 1
+ 254 90 l 1
+ 398 477 l 1
+ 472 477 l 1
+ 284 0 l 1
+ 223 0 l 1
+ 35 477 l 1
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

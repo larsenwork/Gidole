@@ -1,0 +1,21 @@
+StartChar: periodcentered
+Encoding: 225 183 100
+Width: 262
+VWidth: 0
+Flags: W
+HStem: 199 102<88.2266 173.773>
+VStem: 80 102<207.227 292.773>
+AnchorPoint: "Center" 132 250 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+131 301 m 4
+ 161 301 182 280 182 250 c 4
+ 182 220 161 199 131 199 c 4
+ 101 199 80 220 80 250 c 4
+ 80 280 101 301 131 301 c 4
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

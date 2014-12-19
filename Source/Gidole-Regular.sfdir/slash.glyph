@@ -1,0 +1,19 @@
+StartChar: slash
+Encoding: 47 47 73
+Width: 322
+VWidth: 0
+Flags: W
+VStem: 10 302
+LayerCount: 4
+Back
+Fore
+SplineSet
+250 797 m 1
+ 312 797 l 1
+ 72 -130 l 1
+ 10 -130 l 1
+ 250 797 l 1
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

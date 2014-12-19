@@ -1,0 +1,34 @@
+StartChar: pi
+Encoding: 185 960 423
+Width: 540
+VWidth: 0
+Flags: W
+HStem: -6 66<441.654 490> 411 66<50 480>
+VStem: 110 70<0 477> 360 70<72.4111 477>
+LayerCount: 4
+Back
+Fore
+SplineSet
+50 477 m 1
+ 480 477 l 1
+ 480 411 l 1
+ 50 411 l 1
+ 50 477 l 1
+180 477 m 1
+ 180 0 l 1
+ 110 0 l 1
+ 110 477 l 1
+ 180 477 l 1
+430 124 m 2
+ 430 79 455 60 480 60 c 2
+ 490 60 l 1
+ 490 -6 l 1
+ 480 -6 l 2
+ 421 -6 360 35 360 124 c 2
+ 360 477 l 1
+ 430 477 l 1
+ 430 124 l 2
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

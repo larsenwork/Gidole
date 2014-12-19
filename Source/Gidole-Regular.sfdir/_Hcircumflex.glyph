@@ -1,0 +1,15 @@
+StartChar: Hcircumflex
+Encoding: 290 292 234
+Width: 610
+VWidth: 0
+Flags: W
+HStem: 0 21<85 159 451 525> 308 70<159 451> 647 20<85 159 451 525> 730 131
+VStem: 85 74<0 308 378 667> 156 298 451 74<0 308 378 667>
+LayerCount: 4
+Back
+Fore
+Refer: 143 710 N 1 0 0 1 106 213 2
+Refer: 20 72 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

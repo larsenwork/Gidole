@@ -1,0 +1,33 @@
+StartChar: f
+Encoding: 102 102 60
+Width: 350
+VWidth: 0
+Flags: W
+HStem: 0 21G<105 175> 416 61<45 105 175 285> 595 62<186.654 305>
+VStem: 105 70<0 416 477 584.561>
+LayerCount: 4
+Back
+Fore
+SplineSet
+45 477 m 1
+ 105 477 l 1
+ 105 527 l 2
+ 105 616 166 657 225 657 c 2
+ 305 657 l 1
+ 305 595 l 1
+ 225 595 l 2
+ 200 595 175 575 175 527 c 2
+ 175 477 l 1
+ 285 477 l 1
+ 285 416 l 1
+ 175 416 l 1
+ 175 0 l 1
+ 105 0 l 1
+ 105 416 l 1
+ 45 416 l 1
+ 45 477 l 1
+EndSplineSet
+Layer: 2
+Layer: 3
+Substitution2: "'salt' Stylistic Alternatives lookup 0-1" f.alt
+EndChar

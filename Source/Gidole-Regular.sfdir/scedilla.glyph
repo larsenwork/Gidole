@@ -1,0 +1,15 @@
+StartChar: scedilla
+Encoding: 334 351 278
+Width: 436
+VWidth: 0
+Flags: W
+HStem: -200 55<87.8142 249.654> -6 65<122.404 294.279> 418 65<142.867 305.42>
+VStem: 50 70<303.738 395.448> 252.714 58<-138.403 -84.8355> 316 70<82.2751 178.444>
+LayerCount: 4
+Back
+Fore
+Refer: 190 184 N 1 0 0 1 18.7139 0 2
+Refer: 48 115 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

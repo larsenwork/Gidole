@@ -1,0 +1,15 @@
+StartChar: Wacute
+Encoding: 396 7810 340
+Width: 802
+VWidth: 0
+Flags: W
+HStem: 0 21<213.483 291 513 589.487> 647 20<35 115.035 686.991 767> 730 131
+VStem: 35 75<641.625 667> 336 172 692 75<641.486 667>
+LayerCount: 4
+Back
+Fore
+Refer: 435 769 N 1 0 0 1 286 213 2
+Refer: 26 87 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

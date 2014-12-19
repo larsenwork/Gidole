@@ -1,0 +1,26 @@
+StartChar: dieresis
+Encoding: 172 168 131
+Width: 374
+VWidth: 0
+Flags: W
+HStem: 511 94<56.3292 137.671 236.329 317.671>
+VStem: 50 94<517.329 598.671> 230 94<517.329 598.671>
+AnchorPoint: "Top" 187 517 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+277 605 m 0
+ 305 605 324 586 324 558 c 0
+ 324 530 305 511 277 511 c 0
+ 249 511 230 530 230 558 c 0
+ 230 586 249 605 277 605 c 0
+97 605 m 0
+ 125 605 144 586 144 558 c 0
+ 144 530 125 511 97 511 c 0
+ 69 511 50 530 50 558 c 0
+ 50 586 69 605 97 605 c 0
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

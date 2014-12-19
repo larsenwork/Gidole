@@ -1,0 +1,29 @@
+StartChar: z
+Encoding: 122 122 71
+Width: 430
+VWidth: 0
+Flags: W
+HStem: 0 66<141 375> 411 66<55 289>
+VStem: 55 320<0 50 427 477>
+AnchorPoint: "Center" 10 0 basechar 0
+AnchorPoint: "Bottom" 217 0 basechar 0
+AnchorPoint: "Top" 215 546 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+55 477 m 1
+ 375 477 l 1
+ 375 427 l 1
+ 141 66 l 1
+ 375 66 l 1
+ 375 0 l 1
+ 55 0 l 1
+ 55 50 l 1
+ 289 411 l 1
+ 55 411 l 1
+ 55 477 l 1
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,15 @@
+StartChar: ycircumflex
+Encoding: 256 375 200
+Width: 530
+VWidth: 0
+Flags: W
+HStem: 546 131
+VStem: 116 298
+LayerCount: 4
+Back
+Fore
+Refer: 143 710 N 1 0 0 1 66 29 2
+Refer: 70 121 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

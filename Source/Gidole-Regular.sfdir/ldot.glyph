@@ -1,0 +1,25 @@
+StartChar: ldot
+Encoding: 310 320 254
+Width: 354
+VWidth: 0
+Flags: W
+HStem: 0 21G<75 145> 282 102<210.227 295.773> 647 20G<75 145>
+VStem: 75 70<0 667> 202 102<290.227 375.773>
+LayerCount: 4
+Back
+Fore
+SplineSet
+75 667 m 1
+ 145 667 l 1
+ 145 0 l 1
+ 75 0 l 1
+ 75 667 l 1
+253 384 m 0
+ 283 384 304 363 304 333 c 0
+ 304 303 283 282 253 282 c 0
+ 223 282 202 303 202 333 c 0
+ 202 363 223 384 253 384 c 0
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

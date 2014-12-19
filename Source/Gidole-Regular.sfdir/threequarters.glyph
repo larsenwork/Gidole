@@ -1,0 +1,20 @@
+StartChar: threequarters
+Encoding: 419 190 365
+Width: 521
+VWidth: 0
+Flags: W
+HStem: 147 370<87 395>
+VStem: 87 308<147 517>
+LayerCount: 4
+Back
+Fore
+SplineSet
+87 517 m 1
+ 395 517 l 1
+ 395 147 l 1
+ 87 147 l 1
+ 87 517 l 1
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

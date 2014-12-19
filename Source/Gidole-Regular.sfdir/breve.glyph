@@ -1,0 +1,23 @@
+StartChar: breve
+Encoding: 249 728 194
+Width: 378
+VWidth: 0
+Flags: W
+HStem: 509 50<128.078 250.137>
+VStem: 50 48<588.548 648> 281 47<589.005 648>
+AnchorPoint: "Top" 189 517 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+50 648 m 0
+ 98 648 l 0
+ 98 597 134 559 189 559 c 0
+ 244 559 281 597 281 648 c 0
+ 328 648 l 0
+ 328 566 266 509 189 509 c 0
+ 112 509 50 566 50 648 c 0
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

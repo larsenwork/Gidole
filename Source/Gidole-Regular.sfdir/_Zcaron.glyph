@@ -1,0 +1,15 @@
+StartChar: Zcaron
+Encoding: 356 381 300
+Width: 540
+VWidth: 0
+Flags: W
+HStem: 0 70<147 480> 597 70<70 382> 730 131
+VStem: 121 298
+LayerCount: 4
+Back
+Fore
+Refer: 198 711 N 1 0 0 1 71 213 2
+Refer: 38 90 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

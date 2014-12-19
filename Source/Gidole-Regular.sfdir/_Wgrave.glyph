@@ -1,0 +1,15 @@
+StartChar: Wgrave
+Encoding: 394 7808 338
+Width: 802
+VWidth: 0
+Flags: W
+HStem: 0 21<213.483 291 513 589.487> 647 20<35 115.035 686.991 767> 730 131
+VStem: 35 75<641.625 667> 294 172 692 75<641.486 667>
+LayerCount: 4
+Back
+Fore
+Refer: 434 768 N 1 0 0 1 244 213 2
+Refer: 26 87 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

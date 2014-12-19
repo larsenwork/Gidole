@@ -1,0 +1,37 @@
+StartChar: d
+Encoding: 100 100 49
+Width: 518
+VWidth: 0
+Flags: W
+HStem: -6 66<181.584 319.665> 417 66<181.584 319.665> 647 20G<375 443>
+VStem: 55 70<120.972 355.551> 375 68<0 59 118.213 358.524 417 667>
+AnchorPoint: "Top" 5 0 basechar 0
+AnchorPoint: "Center" 5 0 basechar 0
+AnchorPoint: "Bottom" 545 736 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+375 667 m 1
+ 443 667 l 1
+ 443 0 l 1
+ 375 0 l 1
+ 375 59 l 1
+ 343 15 294 -6 240 -6 c 4
+ 153 -6 55 61 55 204 c 2
+ 55 272 l 2
+ 55 416 153 483 240 483 c 4
+ 294 483 343 461 375 417 c 1
+ 375 667 l 1
+250 417 m 0
+ 188 417 125 371 125 273 c 2
+ 125 204 l 2
+ 125 106 188 60 250 60 c 0
+ 312 60 375 106 375 204 c 2
+ 375 272 l 2
+ 375 371 312 417 250 417 c 0
+EndSplineSet
+Layer: 2
+Layer: 3
+Substitution2: "'salt' Stylistic Alternatives lookup 0-1" d.alt
+EndChar

@@ -1,0 +1,26 @@
+StartChar: F
+Encoding: 70 70 19
+Width: 504
+VWidth: 0
+Flags: W
+HStem: 0 21G<85 159> 308 70<159 394> 597 70<159 444>
+VStem: 85 74<0 308 378 597>
+LayerCount: 4
+Back
+Fore
+SplineSet
+85 667 m 1
+ 444 667 l 1
+ 444 597 l 1
+ 159 597 l 1
+ 159 378 l 1
+ 394 378 l 1
+ 394 308 l 1
+ 159 308 l 1
+ 159 0 l 1
+ 85 0 l 1
+ 85 667 l 1
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

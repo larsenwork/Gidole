@@ -1,0 +1,44 @@
+StartChar: k.alt
+Encoding: 497 57352 457
+Width: 467
+VWidth: 0
+Flags: W
+HStem: 0 21G<75 143 332.182 427> 220 60<143 179> 647 20G<75 143>
+VStem: 75 68<0 220 280 667>
+LayerCount: 4
+Back
+SplineSet
+75 667 m 1
+ 143 667 l 1
+ 143 228 l 1
+ 330 477 l 5
+ 412 477 l 5
+ 245 260 l 1
+ 427 0 l 5
+ 346 0 l 5
+ 199 212 l 1
+ 143 137 l 1
+ 143 0 l 1
+ 75 0 l 1
+ 75 667 l 1
+EndSplineSet
+Fore
+SplineSet
+427 0 m 1
+ 346 0 l 1
+ 194 220 l 17
+ 143 220 l 1
+ 143 0 l 1
+ 75 0 l 1
+ 75 667 l 1
+ 143 667 l 1
+ 143 280 l 1
+ 143 280 179 280 179 280 c 1
+ 330 477 l 1
+ 412 477 l 1
+ 243.452148438 261.435546875 l 1
+ 427 0 l 1
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

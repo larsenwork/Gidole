@@ -1,0 +1,28 @@
+StartChar: t.alt
+Encoding: 503 57366 463
+Width: 350
+VWidth: 0
+Flags: W
+HStem: 0 62<156.654 195>
+VStem: 75 70<72.4387 130>
+LayerCount: 4
+Back
+Fore
+SplineSet
+75 130 m 2
+ 75 41 136 0 195 0 c 2
+ 295 0 l 1
+ 295 62 l 1
+ 195 62 l 2
+ 170 62 145 82 145 130 c 2
+ 145 416 l 1
+ 275 416 l 1
+ 275 477 l 1
+ 145 477 l 1
+ 145 607 l 5
+ 75 607 l 29
+ 75 130 l 2
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

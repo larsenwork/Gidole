@@ -1,0 +1,28 @@
+StartChar: h.alt
+Encoding: 496 57351 456
+Width: 520
+VWidth: 0
+Flags: W
+HStem: 0 21G<75 145 385 455> 411 66<145 335.291> 647 20G<75 145>
+VStem: 75 70<0 411 477 667> 385 70<0 355.55>
+LayerCount: 4
+Back
+Fore
+SplineSet
+270 477 m 4
+ 366 477 455 411 455 267 c 2
+ 455 0 l 1
+ 385 0 l 1
+ 385 266 l 2
+ 385 365 332 411 270 411 c 0
+ 208 411 199 411 145 411 c 9
+ 145 0 l 1
+ 75 0 l 1
+ 75 667 l 1
+ 145 667 l 1
+ 145 477 l 1
+ 190 477 216 477 270 477 c 4
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar
