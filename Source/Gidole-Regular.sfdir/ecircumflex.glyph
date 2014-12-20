@@ -2,7 +2,7 @@ StartChar: ecircumflex
 Encoding: 144 234 154
 Width: 506
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -6 65<184.905 357.992> 218 64<126 380> 419 64<181.06 324.119> 546 131
 VStem: 58 68<120.972 218 282 360.69> 104 298 380 68<282 359.719>
 LayerCount: 4

@@ -64,13 +64,35 @@ Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kernin
 Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 0" { "'mark' Mark Positioning in Latin lookup 0-1"  } []
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 4 3 "'kern' Horizontal Kerning lookup 0-1"
+KernClass2: 16 13 "'kern' Horizontal Kerning lookup 0-1"
  1 c
- 1 b
- 0 
- 405 ampersand six c d e g o q ccedilla eacute egrave ecircumflex edieresis oacute ograve ocircumflex odieresis otilde cent cacute ccircumflex cdotaccent ccaron dcaron emacron ebreve edotaccent ecaron gcircumflex gbreve gdotaccent omacron obreve ohungarumlaut uni01F5 uni0207 uni020F uni1E0D uni1EB9 uni1EBD uni1ECD eth eogonek dcroat uni0123 uni0205 uni0259 alpha uni020D uni01EB c.alt d.alt e.alt g.alt q.alt
+ 263 b e o p eacute egrave ecircumflex edieresis oacute ograve ocircumflex odieresis otilde oe emacron ebreve edotaccent ecaron omacron obreve ohungarumlaut aeacute uni0207 uni020F uni1EB9 uni1EBD uni1ECD thorn eogonek uni0205 uni0259 uni020D uni01EB b.alt e.alt p.alt
+ 3 K X
+ 100 A Adieresis Aring Agrave Atilde Acircumflex Aacute Amacron Abreve Aringacute uni0202 Aogonek uni0200
+ 32 T uni0162 Tcaron uni021A uni1E6C
+ 8 f florin
+ 17 k x uni0137 k.alt
+ 9 v y gamma
+ 35 Y Ycircumflex Yacute Ygrave uni1EF8
+ 1 w
+ 60 comma period underscore ellipsis quotesinglbase quotedblbase
+ 1 V
+ 3 D O
+ 1 W
+ 1 L
+ 77 c d e o q ccedilla oe uni1ECD eogonek uni01F3 alpha uni01EB c.alt e.alt q.alt
  1 x
- 0 {} 0 {} 0 {} 0 {} -53 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {}
+ 9 v y gamma
+ 25 T uni0162 uni021A uni1E6C
+ 37 W Wcircumflex Wgrave Wacute Wdieresis
+ 1 V
+ 35 Y Ycircumflex Yacute Ygrave uni1EF8
+ 17 m n r m.alt n.alt
+ 1 w
+ 100 A Adieresis Aring Agrave Atilde Acircumflex Aacute Amacron Abreve Aringacute uni0202 Aogonek uni0200
+ 60 comma period underscore ellipsis quotesinglbase quotedblbase
+ 7 C G O Q
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} -110 {} -20 {} -40 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -30 {} -130 {} -30 {} -50 {} -90 {} 0 {} -20 {} -30 {} -10 {} 0 {} 0 {} -60 {} 15 {} -80 {} 0 {} 15 {} 15 {} 15 {} 0 {} -70 {} 15 {} 15 {} -50 {} 0 {} -30 {} 10 {} -90 {} -120 {} -90 {} -120 {} -130 {} 0 {} -80 {} 15 {} 20 {} -30 {} 0 {} -130 {} -110 {} -120 {} 20 {} 0 {} 0 {} 15 {} -90 {} -110 {} -120 {} -90 {} -10 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 0 {} -70 {} -100 {} -10 {} 0 {} -40 {} 0 {} 0 {} -110 {} -10 {} -20 {} -50 {} 0 {} 15 {} 15 {} 15 {} 0 {} 0 {} -30 {} 15 {} 15 {} -120 {} 0 {} -10 {} -20 {} 0 {} 15 {} -90 {} -100 {} 0 {} 0 {} -90 {} -50 {} -20 {} 15 {} 15 {} 15 {} 15 {} -40 {} 0 {} -130 {} -120 {} -30 {} 0 {} -20 {} 15 {} 15 {} -110 {} 0 {} -10 {} -20 {} 0 {} 15 {} -70 {} -90 {} 0 {} 0 {} -10 {} 10 {} -100 {} -90 {} -80 {} -90 {} -120 {} 0 {} -90 {} 20 {} 0 {} -30 {} 0 {} -60 {} -20 {} -10 {} 15 {} 15 {} 15 {} 15 {} -30 {} -10 {} -120 {} -90 {} -20 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} -20 {} -30 {} 0 {} 0 {} -30 {} -30 {} 0 {} 0 {} -50 {} -10 {} 0 {} 15 {} 15 {} 15 {} 15 {} -20 {} 0 {} -110 {} -80 {} -10 {} 0 {} -20 {} 10 {} -90 {} -140 {} -100 {} -110 {} -130 {} 0 {} -80 {} 15 {} 30 {} -20 {}
 LangName: 1033 "" "" "" "Andreas Larsen : Gidole Regular : 8-12-2014"
 Encoding: Mac
 UnicodeInterp: none
