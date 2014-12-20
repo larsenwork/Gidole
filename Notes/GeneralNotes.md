@@ -18,20 +18,24 @@ BLack       900		148/140 pt
 ```
 
 **Missing glyphs**
-* Some small greek ones (currently a 
+* Some small greek ones
 * Some fractions
-
-**Don't use build function on these**
-* L caron
-* l caron
-* L middle dot
-* l middle dot
-* iogonek
-* tdotbelow
-* only an the letter glyphs - e.g. not accents, space characters etc.
 
 **Creating the _circle_**
 ```
 965 circle +100 -40
 8 circle 430*364 -> 390*384
+```
+
+**Still...**
+```
+ldot
+napostrophe
+```
+
+**Creating the fractions**
+```
+Scale 58%
+Weight 15 em
+Simplify more 3em
 ```

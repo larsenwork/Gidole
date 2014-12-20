@@ -5,7 +5,8 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<75 145> 647 20G<75 145>
 VStem: 75 70<0 667>
-AnchorPoint: "Center" 260 334 basechar 0
+AnchorPoint: "Center" 146 334 basechar 0
+AnchorPoint: "Apos" 209 667 basechar 0
 AnchorPoint: "Bottom" 114 0 basechar 0
 AnchorPoint: "Top" 110 730 basechar 0
 LayerCount: 4

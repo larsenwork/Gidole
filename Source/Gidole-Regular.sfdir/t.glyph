@@ -5,6 +5,7 @@ VWidth: 0
 Flags: W
 HStem: 0 66<186.654 305> 415 62<45 105 175 285>
 VStem: 105 70<78.4111 415 477 581>
+AnchorPoint: "Apos" 286 667 basechar 0
 AnchorPoint: "Top" -5 0 basechar 0
 AnchorPoint: "Center" -5 0 basechar 0
 AnchorPoint: "Bottom" 214 0 basechar 0
