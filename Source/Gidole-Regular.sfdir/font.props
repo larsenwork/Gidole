@@ -24,7 +24,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1419092740
+ModificationTime: 1419108121
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -36,13 +36,13 @@ OS2TypoAOffset: 0
 OS2TypoDescent: -200
 OS2TypoDOffset: 0
 OS2TypoLinegap: 200
-OS2WinAscent: 800
+OS2WinAscent: 667
 OS2WinAOffset: 0
-OS2WinDescent: -200
+OS2WinDescent: 200
 OS2WinDOffset: 0
 HheadAscent: 800
 HheadAOffset: 0
-HheadDescent: -200
+HheadDescent: 200
 HheadDOffset: 0
 OS2SubXSize: 650
 OS2SubYSize: 700
@@ -59,19 +59,27 @@ OS2XHeight: 467
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 00000001.00000000.00000000.00000000
-Lookup: 1 0 0 "'salt' Stylistic Alternatives lookup 0" { "'salt' Stylistic Alternatives lookup 0-1"  "'salt' Stylistic Alternatives lookup 0-2"  } ['salt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'salt' Stylistic Alternatives lookup 0" { "'salt' Stylistic Alternatives lookup 0-1"  } ['salt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0-1" [150,15,4] } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 0" { "'mark' Mark Positioning in Latin lookup 0-1"  } []
 MarkAttachClasses: 1
 DEI: 91125
+KernClass2: 4 3 "'kern' Horizontal Kerning lookup 0-1"
+ 1 c
+ 1 b
+ 0 
+ 405 ampersand six c d e g o q ccedilla eacute egrave ecircumflex edieresis oacute ograve ocircumflex odieresis otilde cent cacute ccircumflex cdotaccent ccaron dcaron emacron ebreve edotaccent ecaron gcircumflex gbreve gdotaccent omacron obreve ohungarumlaut uni01F5 uni0207 uni020F uni1E0D uni1EB9 uni1EBD uni1ECD eth eogonek dcroat uni0123 uni0205 uni0259 alpha uni020D uni01EB c.alt d.alt e.alt g.alt q.alt
+ 1 x
+ 0 {} 0 {} 0 {} 0 {} -53 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {}
 LangName: 1033 "" "" "" "Andreas Larsen : Gidole Regular : 8-12-2014"
-Encoding: mac
+Encoding: Mac
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 322 14 10
+WinInfo: 56 14 10
 BeginPrivate: 6
 BlueValues 15 [-20 0 667 673]
 BlueShift 1 0
@@ -98,5 +106,5 @@ Grid
  2000 250 l 1024
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 500171 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "Apos" "'mark' Mark Positioning in Latin lookup 0-1" "Center" "'mark' Mark Positioning in Latin lookup 0-1" "center" "" "AA" "" "Bottom" "'mark' Mark Positioning in Latin lookup 0-1" "Top" "'mark' Mark Positioning in Latin lookup 0-1" "bottom dia" "" "top dia" "" 
+AnchorClass2: "Apos" "'mark' Mark Positioning in Latin lookup 0-1" "Center" "'mark' Mark Positioning in Latin lookup 0-1" "Bottom" "'mark' Mark Positioning in Latin lookup 0-1" "Top" "'mark' Mark Positioning in Latin lookup 0-1" 
 EndSplineFont
