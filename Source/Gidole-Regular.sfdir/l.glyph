@@ -8,7 +8,7 @@ VStem: 75 70<0 667>
 AnchorPoint: "Center" 146 334 basechar 0
 AnchorPoint: "Apos" 209 667 basechar 0
 AnchorPoint: "Bottom" 114 0 basechar 0
-AnchorPoint: "Top" 110 730 basechar 0
+AnchorPoint: "Top" 110 667 basechar 0
 LayerCount: 4
 Back
 Fore

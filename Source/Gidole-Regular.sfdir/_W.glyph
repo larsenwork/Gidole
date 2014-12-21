@@ -7,7 +7,7 @@ HStem: 0 21G<213.483 291 513 589.487> 647 20G<35 115.035 686.991 767>
 VStem: 35 75<641.625 667> 692 75<641.486 667>
 AnchorPoint: "Bottom" 10 0 basechar 0
 AnchorPoint: "Center" 10 0 basechar 0
-AnchorPoint: "Top" 401 730 basechar 0
+AnchorPoint: "Top" 401 667 basechar 0
 LayerCount: 4
 Back
 Fore

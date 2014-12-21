@@ -1,19 +1,19 @@
 StartChar: grave
 Encoding: 96 96 111
-Width: 273
+Width: 252
 Flags: W
-HStem: 517 150
-VStem: 50 173
-AnchorPoint: "Top" 167 517 mark 0
+HStem: 546 121
+VStem: 50 152
+AnchorPoint: "Top" 156 477 mark 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-50 667 m 25
- 128 667 l 25
- 223 517 l 1
- 156 517 l 1
- 50 667 l 25
+50 667 m 29
+ 127 667 l 29
+ 202 546 l 5
+ 136 546 l 5
+ 50 667 l 29
 EndSplineSet
 Layer: 2
 Layer: 3

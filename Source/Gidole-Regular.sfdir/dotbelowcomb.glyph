@@ -1,20 +1,20 @@
 StartChar: dotbelowcomb
-Encoding: 547 803 486
+Encoding: 547 803 480
 Width: 202
 VWidth: 0
 Flags: W
-HStem: -6 102<58.2266 143.773>
-VStem: 50 102<2.22656 87.7734>
-AnchorPoint: "Bottom" 102 159 mark 0
+HStem: -187 102<58.2266 143.773>
+VStem: 50 102<-178.773 -93.2266>
+AnchorPoint: "Bottom" 102 0 mark 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-101 96 m 0
- 131 96 152 75 152 45 c 0
- 152 15 131 -6 101 -6 c 0
- 71 -6 50 15 50 45 c 0
- 50 75 71 96 101 96 c 0
+101 -85 m 4
+ 131 -85 152 -106 152 -136 c 4
+ 152 -166 131 -187 101 -187 c 4
+ 71 -187 50 -166 50 -136 c 4
+ 50 -106 71 -85 101 -85 c 4
 EndSplineSet
 Layer: 2
 Layer: 3

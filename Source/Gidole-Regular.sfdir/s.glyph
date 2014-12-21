@@ -7,7 +7,7 @@ HStem: -6 65<122.404 294.279> 418 65<142.867 305.42>
 VStem: 50 70<303.738 395.448> 316 70<82.2751 178.444>
 AnchorPoint: "Center" -5 0 basechar 0
 AnchorPoint: "Bottom" 213 0 basechar 0
-AnchorPoint: "Top" 213 546 basechar 0
+AnchorPoint: "Top" 213 477 basechar 0
 LayerCount: 4
 Back
 SplineSet

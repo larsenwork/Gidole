@@ -7,7 +7,7 @@ HStem: 0 66<141 375> 411 66<55 289>
 VStem: 55 320<0 50 427 477>
 AnchorPoint: "Center" 10 0 basechar 0
 AnchorPoint: "Bottom" 217 0 basechar 0
-AnchorPoint: "Top" 215 546 basechar 0
+AnchorPoint: "Top" 215 476 basechar 0
 LayerCount: 4
 Back
 Fore

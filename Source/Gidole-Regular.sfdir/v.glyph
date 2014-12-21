@@ -5,7 +5,7 @@ Flags: W
 HStem: 0 21G<215.117 291.883>
 AnchorPoint: "Bottom" 5 0 basechar 0
 AnchorPoint: "Center" 5 0 basechar 0
-AnchorPoint: "Top" 253.5 546 basechar 0
+AnchorPoint: "Top" 253.5 476 basechar 0
 LayerCount: 4
 Back
 Fore

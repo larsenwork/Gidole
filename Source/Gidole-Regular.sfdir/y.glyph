@@ -5,7 +5,7 @@ VWidth: 0
 Flags: W
 AnchorPoint: "Bottom" 5 0 basechar 0
 AnchorPoint: "Center" 5 0 basechar 0
-AnchorPoint: "Top" 265 546 basechar 0
+AnchorPoint: "Top" 265 476 basechar 0
 LayerCount: 4
 Back
 Fore

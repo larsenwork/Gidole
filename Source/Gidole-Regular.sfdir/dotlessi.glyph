@@ -5,17 +5,16 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<72 142>
 VStem: 72 70<0 477>
-AnchorPoint: "Center" 0 0 basechar 0
-AnchorPoint: "Bottom" 108 -6 basechar 0
-AnchorPoint: "Top" 107 546 basechar 0
+AnchorPoint: "Bottom" 107 0 basechar 0
+AnchorPoint: "Top" 107 477 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
 72 477 m 1
  142 477 l 1
- 142 0 l 1
- 72 0 l 1
+ 142 0 l 5
+ 72 0 l 5
  72 477 l 1
 EndSplineSet
 Layer: 2

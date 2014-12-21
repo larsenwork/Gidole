@@ -7,7 +7,7 @@ HStem: -6 70<204.775 375.225> 287 70<303 441> 603 70<204.775 382.942>
 VStem: 65 74<129.695 534.141> 441 74<129.695 287>
 AnchorPoint: "Center" 0 0 basechar 0
 AnchorPoint: "Bottom" 290 0 basechar 0
-AnchorPoint: "Top" 290 730 basechar 0
+AnchorPoint: "Top" 290 667 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -30,7 +30,6 @@ SplineSet
  515 357 l 1
  515 222 l 2
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 Substitution2: "'salt' Stylistic Alternatives lookup 0-1" G.alt

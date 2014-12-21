@@ -39,3 +39,6 @@ Scale 58%
 Weight 15 em
 Simplify more 3em
 ```
+
+**b letter**
+-10 horizontal, 15 horizontal, 2 vertical

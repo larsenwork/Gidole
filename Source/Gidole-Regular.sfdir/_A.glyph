@@ -3,9 +3,10 @@ Encoding: 65 65 13
 Width: 609
 Flags: W
 HStem: 0 21G<35 117.909 492.091 574> 165 70<190 419> 647 20G<265.864 344.106>
+AnchorPoint: "DoubleTop" 415 667 basechar 0
 AnchorPoint: "Center" 10 0 basechar 0
 AnchorPoint: "Bottom" 536 0 basechar 0
-AnchorPoint: "Top" 305 730 basechar 0
+AnchorPoint: "Top" 305 667 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -14,14 +15,14 @@ SplineSet
  337 667 l 1
  574 0 l 1
  499 0 l 1
- 442 165 l 5
- 168 165 l 5
+ 442 165 l 1
+ 168 165 l 1
  111 0 l 1
  35 0 l 1
  273 667 l 1
 305 571 m 1
- 190 235 l 5
- 419 235 l 5
+ 190 235 l 1
+ 419 235 l 1
  305 571 l 1
 EndSplineSet
 Layer: 2
