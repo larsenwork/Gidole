@@ -3,7 +3,6 @@ Encoding: 65 65 13
 Width: 609
 Flags: W
 HStem: 0 21G<35 117.909 492.091 574> 165 70<190 419> 647 20G<265.864 344.106>
-AnchorPoint: "DoubleTop" 415 667 basechar 0
 AnchorPoint: "Center" 10 0 basechar 0
 AnchorPoint: "Bottom" 536 0 basechar 0
 AnchorPoint: "Top" 305 667 basechar 0
