@@ -1,14 +1,14 @@
 StartChar: Ncaron
 Encoding: 315 327 259
-Width: 606
+Width: 610
 VWidth: 0
 Flags: W
-HStem: 0 21<85 157 446.423 521> 647 20<85 159.577 449 521> 736 121
-VStem: 85 72<0 520> 154 298 449 72<147 667>
+HStem: 0 21<85 159 448.423 525> 647 20<85 161.577 451 525> 736 121
+VStem: 85 74<0 520> 156 298 451 74<147 667>
 LayerCount: 4
 Back
 Fore
-Refer: 198 711 N 1 0 0 1 104 190 2
+Refer: 198 711 N 1 0 0 1 106 190 2
 Refer: 33 78 N 1 0 0 1 0 0 3
 Layer: 2
 Layer: 3

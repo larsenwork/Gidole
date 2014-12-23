@@ -40,5 +40,5 @@ Weight 15 em
 Simplify more 3em
 ```
 
-**b letter**
--10 horizontal, 15 horizontal, 2 vertical
+**Fake Weights**
+-10 em, LCG, serif height 667, fuzz 0, retain

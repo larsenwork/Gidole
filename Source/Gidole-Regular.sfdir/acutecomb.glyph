@@ -1,20 +1,19 @@
 StartChar: acutecomb
 Encoding: 486 769 429
-Width: 252
+Width: 257
 Flags: W
 HStem: 546 121
-VStem: 50 152
-AnchorPoint: "DoubleTop" 86 546 mark 0
-AnchorPoint: "Top" 96 477 mark 0
+VStem: 50 157
+AnchorPoint: "Top" 101 477 mark 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-202 667 m 25
- 116 546 l 5
- 50 546 l 5
+207 667 m 25
+ 121 546 l 1
+ 50 546 l 1
  125 667 l 25
- 202 667 l 25
+ 207 667 l 25
 EndSplineSet
 Layer: 2
 Layer: 3

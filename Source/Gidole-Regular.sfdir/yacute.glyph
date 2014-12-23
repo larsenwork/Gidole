@@ -4,11 +4,11 @@ Width: 530
 VWidth: 0
 Flags: W
 HStem: 545 121
-VStem: 219 152
+VStem: 214 157
 LayerCount: 4
 Back
 Fore
-Refer: 429 769 N 1 0 0 1 169 -1 2
+Refer: 429 769 N 1 0 0 1 164 -1 2
 Refer: 70 121 N 1 0 0 1 0 0 3
 Layer: 2
 Layer: 3

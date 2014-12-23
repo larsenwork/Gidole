@@ -1,24 +1,24 @@
 StartChar: uni030F
 Encoding: 469 783 411
-Width: 393
+Width: 403
 Flags: W
 HStem: 546 121
-VStem: 50 293
-AnchorPoint: "Top" 237 477 mark 0
+VStem: 50 303
+AnchorPoint: "Top" 242 477 mark 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-50 667 m 29
- 122 667 l 29
- 197 546 l 5
- 136 546 l 5
- 50 667 l 29
-196 667 m 29
- 268 667 l 29
- 343 546 l 5
- 282 546 l 5
- 196 667 l 29
+50 667 m 25
+ 127 667 l 25
+ 202 546 l 1
+ 136 546 l 1
+ 50 667 l 25
+201 667 m 25
+ 278 667 l 25
+ 353 546 l 1
+ 287 546 l 1
+ 201 667 l 25
 EndSplineSet
 Layer: 2
 Layer: 3
