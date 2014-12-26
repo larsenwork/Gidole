@@ -3,7 +3,7 @@ Gidole Sans Free Font
 
 ![Preview](https://github.com/gidole/sans/blob/master/Resources/Preview.png)
 
-* OFL license
+* [Read](https://github.com/gidole/sans/blob/master/Resources/License.txt) the Open Font License
 * Download the [ttf](https://github.com/gidole/sans/blob/master/Resources/Gidole-Regular.ttf?raw=true)
 
 
