@@ -42,3 +42,7 @@ Simplify more 3em
 
 **Fake Weights**
 -10 em, LCG, serif height 667, fuzz 0, retain
+
+**Correct corners**
+Uppercut+undercut + 10 handle
+Vertical +÷29 + 15 handle

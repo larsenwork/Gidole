@@ -21,12 +21,13 @@ SplineSet
  110 0 l 1
  110 411 l 1
  50 411 l 1
- 50 477 l 5
- 480 477 l 5
+ 50 477 l 1
+ 480 477 l 1
  480 411 l 1
  430 411 l 1
  430 124 l 2
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

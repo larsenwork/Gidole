@@ -1,10 +1,10 @@
 StartChar: J
 Encoding: 74 74 22
-Width: 491
+Width: 486
 VWidth: 0
 Flags: W
-HStem: -6 70<146.253 294.404> 647 20G<342 416>
-VStem: 342 74<117.367 667>
+HStem: -6 70<146.253 293.878> 647 20G<342 416>
+VStem: 342 74<111.847 667>
 AnchorPoint: "Center" 20 0 basechar 0
 AnchorPoint: "Bottom" 231 0 basechar 0
 AnchorPoint: "Top" 379 667 basechar 0
@@ -12,16 +12,19 @@ LayerCount: 4
 Back
 Fore
 SplineSet
-342 667 m 1
- 416 667 l 1
- 416 204 l 2
- 416 52 324 -6 221 -6 c 0
- 183 -6 100 3 55 77 c 1
- 110 121 l 1
- 146 69 193 64 221 64 c 0
- 278 64 342 92 342 204 c 2
- 342 667 l 1
+416 199 m 5
+ 416 181 416 166 413 149 c 4
+ 397 54 325 -6 221 -6 c 4
+ 183 -6 100 3 55 77 c 5
+ 110 121 l 5
+ 146 69 193 64 221 64 c 4
+ 282 64 324 97 337 149 c 4
+ 341 165 342 181 342 199 c 5
+ 342 667 l 5
+ 416 667 l 5
+ 416 199 l 5
 EndSplineSet
+Validated: 1048577
 Layer: 2
 SplineSet
 416 194 m 22

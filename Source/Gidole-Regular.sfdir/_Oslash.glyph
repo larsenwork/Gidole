@@ -38,7 +38,7 @@ SplineSet
  379 597 341 608 300 608 c 0
 160 36 m 1
  123 -27 l 1
- 60 -27 l 1
+ 60 -27 l 5
  117 73 l 1
  86 110 65 155 65 222 c 2
  65 446 l 2
@@ -58,6 +58,7 @@ SplineSet
  465 447 l 2
  465 479 457 509 447 531 c 1
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

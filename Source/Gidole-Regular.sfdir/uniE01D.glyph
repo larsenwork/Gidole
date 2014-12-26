@@ -1,19 +1,21 @@
 StartChar: uniE01D
 Encoding: 517 57373 471
-Width: 1000
+Width: 500
 VWidth: 0
 Flags: W
-VStem: 317 388<-28 517>
+HStem: 94 390<152.485 347.515>
+VStem: 55 390<191.485 386.515>
 LayerCount: 4
 Back
 Fore
 SplineSet
-317 517 m 1
- 705 517 l 1
- 705 -28 l 1
- 317 -28 l 1
- 317 517 l 1
+55 289 m 4
+ 55 407 132 484 250 484 c 4
+ 368 484 445 407 445 289 c 4
+ 445 171 368 94 250 94 c 4
+ 132 94 55 171 55 289 c 4
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

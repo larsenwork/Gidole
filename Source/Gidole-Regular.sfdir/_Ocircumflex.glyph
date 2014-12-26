@@ -2,14 +2,15 @@ StartChar: Ocircumflex
 Encoding: 239 212 145
 Width: 600
 VWidth: 0
-HStem: -6 70<203.821 396.179> 603 70<203.821 396.179> 736 121
-VStem: 65 74<126.32 540.68> 151 298 461 74<126.32 540.68>
+HStem: -6 70<198.809 401.284> 603 70<198.809 401.284> 736 121
+VStem: 65 74<126.192 540.808> 151 298 461 74<126.976 540.024>
 CounterMasks: 1 1c
 LayerCount: 4
 Back
 Fore
 Refer: 143 710 N 1 0 0 1 101 190 2
 Refer: 16 79 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

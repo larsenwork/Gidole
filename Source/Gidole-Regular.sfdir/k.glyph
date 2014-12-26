@@ -1,31 +1,32 @@
 StartChar: k
 Encoding: 107 107 68
-Width: 469
+Width: 459
 VWidth: 0
 Flags: W
-HStem: 0 21G<75 145 334.132 429> 647 20G<75 145>
-VStem: 75 70<0 137 228 667>
-AnchorPoint: "Top" 2 0 basechar 0
-AnchorPoint: "Center" 2 0 basechar 0
-AnchorPoint: "Bottom" 239 0 basechar 0
+HStem: 0 21G<65 135 324.132 419> 647 20G<65 135>
+VStem: 65 70<0 137 228 667>
+AnchorPoint: "Top" -8 0 basechar 0
+AnchorPoint: "Center" -8 0 basechar 0
+AnchorPoint: "Bottom" 229 0 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-75 667 m 1
- 145 667 l 1
- 145 228 l 1
- 332 477 l 1
- 414 477 l 1
- 247 260 l 1
- 429 0 l 1
- 348 0 l 1
- 201 212 l 1
- 145 137 l 1
- 145 0 l 1
- 75 0 l 1
- 75 667 l 1
+65 667 m 1
+ 135 667 l 1
+ 135 228 l 1
+ 322 477 l 1
+ 404 477 l 1
+ 237 260 l 1
+ 419 0 l 1
+ 338 0 l 1
+ 191 212 l 1
+ 135 137 l 1
+ 135 0 l 1
+ 65 0 l 1
+ 65 667 l 1
 EndSplineSet
+Validated: 1048577
 Layer: 2
 Layer: 3
 Substitution2: "'salt' Stylistic Alternatives lookup 0-1" k.alt

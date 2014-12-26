@@ -1,15 +1,16 @@
 StartChar: ydieresis
 Encoding: 216 255 132
-Width: 530
+Width: 520
 VWidth: 0
 Flags: W
-HStem: 549 94<134.329 215.671 314.329 395.671>
-VStem: 128 94<555.329 636.671> 308 94<555.329 636.671>
+HStem: 549 94<129.329 210.671 309.329 390.671>
+VStem: 123 94<555.329 636.671> 303 94<555.329 636.671>
 LayerCount: 4
 Back
 Fore
-Refer: 131 168 N 1 0 0 1 78 -1 2
+Refer: 131 168 N 1 0 0 1 73 -1 2
 Refer: 70 121 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

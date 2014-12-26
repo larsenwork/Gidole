@@ -50,6 +50,7 @@ SplineSet
  576 144 610 195 610 255 c 0
  610 315 576 366 526 366 c 0
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar
