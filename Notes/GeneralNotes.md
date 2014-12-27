@@ -27,12 +27,6 @@ BLack       900		148/140 pt
 8 circle 430*364 -> 390*384
 ```
 
-**Still...**
-```
-ldot
-napostrophe
-```
-
 **Creating the fractions**
 ```
 Scale 58%
@@ -45,4 +39,11 @@ Simplify more 3em
 
 **Correct corners**
 Uppercut+undercut + 10 handle
-Vertical +÷29 + 15 handle
+Vertical +÷30 + 15 handle
+
+or
+
+Uppercut+undercut + 5 handle
+Vertical +÷10 + 5 handle
+
+**b**

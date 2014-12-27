@@ -1,14 +1,14 @@
 StartChar: ygrave
 Encoding: 413 7923 351
-Width: 520
+Width: 477
 VWidth: 0
 Flags: W
 HStem: 545 121
-VStem: 154 157
+VStem: 132.5 157
 LayerCount: 4
 Back
 Fore
-Refer: 428 768 N 1 0 0 1 104 -1 2
+Refer: 428 768 N 1 0 0 1 82.5 -1 2
 Refer: 70 121 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2
