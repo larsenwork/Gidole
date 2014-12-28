@@ -5,6 +5,9 @@ VWidth: 0
 Flags: W
 HStem: -191 66<129.817 307.748> -6 66<169.828 311.316> 417 66<169.828 311.316>
 VStem: 55 70<105.716 371.284> 355 70<-75.7231 45.0527 105.642 371.358 431.947 477>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Center" 0 0 basechar 0
 AnchorPoint: "Bottom" 235 -185 basechar 0
 AnchorPoint: "Top" 230 477 basechar 0
 LayerCount: 4
@@ -48,7 +51,7 @@ SplineSet
  355 298.102539062 354.802734375 326.384765625 343.081054688 354 c 0
  326.259765625 393.627929688 291.67578125 417 240 417 c 0
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Layer: 2
 Layer: 3
 Substitution2: "'salt' Stylistic Alternatives lookup 0-1" g.alt

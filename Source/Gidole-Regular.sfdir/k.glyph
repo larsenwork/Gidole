@@ -5,6 +5,8 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<65 135 324.132 419> 647 20G<65 135>
 VStem: 65 70<0 137 228 667>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Top" -8 0 basechar 0
 AnchorPoint: "Center" -8 0 basechar 0
 AnchorPoint: "Bottom" 229 0 basechar 0
@@ -26,7 +28,7 @@ SplineSet
  65 0 l 1
  65 667 l 1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Layer: 2
 Layer: 3
 Substitution2: "'salt' Stylistic Alternatives lookup 0-1" k.alt

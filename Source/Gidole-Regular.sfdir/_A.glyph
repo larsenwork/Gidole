@@ -3,6 +3,8 @@ Encoding: 65 65 13
 Width: 609
 Flags: W
 HStem: 0 21G<35 117.909 492.091 574> 165 70<190 419> 647 20G<265.864 344.106>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 10 0 basechar 0
 AnchorPoint: "Bottom" 536 0 basechar 0
 AnchorPoint: "Top" 305 667 basechar 0
@@ -24,7 +26,7 @@ SplineSet
  419 235 l 1
  305 571 l 1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Layer: 2
 Layer: 3
 Substitution2: "'salt' Stylistic Alternatives lookup 0-1" A.alt

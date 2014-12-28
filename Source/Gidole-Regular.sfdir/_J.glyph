@@ -1,46 +1,48 @@
 StartChar: J
 Encoding: 74 74 22
-Width: 486
+Width: 466
 VWidth: 0
 Flags: W
-HStem: -6 70<146.253 293.878> 647 20G<342 416>
-VStem: 342 74<111.847 667>
-AnchorPoint: "Center" 20 0 basechar 0
-AnchorPoint: "Bottom" 231 0 basechar 0
-AnchorPoint: "Top" 379 667 basechar 0
+HStem: -6 70<126.253 273.878> 647 20G<322 396>
+VStem: 322 74<111.847 667>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Bottom" 211 0 basechar 0
+AnchorPoint: "Top" 359 667 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-416 199 m 5
- 416 181 416 166 413 149 c 4
- 397 54 325 -6 221 -6 c 4
- 183 -6 100 3 55 77 c 5
- 110 121 l 5
- 146 69 193 64 221 64 c 4
- 282 64 324 97 337 149 c 4
- 341 165 342 181 342 199 c 5
- 342 667 l 5
- 416 667 l 5
- 416 199 l 5
+396 199 m 5
+ 396 181 396 166 393 149 c 4
+ 377 54 305 -6 201 -6 c 4
+ 163 -6 80 3 35 77 c 5
+ 90 121 l 5
+ 126 69 173 64 201 64 c 4
+ 262 64 304 97 317 149 c 4
+ 321 165 322 181 322 199 c 5
+ 322 667 l 5
+ 396 667 l 5
+ 396 199 l 5
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Layer: 2
 SplineSet
-416 194 m 22
- 416 48 318 -6 221 -6 c 5
- 124 -6 26 48 26 194 c 14
- 26 473 l 22
- 26 619 124 673 221 673 c 5
- 318 673 416 619 416 473 c 14
- 416 194 l 22
-100 194 m 22
- 100 97 160 64 221 64 c 5
- 282 64 342 97 342 194 c 14
- 342 473 l 22
- 342 570 282 603 221 603 c 5
- 160 603 100 570 100 473 c 14
- 100 194 l 22
+396 194 m 22
+ 396 48 298 -6 201 -6 c 5
+ 104 -6 6 48 6 194 c 14
+ 6 473 l 22
+ 6 619 104 673 201 673 c 5
+ 298 673 396 619 396 473 c 14
+ 396 194 l 22
+80 194 m 22
+ 80 97 140 64 201 64 c 5
+ 262 64 322 97 322 194 c 14
+ 322 473 l 22
+ 322 570 262 603 201 603 c 5
+ 140 603 80 570 80 473 c 14
+ 80 194 l 22
 EndSplineSet
 Layer: 3
 Substitution2: "'salt' Stylistic Alternatives lookup 0-1" J.alt

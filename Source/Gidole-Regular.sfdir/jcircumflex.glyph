@@ -4,11 +4,11 @@ Width: 225
 VWidth: 0
 Flags: W
 HStem: -190 62<0 68.3464> 543 121
-VStem: -34 298 80 70<-117.855 477>
+VStem: -19 268 80 70<-117.855 477>
 LayerCount: 4
 Back
 Fore
-Refer: 143 710 N 1 0 0 1 -84 -3 2
+Refer: 143 710 N 1 0 0 1 -69 -3 2
 Refer: 430 567 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

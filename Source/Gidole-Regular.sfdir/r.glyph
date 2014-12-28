@@ -5,6 +5,8 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<65 135> 417 66<185.636 313.333>
 VStem: 65 70<0 365.109 417 477>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" -10 0 basechar 0
 AnchorPoint: "Bottom" 99 0 basechar 0
 AnchorPoint: "Top" 200 477 basechar 0
@@ -39,7 +41,7 @@ SplineSet
  289 483 306 481 323 477 c 1
  313 412 l 1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Layer: 2
 SplineSet
 313 414 m 5

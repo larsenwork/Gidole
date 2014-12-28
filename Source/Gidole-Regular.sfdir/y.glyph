@@ -2,6 +2,8 @@ StartChar: y
 Encoding: 121 121 70
 Width: 477
 Flags: W
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Top" 238.5 476 basechar 0
 AnchorPoint: "Center" -10 0 basechar 0
 AnchorPoint: "Bottom" -10 0 basechar 0
@@ -25,11 +27,11 @@ SplineSet
  239 88 l 1
  373 477 l 1
  447 477 l 1
- 209 -185 l 5
- 135 -185 l 5
+ 209 -185 l 1
+ 135 -185 l 1
  202 0 l 1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

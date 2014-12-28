@@ -3,6 +3,8 @@ Encoding: 119 119 44
 Width: 720
 Flags: W
 HStem: 0 21G<182.333 254.678 466.271 538.625>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Bottom" 0 0 basechar 0
 AnchorPoint: "Center" 0 0 basechar 0
 AnchorPoint: "Top" 360 477 basechar 0
@@ -25,7 +27,7 @@ SplineSet
  189 0 l 1
  30 477 l 1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

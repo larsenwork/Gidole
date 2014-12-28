@@ -1,22 +1,22 @@
 StartChar: caron
 Encoding: 255 711 198
-Width: 398
+Width: 368
 Flags: W
 HStem: 546 121
-VStem: 50 298
-AnchorPoint: "Top" 199 477 mark 0
+VStem: 50 268
+AnchorPoint: "Top" 184 477 mark 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-199 609 m 1
- 130 546 l 1
- 50 546 l 1
- 181 667 l 1
- 217 667 l 1
- 348 546 l 1
- 268 546 l 1
- 199 609 l 1
+145 546 m 1
+ 50 667 l 1
+ 116 667 l 1
+ 184 590 l 1
+ 252 667 l 1
+ 318 667 l 1
+ 223 546 l 1
+ 145 546 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

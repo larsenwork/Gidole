@@ -4,12 +4,12 @@ Width: 802
 VWidth: 0
 Flags: W
 HStem: 0 21<213.483 291 513 589.487> 647 20<35 115.035 686.991 767> 736 121
-VStem: 35 75<641.625 667> 252 298 692 75<641.486 667>
+VStem: 35 75<641.625 667> 267 268 692 75<641.486 667>
 CounterMasks: 1 1c
 LayerCount: 4
 Back
 Fore
-Refer: 143 710 N 1 0 0 1 202 190 2
+Refer: 143 710 N 1 0 0 1 217 190 2
 Refer: 26 87 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

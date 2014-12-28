@@ -2,17 +2,22 @@ StartChar: uniE020
 Encoding: 520 57376 474
 Width: 1000
 VWidth: 0
-Flags: W
-VStem: 317 388<-28 517>
+Flags: HW
 LayerCount: 4
 Back
 Fore
 SplineSet
-317 517 m 1
- 705 517 l 1
- 705 -28 l 1
- 317 -28 l 1
- 317 517 l 1
+1000 490 m 2
+ 1000 50 l 2
+ 1000 -88 888 -200 750 -200 c 2
+ 250 -200 l 2
+ 112 -200 0 -88 0 50 c 2
+ 0 550 l 2
+ 0 688 112 800 250 800 c 2
+ 690 800 l 2
+ 755 800 802 800 848 780 c 0
+ 907 755 955 707 980 648 c 0
+ 1000 602 1000 555 1000 490 c 2
 EndSplineSet
 Validated: 1
 Layer: 2

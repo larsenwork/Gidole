@@ -1,10 +1,12 @@
 StartChar: R
 Encoding: 82 82 32
-Width: 552
+Width: 547
 VWidth: 0
 Flags: W
 HStem: 0 21G<75 148 400.55 487> 257 70<149 299.578> 597 70<149 353.667>
 VStem: 75 74<0 257 327 597> 403 74<376.775 545.859>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" -5 0 basechar 0
 AnchorPoint: "Bottom" 277 0 basechar 0
 AnchorPoint: "Top" 255 667 basechar 0
@@ -52,7 +54,7 @@ SplineSet
  149 327 l 1
  272 327 l 2
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

@@ -4,6 +4,8 @@ Width: 540
 VWidth: 0
 Flags: W
 HStem: 0 70<147 480> 597 70<70 382>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 5 0 basechar 0
 AnchorPoint: "Bottom" 270 0 basechar 0
 AnchorPoint: "Top" 270 667 basechar 0
@@ -23,7 +25,7 @@ SplineSet
  70 597 l 1
  70 667 l 1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar
