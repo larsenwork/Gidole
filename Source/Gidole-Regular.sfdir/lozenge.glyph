@@ -2,9 +2,7 @@ StartChar: lozenge
 Encoding: 215 9674 484
 Width: 550
 VWidth: 0
-Flags: HW
-HStem: -6 70<193.258 356.82> 647 20G<60 134 416 490>
-VStem: 60 74<126.192 667> 416 74<124.401 667>
+Flags: W
 LayerCount: 4
 Back
 Fore

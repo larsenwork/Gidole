@@ -2,7 +2,7 @@ StartChar: ordfeminine
 Encoding: 187 170 487
 Width: 356
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 330 54<103.471 209.754> 495 51<104.7 235> 623 53<75.3193 219.726>
 VStem: 35 56<395.788 479.736> 235 56<334 365 409.937 494.266 543 606.328>
 LayerCount: 4

@@ -6,7 +6,7 @@ Weight: Regular
 Copyright: Copyright (c) 2014, Andreas Larsen (<andreaslarsen.dk|mail@andreaslarsen.dk>), with Reserved Font Name Gidole Sans.
 Version: 0.4
 ItalicAngle: 0
-UnderlinePosition: -70
+UnderlinePosition: -100
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
@@ -19,11 +19,11 @@ Layer: 2 0 "Back 2" 1
 Layer: 3 0 "Back 3" 1
 XUID: [1021 365 -928128380 14908284]
 FSType: 0
-OS2Version: 4
+OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1419984210
+ModificationTime: 1419993297
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -37,7 +37,7 @@ OS2TypoDOffset: 0
 OS2TypoLinegap: 216
 OS2WinAscent: 883
 OS2WinAOffset: 0
-OS2WinDescent: -191
+OS2WinDescent: 191
 OS2WinDOffset: 0
 HheadAscent: 883
 HheadAOffset: 0
@@ -149,7 +149,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 182 14 11
+WinInfo: 0 14 11
 BeginPrivate: 6
 BlueValues 15 [-20 0 667 673]
 BlueShift 1 0

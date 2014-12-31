@@ -2,9 +2,9 @@ StartChar: product
 Encoding: 184 8719 486
 Width: 590
 VWidth: 0
-Flags: HW
-HStem: 0 21G<75 149 441 515> 308 70<149 441> 647 20G<75 149 441 515>
-VStem: 75 74<0 308 378 667> 441 74<0 308 378 667>
+Flags: W
+HStem: 0 21G<75 149 441 515> 597 70<149 441>
+VStem: 75 74<0 597> 441 74<0 597>
 AnchorPoint: "DoubleTop" 0 0 basechar 0
 AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" -5 0 basechar 0
