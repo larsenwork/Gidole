@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1419795175
+ModificationTime: 1419984210
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -149,7 +149,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 70 14 11
+WinInfo: 182 14 11
 BeginPrivate: 6
 BlueValues 15 [-20 0 667 673]
 BlueShift 1 0
@@ -159,6 +159,8 @@ StemSnapH 7 [70 95]
 StemSnapV 13 [72 73 74 80]
 EndPrivate
 Grid
+285 1300 m 0
+ 285 -700 l 1024
 -1000 780.079101562 m 4
  2000 780.079101562 l 1028
 980 1300 m 0

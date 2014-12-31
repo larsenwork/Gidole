@@ -46,4 +46,5 @@ or
 Uppercut+undercut + 5 handle
 Vertical +÷10 + 5 handle
 
-**b**
+**fem,masc,fractions**
+69%, weight 9 em (0,0,retain), 

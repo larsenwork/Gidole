@@ -1,0 +1,25 @@
+StartChar: lozenge
+Encoding: 215 9674 484
+Width: 550
+VWidth: 0
+Flags: HW
+HStem: -6 70<193.258 356.82> 647 20G<60 134 416 490>
+VStem: 60 74<126.192 667> 416 74<124.401 667>
+LayerCount: 4
+Back
+Fore
+SplineSet
+134 334 m 25
+ 275 559 l 29
+ 416 334 l 25
+ 275 110 l 25
+ 134 334 l 25
+60 334 m 25
+ 275 0 l 25
+ 490 334 l 25
+ 275 669 l 25
+ 60 334 l 25
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar
