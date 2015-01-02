@@ -2,7 +2,7 @@ StartChar: tbar
 Encoding: 359 359 386
 Width: 415
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -6 66<246.717 355.85> 262 56<45 162 232 365> 415 62<82 162 232 342>
 VStem: 162 70<76.2713 262 318 415 477 581>
 LayerCount: 4

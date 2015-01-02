@@ -1,6 +1,6 @@
 StartChar: question
 Encoding: 63 63 43
-Width: 468
+Width: 473
 VWidth: 0
 Flags: W
 HStem: -6 102<180.227 265.773> 603 70<125.3 296.881>
@@ -35,7 +35,6 @@ SplineSet
  193 -6 172 15 172 45 c 0xe8
  172 75 193 96 223 96 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 191 180 m 29xd8

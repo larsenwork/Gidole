@@ -48,3 +48,7 @@ Vertical +÷10 + 5 handle
 
 **fem,masc,fractions**
 69%, weight 9 em (0,0,retain), 
+
+
+**After build**
+dcaron, lcaron, tcaron rb 30

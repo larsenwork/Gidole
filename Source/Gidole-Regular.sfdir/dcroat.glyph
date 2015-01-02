@@ -1,8 +1,8 @@
 StartChar: dcroat
 Encoding: 273 273 372
-Width: 555
+Width: 535
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -6 66<181.684 319.665> 417 66<181.684 319.665> 532 61<225 375 443 505> 647 20G<375 443>
 VStem: 55 70<120.972 355.551> 375 68<0 59 118.213 358.524 417 532 593 667>
 LayerCount: 4
@@ -62,7 +62,6 @@ SplineSet
  375 272 l 2
  375 371 312 417 250 417 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar
