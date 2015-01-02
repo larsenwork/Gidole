@@ -1,7 +1,7 @@
 Gidole Sans Free Font
 ====
 
-![Preview](https://raw.githubusercontent.com/gidole/sans/master/Releases/GidoleScreenshot.png)
+![Preview](https://raw.githubusercontent.com/gidole/sans/master/Releases/GidoleScreenshot@2x.png)
 
 * Download the latest [zip](https://github.com/gidole/sans/blob/master/Resources/Gidole.zip?raw=true)
 * The website [gidole.github.io](https://gidole.github.io) 
