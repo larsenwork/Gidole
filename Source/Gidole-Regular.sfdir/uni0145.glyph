@@ -1,5 +1,5 @@
 StartChar: uni0145
-Encoding: 313 325 257
+Encoding: 325 325 257
 Width: 590
 VWidth: 0
 Flags: W
@@ -8,7 +8,7 @@ VStem: 75 74<0 520> 246 102<-147.495 -69.3179> 441 74<147 667>
 LayerCount: 4
 Back
 Fore
-Refer: 481 806 N 1 0 0 1 196 0 2
+Refer: 480 806 N 1 0 0 1 196 0 2
 Refer: 33 78 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

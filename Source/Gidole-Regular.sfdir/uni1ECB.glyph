@@ -1,5 +1,5 @@
 StartChar: uni1ECB
-Encoding: 401 7883 345
+Encoding: 7883 7883 345
 Width: 212
 VWidth: 0
 Flags: W
@@ -8,7 +8,7 @@ VStem: 55 102<-153.773 -68.2266> 59 94<556.897 637.103> 71 70<0 477>
 LayerCount: 4
 Back
 Fore
-Refer: 480 803 N 1 0 0 1 5 25 2
+Refer: 479 803 N 1 0 0 1 5 25 2
 Refer: 52 105 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

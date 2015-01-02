@@ -1,5 +1,5 @@
 StartChar: ordfeminine
-Encoding: 187 170 487
+Encoding: 170 170 486
 Width: 356
 VWidth: 0
 Flags: W
@@ -34,6 +34,7 @@ SplineSet
  234 456 235 469 235 488 c 0
  235 493 l 5
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

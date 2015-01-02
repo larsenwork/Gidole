@@ -1,5 +1,5 @@
 StartChar: uni2197
-Encoding: 530 8599 496
+Encoding: 8599 8599 495
 Width: 486
 Flags: W
 HStem: 89 326
@@ -20,6 +20,7 @@ SplineSet
  180 369 l 5
  227 415 l 5
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

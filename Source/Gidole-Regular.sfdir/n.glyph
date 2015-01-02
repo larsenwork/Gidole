@@ -7,7 +7,7 @@ HStem: 0 21G<65 135 355 425> 417 66<175.298 313.997>
 VStem: 65 70<0 375.327 432 477> 355 70<0 374.693>
 AnchorPoint: "DoubleTop" 0 0 basechar 0
 AnchorPoint: "Center" 0 0 basechar 0
-AnchorPoint: "Apos" 65 667 basechar 0
+AnchorPoint: "Apos" 85 667 basechar 0
 AnchorPoint: "Bottom" 245 0 basechar 0
 AnchorPoint: "Top" 245 477 basechar 0
 LayerCount: 4

@@ -6,7 +6,7 @@ Flags: W
 HStem: -6 66<209.717 318.85> 415 62<45 125 195 305>
 VStem: 125 70<76.2713 415 477 581>
 AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 306 667 basechar 0
+AnchorPoint: "Apos" 326 667 basechar 0
 AnchorPoint: "Top" 15 0 basechar 0
 AnchorPoint: "Center" 15 0 basechar 0
 AnchorPoint: "Bottom" 257 0 basechar 0
@@ -14,25 +14,25 @@ LayerCount: 4
 Back
 Fore
 SplineSet
-257 60 m 0
- 275 60 291 65 307 77 c 1
- 343 21 l 1
- 319 3 291 -6 257 -6 c 0
- 193 -6 146 28 131 84 c 0
- 126 102 125 117 125 138 c 2
- 125 415 l 1
- 45 415 l 1
- 45 477 l 1
- 125 477 l 1
- 125 581 l 1
- 195 581 l 1
- 195 477 l 1
- 305 477 l 1
- 305 415 l 1
- 195 415 l 1
- 195 138 l 2
- 195 119 196 106 203 92 c 0
- 213 72 232 60 257 60 c 0
+257 60 m 4
+ 275 60 291 65 307 77 c 5
+ 343 21 l 5
+ 319 3 291 -6 257 -6 c 4
+ 193 -6 146 28 131 84 c 4
+ 126 102 125 117 125 138 c 6
+ 125 415 l 5
+ 45 415 l 5
+ 45 477 l 5
+ 125 477 l 5
+ 125 581 l 5
+ 195 581 l 5
+ 195 477 l 5
+ 305 477 l 5
+ 305 415 l 5
+ 195 415 l 5
+ 195 138 l 6
+ 195 119 196 106 203 92 c 4
+ 213 72 232 60 257 60 c 4
 EndSplineSet
 Validated: 1
 Layer: 2

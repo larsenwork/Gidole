@@ -1,5 +1,5 @@
 StartChar: ordmasculine
-Encoding: 188 186 488
+Encoding: 186 186 487
 Width: 381
 VWidth: 0
 Flags: W
@@ -32,6 +32,7 @@ SplineSet
  76 638 123 674 191 674 c 4
  258 674 305 638 320 581 c 4
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

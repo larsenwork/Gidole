@@ -1,5 +1,5 @@
 StartChar: wacute
-Encoding: 391 7811 335
+Encoding: 7811 7811 335
 Width: 720
 VWidth: 0
 Flags: W
@@ -8,7 +8,7 @@ VStem: 314 153
 LayerCount: 4
 Back
 Fore
-Refer: 429 769 N 1 0 0 1 264 0 2
+Refer: 428 769 N 1 0 0 1 264 0 2
 Refer: 44 119 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

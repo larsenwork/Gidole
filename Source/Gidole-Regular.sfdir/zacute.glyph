@@ -1,5 +1,5 @@
 StartChar: zacute
-Encoding: 353 378 297
+Encoding: 378 378 297
 Width: 440
 VWidth: 0
 Flags: W
@@ -8,7 +8,7 @@ VStem: 60 320<0 50 427 477> 174 153
 LayerCount: 4
 Back
 Fore
-Refer: 429 769 N 1 0 0 1 124 -1 2
+Refer: 428 769 N 1 0 0 1 124 -1 2
 Refer: 71 122 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

@@ -1,5 +1,5 @@
 StartChar: uni0219
-Encoding: 373 537 317
+Encoding: 537 537 317
 Width: 433
 VWidth: 0
 Flags: W
@@ -8,7 +8,7 @@ VStem: 47 70<306.879 395.931> 159 102<-147.495 -69.3179> 313 70<84.8958 185.327>
 LayerCount: 4
 Back
 Fore
-Refer: 481 806 N 1 0 0 1 109 0 2
+Refer: 480 806 N 1 0 0 1 109 0 2
 Refer: 48 115 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2
