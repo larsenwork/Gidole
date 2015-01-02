@@ -2,7 +2,7 @@ StartChar: dollar
 Encoding: 36 36 97
 Width: 550
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -5 70<156.986 239 293 350.722> 601 71<183.618 239 293 367.467>
 VStem: 65 74<428.943 556.793> 239 54<-70 -5 66 302 385 601 670.27 737> 402 74<115.294 250.552>
 AnchorPoint: "DoubleTop" 10 0 basechar 0

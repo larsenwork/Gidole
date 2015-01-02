@@ -1,2 +1,2 @@
 cd /Users/andreaslarsen/Git/gidole.sans
-zip -r Resources/gidole-regular-vX.X.zip Releases -x "*.DS_Store"
+zip -r Resources/GidoleRegular.zip Releases -x "*.DS_Store"

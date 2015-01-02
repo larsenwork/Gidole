@@ -2,7 +2,7 @@ StartChar: lslash
 Encoding: 322 322 381
 Width: 390
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<155 225> 647 20G<155 225>
 VStem: 155 70<0 272 368 667>
 LayerCount: 4

@@ -2,7 +2,7 @@ StartChar: hbar
 Encoding: 295 295 375
 Width: 549
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<109 179 419 489> 417 66<234.335 369.895> 532 61<35 109 179 315> 647 20G<109 179>
 VStem: 109 70<0 358.787 417 532 593 667> 419 70<0 361.55>
 LayerCount: 4

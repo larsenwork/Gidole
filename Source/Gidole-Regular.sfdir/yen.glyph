@@ -2,7 +2,7 @@ StartChar: yen
 Encoding: 165 165 355
 Width: 550
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<237 311> 243 56<94 227 321 454> 368 56<84 162 386 464> 647 20G<39 127.72 423.093 510>
 VStem: 237 74<0 243>
 LayerCount: 4

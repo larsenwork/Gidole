@@ -2,7 +2,7 @@ StartChar: Euro
 Encoding: 8364 8364 390
 Width: 550
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -6 70<218.637 409.347> 243 56<40 85 159 360> 368 56<40 85 159 400> 603 70<218.637 405.266>
 VStem: 85 74<126.192 243 299 368 424 540.808>
 LayerCount: 4

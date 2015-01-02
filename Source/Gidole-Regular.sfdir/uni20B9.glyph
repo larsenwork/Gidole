@@ -2,7 +2,7 @@ StartChar: uni20B9
 Encoding: 8377 8377 464
 Width: 550
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<297.798 401> 258 67<81 105 189 263.016> 450 67<93 311 390 463> 600 67<93 263.625 337 463>
 VStem: 319 71<383.636 450>
 LayerCount: 4

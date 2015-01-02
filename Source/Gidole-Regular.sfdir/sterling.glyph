@@ -2,9 +2,9 @@ StartChar: sterling
 Encoding: 163 163 114
 Width: 550
 VWidth: 0
-Flags: HW
-HStem: 0 70<60 122 196 452> 292 61<62 122 196 382> 603 70<236.312 357.106>
-VStem: 122 74<70 292 353 555.932>
+Flags: W
+HStem: 0 70<60 122 196 490> 292 61<62 122 196 420> 603 70<244.122 391.747>
+VStem: 122 74<70 292 353 555.153>
 LayerCount: 4
 Back
 Fore

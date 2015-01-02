@@ -2,7 +2,7 @@ StartChar: bracketleft
 Encoding: 91 91 72
 Width: 289
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -190 57<145 239> 740 57<145 239>
 VStem: 85 154<-190 -133 740 797> 85 60<-133 740>
 LayerCount: 4

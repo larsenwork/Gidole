@@ -2,9 +2,9 @@ StartChar: uni20BA
 Encoding: 8378 8378 463
 Width: 550
 VWidth: 0
-Flags: HW
-HStem: 0 70<232 325.672> 647 20G<158 232>
-VStem: 158 74<70 267 365 407 505 667> 393 74<139.365 308>
+Flags: W
+HStem: 0 70<232 332.625>
+VStem: 393 74<132.976 235>
 LayerCount: 4
 Back
 SplineSet
