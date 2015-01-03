@@ -4,12 +4,9 @@
 
 @font-face {
     font-family: 'gidoleregular';
-    src: url('gidole-regular.eot');
-    src: url('gidole-regular.eot?#iefix') format('embedded-opentype'),
-         url('gidole-regular.woff2') format('woff2'),
+    src: url('gidole-regular.woff2') format('woff2'),
          url('gidole-regular.woff') format('woff'),
-         url('gidole-regular.ttf') format('truetype'),
-         url('gidole-regular.svg#gidoleregular') format('svg');
+         url('gidole-regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
