@@ -1,5 +1,5 @@
 GIDOLE
-Download https://github.com/gidole/sans/blob/master/Gidole.zip?raw=true
+Download https://github.com/gidole/sans/blob/master/gidole.zip?raw=true
 Website https://gidole.github.io
 
 CONTRIBUTE
