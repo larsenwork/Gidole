@@ -1,0 +1,15 @@
+StartChar: nacute
+Encoding: 324 324 256
+Width: 445
+VWidth: 0
+Flags: HW
+HStem: 0 21<45 115 335 405> 417 66<155.298 293.997> 546 121
+VStem: 45 70<0 375.327 432 477> 179 153 335 70<0 374.693>
+LayerCount: 4
+Back
+Fore
+Refer: 428 769 N 1 0 0 1 129 0 2
+Refer: 58 110 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

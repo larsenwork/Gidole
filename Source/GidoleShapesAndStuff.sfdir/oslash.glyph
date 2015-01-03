@@ -1,0 +1,18 @@
+StartChar: oslash
+Encoding: 248 248 41
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 4
+Back
+SplineSet
+387 507 m 5
+ 445 507 l 5
+ 103 -30 l 5
+ 45 -30 l 5
+ 387 507 l 5
+EndSplineSet
+Fore
+Layer: 2
+Layer: 3
+EndChar

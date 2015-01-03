@@ -1,0 +1,35 @@
+StartChar: uni20BA
+Encoding: 8378 8378 75
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 4
+Back
+SplineSet
+68 423 m 5
+ 368 573 l 5
+ 368 512 l 5
+ 68 362 l 5
+ 68 423 l 5
+68 283 m 5
+ 368 433 l 5
+ 368 372 l 5
+ 68 222 l 5
+ 68 283 l 5
+232 667 m 5
+ 232 0 l 5
+ 158 0 l 5
+ 158 667 l 5
+ 232 667 l 5
+467 308 m 29
+ 467 228 l 6
+ 467 62 359 0 232 0 c 13
+ 232 70 l 21
+ 322 70 393 110 393 228 c 6
+ 393 308 l 29
+ 467 308 l 29
+EndSplineSet
+Fore
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,15 @@
+StartChar: udieresis
+Encoding: 252 252 136
+Width: 440
+VWidth: 0
+Flags: HW
+HStem: -6 66<151.655 288.345> 549 94<89.329 170.671 269.329 350.671>
+VStem: 40 70<102.476 477> 83 94<555.329 636.671> 263 94<555.329 636.671> 330 70<102.476 477>
+LayerCount: 4
+Back
+Fore
+Refer: 131 168 N 1 0 0 1 33 -1 2
+Refer: 66 117 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

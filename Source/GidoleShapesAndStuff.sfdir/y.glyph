@@ -1,0 +1,20 @@
+StartChar: y
+Encoding: 121 121 27
+Width: 1000
+Flags: H
+LayerCount: 4
+Back
+SplineSet
+30 477 m 5
+ 104 477 l 5
+ 239 92 l 5
+ 373 477 l 5
+ 447 477 l 5
+ 269 0 l 5
+ 208 0 l 5
+ 30 477 l 5
+EndSplineSet
+Fore
+Layer: 2
+Layer: 3
+EndChar

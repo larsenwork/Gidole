@@ -1,0 +1,21 @@
+StartChar: seven
+Encoding: 55 55 9
+Width: 520
+Flags: W
+HStem: 0 21G<112 199.493> 597 70<63 365>
+LayerCount: 4
+Back
+Fore
+SplineSet
+63 667 m 1
+ 453 667 l 1
+ 453 617 l 1
+ 191 0 l 1
+ 112 0 l 1
+ 365 597 l 1
+ 63 597 l 1
+ 63 667 l 1
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

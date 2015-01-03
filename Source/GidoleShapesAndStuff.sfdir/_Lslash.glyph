@@ -1,0 +1,25 @@
+StartChar: Lslash
+Encoding: 321 321 51
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 4
+Back
+SplineSet
+40 273 m 5
+ 360 433 l 5
+ 360 372 l 5
+ 40 212 l 5
+ 40 273 l 5
+155 667 m 1
+ 229 667 l 1
+ 229 70 l 1
+ 535 70 l 1
+ 535 0 l 1
+ 155 0 l 1
+ 155 667 l 1
+EndSplineSet
+Fore
+Layer: 2
+Layer: 3
+EndChar

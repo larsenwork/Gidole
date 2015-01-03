@@ -1,0 +1,30 @@
+StartChar: IJ
+Encoding: 306 306 378
+Width: 652
+VWidth: 0
+Flags: W
+HStem: -6 70<317.811 454.411> 647 20G<85 159 503 577>
+VStem: 85 74<0 667> 503 74<118.264 667>
+LayerCount: 4
+Back
+Fore
+SplineSet
+503 667 m 1
+ 577 667 l 1
+ 577 200 l 1
+ 577 59 481 -6 392 -6 c 0
+ 364 -6 283 -6 211 88 c 1
+ 268 132 l 1
+ 320 64 370 64 392 64 c 0
+ 444 64 503 107 503 200 c 1
+ 503 667 l 1
+159 667 m 1
+ 159 0 l 1
+ 85 0 l 1
+ 85 667 l 1
+ 159 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

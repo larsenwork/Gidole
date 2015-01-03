@@ -1,0 +1,26 @@
+StartChar: dotlessi
+Encoding: 305 305 156
+Width: 214
+VWidth: 0
+Flags: W
+HStem: 0 21G<72 142>
+VStem: 72 70<0 477>
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Bottom" 107 0 basechar 0
+AnchorPoint: "Top" 107 477 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+72 477 m 1
+ 142 477 l 1
+ 142 0 l 1
+ 72 0 l 1
+ 72 477 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

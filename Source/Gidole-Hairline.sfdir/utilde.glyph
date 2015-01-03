@@ -1,0 +1,15 @@
+StartChar: utilde
+Encoding: 361 361 286
+Width: 440
+VWidth: 0
+Flags: HW
+HStem: -6 66<151.655 288.345> 549 50<238.443 309.265> 608 50<131.219 200.475>
+VStem: 40 70<102.476 477> 74 50<555 601.061> 316 50<605.728 651> 330 70<102.476 477>
+LayerCount: 4
+Back
+Fore
+Refer: 183 732 N 1 0 0 1 24 -1 2
+Refer: 66 117 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar
