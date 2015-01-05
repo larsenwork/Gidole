@@ -1,14 +1,14 @@
 StartChar: umacron
 Encoding: 363 363 288
-Width: 440
+Width: 460
 VWidth: 0
 Flags: HW
-HStem: -6 66<151.655 288.345> 555 56<84 354>
-VStem: 40 70<102.476 477> 84 270<555 611> 330 70<102.476 477>
+HStem: 0 8<193.107 266.893> 555 56<94 364>
+VStem: 70 8<143.666 483> 94 270<555 611> 382 8<143.666 483>
 LayerCount: 4
 Back
 Fore
-Refer: 454 772 N 1 0 0 1 34 -1 2
+Refer: 454 772 N 1 0 0 1 44 -1 2
 Refer: 66 117 N 1 0 0 1 0 0 3
 Layer: 2
 Layer: 3

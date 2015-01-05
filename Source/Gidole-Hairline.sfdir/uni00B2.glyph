@@ -1,9 +1,9 @@
 StartChar: uni00B2
 Encoding: 178 178 478
 Width: 339
-Flags: HW
-HStem: 334 57<132 328> 750 57<99.209 229.201>
-VStem: 248 60<609.702 731.263>
+Flags: W
+HStem: 267 56<129 289> 617 56<110.066 210.981>
+VStem: 223 58<505.223 604.908>
 LayerCount: 4
 Back
 Fore

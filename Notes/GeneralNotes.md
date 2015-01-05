@@ -40,7 +40,7 @@ Simplify more 3em
 **Correct corners**
 Uppercut+undercut + 10 handle
 Vertical +÷30 + 15 handle
-
+  
 
 **fem,masc,fractions**
 69%, weight 9 em (0,0,retain), 

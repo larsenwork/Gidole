@@ -1,23 +1,23 @@
 StartChar: bracketleft
 Encoding: 91 91 72
-Width: 289
+Width: 269
 VWidth: 0
 Flags: W
-HStem: -190 57<145 239> 740 57<145 239>
-VStem: 85 154<-190 -133 740 797> 85 60<-133 740>
+HStem: -190 8<103 209> 789 8<103 209>
+VStem: 95 8<-182 789>
 LayerCount: 4
 Back
 Fore
 SplineSet
-85 797 m 1xe0
- 239 797 l 1
- 239 740 l 1xe0
- 145 740 l 1
- 145 -133 l 1xd0
- 239 -133 l 1
- 239 -190 l 1
- 85 -190 l 1
- 85 797 l 1xe0
+95 797 m 5
+ 209 797 l 5
+ 209 789 l 5
+ 103 789 l 5
+ 103 -182 l 5
+ 209 -182 l 5
+ 209 -190 l 5
+ 95 -190 l 5
+ 95 797 l 5
 EndSplineSet
 Layer: 2
 Layer: 3

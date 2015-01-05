@@ -1,37 +1,36 @@
 StartChar: y
 Encoding: 121 121 70
-Width: 477
-Flags: W
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Top" 238.5 476 basechar 0
-AnchorPoint: "Center" -10 0 basechar 0
-AnchorPoint: "Bottom" -10 0 basechar 0
+Width: 456
+Flags: HW
+AnchorPoint: "DoubleTop" -10 0 basechar 0
+AnchorPoint: "Apos" -10 0 basechar 0
+AnchorPoint: "Bottom" -20 0 basechar 0
+AnchorPoint: "Center" -20 0 basechar 0
+AnchorPoint: "Top" 228.5 476 basechar 0
 LayerCount: 4
 Back
 SplineSet
-30 477 m 5
- 104 477 l 5
- 239 92 l 5
- 373 477 l 5
- 447 477 l 5
- 269 0 l 5
- 208 0 l 5
- 30 477 l 5
+416 477 m 1
+ 232.18359375 0 l 2
+ 229.39453125 0 226.60546875 0 223.81640625 0 c 2
+ 40 477 l 1
+ 48.57421875 477 l 1
+ 228 11.380859375 l 1
+ 407.424804688 477 l 1
+ 416 477 l 1
 EndSplineSet
 Fore
 SplineSet
-202 0 m 1
- 30 477 l 1
- 104 477 l 1
- 239 88 l 1
- 373 477 l 1
- 447 477 l 1
- 209 -185 l 1
- 135 -185 l 1
- 202 0 l 1
+228 11 m 5
+ 407.42578125 477 l 1
+ 416 477 l 1
+ 161.099609375 -185 l 1
+ 152.5 -185 l 1
+ 223.629882812 0 l 1
+ 40 477 l 1
+ 48.57421875 477 l 1
+ 228 11 l 5
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

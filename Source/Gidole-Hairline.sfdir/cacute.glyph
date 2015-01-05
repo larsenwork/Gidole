@@ -1,16 +1,15 @@
 StartChar: cacute
 Encoding: 263 263 210
-Width: 428
+Width: 422
 VWidth: 0
-Flags: W
-HStem: -6 66<172.252 327.888> 417 66<172.252 328.124> 546 121
-VStem: 55 70<109.277 367.723> 199 153
+Flags: HW
+HStem: -6 8<200.537 286.606> 475 8<202.098 286.393> 546 121
+VStem: 64.6309 8<143.429 334.01> 188.631 153
 LayerCount: 4
 Back
 Fore
-Refer: 428 769 N 1 0 0 1 149 0 2
+Refer: 428 769 N 1 0 0 1 138.631 0 2
 Refer: 54 99 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

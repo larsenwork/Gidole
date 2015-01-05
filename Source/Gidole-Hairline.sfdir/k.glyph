@@ -1,32 +1,41 @@
 StartChar: k
 Encoding: 107 107 68
-Width: 459
+Width: 433
 VWidth: 0
-Flags: W
-HStem: 0 21G<65 135 324.132 419> 647 20G<65 135>
-VStem: 65 70<0 137 228 667>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Top" -8 0 basechar 0
-AnchorPoint: "Center" -8 0 basechar 0
-AnchorPoint: "Bottom" 229 0 basechar 0
+Flags: HW
+HStem: 0 21G<75 83 355.15 384.521> 647 20G<75 83>
+VStem: 75 8<0 667>
+AnchorPoint: "DoubleTop" -10 0 basechar 0
+AnchorPoint: "Apos" -10 0 basechar 0
+AnchorPoint: "Top" -18 0 basechar 0
+AnchorPoint: "Center" -18 0 basechar 0
+AnchorPoint: "Bottom" 219 0 basechar 0
 LayerCount: 4
 Back
+SplineSet
+74.521484375 667 m 5
+ 82.521484375 667 l 5
+ 82.521484375 0 l 5
+ 74.521484375 0 l 5
+ 74.521484375 667 l 5
+EndSplineSet
 Fore
 SplineSet
-65 667 m 1
- 135 667 l 1
- 135 228 l 1
- 322 477 l 1
- 404 477 l 1
- 237 260 l 1
- 419 0 l 1
- 338 0 l 1
- 191 212 l 1
- 135 137 l 1
- 135 0 l 1
- 65 0 l 1
- 65 667 l 1
+75 667 m 1
+ 83 667 l 1
+ 83 0 l 1
+ 75 0 l 1
+ 75 667 l 1
+373.629882812 0 m 1
+ 143.34765625 249.223632812 l 1
+ 149.223632812 254.65234375 l 1
+ 384.521484375 0 l 1
+ 373.629882812 0 l 1
+374.608398438 477 m 1
+ 363.446289062 477 l 1
+ 75.34375 180.922851562 l 1
+ 81.0771484375 175.34375 l 1
+ 374.608398438 477 l 1
 EndSplineSet
 Layer: 2
 Layer: 3

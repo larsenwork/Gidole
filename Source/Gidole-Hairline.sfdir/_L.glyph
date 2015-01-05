@@ -1,28 +1,27 @@
 StartChar: L
 Encoding: 76 76 23
-Width: 510
+Width: 490
 VWidth: 0
-Flags: W
-HStem: 0 70<149 455> 647 20G<75 149>
-VStem: 75 74<70 667>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 212 667 basechar 0
-AnchorPoint: "Bottom" 262 0 basechar 0
-AnchorPoint: "Center" 265 334 basechar 0
-AnchorPoint: "Top" 113 667 basechar 0
+Flags: HW
+HStem: 0 70<139 445> 647 20G<65 139>
+VStem: 65 74<70 667>
+AnchorPoint: "DoubleTop" -10 0 basechar 0
+AnchorPoint: "Apos" 202 667 basechar 0
+AnchorPoint: "Bottom" 252 0 basechar 0
+AnchorPoint: "Center" 255 334 basechar 0
+AnchorPoint: "Top" 103 667 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-75 667 m 1
- 149 667 l 1
- 149 70 l 1
- 455 70 l 1
- 455 0 l 1
- 75 0 l 1
- 75 667 l 1
+85 667 m 1
+ 93 667 l 1
+ 93 8 l 5
+ 425 8 l 5
+ 425 0 l 1
+ 85 0 l 1
+ 85 667 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

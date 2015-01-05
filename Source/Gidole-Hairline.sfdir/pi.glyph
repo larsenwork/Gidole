@@ -2,7 +2,7 @@ StartChar: pi
 Encoding: 960 960 416
 Width: 530
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -6 66<436.654 485> 411 66<45 105 175 355 425 475>
 VStem: 105 70<0 411> 355 70<72.4111 411>
 LayerCount: 4

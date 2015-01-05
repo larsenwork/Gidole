@@ -1,32 +1,31 @@
 StartChar: z
 Encoding: 122 122 71
-Width: 440
+Width: 380
 VWidth: 0
-Flags: W
-HStem: 0 66<146 380> 411 66<60 294>
-VStem: 60 320<0 50 427 477>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Center" 15 0 basechar 0
-AnchorPoint: "Bottom" 222 0 basechar 0
-AnchorPoint: "Top" 220 476 basechar 0
+Flags: HW
+HStem: 0 8<59.8691 330> 469 8<50 320.151>
+VStem: 50 280<0 7 469.996 477>
+AnchorPoint: "DoubleTop" -30 0 basechar 0
+AnchorPoint: "Apos" -30 0 basechar 0
+AnchorPoint: "Center" -15 0 basechar 0
+AnchorPoint: "Bottom" 192 0 basechar 0
+AnchorPoint: "Top" 190 476 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-60 477 m 1
- 380 477 l 1
- 380 427 l 1
- 146 66 l 1
- 380 66 l 1
- 380 0 l 1
- 60 0 l 1
- 60 50 l 1
- 294 411 l 1
- 60 411 l 1
- 60 477 l 1
+59.869140625 8 m 5
+ 330 8 l 5
+ 330 0 l 5
+ 50 0 l 5
+ 50 7 l 5
+ 320.151367188 469 l 5
+ 50 469 l 5
+ 50 477 l 5
+ 330 477 l 5
+ 330 469.99609375 l 5
+ 59.869140625 8 l 5
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

@@ -1,24 +1,23 @@
 StartChar: equal
 Encoding: 61 61 83
 Width: 520
-Flags: W
-HStem: 156 56<80 440> 290 56<80 440>
+Flags: HW
+HStem: 155 56<80 440> 289 56<80 440>
 LayerCount: 4
 Back
 Fore
 SplineSet
-80 346 m 1
- 440 346 l 1
- 440 290 l 1
- 80 290 l 1
- 80 346 l 1
-80 212 m 1
- 440 212 l 1
- 440 156 l 1
- 80 156 l 1
- 80 212 l 1
+80 321 m 5
+ 440 321 l 5
+ 440 313 l 1
+ 80 313 l 1
+ 80 321 l 5
+80 187 m 1
+ 440 187 l 1
+ 440 179 l 1
+ 80 179 l 1
+ 80 187 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

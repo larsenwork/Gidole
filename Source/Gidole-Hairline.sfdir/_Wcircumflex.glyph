@@ -1,17 +1,16 @@
 StartChar: Wcircumflex
 Encoding: 372 372 295
-Width: 802
+Width: 784
 VWidth: 0
-Flags: W
-HStem: 0 21<213.483 291 513 589.487> 647 20<35 115.035 686.991 767> 736 121
-VStem: 35 75<641.625 667> 267 268 692 75<641.486 667>
+Flags: HW
+HStem: 0 21<203.483 281 503 579.487> 647 20<25 105.035 676.991 757> 736 121
+VStem: 25 75<641.625 667> 257 268 682 75<641.486 667>
 CounterMasks: 1 1c
 LayerCount: 4
 Back
 Fore
-Refer: 143 710 N 1 0 0 1 217 190 2
+Refer: 143 710 N 1 0 0 1 207 190 2
 Refer: 26 87 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

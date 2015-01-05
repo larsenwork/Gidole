@@ -1,14 +1,15 @@
 StartChar: ncaron
 Encoding: 328 328 260
-Width: 445
+Width: 465
 VWidth: 0
 Flags: HW
-HStem: 0 21<45 115 335 405> 417 66<155.298 293.997> 546 121
-VStem: 45 70<0 375.327 432 477> 91 268 335 70<0 374.693>
+HStem: 0 21<75 83 387 395> 475 8<198.352 271.893> 546 121
+VStem: 75 8<0 339.355 357.962 477> 101 268 387 8<0 339.334>
+CounterMasks: 1 1c
 LayerCount: 4
 Back
 Fore
-Refer: 198 711 N 1 0 0 1 41 0 2
+Refer: 198 711 N 1 0 0 1 51 0 2
 Refer: 58 110 N 1 0 0 1 0 0 3
 Layer: 2
 Layer: 3

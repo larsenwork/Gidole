@@ -1,21 +1,20 @@
 StartChar: greater
 Encoding: 62 62 107
 Width: 520
-Flags: W
+Flags: HW
 LayerCount: 4
 Back
 Fore
 SplineSet
-80 454 m 1
- 440 284 l 1
- 440 218 l 1
- 80 48 l 1
- 80 114 l 1
- 388 251 l 1
- 80 388 l 1
- 80 454 l 1
+80 453 m 5
+ 80 443.859375 l 5
+ 430.700195312 250 l 5
+ 80 56.140625 l 5
+ 80 47 l 5
+ 440 246 l 5
+ 440 254 l 5
+ 80 453 l 5
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar
