@@ -2,7 +2,7 @@ StartChar: ygrave
 Encoding: 7923 7923 351
 Width: 477
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 545 121
 VStem: 131.5 153
 LayerCount: 4
@@ -10,7 +10,6 @@ Back
 Fore
 Refer: 427 768 N 1 0 0 1 81.5 -1 2
 Refer: 70 121 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

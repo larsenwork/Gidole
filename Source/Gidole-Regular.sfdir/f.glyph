@@ -2,7 +2,7 @@ StartChar: f
 Encoding: 102 102 60
 Width: 380
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<125 195> 416 61<45 125 195 305> 608 65<219.371 327.378>
 VStem: 125 70<0 416 477 583.516>
 LayerCount: 4
@@ -21,7 +21,9 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-125 511 m 2
+45 477 m 1
+ 125 477 l 1
+ 125 511 l 2
  125 534 126 552 132 572 c 0
  150 635 203 673 277 673 c 0
  299 673 320 670 340 662 c 1
@@ -38,10 +40,7 @@ SplineSet
  125 416 l 1
  45 416 l 1
  45 477 l 1
- 125 477 l 1
- 125 511 l 2
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

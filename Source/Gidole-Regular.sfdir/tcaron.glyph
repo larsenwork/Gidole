@@ -2,7 +2,7 @@ StartChar: tcaron
 Encoding: 357 357 284
 Width: 486
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -6 66<209.717 318.85> 415 62<45 125 195 305> 456 217<386.484 402>
 VStem: 125 70<76.2713 415 477 581> 354 102<579.194 664.877>
 LayerCount: 4

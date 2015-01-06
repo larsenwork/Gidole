@@ -2,7 +2,7 @@ StartChar: K
 Encoding: 75 75 34
 Width: 574
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<75 149 426.886 529> 647 20G<75 149 413.615 516>
 VStem: 75 74<0 236 324 667>
 AnchorPoint: "DoubleTop" 0 0 basechar 0
@@ -14,9 +14,7 @@ LayerCount: 4
 Back
 Fore
 SplineSet
-149 0 m 1
- 75 0 l 1
- 75 667 l 1
+75 667 m 5
  149 667 l 1
  149 324 l 1
  430 667 l 1
@@ -27,8 +25,9 @@ SplineSet
  210 307 l 1
  149 236 l 1
  149 0 l 1
+ 75 0 l 1
+ 75 667 l 5
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

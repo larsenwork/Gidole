@@ -2,9 +2,9 @@ StartChar: uni03BC
 Encoding: 956 956 412
 Width: 550
 VWidth: 0
-Flags: HW
-HStem: -6 66<187.057 322.92 456.715 505>
-VStem: 65 70<-185 55 115.371 477> 375 70<115.865 477>
+Flags: W
+HStem: -6 66<175.469 314.799 436.022 485>
+VStem: 65 70<-185 37.9207 102.476 477> 355 70<102.476 477>
 LayerCount: 4
 Back
 Fore

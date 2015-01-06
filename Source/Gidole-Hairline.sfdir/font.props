@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1420428809
+ModificationTime: 1420559133
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -180,7 +180,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 14 14 11
+WinInfo: 28 14 11
 BeginPrivate: 6
 BlueValues 15 [-20 0 667 673]
 BlueShift 1 0
@@ -194,8 +194,8 @@ Grid
 -1000 149 m 0,2,-1
  2000 149 l 1024
   Named: "undercutcaps"
-260 1300 m 0,4,-1
- 260 -700 l 1024
+256 1300 m 0,4,-1
+ 256 -700 l 1024
 -1000 780.079101562 m 0,6,-1
  2000 780.079101562 l 1024
 980 1300 m 0,8,-1
@@ -205,8 +205,8 @@ Grid
 -1000 123 m 0,12,-1
  2000 123 l 1024
   Named: "undercut"
--1000 353 m 0,14,-1
- 2000 353 l 1024
+-1000 354 m 4,14,-1
+ 2000 354 l 1028
   Named: "uppercut"
 -1000 -185 m 0,16,-1
  2000 -185 l 1024

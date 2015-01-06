@@ -2,8 +2,8 @@ StartChar: Z
 Encoding: 90 90 38
 Width: 520
 VWidth: 0
-Flags: HW
-HStem: 0 70<137 470> 597 70<60 372>
+Flags: W
+HStem: 0 8<79.6504 450> 659 8<80 430.35>
 AnchorPoint: "DoubleTop" -10 0 basechar 0
 AnchorPoint: "Apos" -10 0 basechar 0
 AnchorPoint: "Center" -5 0 basechar 0

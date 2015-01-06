@@ -1,22 +1,22 @@
 StartChar: equal
 Encoding: 61 61 83
-Width: 520
+Width: 540
 Flags: HW
-HStem: 155 56<80 440> 289 56<80 440>
+HStem: 155 56<90 450> 289 56<90 450>
 LayerCount: 4
 Back
 Fore
 SplineSet
-80 321 m 5
- 440 321 l 5
- 440 313 l 1
- 80 313 l 1
- 80 321 l 5
-80 187 m 1
- 440 187 l 1
- 440 179 l 1
- 80 179 l 1
- 80 187 l 1
+90 321 m 5
+ 450 321 l 5
+ 450 313 l 1
+ 90 313 l 1
+ 90 321 l 5
+90 187 m 1
+ 450 187 l 1
+ 450 179 l 1
+ 90 179 l 1
+ 90 187 l 1
 EndSplineSet
 Layer: 2
 Layer: 3

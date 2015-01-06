@@ -2,9 +2,9 @@ StartChar: eth
 Encoding: 240 240 364
 Width: 508
 VWidth: 0
-Flags: HW
-HStem: -6 66<181.804 318.057> 367 66<181.684 319.327>
-VStem: 55 70<120.972 305.551> 375 68<120.972 308.524>
+Flags: W
+HStem: -6 66<168.348 311.425> 367 66<169.828 311.239>
+VStem: 55 70<105.233 321.767> 355 70<105.679 383.029>
 AnchorPoint: "DoubleTop" 0 0 basechar 0
 AnchorPoint: "Center" 0 0 basechar 0
 AnchorPoint: "Top" 0 0 basechar 0

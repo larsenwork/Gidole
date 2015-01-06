@@ -1,19 +1,19 @@
 StartChar: uniE01C
-Encoding: 57372 57372 81
+Encoding: 337 57372 81
 Width: 748
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 135 282<198.872 337.128>
 VStem: 143 250<192.581 359.419>
 LayerCount: 4
 Back
 Fore
 SplineSet
-143 276 m 0
- 143 358 195 417 268 417 c 0
- 341 417 393 358 393 276 c 0
- 393 194 341 135 268 135 c 0
- 195 135 143 194 143 276 c 0
+143 276 m 4
+ 143 358 195 417 268 417 c 4
+ 341 417 393 358 393 276 c 4
+ 393 194 341 135 268 135 c 4
+ 195 135 143 194 143 276 c 4
 EndSplineSet
 Validated: 1
 Layer: 2

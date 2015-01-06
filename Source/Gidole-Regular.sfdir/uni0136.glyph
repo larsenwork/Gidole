@@ -2,7 +2,7 @@ StartChar: uni0136
 Encoding: 310 310 245
 Width: 574
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -230 167<266.484 282> 0 21<75 149 426.886 529> 647 20<75 149 413.615 516>
 VStem: 75 74<0 236 324 667> 234 102<-147.495 -69.3179>
 LayerCount: 4
@@ -10,7 +10,6 @@ Back
 Fore
 Refer: 459 806 N 1 0 0 1 184 0 2
 Refer: 34 75 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar
