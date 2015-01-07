@@ -2,7 +2,7 @@ StartChar: c
 Encoding: 99 99 54
 Width: 417
 VWidth: 0
-Flags: HWO
+Flags: HW
 HStem: -6 8<200.906 286.86> 475 8<202.468 286.06>
 VStem: 65 8<143.429 334.01>
 AnchorPoint: "DoubleTop" 9.63086 0 basechar 0

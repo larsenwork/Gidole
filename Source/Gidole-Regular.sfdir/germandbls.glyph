@@ -1,8 +1,8 @@
 StartChar: germandbls
 Encoding: 223 223 363
-Width: 530
+Width: 520
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 66<195 343.979> 311 64<195 331.393> 601 66<185.437 332.488>
 VStem: 65 70<0 549.719> 376 70<418.338 558.72> 395 70<114.208 256.2>
 LayerCount: 4
@@ -30,7 +30,6 @@ SplineSet
  195 66 l 5
  270 66 l 2xf4
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 270 311 m 1xf2
