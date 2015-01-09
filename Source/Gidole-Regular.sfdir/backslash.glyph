@@ -8,12 +8,13 @@ LayerCount: 4
 Back
 Fore
 SplineSet
-20 797 m 1
- 82 797 l 1
- 322 -130 l 1
- 260 -130 l 5
- 20 797 l 1
+20 740 m 1
+ 82 740 l 1
+ 322 -144 l 1
+ 260 -144 l 1
+ 20 740 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

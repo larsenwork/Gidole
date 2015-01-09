@@ -12,13 +12,6 @@ AnchorPoint: "Center" 5 0 basechar 0
 AnchorPoint: "Top" 250 546 basechar 0
 LayerCount: 4
 Back
-SplineSet
-387 507 m 5
- 445 507 l 5
- 103 -30 l 5
- 45 -30 l 5
- 387 507 l 5
-EndSplineSet
 Fore
 SplineSet
 435 258 m 2

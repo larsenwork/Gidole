@@ -1,15 +1,16 @@
 StartChar: Sacute
 Encoding: 346 346 273
-Width: 531
+Width: 508
 VWidth: 0
-Flags: HW
-HStem: -6 70<149.075 337.95> 603 70<175.354 354.54> 736 121
-VStem: 55 74<428.628 557.829> 210 153 392 74<114.577 250.015>
+Flags: W
+HStem: -6 70<141.075 329.95> 603 70<167.354 346.54> 736 121
+VStem: 47 74<428.628 557.829> 202 153 384 74<114.577 250.015>
 LayerCount: 4
 Back
 Fore
-Refer: 428 769 N 1 0 0 1 160 190 2
+Refer: 416 769 N 1 0 0 1 152 190 2
 Refer: 35 83 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

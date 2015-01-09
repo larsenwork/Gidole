@@ -8,23 +8,23 @@ VStem: 322 74<111.847 667>
 AnchorPoint: "DoubleTop" 0 0 basechar 0
 AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 0 0 basechar 0
-AnchorPoint: "Bottom" 211 0 basechar 0
+AnchorPoint: "Bottom" 201 0 basechar 0
 AnchorPoint: "Top" 359 667 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-396 199 m 5
- 396 181 396 166 393 149 c 4
- 377 54 305 -6 201 -6 c 4
- 163 -6 80 3 35 77 c 5
- 90 121 l 5
- 126 69 173 64 201 64 c 4
- 262 64 304 97 317 149 c 4
- 321 165 322 181 322 199 c 5
+396 199 m 1
+ 396 181 396 166 393 149 c 0
+ 377 54 305 -6 201 -6 c 0
+ 163 -6 80 3 35 77 c 1
+ 90 121 l 1
+ 126 69 173 64 201 64 c 0
+ 262 64 304 97 317 149 c 0
+ 321 165 322 181 322 199 c 1
  322 667 l 1
  396 667 l 1
- 396 199 l 5
+ 396 199 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

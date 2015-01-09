@@ -1,0 +1,43 @@
+StartChar: Omicron
+Encoding: 927 927 493
+Width: 600
+VWidth: 0
+Flags: W
+HStem: -6 70<198.809 401.284> 603 70<198.809 401.284>
+VStem: 65 74<126.192 540.808> 461 74<126.976 540.024>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Bottom" 300 0 basechar 0
+AnchorPoint: "Top" 300 667 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+300 603 m 0
+ 214 603 168 575 149 518 c 0
+ 141 493 139 470 139 438 c 2
+ 139 229 l 2
+ 139 197 141 174 149 149 c 0
+ 168 92 214 64 300 64 c 0
+ 386 64 432 92 451 149 c 0
+ 459 173 461 197 461 229 c 2
+ 461 438 l 2
+ 461 470 459 494 451 518 c 0
+ 432 575 386 603 300 603 c 0
+300 673 m 0
+ 431 673 506 619 528 517 c 0
+ 534 492 535 468 535 438 c 2
+ 535 229 l 2
+ 535 199 534 175 528 150 c 0
+ 506 48 431 -6 300 -6 c 0
+ 169 -6 95 48 72 149 c 0
+ 66 174 65 199 65 229 c 2
+ 65 438 l 2
+ 65 468 66 493 72 518 c 0
+ 95 619 169 673 300 673 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

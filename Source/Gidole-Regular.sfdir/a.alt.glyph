@@ -1,8 +1,7 @@
 StartChar: a.alt
-Encoding: 57344 57344 441
+Encoding: 57344 57344 429
 Width: 1000
 VWidth: 0
-Flags: H
 LayerCount: 4
 Back
 SplineSet
@@ -25,6 +24,7 @@ SplineSet
  405 176 l 6
 EndSplineSet
 Fore
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

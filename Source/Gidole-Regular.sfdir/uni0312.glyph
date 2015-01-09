@@ -1,11 +1,11 @@
 StartChar: uni0312
-Encoding: 786 786 457
+Encoding: 786 786 445
 Width: 202
 VWidth: 0
 Flags: W
 HStem: 552 167<104 119.516>
 VStem: 50 102<558.318 636.495>
-AnchorPoint: "Top" 97.5 477 mark 0
+AnchorPoint: "Top" 101 477 mark 0
 LayerCount: 4
 Back
 Fore

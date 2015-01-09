@@ -1,5 +1,5 @@
 StartChar: pi
-Encoding: 960 960 416
+Encoding: 960 960 404
 Width: 530
 VWidth: 0
 Flags: W
@@ -27,6 +27,7 @@ SplineSet
  425 411 l 1
  425 124 l 2
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

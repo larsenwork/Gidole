@@ -1,16 +1,16 @@
 StartChar: Aogonek
 Encoding: 260 260 367
-Width: 609
+Width: 610
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: -191 55<521.172 594.693> -20 20<488 570> 0 21<35 117.909 492.091 574> 165 70<190 419> 647 20<265.864 344.106>
-VStem: 465 50<-131.053 -35.0089>
+HStem: -191 55<522.172 595.693> -20 20G<489 571> 0 21G<35 117.909 492.091 575> 165 70<190 420> 647 20G<265.864 344.136>
+VStem: 466 50<-131.053 -35.0089>
 LayerCount: 4
 Back
 Fore
-Refer: 389 731 N 1 0 0 1 415 0 2
+Refer: 389 731 N 1 0 0 1 416 0 2
 Refer: 13 65 N 1 0 0 1 0 0 3
-Validated: 5
 Layer: 2
 Layer: 3
 EndChar

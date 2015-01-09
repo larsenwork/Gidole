@@ -7,13 +7,6 @@ HStem: -6 70<197.851 401.284> 603 70<198.809 401.446>
 VStem: 65 74<135.234 540.808> 461 74<126.976 529.385>
 LayerCount: 4
 Back
-SplineSet
-541 693 m 5
- 123 -27 l 5
- 60 -27 l 5
- 478 693 l 5
- 541 693 l 5
-EndSplineSet
 Fore
 SplineSet
 535 438 m 2

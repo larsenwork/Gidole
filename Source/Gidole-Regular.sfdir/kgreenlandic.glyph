@@ -1,27 +1,32 @@
 StartChar: kgreenlandic
-Encoding: 312 312 425
-Width: 467
+Encoding: 312 312 413
+Width: 459
 VWidth: 0
 Flags: W
-HStem: 0 21G<75 143 332.132 427>
-VStem: 75 68<0 137 228 477>
+HStem: 0 21G<65 135 324.132 419>
+VStem: 65 70<0 137 228 477>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Top" -8 0 basechar 0
+AnchorPoint: "Center" -8 0 basechar 0
+AnchorPoint: "Bottom" 229 0 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-75 477 m 1
- 143 477 l 1
- 143 228 l 1
- 330 477 l 1
- 412 477 l 1
- 245 260 l 1
- 427 0 l 1
- 346 0 l 1
- 199 212 l 1
- 143 137 l 1
- 143 0 l 1
- 75 0 l 1
- 75 477 l 1
+65 477 m 1
+ 135 477 l 1
+ 135 228 l 1
+ 322 477 l 1
+ 404 477 l 1
+ 237 260 l 1
+ 419 0 l 1
+ 338 0 l 1
+ 191 212 l 1
+ 135 137 l 1
+ 135 0 l 1
+ 65 0 l 1
+ 65 477 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

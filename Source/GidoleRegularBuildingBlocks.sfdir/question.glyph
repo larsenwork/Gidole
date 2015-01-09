@@ -1,0 +1,22 @@
+StartChar: question
+Encoding: 63 63 3
+Width: 473
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+413 490 m 4xf0
+ 413 593 348 673 219 673 c 5
+ 171 673 95 661 39 608 c 5
+ 83 553 l 5
+ 132 596 184 603 219 603 c 5
+ 302 603 339 554 339 490 c 4
+ 339 426 302 377 219 377 c 5
+ 184 377 132 384 83 427 c 5
+ 39 372 l 5
+ 95 319 171 307 219 307 c 5
+ 348 307 413 387 413 490 c 4xf0
+EndSplineSet
+EndChar

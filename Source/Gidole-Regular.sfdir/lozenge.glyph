@@ -1,5 +1,5 @@
 StartChar: lozenge
-Encoding: 9674 9674 462
+Encoding: 9674 9674 450
 Width: 550
 VWidth: 0
 Flags: W
@@ -8,11 +8,11 @@ LayerCount: 4
 Back
 Fore
 SplineSet
-134 334 m 29
+134 334 m 25
  275 110 l 25
  416 334 l 25
  275 559 l 25
- 134 334 l 29
+ 134 334 l 25
 60 334 m 25
  275 669 l 25
  490 334 l 25

@@ -2,7 +2,7 @@ StartChar: U
 Encoding: 85 85 24
 Width: 570
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -6 70<203.258 366.82> 647 20G<70 144 426 500>
 VStem: 70 74<126.192 667> 426 74<124.401 667>
 AnchorPoint: "DoubleTop" 0 0 basechar 0
@@ -30,6 +30,7 @@ SplineSet
  71 174 70 199 70 229 c 1
  70 667 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar
