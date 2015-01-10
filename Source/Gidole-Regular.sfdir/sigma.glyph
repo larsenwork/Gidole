@@ -1,9 +1,9 @@
 StartChar: sigma
 Encoding: 963 963 502
-Width: 520
+Width: 530
 VWidth: 0
 Flags: W
-HStem: -6 66<172.226 317.774> 417 66<172.252 317.8 400 475>
+HStem: -6 66<172.226 317.774> 417 66<172.252 317.8 400 485>
 VStem: 55 70<109.356 367.644> 365 70<109.356 368.904>
 AnchorPoint: "DoubleTop" 0 0 basechar 0
 AnchorPoint: "Apos" 0 0 basechar 0
@@ -37,8 +37,8 @@ SplineSet
  55 296 55 324 63 353 c 0
  85 433 150 483 245 483 c 0
  264 483 282 481 299 477 c 2
- 475 477 l 1
- 475 411 l 1
+ 485 477 l 5
+ 485 411 l 5
  400 411 l 1
 EndSplineSet
 Validated: 1

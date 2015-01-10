@@ -9,9 +9,6 @@ CounterMasks: 1 0e
 LayerCount: 4
 Back
 Fore
-SplineSet
-829 667 m 1048,65,-1
-EndSplineSet
 Refer: 447 806 N 1 0 0 1 189 0 2
 Refer: 28 71 N 1 0 0 1 0 0 3
 Validated: 1

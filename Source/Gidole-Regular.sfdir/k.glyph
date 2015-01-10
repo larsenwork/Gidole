@@ -1,6 +1,6 @@
 StartChar: k
 Encoding: 107 107 68
-Width: 459
+Width: 454
 VWidth: 0
 Flags: W
 HStem: 0 21G<65 135 324.132 419> 647 20G<65 135>
@@ -20,7 +20,7 @@ SplineSet
  322 477 l 1
  404 477 l 1
  237 260 l 1
- 419 0 l 1
+ 419 0 l 5
  338 0 l 1
  191 212 l 1
  135 137 l 1
