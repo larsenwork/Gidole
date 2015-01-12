@@ -1,0 +1,33 @@
+StartChar: plusminus
+Encoding: 177 177 105
+Width: 520
+Flags: W
+HStem: 95 56<80 440> 293 56<80 230 290 440>
+VStem: 230 60<201 293 349 441>
+LayerCount: 4
+Back
+Fore
+SplineSet
+230 441 m 1
+ 290 441 l 1
+ 290 349 l 1
+ 440 349 l 1
+ 440 293 l 1
+ 290 293 l 1
+ 290 201 l 1
+ 230 201 l 1
+ 230 293 l 1
+ 80 293 l 1
+ 80 349 l 1
+ 230 349 l 1
+ 230 441 l 1
+80 151 m 1
+ 440 151 l 1
+ 440 95 l 1
+ 80 95 l 1
+ 80 151 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

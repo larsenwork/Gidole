@@ -1,0 +1,31 @@
+StartChar: Lslash
+Encoding: 321 321 380
+Width: 550
+VWidth: 0
+Flags: W
+HStem: 0 70<189 495> 647 20G<115 189>
+VStem: 115 74<70 254 377 667>
+LayerCount: 4
+Back
+Fore
+SplineSet
+115 667 m 1
+ 189 667 l 1
+ 189 377 l 1
+ 280 453 l 1
+ 280 392 l 1
+ 189 316 l 1
+ 189 70 l 1
+ 495 70 l 1
+ 495 0 l 1
+ 115 0 l 1
+ 115 254 l 1
+ 40 192 l 1
+ 40 253 l 1
+ 115 316 l 1
+ 115 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

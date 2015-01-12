@@ -1,0 +1,15 @@
+StartChar: jcircumflex
+Encoding: 309 309 244
+Width: 158
+VWidth: 0
+Flags: W
+HStem: -191 8<-60.1559 -1.57812> 457 20G<75 83> 543 121
+VStem: -55 268 75 8<-92.2656 477>
+LayerCount: 4
+Back
+Fore
+Refer: 143 710 N 1 0 0 1 -105 -3 2
+Refer: 429 567 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,28 @@
+StartChar: cedilla
+Encoding: 184 184 190
+Width: 342
+Flags: W
+HStem: -191 55<69.1003 230.94> -70 70<163 197.605>
+VStem: 234 58<-129.403 -75.8355>
+AnchorPoint: "Bottom" 190 0 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+217 0 m 1
+ 198 -37 l 1
+ 257 -42 292 -58 292 -104 c 0
+ 292 -167 244 -191 157 -191 c 0
+ 105 -191 77 -186 50 -176 c 1
+ 77 -125 l 1
+ 98 -132 118 -136 157 -136 c 0
+ 202 -136 234 -132 234 -104 c 0
+ 234 -74 201 -70 167 -70 c 2
+ 127 -70 l 1
+ 163 0 l 1
+ 217 0 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

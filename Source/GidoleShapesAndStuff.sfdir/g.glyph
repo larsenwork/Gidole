@@ -1,0 +1,18 @@
+StartChar: g
+Encoding: 279 103 23
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 4
+Back
+SplineSet
+355 25 m 2
+ 355 1 355 -18 350 -35 c 1024
+422 -35 m 0
+ 425 -17 425 1 425 25 c 1026
+EndSplineSet
+Fore
+Layer: 2
+Layer: 3
+Substitution2: "'salt' Stylistic Alternatives lookup 0-1" g.alt
+EndChar

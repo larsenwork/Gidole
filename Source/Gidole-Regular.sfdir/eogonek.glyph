@@ -1,0 +1,16 @@
+StartChar: eogonek
+Encoding: 281 281 369
+Width: 490
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -191 55<235.172 308.693> -20 20G<202 284> -6 64<175.492 354.071> 218 64<123 367> 419 64<171.993 318.007>
+VStem: 55 68<108.498 218 282 368.564> 179 50<-131.053 -35.0089> 367 68<282 368.564>
+LayerCount: 4
+Back
+Fore
+Refer: 389 731 N 1 0 0 1 129 0 2
+Refer: 57 101 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

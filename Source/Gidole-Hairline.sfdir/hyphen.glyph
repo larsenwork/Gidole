@@ -1,0 +1,19 @@
+StartChar: hyphen
+Encoding: 45 45 81
+Width: 390
+Flags: W
+HStem: 246 8<90 300>
+VStem: 90 210<246 254>
+LayerCount: 4
+Back
+Fore
+SplineSet
+90 254 m 5
+ 300 254 l 5
+ 300 246 l 1
+ 90 246 l 1
+ 90 254 l 5
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

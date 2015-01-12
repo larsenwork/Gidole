@@ -1,0 +1,26 @@
+StartChar: k.alt
+Encoding: 57352 57352 433
+Width: 1000
+VWidth: 0
+LayerCount: 4
+Back
+SplineSet
+75 667 m 1
+ 143 667 l 1
+ 143 228 l 1
+ 330 477 l 5
+ 412 477 l 5
+ 245 260 l 1
+ 427 0 l 5
+ 346 0 l 5
+ 199 212 l 1
+ 143 137 l 1
+ 143 0 l 1
+ 75 0 l 1
+ 75 667 l 1
+EndSplineSet
+Fore
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

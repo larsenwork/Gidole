@@ -1,0 +1,49 @@
+StartChar: Phi
+Encoding: 934 934 490
+Width: 624
+VWidth: 0
+Flags: W
+HStem: 0 21G<275 349> 98 74<192.976 275 349 430.825> 494 74<192.192 275 349 431.808> 647 20G<275 349>
+VStem: 60 70<234.753 434.816> 275 74<0 98 172 494 568 667> 494 70<232.619 434.816>
+CounterMasks: 1 0e
+AnchorPoint: "DoubleTop" 12 0 basechar 0
+AnchorPoint: "Apos" 12 0 basechar 0
+AnchorPoint: "Center" 12 0 basechar 0
+AnchorPoint: "Bottom" 312 0 basechar 0
+AnchorPoint: "Top" 312 667 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+275 667 m 1
+ 349 667 l 1
+ 349 568 l 1
+ 364 568 384 568 409 562 c 0
+ 510 538 564 464 564 334 c 0
+ 564 202 509 130 408 106 c 0
+ 383 100 364 98 349 98 c 1
+ 349 0 l 1
+ 275 0 l 1
+ 275 98 l 1
+ 260 98 241 100 216 106 c 0
+ 114 128 60 202 60 334 c 0
+ 60 464 114 538 215 562 c 0
+ 240 568 260 568 275 568 c 1
+ 275 667 l 1
+349 494 m 1
+ 349 172 l 1
+ 366 172 385 174 409 182 c 0
+ 466 202 494 248 494 334 c 0
+ 494 420 466 466 409 484 c 0
+ 384 492 366 494 349 494 c 1
+275 494 m 1
+ 258 494 240 492 215 484 c 0
+ 158 466 130 420 130 334 c 0
+ 130 248 158 202 215 182 c 0
+ 239 174 258 172 275 172 c 1
+ 275 494 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,24 @@
+StartChar: f
+Encoding: 280 102 24
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 4
+Back
+SplineSet
+195 521 m 4
+ 195 574.048780488 227 608 277 608 c 4
+ 327 608 360 574.048780488 360 521 c 0
+ 360 467.987951807 327 433 277 433 c 0
+ 227 433 195 467.987951807 195 521 c 4
+125 521 m 4
+ 125 613 185 673 277 673 c 4
+ 369 673 430 613 430 521 c 0
+ 430 429 369 368 277 368 c 0
+ 185 368 125 429 125 521 c 4
+EndSplineSet
+Fore
+Layer: 2
+Layer: 3
+Substitution2: "'salt' Stylistic Alternatives lookup 0-1" f.alt
+EndChar

@@ -1,0 +1,24 @@
+StartChar: second
+Encoding: 8243 8243 435
+Width: 450
+Flags: W
+HStem: 456 211
+LayerCount: 4
+Back
+Fore
+SplineSet
+324 667 m 1
+ 400 667 l 1
+ 265 456 l 1
+ 200 456 l 1
+ 324 667 l 1
+174 667 m 1
+ 250 667 l 1
+ 115 456 l 1
+ 50 456 l 1
+ 174 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

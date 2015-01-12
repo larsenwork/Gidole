@@ -1,0 +1,15 @@
+StartChar: uni1ECA
+Encoding: 7882 7882 344
+Width: 178
+VWidth: 0
+Flags: W
+HStem: -187 102<45.2266 130.773> 0 21G<85 93> 647 20G<85 93>
+VStem: 37 102<-178.773 -93.2266> 85 8<0 667>
+LayerCount: 4
+Back
+Fore
+Refer: 458 803 N 1 0 0 1 -13 0 2
+Refer: 21 73 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

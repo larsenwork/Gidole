@@ -1,0 +1,31 @@
+StartChar: arrowboth
+Encoding: 8596 8596 459
+Width: 640
+Flags: W
+HStem: 222 56<154 486>
+LayerCount: 4
+Back
+Fore
+SplineSet
+173 377 m 1
+ 239 377 l 1
+ 154 278 l 1
+ 486 278 l 1
+ 401 377 l 1
+ 467 377 l 1
+ 560 270 l 1
+ 560 230 l 1
+ 467 123 l 1
+ 401 123 l 1
+ 486 222 l 1
+ 154 222 l 1
+ 239 123 l 1
+ 173 123 l 1
+ 80 230 l 1
+ 80 270 l 1
+ 173 377 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

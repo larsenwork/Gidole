@@ -1,0 +1,34 @@
+StartChar: Kappa
+Encoding: 922 922 483
+Width: 570
+VWidth: 0
+Flags: W
+HStem: 0 21G<75 149 421.492 525> 647 20G<75 149 403.576 505>
+VStem: 75 74<0 192 294 667>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Top" -5 0 basechar 0
+AnchorPoint: "Center" -5 0 basechar 0
+AnchorPoint: "Bottom" 285 0 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+525 0 m 1
+ 436 0 l 1
+ 222 295 l 1
+ 149 192 l 1
+ 149 0 l 1
+ 75 0 l 1
+ 75 667 l 1
+ 149 667 l 1
+ 149 294 l 1
+ 418 667 l 1
+ 505 667 l 1
+ 273 347 l 1
+ 525 0 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

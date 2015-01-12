@@ -1,0 +1,33 @@
+StartChar: Tbar
+Encoding: 358 358 385
+Width: 560
+VWidth: 0
+Flags: W
+HStem: 0 21G<243 317> 292 61<118 243 317 438> 597 70<55 243 317 505>
+VStem: 243 74<0 292 353 597>
+LayerCount: 4
+Back
+Fore
+SplineSet
+55 667 m 1
+ 505 667 l 1
+ 505 597 l 1
+ 317 597 l 1
+ 317 353 l 1
+ 438 353 l 1
+ 438 292 l 1
+ 317 292 l 1
+ 317 0 l 1
+ 243 0 l 1
+ 243 292 l 1
+ 118 292 l 1
+ 118 353 l 1
+ 243 353 l 1
+ 243 597 l 1
+ 55 597 l 1
+ 55 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

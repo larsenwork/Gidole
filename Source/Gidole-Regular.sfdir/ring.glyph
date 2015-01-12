@@ -1,0 +1,27 @@
+StartChar: ring
+Encoding: 730 730 197
+Width: 280
+VWidth: 0
+Flags: W
+HStem: 519 41<102.865 177.691> 653 40<104.128 177.399>
+VStem: 53 43<566.154 646.438> 185 42<566.424 646.157>
+AnchorPoint: "Top" 140 477 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+140 693 m 0
+ 192 693 227 659 227 606 c 0
+ 227 554 192 519 140 519 c 0
+ 89 519 53 554 53 606 c 0
+ 53 659 89 693 140 693 c 0
+140 653 m 0
+ 113 653 96 633 96 606 c 0
+ 96 579 113 560 140 560 c 0
+ 167 560 185 579 185 606 c 0
+ 185 633 167 653 140 653 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

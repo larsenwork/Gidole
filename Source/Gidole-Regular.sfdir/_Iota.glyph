@@ -1,0 +1,26 @@
+StartChar: Iota
+Encoding: 921 921 482
+Width: 224
+VWidth: 0
+Flags: W
+HStem: 0 21G<75 149> 647 20G<75 149>
+VStem: 75 74<0 667>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Center" -5 0 basechar 0
+AnchorPoint: "Bottom" 112 0 basechar 0
+AnchorPoint: "Top" 112 667 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+149 667 m 1
+ 149 0 l 1
+ 75 0 l 1
+ 75 667 l 1
+ 149 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

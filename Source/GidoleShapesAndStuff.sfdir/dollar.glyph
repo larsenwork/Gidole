@@ -1,0 +1,35 @@
+StartChar: dollar
+Encoding: 288 36 32
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 4
+Back
+SplineSet
+234 32 m 5
+ 298 32 l 5
+ 298 -70 l 5
+ 234 -70 l 5
+ 234 32 l 5
+298 624 m 5
+ 234 624 l 5
+ 234 737 l 5
+ 298 737 l 5
+ 298 624 l 5
+EndSplineSet
+Fore
+Layer: 2
+SplineSet
+239 612 m 5
+ 293 612 l 5
+ 293 -70 l 5
+ 239 -70 l 5
+ 239 612 l 5
+293 624 m 5
+ 239 624 l 5
+ 239 737 l 5
+ 293 737 l 5
+ 293 624 l 5
+EndSplineSet
+Layer: 3
+EndChar

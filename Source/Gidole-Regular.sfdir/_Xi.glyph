@@ -1,0 +1,35 @@
+StartChar: Xi
+Encoding: 926 926 495
+Width: 490
+VWidth: 0
+Flags: W
+HStem: 0 70<65 425> 308 70<85 405> 597 70<65 425>
+AnchorPoint: "DoubleTop" -10 0 basechar 0
+AnchorPoint: "Apos" -10 0 basechar 0
+AnchorPoint: "Center" -10 0 basechar 0
+AnchorPoint: "Bottom" 245 0 basechar 0
+AnchorPoint: "Top" 245 667 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+85 378 m 1
+ 405 378 l 1
+ 405 308 l 1
+ 85 308 l 1
+ 85 378 l 1
+65 70 m 1
+ 425 70 l 1
+ 425 0 l 1
+ 65 0 l 1
+ 65 70 l 1
+65 667 m 1
+ 425 667 l 1
+ 425 597 l 1
+ 65 597 l 1
+ 65 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,26 @@
+StartChar: hungarumlaut
+Encoding: 733 733 199
+Width: 383
+Flags: W
+HStem: 546 121
+VStem: 50 283
+AnchorPoint: "Top" 171 477 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+197 667 m 25
+ 114 546 l 1
+ 50 546 l 1
+ 125 667 l 25
+ 197 667 l 25
+333 667 m 25
+ 246 546 l 1
+ 182 546 l 1
+ 261 667 l 25
+ 333 667 l 25
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

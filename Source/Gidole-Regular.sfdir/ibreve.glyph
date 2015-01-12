@@ -1,0 +1,17 @@
+StartChar: ibreve
+Encoding: 301 301 241
+Width: 214
+VWidth: 0
+Flags: W
+HStem: 0 21G<72 142> 540 52<40.5476 173.452> 647 20G<-32 18 196 246>
+VStem: -32 50<614.755 667> 72 70<0 477> 196 50<614.755 667>
+CounterMasks: 1 1c
+LayerCount: 4
+Back
+Fore
+Refer: 194 728 N 1 0 0 1 -82 0 2
+Refer: 156 305 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

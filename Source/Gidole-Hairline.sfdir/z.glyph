@@ -1,0 +1,26 @@
+StartChar: z
+Encoding: 122 122 71
+Width: 380
+VWidth: 0
+Flags: W
+HStem: 0 8<59.8691 330> 469 8<50 320.151>
+VStem: 50 280<0 7 469.996 477>
+LayerCount: 4
+Back
+Fore
+SplineSet
+50 477 m 5
+ 330 477 l 1
+ 330 469.99609375 l 1
+ 59.869140625 8 l 1
+ 330 8 l 1
+ 330 0 l 1
+ 50 0 l 1
+ 50 7 l 1
+ 320.151367188 469 l 1
+ 50 469 l 1
+ 50 477 l 5
+EndSplineSet
+Layer: 2
+Layer: 3
+EndChar

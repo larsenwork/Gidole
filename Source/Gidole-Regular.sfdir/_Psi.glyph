@@ -1,0 +1,43 @@
+StartChar: Psi
+Encoding: 936 936 496
+Width: 644
+VWidth: 0
+Flags: W
+HStem: 0 21G<285 359> 128 74<202.976 285 359 440.825> 647 20G<70 140 285 359 504 574>
+VStem: 70 70<266.255 667> 285 74<0 128 202 667> 504 70<263.25 667>
+CounterMasks: 1 1c
+AnchorPoint: "Top" 334 667 basechar 0
+AnchorPoint: "Bottom" 334 0 basechar 0
+AnchorPoint: "Center" 34 0 basechar 0
+AnchorPoint: "Apos" 34 0 basechar 0
+AnchorPoint: "DoubleTop" 34 0 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+70 667 m 1
+ 140 667 l 1
+ 140 364 l 2
+ 140 278 168 232 225 212 c 0
+ 249 204 268 202 285 202 c 1
+ 285 667 l 1
+ 359 667 l 1
+ 359 202 l 1
+ 376 202 395 204 419 212 c 0
+ 476 232 504 278 504 364 c 2
+ 504 667 l 1
+ 574 667 l 1
+ 574 364 l 2
+ 574 232 519 160 418 136 c 0
+ 393 130 374 128 359 128 c 1
+ 359 0 l 1
+ 285 0 l 1
+ 285 128 l 1
+ 270 128 251 130 226 136 c 0
+ 124 158 70 232 70 364 c 2
+ 70 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

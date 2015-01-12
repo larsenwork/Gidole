@@ -1,0 +1,15 @@
+StartChar: Ecircumflex
+Encoding: 202 202 146
+Width: 480
+VWidth: 0
+Flags: W
+HStem: 0 8<93 405> 338 8<93 354> 659 8<93 405> 736 121
+VStem: 85 8<8 338 346 659> 107 268
+LayerCount: 4
+Back
+Fore
+Refer: 143 710 N 1 0 0 1 57 190 2
+Refer: 18 69 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar
