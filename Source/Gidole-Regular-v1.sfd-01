@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1421196926
+ModificationTime: 1421197114
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -142,7 +142,7 @@ KernClass2: 66 56 "'kern' Horizontal Kerning lookup 0-1"
  38 two Z Zacute Zdotaccent Zcaron uni1E92
  12 a ae aogonek
  79 agrave aacute acircumflex atilde adieresis aring amacron abreve uni0201 uni0203
- 44 c d e o q eogonek oe uni1E0D uni1EB9 uni1ECD
+ 53 c d e o q ccedilla eogonek oe uni1E0D uni1EB9 uni1ECD
  228 egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis cacute ccircumflex cdotaccent ccaron dcroat emacron ebreve edotaccent ecaron omacron obreve ohungarumlaut uni0205 uni0207 uni020D uni020F uni1EBD
  1 f
  1 g
@@ -193,7 +193,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 0 19 14
+WinInfo: 95 19 14
 BeginPrivate: 6
 BlueValues 15 [-20 0 667 673]
 BlueShift 1 0
@@ -11068,7 +11068,7 @@ EndChar
 
 StartChar: paragraph
 Encoding: 182 182 422
-Width: 542
+Width: 532
 VWidth: 0
 Flags: W
 HStem: 0 21G<205 278 384 457> 598 69<278 384>
@@ -11089,7 +11089,6 @@ SplineSet
  55 602 149 667 255 667 c 2
  457 667 l 25xe8
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

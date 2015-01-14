@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1421195500
+ModificationTime: 1421197114
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -193,7 +193,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 0 19 14
+WinInfo: 95 19 14
 BeginPrivate: 6
 BlueValues 15 [-20 0 667 673]
 BlueShift 1 0
@@ -469,6 +469,7 @@ SplineSet
  328 8 277 -6 221 -6 c 4
  154 -6 94 11 50 48 c 5xe8
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar
@@ -536,6 +537,7 @@ SplineSet
  85 341 l 1
  85 667 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar
@@ -575,6 +577,7 @@ SplineSet
  185 -6 132 21 98 60 c 0
  66 97 50 148 50 205 c 0
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar
@@ -684,6 +687,7 @@ SplineSet
  315 673 368 646 402 607 c 4
  434 570 450 519 450 462 c 4
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar
@@ -11064,7 +11068,7 @@ EndChar
 
 StartChar: paragraph
 Encoding: 182 182 422
-Width: 542
+Width: 532
 VWidth: 0
 Flags: W
 HStem: 0 21G<205 278 384 457> 598 69<278 384>
@@ -11085,7 +11089,6 @@ SplineSet
  55 602 149 667 255 667 c 2
  457 667 l 25xe8
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar
