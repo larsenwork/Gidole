@@ -35,3 +35,31 @@ Simplify more 3em
 **After build**
 dcaron, lcaron, tcaron rb 30
 napostrophe tix + lb 50
+
+**Sizes**
+
+```
+REGULAR
+x 477
+o 489 (423)
+X 667
+O 679 (609)
+distance to dot: 73
+
+HAIRLINE
+x 471
+o 479 (471)
+X 661 
+O 669 (661)
+distance to dot: 100
+finial 20 x-axis shorter
+width -20
+
+Non-linear transform reg -> hair
+o: 
+(x-90)*330/310+80
+(y-27)*471/423
+X: y*661/667
+B: y*653/667
+O: y*661/609
+```
