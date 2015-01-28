@@ -55,10 +55,10 @@ distance to dot: 100
 finial 20 x-axis shorter
 width -20
 
+BLACK
+
 Non-linear transform reg -> hair
-o: 
-(x-90)*330/310+80
-(y-27)*471/423
+o: y*471/423
 X: y*661/667
 B: y*653/667
 O: y*661/609
