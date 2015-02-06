@@ -2,7 +2,7 @@ StartChar: germandbls
 Encoding: 223 223 363
 Width: 505
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -6 66<211.915 342.944> 339 66<224 284.11> 607 66<165.41 295.288>
 VStem: 65 70<0 577.133> 327 70<447.094 575.429> 385 70<102.319 299.182>
 LayerCount: 4
