@@ -1,0 +1,14 @@
+StartChar: uni2010
+Encoding: 8208 8208 527
+Width: 370
+Flags: W
+HStem: 221 58<80 290>
+VStem: 80 210<221 279>
+LayerCount: 4
+Back
+Fore
+Refer: 81 45 N 1 0 0 1 0 0 2
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

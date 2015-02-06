@@ -1,0 +1,16 @@
+StartChar: Iogonek
+Encoding: 302 302 376
+Width: 184
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -191 55<77.1718 150.693> -20 20G<43 127> 0 21G<88 96>
+VStem: 21 50<-131.053 -35.7473> 88 8<0 661>
+LayerCount: 4
+Back
+Fore
+Refer: 389 731 N 1 0 0 1 -29 0 2
+Refer: 21 73 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

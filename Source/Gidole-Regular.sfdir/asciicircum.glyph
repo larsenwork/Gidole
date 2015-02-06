@@ -1,0 +1,24 @@
+StartChar: asciicircum
+Encoding: 94 94 113
+Width: 368
+Flags: W
+HStem: 546 121
+VStem: 50 268
+AnchorPoint: "Top" 184 477 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+145 667 m 1
+ 223 667 l 1
+ 318 546 l 1
+ 252 546 l 1
+ 184 623 l 1
+ 116 546 l 1
+ 50 546 l 1
+ 145 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

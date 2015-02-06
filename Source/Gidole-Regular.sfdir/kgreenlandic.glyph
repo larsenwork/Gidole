@@ -1,0 +1,33 @@
+StartChar: kgreenlandic
+Encoding: 312 312 413
+Width: 454
+Flags: W
+HStem: 0 21G<65 135 324.132 419>
+VStem: 65 70<0 137 228 477>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Top" -8 0 basechar 0
+AnchorPoint: "Center" -8 0 basechar 0
+AnchorPoint: "Bottom" 229 0 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+65 477 m 1
+ 135 477 l 1
+ 135 228 l 1
+ 322 477 l 1
+ 404 477 l 1
+ 237 260 l 1
+ 419 0 l 1
+ 338 0 l 1
+ 191 212 l 1
+ 135 137 l 1
+ 135 0 l 1
+ 65 0 l 1
+ 65 477 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,16 @@
+StartChar: sacute
+Encoding: 347 347 274
+Width: 408
+VWidth: 0
+Flags: W
+HStem: -4 8<149.167 242.08> 467 8<157.948 245.576> 546 121
+VStem: 56 8<333.548 388.364> 153 153 344 8<90.2737 145.174>
+LayerCount: 4
+Back
+Fore
+Refer: 416 769 N 1 0 0 1 103 0 2
+Refer: 48 115 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,30 @@
+StartChar: Tau
+Encoding: 932 932 487
+Width: 560
+VWidth: 0
+Flags: W
+HStem: 0 21G<243 317> 597 70<55 243 317 505>
+VStem: 243 74<0 597>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Center" 35 0 basechar 0
+AnchorPoint: "Bottom" 281 0 basechar 0
+AnchorPoint: "Top" 280 667 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+55 667 m 1
+ 505 667 l 1
+ 505 597 l 1
+ 317 597 l 1
+ 317 0 l 1
+ 243 0 l 1
+ 243 597 l 1
+ 55 597 l 1
+ 55 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

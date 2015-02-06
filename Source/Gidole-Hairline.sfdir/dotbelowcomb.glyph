@@ -1,0 +1,22 @@
+StartChar: dotbelowcomb
+Encoding: 803 803 446
+Width: 202
+VWidth: 0
+Flags: W
+HStem: -175 102<58.2266 143.773>
+VStem: 50 102<-166.773 -81.2266>
+AnchorPoint: "Bottom" 102 0 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+101 -73 m 0
+ 131 -73 152 -94 152 -124 c 0
+ 152 -154 131 -175 101 -175 c 0
+ 71 -175 50 -154 50 -124 c 0
+ 50 -94 71 -73 101 -73 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

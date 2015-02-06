@@ -1,0 +1,16 @@
+StartChar: Aring
+Encoding: 197 197 152
+Width: 610
+VWidth: 0
+Flags: W
+HStem: 0 21G<58 73.3529 536.647 552> 204 8<144 466> 709 41<267.865 342.691> 843 40<269.128 342.399>
+VStem: 218 43<756.154 836.438> 350 42<756.424 836.157>
+LayerCount: 4
+Back
+Fore
+Refer: 197 730 N 1 0 0 1 165 190 2
+Refer: 13 65 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

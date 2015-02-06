@@ -1,0 +1,26 @@
+StartChar: ogonek
+Encoding: 731 731 389
+Width: 266
+VWidth: 0
+Flags: W
+HStem: -193 56<109.449 191.546> 0 20<185.654 196.5>
+VStem: 50 56<-134.268 -47.1814>
+AnchorPoint: "Bottom" 182 0 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+50 -100 m 4
+ 50 -30 129 4 186 20 c 5
+ 216 0 l 5
+ 168 -13 106 -41 106 -100 c 4
+ 106 -121 121 -137 142 -137 c 4
+ 154 -137 167 -132 181 -123 c 5
+ 211 -171 l 5
+ 192 -182 169 -193 142 -193 c 4
+ 90 -193 50 -152 50 -100 c 4
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

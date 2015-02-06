@@ -1,0 +1,16 @@
+StartChar: wdieresis
+Encoding: 7813 7813 337
+Width: 698
+VWidth: 0
+Flags: W
+HStem: 0 21G<197.079 216.123 481.877 500.921> 550 94<218.329 299.671 398.329 479.671>
+VStem: 212 94<556.329 637.671> 392 94<556.329 637.671>
+LayerCount: 4
+Back
+Fore
+Refer: 131 168 N 1 0 0 1 162 0 2
+Refer: 44 119 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

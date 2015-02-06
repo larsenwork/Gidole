@@ -1,0 +1,16 @@
+StartChar: Iotadieresis
+Encoding: 938 938 507
+Width: 224
+VWidth: 0
+HStem: 0 21G<75 149> 647 20G<75 149> 740 94<-18.6708 62.6708 161.329 242.671>
+VStem: -25 94<746.329 827.671> 75 74<0 667> 155 94<746.329 827.671>
+CounterMasks: 1 1c
+LayerCount: 4
+Back
+Fore
+Refer: 131 168 N 1 0 0 1 -75 190 2
+Refer: 482 921 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

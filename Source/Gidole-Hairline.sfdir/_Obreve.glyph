@@ -1,0 +1,16 @@
+StartChar: Obreve
+Encoding: 334 334 263
+Width: 580
+VWidth: 0
+Flags: W
+HStem: -4 8<245.248 334.752> 657 8<246.452 333.548> 730 52<223.548 356.452> 837 20G<151 201 379 429>
+VStem: 78 8<162.074 499.689> 151 50<804.755 857> 379 50<804.755 857> 494 8<162.074 499.689>
+LayerCount: 4
+Back
+Fore
+Refer: 194 728 N 1 0 0 1 101 190 2
+Refer: 16 79 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

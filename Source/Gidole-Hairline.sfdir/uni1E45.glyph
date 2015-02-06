@@ -1,0 +1,17 @@
+StartChar: uni1E45
+Encoding: 7749 7749 325
+Width: 465
+VWidth: 0
+Flags: W
+HStem: 0 21G<76 84 386 394> 467 8<198.954 271.24> 550 94<194.562 275.671>
+VStem: 76 8<0 471> 188 94<556.897 637.103> 386 8<0 350.84>
+CounterMasks: 1 1c
+LayerCount: 4
+Back
+Fore
+Refer: 196 729 N 1 0 0 1 138 0 2
+Refer: 58 110 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

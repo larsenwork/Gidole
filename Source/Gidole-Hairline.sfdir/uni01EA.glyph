@@ -1,0 +1,16 @@
+StartChar: uni01EA
+Encoding: 490 490 411
+Width: 580
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -191 55<275.172 348.693> -20 20G<241 325> -4 8<245.248 334.752> 657 8<246.452 333.548>
+VStem: 78 8<162.074 499.689> 219 50<-131.053 -35.7473> 494 8<162.074 499.689>
+LayerCount: 4
+Back
+Fore
+Refer: 389 731 N 1 0 0 1 169 0 2
+Refer: 16 79 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

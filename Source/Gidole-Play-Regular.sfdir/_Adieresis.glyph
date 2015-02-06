@@ -1,0 +1,16 @@
+StartChar: Adieresis
+Encoding: 196 196 142
+Width: 570
+VWidth: 0
+Flags: W
+HStem: 0 21G<70 144 426 500> 195 70<144 426> 603 70<201.722 368.278> 740 94<154.329 235.671 334.329 415.671>
+VStem: 70 74<0 195 265 547.576> 148 94<746.329 827.671> 328 94<746.329 827.671> 426 74<0 195 265 547.576>
+LayerCount: 4
+Back
+Fore
+Refer: 131 168 N 1 0 0 1 98 190 2
+Refer: 13 65 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

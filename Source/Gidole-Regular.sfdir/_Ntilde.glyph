@@ -1,0 +1,16 @@
+StartChar: Ntilde
+Encoding: 209 209 182
+Width: 590
+VWidth: 0
+Flags: W
+HStem: 0 21G<75 149 438.423 515> 647 20G<75 151.577 441 515> 740 52<296.55 385.503> 778 52<204.497 293.555>
+VStem: 75 74<0 520> 147 56<746 775.526> 387 56<794.474 824> 441 74<147 667>
+LayerCount: 4
+Back
+Fore
+Refer: 183 732 N 1 0 0 1 97 190 2
+Refer: 33 78 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

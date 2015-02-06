@@ -1,0 +1,31 @@
+StartChar: Zeta
+Encoding: 918 918 480
+Width: 540
+VWidth: 0
+Flags: W
+HStem: 0 70<147 480> 597 70<70 382>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Center" 5 0 basechar 0
+AnchorPoint: "Bottom" 270 0 basechar 0
+AnchorPoint: "Top" 270 667 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+70 667 m 1
+ 470 667 l 1
+ 470 617 l 1
+ 147 70 l 1
+ 480 70 l 1
+ 480 0 l 1
+ 60 0 l 1
+ 60 50 l 1
+ 382 597 l 1
+ 70 597 l 1
+ 70 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

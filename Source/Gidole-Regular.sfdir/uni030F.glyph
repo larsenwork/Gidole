@@ -1,0 +1,26 @@
+StartChar: uni030F
+Encoding: 783 783 399
+Width: 383
+Flags: W
+HStem: 546 121
+VStem: 50 283
+AnchorPoint: "Top" 212 477 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+186 667 m 25
+ 258 667 l 25
+ 333 546 l 1
+ 269 546 l 1
+ 186 667 l 25
+50 667 m 25
+ 122 667 l 25
+ 201 546 l 1
+ 137 546 l 1
+ 50 667 l 25
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

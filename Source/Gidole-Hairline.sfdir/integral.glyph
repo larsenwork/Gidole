@@ -1,0 +1,29 @@
+StartChar: integral
+Encoding: 8747 8747 125
+Width: 350
+VWidth: 0
+Flags: W
+HStem: -185 57<35 129.603> 600 57<220.397 315>
+VStem: 145 60<-115.497 587.756>
+LayerCount: 4
+Back
+Fore
+SplineSet
+205 -54 m 2
+ 205 -144 154 -185 95 -185 c 2
+ 35 -185 l 1
+ 35 -128 l 1
+ 95 -128 l 2
+ 120 -128 145 -103 145 -54 c 2
+ 145 527 l 2
+ 145 616 196 657 255 657 c 2
+ 315 657 l 1
+ 315 600 l 1
+ 255 600 l 2
+ 230 600 205 575 205 527 c 2
+ 205 -54 l 2
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,27 @@
+StartChar: v
+Encoding: 118 118 45
+Width: 460
+Flags: W
+HStem: 0 21G<219.102 240.898>
+AnchorPoint: "DoubleTop" -10 0 basechar 0
+AnchorPoint: "Apos" -10 0 basechar 0
+AnchorPoint: "Bottom" -20 0 basechar 0
+AnchorPoint: "Center" -20 0 basechar 0
+AnchorPoint: "Top" 230 476 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+49 471 m 1
+ 230 14 l 1
+ 411 471 l 1
+ 419 471 l 1
+ 233 0 l 1
+ 227 0 l 1
+ 41 471 l 1
+ 49 471 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,48 @@
+StartChar: pi
+Encoding: 960 960 404
+Width: 520
+VWidth: 0
+Flags: W
+HStem: 0 21G<105 175 345 415> 411 66<45 105 175 345 415 475>
+VStem: 105 70<0 411> 345 70<0 411>
+LayerCount: 4
+Back
+SplineSet
+425 124 m 6
+ 425 79 450 60 475 60 c 6
+ 485 60 l 5
+ 485 -6 l 5
+ 475 -6 l 6
+ 416 -6 355 35 355 124 c 6
+ 355 411 l 5
+ 175 411 l 5
+ 175 0 l 5
+ 105 0 l 5
+ 105 411 l 5
+ 45 411 l 5
+ 45 477 l 5
+ 475 477 l 5
+ 475 411 l 5
+ 425 411 l 5
+ 425 124 l 6
+EndSplineSet
+Fore
+SplineSet
+45 477 m 1
+ 475 477 l 1
+ 475 411 l 1
+ 415 411 l 1
+ 415 0 l 17
+ 345 0 l 9
+ 345 411 l 1
+ 175 411 l 1
+ 175 0 l 1
+ 105 0 l 1
+ 105 411 l 1
+ 45 411 l 1
+ 45 477 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

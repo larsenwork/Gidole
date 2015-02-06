@@ -1,0 +1,233 @@
+SplineFontDB: 3.0
+FontName: Gidole-Hairline
+FullName: Gidole Hairline
+FamilyName: Gidole
+Weight: Thin
+Copyright: Copyright (c) 2015, Andreas Larsen (<andreaslarsen.dk|mail@andreaslarsen.dk>), with Reserved Font Name Gidole.
+Version: 0.9
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+sfntRevision: 0x0000e667
+LayerCount: 4
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+Layer: 2 0 "Back 2" 1
+Layer: 3 0 "Back 3" 1
+XUID: [1021 365 -928128380 14908284]
+FSType: 0
+OS2Version: 3
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1417722385
+ModificationTime: 1421674969
+PfmFamily: 33
+TTFWeight: 100
+TTFWidth: 5
+LineGap: 26
+VLineGap: 0
+Panose: 2 0 5 3 0 0 0 0 0 0
+OS2TypoAscent: 667
+OS2TypoAOffset: 0
+OS2TypoDescent: -185
+OS2TypoDOffset: 0
+OS2TypoLinegap: 52
+OS2WinAscent: 883
+OS2WinAOffset: 0
+OS2WinDescent: 191
+OS2WinDOffset: 0
+HheadAscent: 883
+HheadAOffset: 0
+HheadDescent: -191
+HheadDOffset: 0
+OS2SubXSize: 650
+OS2SubYSize: 700
+OS2SubXOff: 0
+OS2SubYOff: 140
+OS2SupXSize: 650
+OS2SupYSize: 700
+OS2SupXOff: 0
+OS2SupYOff: 480
+OS2StrikeYSize: 49
+OS2StrikeYPos: 258
+OS2CapHeight: 0
+OS2XHeight: 0
+OS2FamilyClass: 1283
+OS2Vendor: 'PfEd'
+OS2CodePages: 00000003.00000000
+OS2UnicodeRanges: e00000ff.4000206a.00000000.00000000
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0-1" [150,15,4] } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 0" { "'mark' Mark Positioning in Latin lookup 0-1"  } []
+MarkAttachClasses: 1
+DEI: 91125
+KernClass2: 67 55 "'kern' Horizontal Kerning lookup 0-1"
+ 95 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni0200 uni0202 Delta
+ 29 three eight B germandbls Beta
+ 47 C Ccedilla Cacute Ccircumflex Cdotaccent Ccaron
+ 134 zero D O Ograve Oacute Ocircumflex Otilde Odieresis Dcaron Dcroat Omacron Obreve Ohungarumlaut uni01EA uni020C uni020E uni1E0C uni1ECC
+ 6 Oslash
+ 113 E Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron OE uni0204 uni0206 uni1EB8 uni1EBC
+ 1 F
+ 47 G Gcircumflex Gbreve Gdotaccent uni0122 uni01F4
+ 128 J U Ugrave Uacute Ucircumflex Udieresis IJ Jcircumflex Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek uni0214 uni1EE4 uni1EE4
+ 11 K X uni0136
+ 28 L Lacute uni013B Ldot Lslash
+ 6 Lcaron
+ 1 Q
+ 1 P
+ 5 Thorn
+ 39 R Racute uni0156 Rcaron uni0210 uni0212
+ 44 S Sacute Scircumflex Scedilla Scaron uni0218
+ 32 T uni0162 Tcaron uni021A uni1E6C
+ 1 V
+ 37 W Wcircumflex Wgrave Wacute Wdieresis
+ 45 Y Yacute Ycircumflex Ydieresis Ygrave uni1EF8
+ 46 two Z Zacute Zdotaccent Zcaron uni01A9 uni1E92
+ 31 a h m n hcircumflex napostrophe
+ 113 agrave aacute acircumflex atilde adieresis aring ntilde amacron abreve hbar nacute ncaron uni0201 uni0203 uni1E45
+ 27 aogonek uni0146 eng uni1E25
+ 19 b o p thorn uni0259
+ 87 ograve oacute ocircumflex otilde odieresis omacron obreve ohungarumlaut uni020D uni020F
+ 15 uni01EB uni1ECD
+ 6 oslash
+ 1 c
+ 36 cacute ccircumflex cdotaccent ccaron
+ 8 ccedilla
+ 7 e ae oe
+ 92 egrave eacute ecircumflex edieresis emacron ebreve edotaccent ecaron uni0205 uni0207 uni1EBD
+ 15 eogonek uni1EB9
+ 8 f florin
+ 3 g q
+ 45 gcircumflex gbreve gdotaccent uni0123 uni01F5
+ 71 icircumflex idieresis itilde imacron ibreve jcircumflex uni0209 uni020B
+ 24 k x uni0137 kgreenlandic
+ 17 r uni0157 uni1E5B
+ 29 racute rcaron uni0211 uni0213
+ 26 s scedilla uni0219 uni1E63
+ 25 sacute scircumflex scaron
+ 11 t ampersand
+ 15 uni0163 uni1E6D
+ 4 tbar
+ 17 u uogonek uni1EE5
+ 97 eth ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uni0215 uni0217
+ 1 v
+ 37 w wcircumflex wgrave wacute wdieresis
+ 1 y
+ 43 yacute ydieresis ycircumflex ygrave uni1EF9
+ 17 z uni1E93 uni1E93
+ 24 zacute zdotaccent zcaron
+ 211 asterisk asciicircum grave dieresis macron degree acute circumflex caron breve dotaccent ring tilde hungarumlaut gravecomb acutecomb uni0302 uni0304 uni0307 uni030F uni0311 uni0312 uni0315 quoteleft quotedblleft
+ 49 comma period quotesinglbase quotedblbase ellipsis
+ 31 parenleft bracketleft braceleft
+ 67 quotedbl quotesingle quoteright quotedblright minute second uni2034
+ 12 questiondown
+ 5 slash
+ 4 four
+ 4 five
+ 3 six
+ 5 seven
+ 4 nine
+ 98 A Agrave Aacute Acircumflex Atilde Adieresis Aring AE Amacron Abreve Aogonek uni0200 uni0202 Delta
+ 211 zero C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent uni0122 Omacron Obreve Ohungarumlaut OE uni01EA uni01F4 uni020C uni020E uni1ECC
+ 13 J Jcircumflex
+ 44 S Sacute Scircumflex Scedilla Scaron uni0218
+ 32 T uni0162 Tcaron uni021A uni1E6C
+ 111 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek uni0214 uni0216 uni1EE4
+ 1 V
+ 37 W Wcircumflex Wgrave Wacute Wdieresis
+ 1 X
+ 45 Y Yacute Ycircumflex Ydieresis Ygrave uni1EF8
+ 38 two Z Zacute Zdotaccent Zcaron uni1E92
+ 12 a ae aogonek
+ 79 agrave aacute acircumflex atilde adieresis aring amacron abreve uni0201 uni0203
+ 53 c d e o q ccedilla eogonek oe uni1E0D uni1EB9 uni1ECD
+ 228 egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis cacute ccircumflex cdotaccent ccaron dcroat emacron ebreve edotaccent ecaron omacron obreve ohungarumlaut uni0205 uni0207 uni020D uni020F uni1EBD
+ 1 g
+ 45 gcircumflex gbreve gdotaccent uni0123 uni01F5
+ 1 f
+ 13 i dotlessi ij
+ 71 icircumflex idieresis itilde imacron ibreve jcircumflex uni0209 uni020B
+ 1 j
+ 17 m n r uni0146 eng
+ 27 nacute ncaron racute rcaron
+ 1 p
+ 15 uni0157 uni1E5B
+ 26 s scedilla uni0219 uni1E63
+ 25 sacute scircumflex scaron
+ 8 t tcaron
+ 15 uni0163 uni1E6D
+ 17 u uogonek uni1EE5
+ 93 ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uni0215 uni0217
+ 1 v
+ 37 w wcircumflex wgrave wacute wdieresis
+ 1 y
+ 43 yacute ydieresis ycircumflex ygrave uni1EF9
+ 9 z uni1E93
+ 24 zacute zdotaccent zcaron
+ 6 Oslash
+ 4 tbar
+ 299 quotedbl quotesingle asterisk asciicircum grave dieresis macron degree acute napostrophe uni02BC circumflex caron breve dotaccent ring tilde hungarumlaut gravecomb acutecomb uni0302 uni0304 uni0307 uni030F uni0311 uni0312 uni0315 quoteleft quoteright quotedblleft quotedblright minute second uni2034
+ 49 comma period quotesinglbase quotedblbase ellipsis
+ 34 parenright bracketright braceright
+ 1 x
+ 15 colon semicolon
+ 8 question
+ 5 slash
+ 3 one
+ 5 three
+ 4 four
+ 4 five
+ 3 six
+ 5 seven
+ 15 eight ampersand
+ 4 nine
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} -20 {} 0 {} -20 {} -140 {} -20 {} -130 {} -100 {} 0 {} -140 {} 0 {} -20 {} -20 {} -20 {} -20 {} -20 {} -20 {} -50 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} -60 {} -20 {} -20 {} -90 {} -70 {} -90 {} -90 {} 0 {} 0 {} -10 {} -60 {} -80 {} 20 {} 0 {} 0 {} 0 {} -100 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} -20 {} 0 {} -30 {} 0 {} -30 {} -20 {} -50 {} -30 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} -10 {} -10 {} 0 {} 0 {} -10 {} 0 {} -10 {} -10 {} -20 {} -20 {} 0 {} -40 {} -10 {} -20 {} -20 {} -10 {} 0 {} -30 {} -20 {} -10 {} -20 {} -10 {} -10 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -30 {} -30 {} -30 {} -30 {} -30 {} -30 {} -30 {} -60 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -40 {} -20 {} -20 {} -70 {} -60 {} -70 {} -70 {} -20 {} -20 {} -20 {} -60 {} 0 {} 0 {} -20 {} -20 {} -20 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -20 {} 0 {} -30 {} 0 {} -30 {} -20 {} -40 {} -30 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -20 {} 0 {} 0 {} -10 {} -30 {} 0 {} -30 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} -20 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} -10 {} 0 {} -20 {} 10 {} 0 {} 10 {} 20 {} 0 {} 10 {} 0 {} -20 {} -20 {} -20 {} -20 {} -20 {} -20 {} -50 {} 0 {} 40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -40 {} -20 {} -20 {} -50 {} -40 {} -50 {} -50 {} 0 {} 0 {} 0 {} -40 {} 10 {} 20 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -130 {} -20 {} -160 {} -20 {} 10 {} 0 {} 10 {} 20 {} 0 {} 10 {} 0 {} -50 {} -50 {} -50 {} -50 {} -50 {} -50 {} -40 {} -40 {} 30 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -30 {} -30 {} -40 {} -40 {} -50 {} -40 {} -50 {} -50 {} -60 {} -60 {} -20 {} -40 {} 20 {} -100 {} 0 {} -50 {} -40 {} 10 {} -90 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} -20 {} -40 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -20 {} 0 {} 0 {} -20 {} -10 {} -20 {} -20 {} -20 {} -20 {} 0 {} 0 {} -20 {} -20 {} -20 {} -30 {} 0 {} -20 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} -40 {} 0 {} -10 {} 10 {} 10 {} 0 {} 10 {} 0 {} -20 {} -20 {} -30 {} -30 {} -30 {} -30 {} -50 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} -60 {} -50 {} -50 {} -80 {} -70 {} -80 {} -80 {} 0 {} 0 {} 0 {} -90 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} -30 {} 0 {} 0 {} -160 {} -30 {} -140 {} -100 {} 0 {} -140 {} 0 {} -10 {} -10 {} -20 {} -20 {} -20 {} -20 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} -60 {} -20 {} -20 {} -100 {} -80 {} -100 {} -100 {} 0 {} 0 {} 0 {} -100 {} -140 {} 20 {} 0 {} 0 {} 20 {} -100 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} -30 {} 0 {} 0 {} -120 {} -30 {} -120 {} -100 {} 0 {} -120 {} 0 {} -10 {} -10 {} -20 {} -20 {} -20 {} -20 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} -60 {} 0 {} -20 {} -100 {} -80 {} -100 {} -100 {} 0 {} 0 {} 0 {} -90 {} -100 {} 20 {} 0 {} 0 {} 0 {} -90 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} -30 {} 0 {} -30 {} -20 {} -20 {} -30 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 30 {} 40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -180 {} 0 {} -30 {} 0 {} -20 {} -15 {} -30 {} -20 {} -30 {} -30 {} -30 {} -20 {} -20 {} -20 {} -20 {} 0 {} 0 {} 50 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} -60 {} -20 {} -120 {} 0 {} -60 {} -50 {} -80 {} -80 {} -80 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -5 {} -10 {} -10 {} -20 {} -20 {} 0 {} 0 {} -40 {} -60 {} 0 {} -20 {} 0 {} -80 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} -40 {} -10 {} -40 {} -20 {} -20 {} -40 {} -20 {} -10 {} -10 {} -20 {} -20 {} -20 {} -20 {} -10 {} 0 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} -10 {} -10 {} -10 {} 0 {} -10 {} -10 {} -10 {} -10 {} 0 {} -30 {} -20 {} 0 {} 0 {} 0 {} 10 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} -30 {} -40 {} 0 {} -40 {} -20 {} -30 {} -40 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -30 {} 0 {} 0 {} -70 {} -60 {} -70 {} -70 {} -40 {} -40 {} 0 {} -20 {} -20 {} -20 {} -20 {} -30 {} 0 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -140 {} -30 {} -140 {} -20 {} 20 {} 0 {} 20 {} 20 {} 20 {} 20 {} 10 {} -150 {} -100 {} -150 {} -100 {} -150 {} -100 {} -70 {} 0 {} 20 {} -40 {} -150 {} -110 {} -150 {} -150 {} -150 {} -100 {} -50 {} -50 {} -150 {} -100 {} -150 {} -150 {} -150 {} -100 {} -150 {} -100 {} -20 {} -100 {} 20 {} -100 {} 0 {} -130 {} -100 {} 20 {} -110 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -130 {} -30 {} -120 {} -20 {} 20 {} 0 {} 20 {} 20 {} 20 {} 20 {} 10 {} -70 {} -60 {} -70 {} -60 {} -70 {} -60 {} -40 {} -20 {} 30 {} -20 {} -40 {} -40 {} -40 {} -40 {} -50 {} -50 {} -30 {} -30 {} -40 {} -30 {} -40 {} -30 {} -30 {} -30 {} -40 {} -40 {} -20 {} -60 {} 20 {} -100 {} 0 {} -20 {} -40 {} 20 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} -20 {} -80 {} -20 {} 20 {} 0 {} 20 {} 20 {} 20 {} 20 {} 10 {} -50 {} -40 {} -40 {} -40 {} -40 {} -40 {} -30 {} -10 {} 30 {} -10 {} -20 {} -20 {} -20 {} -20 {} -30 {} -30 {} -20 {} -20 {} -20 {} -20 {} -20 {} -15 {} -20 {} -20 {} -20 {} -20 {} -15 {} -50 {} 20 {} -80 {} 0 {} -10 {} -30 {} 20 {} -90 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -140 {} -50 {} -130 {} -40 {} 20 {} 0 {} 20 {} 20 {} 20 {} 20 {} 10 {} -90 {} -80 {} -100 {} -100 {} -110 {} -100 {} -60 {} -20 {} 30 {} -20 {} -60 {} -60 {} -60 {} -60 {} -80 {} -80 {} -40 {} -40 {} -60 {} -50 {} -60 {} -50 {} -50 {} -50 {} -60 {} -60 {} -30 {} -80 {} 20 {} -100 {} 0 {} -40 {} -100 {} 20 {} -110 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} -30 {} 0 {} -10 {} 10 {} -10 {} 10 {} 10 {} 10 {} 10 {} 0 {} 0 {} 0 {} -20 {} -20 {} -20 {} -20 {} -40 {} 0 {} 30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -40 {} -20 {} -20 {} -50 {} -40 {} -50 {} -50 {} 0 {} 0 {} 0 {} -80 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} 10 {} -20 {} 0 {} -40 {} 0 {} -20 {} -30 {} -10 {} -10 {} 0 {} 0 {} 0 {} 0 {} -20 {} -160 {} 0 {} -80 {} -60 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -30 {} 0 {} 0 {} -20 {} -15 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -40 {} 0 {} 0 {} -90 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -100 {} 0 {} -80 {} -60 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -20 {} 0 {} 0 {} -20 {} -15 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -40 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -160 {} 0 {} -80 {} -60 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -20 {} 0 {} 0 {} -20 {} -15 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} -20 {} 20 {} 0 {} 0 {} 0 {} -90 {} 70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -10 {} -20 {} -160 {} 0 {} -70 {} -50 {} -20 {} -90 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -20 {} 0 {} 0 {} -20 {} -10 {} -10 {} -10 {} -20 {} -20 {} 0 {} 0 {} -20 {} -10 {} -40 {} -35 {} 0 {} -80 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -10 {} -20 {} -100 {} 0 {} -70 {} -50 {} -20 {} -90 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -20 {} 0 {} 0 {} -10 {} -5 {} -10 {} -10 {} -20 {} -20 {} 0 {} 0 {} -20 {} -10 {} -40 {} -30 {} 0 {} -70 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -10 {} -20 {} -160 {} 0 {} -70 {} -50 {} -20 {} -90 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -20 {} 0 {} 0 {} -10 {} -5 {} -10 {} -10 {} -20 {} -20 {} 0 {} 0 {} -20 {} -10 {} -40 {} -30 {} 0 {} -80 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -10 {} 0 {} 0 {} 0 {} -50 {} -30 {} -20 {} -60 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -40 {} -10 {} 0 {} -40 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -160 {} 0 {} -40 {} -20 {} 0 {} -60 {} 0 {} 0 {} 0 {} -15 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 10 {} 0 {} -40 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -20 {} -20 {} 0 {} -40 {} 0 {} 0 {} 0 {} -15 {} -15 {} -15 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 10 {} 0 {} -40 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -160 {} 0 {} -40 {} -20 {} 0 {} -60 {} 0 {} 0 {} 0 {} -15 {} -15 {} -15 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 10 {} 0 {} -20 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} -20 {} -10 {} -150 {} 0 {} -70 {} -40 {} -30 {} -100 {} -30 {} -10 {} -10 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -20 {} 0 {} 0 {} -20 {} -10 {} -20 {} -20 {} -30 {} -30 {} 0 {} 0 {} -20 {} -20 {} -40 {} -30 {} 0 {} -80 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} -20 {} -20 {} -100 {} 0 {} -70 {} -40 {} -30 {} -90 {} -30 {} -10 {} -10 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -20 {} 0 {} 0 {} -20 {} -10 {} -20 {} -20 {} -30 {} -30 {} 0 {} 0 {} -20 {} -20 {} -40 {} -30 {} 0 {} -80 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} -20 {} -20 {} -160 {} 0 {} -70 {} -40 {} -30 {} -100 {} -30 {} -10 {} -10 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -20 {} 0 {} 0 {} -20 {} -10 {} -20 {} -20 {} -30 {} -30 {} 0 {} 0 {} -20 {} -20 {} -40 {} -30 {} 0 {} -80 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} -20 {} -100 {} -10 {} 0 {} 0 {} 20 {} 20 {} 0 {} 0 {} 0 {} -50 {} -50 {} -50 {} -40 {} -40 {} -40 {} -25 {} -30 {} 40 {} -30 {} -40 {} -40 {} -40 {} -40 {} -30 {} -30 {} -25 {} -30 {} -20 {} -20 {} -20 {} -10 {} -20 {} -20 {} -30 {} -30 {} -20 {} -80 {} 20 {} -80 {} 0 {} -20 {} 0 {} 20 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -160 {} 0 {} -20 {} -10 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} -50 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -20 {} -10 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 40 {} 0 {} 50 {} 0 {} 40 {} 50 {} 50 {} 50 {} 40 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 40 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 60 {} 0 {} 0 {} 0 {} 0 {} 50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} -10 {} 0 {} -10 {} -160 {} -10 {} -30 {} -20 {} 10 {} -50 {} 0 {} -10 {} -10 {} -35 {} -30 {} -30 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 20 {} 10 {} -40 {} 0 {} 0 {} -40 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} -120 {} 0 {} -160 {} 0 {} -30 {} -20 {} -40 {} -40 {} -100 {} -20 {} -20 {} -20 {} -20 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 40 {} -100 {} -40 {} 0 {} 0 {} -30 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} -120 {} 0 {} -60 {} 0 {} -30 {} -20 {} -30 {} -20 {} -50 {} -20 {} -20 {} -20 {} -20 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 40 {} -100 {} -40 {} 0 {} 0 {} -20 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -160 {} 0 {} -40 {} -30 {} -30 {} -70 {} -20 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} 0 {} 0 {} -5 {} 0 {} -5 {} -5 {} -10 {} -10 {} 0 {} -30 {} 0 {} 0 {} -40 {} -10 {} 0 {} -60 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -100 {} 0 {} -40 {} -30 {} -30 {} -70 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} 0 {} 0 {} -5 {} 0 {} -5 {} -5 {} -10 {} -10 {} 0 {} -30 {} 0 {} 0 {} -40 {} -10 {} 0 {} -50 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -20 {} -100 {} -20 {} -40 {} -30 {} 0 {} -80 {} 0 {} 0 {} 0 {} -20 {} -20 {} -20 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 10 {} -30 {} -30 {} -10 {} -10 {} -20 {} 0 {} -10 {} -10 {} -10 {} -10 {} 0 {} 0 {} 0 {} 10 {} -40 {} -10 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -20 {} -100 {} -20 {} -40 {} -30 {} 0 {} -80 {} 0 {} 0 {} 0 {} -20 {} -20 {} -10 {} -10 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 10 {} -30 {} -30 {} -10 {} -10 {} -20 {} 0 {} -10 {} -10 {} -10 {} -10 {} 0 {} -60 {} 0 {} 30 {} 0 {} -10 {} 0 {} -70 {} 40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -120 {} 0 {} -40 {} -50 {} -30 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -10 {} -10 {} -10 {} -10 {} 0 {} -20 {} 0 {} 20 {} -40 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -10 {} -10 {} -160 {} 0 {} -30 {} -20 {} -30 {} -60 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -40 {} 0 {} 0 {} -50 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -10 {} -10 {} -100 {} 0 {} -30 {} -20 {} -30 {} -60 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -40 {} 0 {} 0 {} -40 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} -100 {} -10 {} -160 {} 0 {} -30 {} -20 {} -50 {} -50 {} -100 {} -20 {} -20 {} -20 {} -20 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 10 {} -10 {} -10 {} 0 {} -20 {} 20 {} -100 {} -40 {} 0 {} 0 {} -50 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} -80 {} 0 {} -160 {} 0 {} -30 {} -20 {} -50 {} -50 {} -80 {} -10 {} -10 {} -10 {} -10 {} -10 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 10 {} 10 {} 0 {} 0 {} 0 {} -10 {} 20 {} -80 {} -40 {} 0 {} 0 {} -40 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} -100 {} -10 {} -160 {} 0 {} -30 {} -20 {} -40 {} -50 {} -100 {} -20 {} -20 {} -20 {} -20 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} -5 {} 0 {} 0 {} 0 {} 0 {} 10 {} 10 {} 10 {} 10 {} -10 {} -10 {} 0 {} -20 {} 20 {} -100 {} -40 {} 0 {} 0 {} -50 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} -100 {} -10 {} -100 {} 0 {} -30 {} -20 {} -40 {} -50 {} -100 {} -20 {} -20 {} -20 {} -20 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} -5 {} 0 {} 0 {} 0 {} 0 {} 10 {} 10 {} 10 {} 10 {} -10 {} -10 {} 0 {} -20 {} 20 {} -100 {} -40 {} 0 {} 0 {} -50 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} -10 {} -160 {} 0 {} -30 {} -20 {} 10 {} -60 {} 0 {} -10 {} -10 {} -20 {} -20 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -10 {} -10 {} -10 {} -10 {} 0 {} -20 {} 10 {} 10 {} -40 {} 0 {} 0 {} -50 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} -10 {} -100 {} 0 {} -30 {} -20 {} 10 {} -60 {} 0 {} -10 {} -10 {} -20 {} -20 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -10 {} -10 {} -10 {} -10 {} 0 {} -20 {} 10 {} 10 {} -40 {} 0 {} 0 {} -40 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} -120 {} 0 {} 20 {} 0 {} 20 {} 20 {} 0 {} 20 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} 0 {} 60 {} 0 {} -20 {} -20 {} -20 {} -20 {} -40 {} -30 {} 0 {} 0 {} -20 {} -10 {} 20 {} 20 {} 20 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} -20 {} 20 {} 0 {} -100 {} -20 {} -100 {} -100 {} 20 {} -100 {} 20 {} -10 {} -10 {} -20 {} -20 {} -10 {} -10 {} -70 {} 0 {} 0 {} 60 {} 0 {} 0 {} 0 {} 0 {} 10 {} 10 {} -70 {} -70 {} -10 {} -10 {} -100 {} -80 {} -100 {} -100 {} 10 {} 10 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} 0 {} 0 {} -40 {} -40 {} 100 {} 120 {} -40 {} -40 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} -40 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} -10 {} -120 {} -10 {} 20 {} 0 {} 20 {} 20 {} 0 {} 20 {} 0 {} -60 {} -60 {} -60 {} -60 {} -60 {} -60 {} 0 {} -20 {} 60 {} 0 {} -40 {} -40 {} -40 {} -40 {} -60 {} -50 {} -20 {} -20 {} -40 {} -30 {} -20 {} -10 {} -20 {} -20 {} -20 {} -20 {} 0 {} -70 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} -30 {} 0 {} 0 {} -120 {} -30 {} -60 {} -50 {} 20 {} -100 {} 10 {} 0 {} 0 {} -10 {} -10 {} 60 {} 60 {} -20 {} 0 {} 0 {} 180 {} 0 {} 0 {} 60 {} 60 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} -20 {} -10 {} 0 {} 0 {} 20 {} 20 {} 0 {} -20 {} 0 {} 100 {} 100 {} 20 {} 60 {} -20 {} 100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} -30 {} -100 {} -30 {} 20 {} 0 {} 10 {} 10 {} 10 {} 10 {} 0 {} -50 {} -40 {} -50 {} -40 {} -50 {} -40 {} -40 {} 0 {} 30 {} 0 {} -30 {} -20 {} -30 {} -30 {} -40 {} -30 {} -30 {} -30 {} -30 {} -20 {} -20 {} -10 {} -20 {} -10 {} -20 {} -20 {} -30 {} -40 {} 0 {} -50 {} 40 {} -20 {} -40 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -25 {} 0 {} -10 {} 0 {} -30 {} -10 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -15 {} 0 {} -10 {} 0 {} -40 {} 0 {} -20 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -90 {} 0 {} -20 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -10 {} -30 {} 0 {} -10 {} -20 {} 0 {} 0 {}
+LangName: 1033 "" "" "" "Gidole Hairline 0.8" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAK-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAK-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAK-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAK-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAK-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAK-EXCEPTION+AAoA-The copyright holder of the software gives you permission to use the Reserved +AAoA-Font Name for webfont conversions.+AAoACgAA" "http://scripts.sil.org/OFL"
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -36
+AntiAlias: 1
+FitToEm: 1
+WidthSeparation: 120
+WinInfo: 0 19 14
+BeginPrivate: 6
+BlueValues 15 [-20 0 667 673]
+BlueShift 1 0
+StdHW 4 [70]
+StdVW 4 [74]
+StemSnapH 7 [70 95]
+StemSnapV 13 [72 73 74 80]
+EndPrivate
+Grid
+-1000 780.079101562 m 0
+ 2000 780.079101562 l 1024
+-1000 429 m 0
+ 2000 429 l 1024
+-1000 -182 m 4
+ 2000 -182 l 1028
+  Named: "descent"
+-1000 334 m 0
+ 2000 334 l 1024
+  Named: "1/2"
+-1000 546 m 0
+ 2000 546 l 1024
+  Named: "diacritic"
+-1000 888 m 0
+ 2000 888 l 1024
+  Named: "accent"
+-1000 471 m 0
+ 2000 471 l 1024
+  Named: "x"
+-1000 661 m 0
+ 2000 661 l 1024
+  Named: "caps"
+-1000 250 m 0
+ 2000 250 l 1024
+EndSplineSet
+TeXData: 1 0 0 262144 131072 87381 500171 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "DoubleTop" "'mark' Mark Positioning in Latin lookup 0-1" "Apos" "'mark' Mark Positioning in Latin lookup 0-1" "Center" "'mark' Mark Positioning in Latin lookup 0-1" "Bottom" "'mark' Mark Positioning in Latin lookup 0-1" "Top" "'mark' Mark Positioning in Latin lookup 0-1" 
+EndSplineFont

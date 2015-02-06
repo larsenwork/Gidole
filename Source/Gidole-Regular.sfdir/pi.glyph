@@ -1,0 +1,29 @@
+StartChar: pi
+Encoding: 960 960 404
+Width: 520
+VWidth: 0
+Flags: W
+HStem: 0 21G<105 175 345 415> 411 66<45 105 175 345 415 475>
+VStem: 105 70<0 411> 345 70<0 411>
+LayerCount: 4
+Back
+Fore
+SplineSet
+45 477 m 1
+ 475 477 l 1
+ 475 411 l 1
+ 415 411 l 1
+ 415 0 l 17
+ 345 0 l 9
+ 345 411 l 1
+ 175 411 l 1
+ 175 0 l 1
+ 105 0 l 1
+ 105 411 l 1
+ 45 411 l 1
+ 45 477 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

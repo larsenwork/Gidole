@@ -1,0 +1,16 @@
+StartChar: Ccedilla
+Encoding: 199 199 192
+Width: 538
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -191 52<222.462 310.829> -6 70<200.727 387.81> 603 70<201.936 387.555>
+VStem: 65 74<125.042 542.694> 324 56<-131.068 -73.0988>
+LayerCount: 4
+Back
+Fore
+Refer: 190 184 N 1 0 0 1 161 0 2
+Refer: 15 67 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

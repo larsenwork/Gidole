@@ -1,0 +1,25 @@
+StartChar: bracketright
+Encoding: 93 93 50
+Width: 289
+VWidth: 0
+Flags: W
+HStem: -185 56<50 144> 724 56<50 144>
+VStem: 50 154<-185 -129 724 780> 144 60<-129 724>
+LayerCount: 4
+Back
+Fore
+SplineSet
+50 780 m 1xe0
+ 204 780 l 1
+ 204 -185 l 1
+ 50 -185 l 1
+ 50 -129 l 1xe0
+ 144 -129 l 1
+ 144 724 l 1xd0
+ 50 724 l 1
+ 50 780 l 1xe0
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

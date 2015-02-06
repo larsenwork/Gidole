@@ -1,0 +1,16 @@
+StartChar: ocircumflex
+Encoding: 244 244 148
+Width: 490
+VWidth: 0
+Flags: W
+HStem: -6 66<170.237 319.763> 417 66<170.237 319.763> 546 121
+VStem: 55 70<106.331 370.669> 111 268 365 70<106.331 370.669>
+LayerCount: 4
+Back
+Fore
+Refer: 143 710 N 1 0 0 1 61 0 2
+Refer: 53 111 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,16 @@
+StartChar: Scedilla
+Encoding: 350 350 277
+Width: 510
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -191 52<182.462 270.829> -6 70<146.994 330.033> 603 70<164.083 348.795>
+VStem: 49 74<445.103 562.81> 284 56<-131.068 -73.0988> 386 74<115.775 244.907>
+LayerCount: 4
+Back
+Fore
+Refer: 190 184 N 1 0 0 1 121 0 2
+Refer: 35 83 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,32 @@
+StartChar: z
+Encoding: 122 122 71
+Width: 420
+VWidth: 0
+Flags: W
+HStem: 0 8<83 349> 463 8<71 338>
+VStem: 71 278<0 5 466 471>
+AnchorPoint: "DoubleTop" -10 0 basechar 0
+AnchorPoint: "Apos" -10 0 basechar 0
+AnchorPoint: "Center" 5 0 basechar 0
+AnchorPoint: "Bottom" 212 0 basechar 0
+AnchorPoint: "Top" 210 476 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+71 471 m 1
+ 349 471 l 1
+ 349 466 l 1
+ 83 8 l 1
+ 349 8 l 1
+ 349 0 l 1
+ 71 0 l 1
+ 71 5 l 1
+ 338 463 l 1
+ 71 463 l 1
+ 71 471 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

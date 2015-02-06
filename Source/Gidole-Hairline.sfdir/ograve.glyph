@@ -1,0 +1,16 @@
+StartChar: ograve
+Encoding: 242 242 162
+Width: 470
+VWidth: 0
+Flags: W
+HStem: -4 8<196.527 273.473> 467 8<196.527 273.473> 546 121
+VStem: 66 8<129.022 341.978> 128 153 396 8<129.022 341.978>
+LayerCount: 4
+Back
+Fore
+Refer: 415 768 N 1 0 0 1 78 0 2
+Refer: 53 111 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,28 @@
+StartChar: exclamdown
+Encoding: 161 161 91
+Width: 260
+VWidth: 0
+Flags: W
+HStem: 386 102<87.2266 172.773>
+VStem: 79 102<394.227 479.773> 92 74<-185 229.1> 102 54<131.9 302>
+LayerCount: 4
+Back
+Fore
+SplineSet
+130 488 m 0xc0
+ 160 488 181 467 181 437 c 0
+ 181 407 160 386 130 386 c 0
+ 100 386 79 407 79 437 c 0
+ 79 467 100 488 130 488 c 0xc0
+102 302 m 1x90
+ 156 302 l 1x90
+ 166 59 l 1
+ 166 -185 l 1
+ 92 -185 l 1
+ 92 59 l 1xa0
+ 102 302 l 1x90
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

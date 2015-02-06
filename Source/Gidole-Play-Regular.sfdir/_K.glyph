@@ -1,0 +1,46 @@
+StartChar: K
+Encoding: 75 75 34
+Width: 566
+Flags: W
+HStem: 0 21G<75 149 416.235 521> 288 70<149 184.438> 647 20G<75 149 401.317 506>
+VStem: 75 74<0 288 358 667>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Top" -5 0 basechar 0
+AnchorPoint: "Center" -5 0 basechar 0
+AnchorPoint: "Bottom" 285 0 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+75 667 m 1
+ 149 667 l 1
+ 149 358 l 1
+ 161 358 173 358 185 364 c 0
+ 199 371 210 386 231 415 c 2
+ 416 667 l 1
+ 506 667 l 1
+ 301 388 l 2
+ 292 375 279 356 268 343 c 1
+ 521 0 l 1
+ 431 0 l 1
+ 211 298 l 1
+ 186 288 162 288 149 288 c 1
+ 149 0 l 1
+ 75 0 l 1
+ 75 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+149 344 m 1
+ 385 344 l 1025
+  Spiro
+    2.2281e-312 2.35542e-312 l
+    1.78248e-312 2.10078e-312 h
+    2.14322e-312 2.48274e-312 l
+    0 0 z
+  EndSpiro
+EndSplineSet
+Layer: 3
+EndChar

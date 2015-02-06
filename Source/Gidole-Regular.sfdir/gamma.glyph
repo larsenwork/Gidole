@@ -1,0 +1,25 @@
+StartChar: gamma
+Encoding: 947 947 403
+Width: 476
+VWidth: 0
+Flags: W
+VStem: 201 74<-185 0>
+LayerCount: 4
+Back
+Fore
+SplineSet
+201 0 m 1
+ 30 477 l 1
+ 104 477 l 1
+ 238 81 l 1
+ 372 477 l 1
+ 446 477 l 1
+ 275 0 l 1
+ 275 -185 l 1
+ 201 -185 l 1
+ 201 0 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

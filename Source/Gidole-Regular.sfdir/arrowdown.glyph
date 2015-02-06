@@ -1,0 +1,25 @@
+StartChar: arrowdown
+Encoding: 8595 8595 451
+Width: 414
+Flags: W
+VStem: 177 60<140 450>
+LayerCount: 4
+Back
+Fore
+SplineSet
+177 450 m 1
+ 237 450 l 1
+ 237 140 l 1
+ 307 212 l 1
+ 351 172 l 1
+ 229 50 l 1
+ 185 50 l 1
+ 63 172 l 1
+ 107 212 l 1
+ 177 140 l 1
+ 177 450 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

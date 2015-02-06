@@ -1,0 +1,16 @@
+StartChar: Uogonek
+Encoding: 370 370 387
+Width: 550
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -191 55<253.172 326.693> -20 20G<219 303> -4 8<233.112 316.888>
+VStem: 83 8<143.923 661> 197 50<-131.053 -35.7473> 459 8<143.923 661>
+LayerCount: 4
+Back
+Fore
+Refer: 389 731 N 1 0 0 1 147 0 2
+Refer: 24 85 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+EndChar

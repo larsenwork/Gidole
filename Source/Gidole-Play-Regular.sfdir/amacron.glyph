@@ -1,0 +1,16 @@
+StartChar: amacron
+Encoding: 257 257 206
+Width: 458
+VWidth: 0
+Flags: W
+HStem: -6 66<139.651 290.608> 229 62<141.675 333> 417 66<105.793 297.224> 555 56<97 347>
+VStem: 40 70<88.6344 197.999> 97 250<555 611> 333 70<100.596 229 291 381.578>
+LayerCount: 4
+Back
+Fore
+Refer: 456 713 N 1 0 0 1 47 -1 2
+Refer: 47 97 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

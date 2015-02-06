@@ -1,0 +1,35 @@
+StartChar: notequal
+Encoding: 8800 8800 120
+Width: 520
+Flags: W
+HStem: 156 52<80 165 262 440> 294 52<80 258 355 440>
+LayerCount: 4
+Back
+Fore
+SplineSet
+359 444 m 1
+ 421 444 l 1
+ 355 346 l 1
+ 440 346 l 1
+ 440 294 l 1
+ 320 294 l 1
+ 262 208 l 1
+ 440 208 l 1
+ 440 156 l 1
+ 227 156 l 1
+ 161 58 l 1
+ 99 58 l 1
+ 165 156 l 1
+ 80 156 l 1
+ 80 208 l 1
+ 200 208 l 1
+ 258 294 l 1
+ 80 294 l 1
+ 80 346 l 1
+ 293 346 l 1
+ 359 444 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

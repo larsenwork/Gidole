@@ -1,0 +1,29 @@
+StartChar: d.alt
+Encoding: 57347 57347 431
+Width: 1000
+VWidth: 0
+LayerCount: 4
+Back
+SplineSet
+230 60 m 4
+ 168 60 105 106 105 204 c 6
+ 105 267 l 6
+ 105 365 168 411 230 411 c 6
+ 355 411 l 5
+ 355 205 l 6
+ 355 106 292 60 230 60 c 4
+230 -6 m 4
+ 326 -6 425 60 425 204 c 6
+ 425 667 l 5
+ 355 667 l 5
+ 355 477 l 5
+ 230 477 l 6
+ 133 477 35 410 35 267 c 6
+ 35 205 l 6
+ 35 61 133 -6 230 -6 c 4
+EndSplineSet
+Fore
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

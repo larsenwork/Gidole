@@ -1,0 +1,26 @@
+StartChar: F
+Encoding: 70 70 19
+Width: 480
+Flags: W
+HStem: 0 21G<98 106> 336 8<106 352> 653 8<106 402>
+VStem: 98 8<0 336 344 653>
+LayerCount: 4
+Back
+Fore
+SplineSet
+98 661 m 1
+ 402 661 l 1
+ 402 653 l 1
+ 106 653 l 1
+ 106 344 l 1
+ 352 344 l 1
+ 352 336 l 1
+ 106 336 l 1
+ 106 0 l 1
+ 98 0 l 1
+ 98 661 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

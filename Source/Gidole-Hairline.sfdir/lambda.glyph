@@ -1,0 +1,28 @@
+StartChar: lambda
+Encoding: 955 955 514
+Width: 480
+Flags: W
+HStem: 0 21G<30 110.974 369.026 450> 647 20G<134 215.256>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Top" 240 476 basechar 0
+AnchorPoint: "Center" -10 0 basechar 0
+AnchorPoint: "Bottom" -10 0 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+30 0 m 1
+ 203 477 l 1
+ 134 667 l 1
+ 208 667 l 1
+ 450 0 l 1
+ 376 0 l 1
+ 240 390 l 1
+ 104 0 l 1
+ 30 0 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

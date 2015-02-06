@@ -1,0 +1,30 @@
+StartChar: Rho
+Encoding: 929 929 494
+Width: 520
+VWidth: 0
+Flags: W
+HStem: 0 21G<75 148> 257 70<149 341.812> 597 70<149 341.812>
+VStem: 75 74<0 257 327 597> 391 74<376.852 547.148>
+LayerCount: 4
+Back
+Fore
+SplineSet
+149 597 m 1
+ 149 327 l 1
+ 260 327 l 2
+ 341 327 391 366 391 462 c 0
+ 391 558 341 597 260 597 c 2
+ 149 597 l 1
+75 667 m 1
+ 260 667 l 2
+ 378 667 465 606 465 462 c 0
+ 465 318 378 257 260 257 c 2
+ 148 257 l 1
+ 148 0 l 1
+ 75 0 l 1
+ 75 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

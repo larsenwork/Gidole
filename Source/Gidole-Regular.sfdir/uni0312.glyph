@@ -1,0 +1,25 @@
+StartChar: uni0312
+Encoding: 786 786 438
+Width: 194
+VWidth: 0
+Flags: W
+HStem: 552 167<97 115.312>
+VStem: 50 94<558.851 636.943>
+AnchorPoint: "Top" 97 477 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+50 598 m 0
+ 50 612 56 625 61 637 c 2
+ 97 719 l 1
+ 142 719 l 1
+ 116 640 l 0
+ 132 634 144 619 144 598 c 0
+ 144 571 123 552 97 552 c 0
+ 71 552 50 571 50 598 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

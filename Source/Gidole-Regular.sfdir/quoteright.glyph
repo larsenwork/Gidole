@@ -1,0 +1,24 @@
+StartChar: quoteright
+Encoding: 8217 8217 86
+Width: 202
+Flags: W
+HStem: 456 217<82.7301 98>
+VStem: 50 102<578.953 665.037>
+AnchorPoint: "Apos" 22 667 mark 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+50 622 m 0
+ 50 653 71 673 101 673 c 0
+ 131 673 152 653 152 622 c 0
+ 152 609 148 597 144 585 c 2
+ 98 456 l 1
+ 53 456 l 1
+ 82 574 l 0
+ 63 580 50 599 50 622 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

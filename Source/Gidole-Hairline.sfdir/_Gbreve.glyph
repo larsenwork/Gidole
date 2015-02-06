@@ -1,0 +1,16 @@
+StartChar: Gbreve
+Encoding: 286 286 229
+Width: 560
+VWidth: 0
+Flags: W
+HStem: -4 8<235.646 324.354> 316 8<313 474> 657 8<235.646 323.401> 730 52<213.548 346.452> 837 20G<141 191 369 419>
+VStem: 78 8<150.654 510.346> 141 50<804.755 857> 369 50<804.755 857> 474 8<150.654 316>
+LayerCount: 4
+Back
+Fore
+Refer: 194 728 N 1 0 0 1 91 190 2
+Refer: 28 71 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

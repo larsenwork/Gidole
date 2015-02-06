@@ -1,0 +1,29 @@
+StartChar: Sigma
+Encoding: 931 931 489
+Width: 500
+VWidth: 0
+Flags: W
+HStem: 0 70<147 440> 597 70<147 439>
+LayerCount: 4
+Back
+Fore
+SplineSet
+299 328 m 1
+ 147 70 l 1
+ 440 70 l 1
+ 440 0 l 1
+ 60 0 l 1
+ 60 50 l 1
+ 232 342 l 1
+ 60 617 l 1
+ 60 667 l 1
+ 439 667 l 1
+ 439 597 l 1
+ 147 597 l 1
+ 299 358 l 1
+ 299 328 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

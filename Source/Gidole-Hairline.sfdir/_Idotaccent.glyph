@@ -1,0 +1,16 @@
+StartChar: Idotaccent
+Encoding: 304 304 242
+Width: 184
+VWidth: 0
+Flags: W
+HStem: 0 21G<88 96> 740 94<51.5618 132.671>
+VStem: 45 94<746.897 827.103> 88 8<0 661>
+LayerCount: 4
+Back
+Fore
+Refer: 196 729 N 1 0 0 1 -5 190 2
+Refer: 21 73 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

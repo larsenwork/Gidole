@@ -1,0 +1,48 @@
+StartChar: theta
+Encoding: 952 952 517
+Width: 500
+VWidth: 0
+Flags: W
+HStem: -6 66<177.226 322.774> 301 66<130 370> 607 66<177.226 322.774>
+VStem: 60 70<109.356 301 367 557.644> 370 70<109.356 301 367 557.644>
+AnchorPoint: "DoubleTop" 5 0 basechar 0
+AnchorPoint: "Apos" 5 0 basechar 0
+AnchorPoint: "Center" 5 0 basechar 0
+AnchorPoint: "Bottom" 250 0 basechar 0
+AnchorPoint: "Top" 250 477 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+250 607 m 0
+ 198 607 161 583 143 543 c 0
+ 130 516 130 488 130 448 c 2
+ 130 367 l 1
+ 370 367 l 1
+ 370 448 l 2
+ 370 488 370 516 357 543 c 0
+ 339 583 302 607 250 607 c 0
+250 673 m 0
+ 345 673 410 623 432 543 c 0
+ 440 514 440 486 440 448 c 2
+ 440 219 l 2
+ 440 181 440 153 432 124 c 0
+ 410 44 345 -6 250 -6 c 0
+ 155 -6 90 44 68 124 c 0
+ 60 153 60 181 60 219 c 2
+ 60 448 l 2
+ 60 486 60 514 68 543 c 0
+ 90 623 155 673 250 673 c 0
+130 301 m 1
+ 130 219 l 2
+ 130 179 130 151 143 124 c 0
+ 161 84 198 60 250 60 c 0
+ 302 60 339 84 357 124 c 0
+ 370 151 370 179 370 219 c 2
+ 370 301 l 1
+ 130 301 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

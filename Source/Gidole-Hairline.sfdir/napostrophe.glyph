@@ -1,0 +1,16 @@
+StartChar: napostrophe
+Encoding: 329 329 382
+Width: 597
+VWidth: 0
+Flags: W
+HStem: 0 21G<188 196 498 506> 456 217<82.7301 98> 467 8<310.954 383.24>
+VStem: 50 102<578.953 665.037> 188 8<0 471> 498 8<0 350.84>
+LayerCount: 4
+Back
+Fore
+Refer: 58 110 S 1 0 0 1 112 0 2
+Refer: 448 700 N 1 0 0 1 0 0 2
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

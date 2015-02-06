@@ -1,0 +1,28 @@
+StartChar: x
+Encoding: 120 120 69
+Width: 442
+VWidth: 0
+Flags: W
+HStem: 0 21G<51 74.8528 367.147 391>
+LayerCount: 4
+Back
+Fore
+SplineSet
+51 0 m 1
+ 216 238 l 1
+ 54 471 l 1
+ 64 471 l 1
+ 221 244 l 1
+ 378 471 l 1
+ 388 471 l 1
+ 226 238 l 1
+ 391 0 l 1
+ 381 0 l 1
+ 221 231 l 1
+ 61 0 l 1
+ 51 0 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

@@ -1,0 +1,16 @@
+StartChar: uni021A
+Encoding: 538 538 318
+Width: 540
+VWidth: 0
+Flags: W
+HStem: -230 167<252.027 268> 0 21G<266 274> 653 8<78 266 274 462>
+VStem: 220 102<-146.44 -75.3318> 266 8<0 653>
+LayerCount: 4
+Back
+Fore
+Refer: 447 806 N 1 0 0 1 170 0 2
+Refer: 29 84 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

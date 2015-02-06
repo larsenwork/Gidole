@@ -1,0 +1,20 @@
+StartChar: fraction
+Encoding: 8260 8260 122
+Width: 424
+VWidth: 0
+Flags: W
+HStem: 0 21G<0 74.7946> 647 20G<349.205 424>
+LayerCount: 4
+Back
+Fore
+SplineSet
+360 667 m 1
+ 424 667 l 1
+ 64 0 l 1
+ 0 0 l 1
+ 360 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

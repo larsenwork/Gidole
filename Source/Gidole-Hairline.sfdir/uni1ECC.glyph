@@ -1,0 +1,16 @@
+StartChar: uni1ECC
+Encoding: 7884 7884 346
+Width: 580
+VWidth: 0
+Flags: W
+HStem: -175 102<246.227 331.773> -4 8<245.248 334.752> 657 8<246.452 333.548>
+VStem: 78 8<162.074 499.689> 238 102<-166.773 -81.2266> 494 8<162.074 499.689>
+LayerCount: 4
+Back
+Fore
+Refer: 446 803 N 1 0 0 1 188 0 2
+Refer: 16 79 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

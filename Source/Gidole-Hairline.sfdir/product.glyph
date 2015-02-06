@@ -1,0 +1,30 @@
+StartChar: product
+Encoding: 8719 8719 452
+Width: 590
+VWidth: 0
+Flags: W
+HStem: 0 21G<75 149 441 515> 597 70<149 441>
+VStem: 75 74<0 597> 441 74<0 597>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Center" -5 0 basechar 0
+AnchorPoint: "Bottom" 295 0 basechar 0
+AnchorPoint: "Top" 295 667 basechar 0
+LayerCount: 4
+Back
+Fore
+SplineSet
+75 667 m 1
+ 515 667 l 1
+ 515 0 l 1
+ 441 0 l 1
+ 441 597 l 1
+ 149 597 l 1
+ 149 0 l 1
+ 75 0 l 1
+ 75 667 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar
