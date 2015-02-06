@@ -1,14 +1,16 @@
-Copyright (c) 2015, Andreas Larsen (<andreaslarsen.dk|mail@andreaslarsen.dk>), with Reserved Font Name Gidole.
+Copyright (c) 2015, Andreas Larsen (<andreaslarsen.dk|mail@andreaslarsen.dk>), with Reserved Font Name “Gidole” and “Gidole Play”.
 
-EXCEPTION
+
+EXCEPTION TO THE OPEN FONT LICENSE BELOW
 The copyright holder of the software gives you permission to use the Reserved 
 Font Name for webfont conversions.
+
+
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
-
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
