@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1423248991
+ModificationTime: 1423507626
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -194,7 +194,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 38 19 14
+WinInfo: 57 19 14
 BeginPrivate: 6
 BlueValues 15 [-20 0 667 673]
 BlueShift 1 0
