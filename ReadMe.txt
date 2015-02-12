@@ -1,10 +1,5 @@
-GIDOLE
-Download https://github.com/gidole/sans/blob/master/gidole.zip?raw=true
-Website https://gidole.github.io
+Please don't hesitate to contact me with questions etc. 
 
-CONTRIBUTE
-Feedback, ideas, requests etc. https://github.com/gidole/sans/issues
-Fork, edit, pull-request https://github.com/gidole/sans/fork
+You can find more info on https://gidole.github.io
 
-THANKS
-@andreaslarsendk
+Thanks, Andreas:)
