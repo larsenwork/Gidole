@@ -1,24 +1,24 @@
 StartChar: dotlessi
 Encoding: 305 305 156
-Width: 214
+Width: 210
 VWidth: 0
 Flags: W
-HStem: 0 21G<72 142>
-VStem: 72 70<0 477>
-AnchorPoint: "Center" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Bottom" 107 0 basechar 0
-AnchorPoint: "Top" 107 477 basechar 0
+HStem: 0 21G<70 140>
+VStem: 70 70<0 478>
+AnchorPoint: "Center" -2 0 basechar 0
+AnchorPoint: "Apos" -2 0 basechar 0
+AnchorPoint: "DoubleTop" -2 0 basechar 0
+AnchorPoint: "Bottom" 105 0 basechar 0
+AnchorPoint: "Top" 105 477 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-72 477 m 1
- 142 477 l 1
- 142 0 l 1
- 72 0 l 1
- 72 477 l 1
+70 478 m 5
+ 140 478 l 5
+ 140 0 l 1
+ 70 0 l 1
+ 70 478 l 5
 EndSplineSet
 Validated: 1
 Layer: 2

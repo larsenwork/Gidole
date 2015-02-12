@@ -2,23 +2,23 @@ StartChar: F
 Encoding: 70 70 19
 Width: 500
 Flags: W
-HStem: 0 21G<75 149> 308 70<149 395> 597 70<149 445>
-VStem: 75 74<0 308 378 597>
+HStem: 0 21G<75 149> 308 70<149 395> 596 70<149 445>
+VStem: 75 74<0 308 378 596>
 LayerCount: 4
 Back
 Fore
 SplineSet
-75 667 m 1
- 445 667 l 1
- 445 597 l 1
- 149 597 l 1
+75 666 m 5
+ 445 666 l 5
+ 445 596 l 5
+ 149 596 l 5
  149 378 l 1
  395 378 l 1
  395 308 l 1
  149 308 l 1
  149 0 l 1
  75 0 l 1
- 75 667 l 1
+ 75 666 l 5
 EndSplineSet
 Validated: 1
 Layer: 2

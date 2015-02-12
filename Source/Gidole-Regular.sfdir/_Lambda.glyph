@@ -1,8 +1,8 @@
 StartChar: Lambda
-Encoding: 923 923 472
+Encoding: 923 923 471
 Width: 610
 Flags: W
-HStem: 0 21G<35 117.795 492.205 575> 647 20G<265.864 344.136>
+HStem: 0 21G<35 117.807 492.193 575> 646 20G<265.853 344.147>
 AnchorPoint: "DoubleTop" 0 0 basechar 0
 AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 0 0 basechar 0
@@ -12,14 +12,14 @@ LayerCount: 4
 Back
 Fore
 SplineSet
-273 667 m 1
- 294 667 316 667 337 667 c 1
+273 666 m 5
+ 294 666 316 666 337 666 c 5
  575 0 l 1
  550 -0 524 0 499 0 c 9
- 305 571 l 25
+ 305 570 l 29
  111 0 l 1
  35 0 l 1
- 273 667 l 1
+ 273 666 l 5
 EndSplineSet
 Validated: 1
 Layer: 2

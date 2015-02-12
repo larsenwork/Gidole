@@ -2,17 +2,17 @@ StartChar: acute
 Encoding: 180 180 169
 Width: 336
 Flags: W
-HStem: 456 211
+HStem: 456 210
 VStem: 50 236
 LayerCount: 4
 Back
 Fore
 SplineSet
-204 667 m 1
- 286 667 l 1
+204 666 m 5
+ 286 666 l 5
  121 456 l 1
  50 456 l 1
- 204 667 l 1
+ 204 666 l 5
 EndSplineSet
 Validated: 1
 Layer: 2

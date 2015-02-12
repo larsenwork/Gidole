@@ -2,23 +2,23 @@ StartChar: hungarumlaut
 Encoding: 733 733 199
 Width: 387
 Flags: W
-HStem: 546 121
+HStem: 546 120
 VStem: 50 287
-AnchorPoint: "Top" 173 477 mark 0
+AnchorPoint: "Top" 173 478 mark 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-195 667 m 5
- 112 546 l 5
- 50 546 l 5
- 125 667 l 5
- 195 667 l 5
-337 667 m 1
+195 666 m 1
+ 112 546 l 1
+ 50 546 l 1
+ 125 666 l 1
+ 195 666 l 1
+337 666 m 1
  250 546 l 1
  188 546 l 1
- 267 667 l 1
- 337 667 l 1
+ 267 666 l 1
+ 337 666 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

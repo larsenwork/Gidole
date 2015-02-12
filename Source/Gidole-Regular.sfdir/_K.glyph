@@ -2,8 +2,8 @@ StartChar: K
 Encoding: 75 75 34
 Width: 570
 Flags: W
-HStem: 0 21G<75 149 421.492 525> 647 20G<75 149 403.576 505>
-VStem: 75 74<0 192 294 667>
+HStem: 0 21G<75 149 421.492 525> 646 20G<75 149 403.538 505>
+VStem: 75 74<0 192 294 666>
 AnchorPoint: "DoubleTop" 0 0 basechar 0
 AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Top" -5 0 basechar 0
@@ -19,11 +19,11 @@ SplineSet
  149 192 l 1
  149 0 l 1
  75 0 l 1
- 75 667 l 1
- 149 667 l 1
+ 75 666 l 5
+ 149 666 l 5
  149 294 l 1
- 418 667 l 1
- 505 667 l 1
+ 418 666 l 5
+ 505 666 l 5
  273 347 l 1
  525 0 l 1
 EndSplineSet

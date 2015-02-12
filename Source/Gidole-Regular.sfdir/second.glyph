@@ -1,22 +1,22 @@
 StartChar: second
-Encoding: 8243 8243 431
+Encoding: 8243 8243 430
 Width: 450
 Flags: W
-HStem: 456 211
+HStem: 456 210
 LayerCount: 4
 Back
 Fore
 SplineSet
-324 667 m 1
- 400 667 l 1
+324 666 m 5
+ 400 666 l 5
  265 456 l 1
  200 456 l 1
- 324 667 l 1
-174 667 m 1
- 250 667 l 1
+ 324 666 l 5
+174 666 m 5
+ 250 666 l 5
  115 456 l 1
  50 456 l 1
- 174 667 l 1
+ 174 666 l 5
 EndSplineSet
 Validated: 1
 Layer: 2

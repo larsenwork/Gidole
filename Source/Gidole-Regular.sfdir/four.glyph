@@ -2,14 +2,14 @@ StartChar: four
 Encoding: 52 52 6
 Width: 525
 Flags: W
-HStem: 0 21G<343 413> 165 68<137 343 413 470> 647 20G<247.106 330>
+HStem: 0 21G<343 413> 165 68<137 343 413 470> 646 20G<247.086 330>
 VStem: 343 70<0 165 233 403>
 LayerCount: 4
 Back
 Fore
 SplineSet
-256 667 m 1
- 330 667 l 1
+256 666 m 5
+ 330 666 l 5
  137 233 l 1
  343 233 l 1
  343 403 l 1
@@ -23,7 +23,7 @@ SplineSet
  343 165 l 1
  55 165 l 1
  55 215 l 1
- 256 667 l 1
+ 256 666 l 5
 EndSplineSet
 Validated: 1
 Layer: 2

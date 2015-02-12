@@ -2,7 +2,7 @@ StartChar: Ldot
 Encoding: 319 319 253
 Width: 510
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 70<155.505 455> 283 102<238.227 323.773> 647 20G<75 149>
 VStem: 75 74<77.012 667> 230 102<291.227 376.773>
 LayerCount: 4
@@ -10,7 +10,6 @@ Back
 Fore
 Refer: 100 183 S 1 0 0 1 150 84 2
 Refer: 23 76 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

@@ -1,21 +1,21 @@
 StartChar: uni0394
-Encoding: 916 916 466
+Encoding: 916 916 465
 Width: 610
 Flags: W
-HStem: 0 70<136 474> 647 20G<265.864 344.136>
+HStem: 0 70<136 474> 646 20G<265.853 344.147>
 LayerCount: 4
 Back
 Fore
 SplineSet
-273 667 m 1
- 294 667 316 667 337 667 c 1
- 575 0 l 1
- 395 -0 215 0 35 0 c 1
- 273 667 l 1
-305 571 m 1
+273 666 m 5
+ 337 666 l 5
+ 575 0 l 5
+ 35 0 l 5
+ 273 666 l 5
+305 570 m 1
  136 70 l 1
  474 70 l 1
- 305 571 l 1
+ 305 570 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

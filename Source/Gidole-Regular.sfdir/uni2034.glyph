@@ -1,27 +1,27 @@
 StartChar: uni2034
-Encoding: 8244 8244 432
+Encoding: 8244 8244 431
 Width: 600
 Flags: W
-HStem: 456 211
+HStem: 456 210
 LayerCount: 4
 Back
 Fore
 SplineSet
-474 667 m 1
- 550 667 l 1
+474 666 m 5
+ 550 666 l 5
  415 456 l 1
  350 456 l 1
- 474 667 l 1
-324 667 m 1
- 400 667 l 1
+ 474 666 l 5
+324 666 m 5
+ 400 666 l 5
  265 456 l 1
  200 456 l 1
- 324 667 l 1
-174 667 m 1
- 250 667 l 1
+ 324 666 l 5
+174 666 m 5
+ 250 666 l 5
  115 456 l 1
  50 456 l 1
- 174 667 l 1
+ 174 666 l 5
 EndSplineSet
 Validated: 1
 Layer: 2

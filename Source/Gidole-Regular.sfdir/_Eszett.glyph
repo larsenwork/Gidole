@@ -1,5 +1,5 @@
 StartChar: Eszett
-Encoding: 7838 7838 532
+Encoding: 7838 7838 531
 Width: 632
 VWidth: 0
 Flags: W
@@ -35,6 +35,7 @@ SplineSet
  70 480 70 539 112 592 c 0
  172 667 263 667 324 667 c 2
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

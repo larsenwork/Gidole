@@ -1,21 +1,21 @@
 StartChar: Gamma
-Encoding: 915 915 465
+Encoding: 915 915 464
 Width: 500
 VWidth: 0
 Flags: W
-HStem: 0 21G<75 149> 597 70<149 445>
-VStem: 75 74<0 597>
+HStem: 0 21G<75 149> 596 70<149 445>
+VStem: 75 74<0 596>
 LayerCount: 4
 Back
 Fore
 SplineSet
-75 667 m 1
- 445 667 l 1
- 445 597 l 1
- 149 597 l 1
- 149 398 149 199 149 0 c 1
+75 666 m 1
+ 445 666 l 1
+ 445 596 l 1
+ 149 596 l 5
+ 149 0 l 5
  75 0 l 1
- 75 667 l 1
+ 75 666 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

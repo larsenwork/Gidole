@@ -3,13 +3,13 @@ Encoding: 327 327 259
 Width: 590
 VWidth: 0
 Flags: W
-HStem: 0 21G<75 149 438.423 515> 647 20G<75 151.577 441 515> 736 121
-VStem: 75 74<0 520> 161 268 441 74<147 667>
+HStem: 0 21G<75 149 438.401 515> 646 20G<75 151.599 441 515> 734 120
+VStem: 75 74<0 519> 161 268 441 74<147 666>
 CounterMasks: 1 1c
 LayerCount: 4
 Back
 Fore
-Refer: 198 711 N 1 0 0 1 111 190 2
+Refer: 198 711 N 1 0 0 1 111 188 2
 Refer: 33 78 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

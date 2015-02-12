@@ -2,7 +2,7 @@ StartChar: Tcaron
 Encoding: 356 356 283
 Width: 560
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<243 317> 597 70<55 243 317 505> 736 121
 VStem: 146 268 243 74<0 597>
 LayerCount: 4
@@ -10,7 +10,6 @@ Back
 Fore
 Refer: 198 711 N 1 0 0 1 96 190 2
 Refer: 29 84 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

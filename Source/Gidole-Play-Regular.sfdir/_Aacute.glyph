@@ -1,16 +1,15 @@
 StartChar: Aacute
 Encoding: 193 193 176
-Width: 570
+Width: 594
 VWidth: 0
-Flags: W
-HStem: 0 21G<70 144 426 500> 195 70<144 426> 603 70<201.722 368.278> 736 121
-VStem: 70 74<0 195 265 547.576> 239 153 426 74<0 195 265 547.576>
+Flags: HW
+HStem: 0 21G<35 116.362 477.638 559> 195 70<182.041 411.959> 603 70<271.993 322.007> 736 121
+VStem: 239 153
 LayerCount: 4
 Back
 Fore
 Refer: 411 769 N 1 0 0 1 189 190 2
 Refer: 13 65 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

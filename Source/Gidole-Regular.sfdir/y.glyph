@@ -4,22 +4,22 @@ Width: 480
 Flags: W
 AnchorPoint: "DoubleTop" 0 0 basechar 0
 AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Top" 240 476 basechar 0
+AnchorPoint: "Top" 240 478 basechar 0
 AnchorPoint: "Center" -10 0 basechar 0
 AnchorPoint: "Bottom" -10 0 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-30 477 m 1
- 104 477 l 1
- 240 87 l 1
- 376 477 l 1
- 450 477 l 1
- 210 -185 l 1
- 136 -185 l 1
- 203 0 l 1
- 30 477 l 1
+30 478 m 5
+ 104 478 l 5
+ 240 87 l 5
+ 376 478 l 5
+ 450 478 l 5
+ 210 -183 l 5
+ 136 -183 l 5
+ 203 0 l 5
+ 30 478 l 5
 EndSplineSet
 Validated: 1
 Layer: 2

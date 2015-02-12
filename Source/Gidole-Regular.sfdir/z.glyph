@@ -3,28 +3,28 @@ Encoding: 122 122 71
 Width: 440
 VWidth: 0
 Flags: W
-HStem: 0 66<146 380> 411 66<60 294>
-VStem: 60 320<0 50 427 477>
+HStem: 0 66<146 380> 412 66<60 294>
+VStem: 60 320<0 50 428 478>
 AnchorPoint: "DoubleTop" 0 0 basechar 0
 AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 15 0 basechar 0
 AnchorPoint: "Bottom" 222 0 basechar 0
-AnchorPoint: "Top" 220 476 basechar 0
+AnchorPoint: "Top" 220 478 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-60 477 m 1
- 380 477 l 1
- 380 427 l 1
+60 478 m 1
+ 380 478 l 1
+ 380 428 l 1
  146 66 l 1
  380 66 l 1
  380 0 l 1
  60 0 l 1
  60 50 l 1
- 294 411 l 1
- 60 411 l 1
- 60 477 l 1
+ 294 412 l 1
+ 60 412 l 1
+ 60 478 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

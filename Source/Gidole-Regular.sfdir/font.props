@@ -4,7 +4,7 @@ FullName: Gidole Regular
 FamilyName: Gidole
 Weight: Regular
 Copyright: Copyright (c) 2015, Andreas Larsen (<andreaslarsen.dk|mail@andreaslarsen.dk>), with Reserved Font Name Gidole.
-Version: 0.9.9
+Version: 1.0.0
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1423507626
+ModificationTime: 1423703681
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -194,7 +194,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 57 19 14
+WinInfo: 171 19 14
 BeginPrivate: 6
 BlueValues 15 [-20 0 667 673]
 BlueShift 1 0
@@ -204,17 +204,15 @@ StemSnapH 7 [70 95]
 StemSnapV 13 [72 73 74 80]
 EndPrivate
 Grid
--1000 394.5 m 0
- 2000 394.5 l 1024
--1000 361.299804688 m 0
- 2000 361.299804688 l 1024
+-1000 250 m 4
+ 2000 250 l 1024
+  Named: "dash"
 -1000 780.079101562 m 0
  2000 780.079101562 l 1024
--1000 -185 m 0
- 2000 -185 l 1024
+-1000 -183 m 0
+ 2000 -183 l 1024
   Named: "descent"
--1000 334 m 0
- 2000 334 l 1024
+-1000 334 m 1024
   Named: "1/2"
 -1000 546 m 0
  2000 546 l 1024
@@ -222,14 +220,16 @@ Grid
 -1000 888 m 0
  2000 888 l 1024
   Named: "accent"
--1000 477 m 0
- 2000 477 l 1024
+-1000 478 m 0
+ 2000 478 l 1024
   Named: "x"
--1000 667 m 0
- 2000 667 l 1024
+-1000 666 m 0
+ 2000 666 l 1024
   Named: "caps"
--1000 250 m 0
- 2000 250 l 1024
+-1000 239 m 0
+ 2000 239 l 1024
+NamedP: "1/2x"
+  Named: "0.5x"
 EndSplineSet
 TeXData: 1 0 0 262144 131072 87381 500171 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "DoubleTop" "'mark' Mark Positioning in Latin lookup 0-1" "Apos" "'mark' Mark Positioning in Latin lookup 0-1" "Center" "'mark' Mark Positioning in Latin lookup 0-1" "Bottom" "'mark' Mark Positioning in Latin lookup 0-1" "Top" "'mark' Mark Positioning in Latin lookup 0-1" 

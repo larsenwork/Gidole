@@ -1,14 +1,14 @@
 StartChar: uni0215
 Encoding: 533 533 401
-Width: 480
+Width: 474
 VWidth: 0
 Flags: W
-HStem: -6 66<170.056 309.944> 545 121
-VStem: 60 70<100.608 477> 78 283 350 70<100.608 477>
+HStem: -6 66<167.436 306.564> 545 121
+VStem: 60 70<98.4406 477> 75 283 344 70<98.4406 477>
 LayerCount: 4
 Back
 Fore
-Refer: 399 783 N 1 0 0 1 28 -1 2
+Refer: 399 783 N 1 0 0 1 25 -1 2
 Refer: 66 117 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

@@ -1,14 +1,14 @@
 StartChar: uni0326
-Encoding: 806 806 440
+Encoding: 806 806 439
 Width: 194
 Flags: W
-HStem: -230 167<78.6875 97>
+HStem: -229 166<78.6875 97>
 VStem: 50 94<-147.943 -69.851>
 AnchorPoint: "Bottom" 97 0 mark 0
 LayerCount: 4
 Back
 Fore
-Refer: 438 786 N -1 0 0 -1 194 489 2
+Refer: 437 786 N -1 0 0 -1 194 489 2
 Validated: 1
 Layer: 2
 Layer: 3

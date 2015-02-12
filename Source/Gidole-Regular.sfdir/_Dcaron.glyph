@@ -1,14 +1,14 @@
 StartChar: Dcaron
 Encoding: 270 270 217
-Width: 578
+Width: 580
 VWidth: 0
 Flags: W
-HStem: 0 70<149 371.008> 597 70<149 371.008> 736 121
-VStem: 75 74<70 597> 146 268 441 74<141.936 525.064>
+HStem: 0 70<149 363.366> 596 70<149 363.366> 734 120
+VStem: 75 74<70 596> 146 268 441 74<152.375 513.625>
 LayerCount: 4
 Back
 Fore
-Refer: 198 711 N 1 0 0 1 96 190 2
+Refer: 198 711 N 1 0 0 1 96 188 2
 Refer: 17 68 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

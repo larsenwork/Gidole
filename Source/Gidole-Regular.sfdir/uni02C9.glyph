@@ -1,17 +1,17 @@
 StartChar: uni02C9
-Encoding: 713 713 462
+Encoding: 713 713 461
 Width: 350
 Flags: W
 HStem: 556 56<50 300>
 VStem: 50 250<556 612>
-AnchorPoint: "Top" 176 477 mark 0
+AnchorPoint: "Top" 176 478 mark 0
 LayerCount: 4
 Back
 Fore
 SplineSet
 50 612 m 1
- 300 612 l 5
- 300 556 l 5
+ 300 612 l 1
+ 300 556 l 1
  50 556 l 1
  50 612 l 1
 EndSplineSet

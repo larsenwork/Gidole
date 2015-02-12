@@ -1,18 +1,18 @@
 StartChar: minute
-Encoding: 8242 8242 430
+Encoding: 8242 8242 429
 Width: 304
 Flags: W
-HStem: 456 211
+HStem: 456 208
 VStem: 50 204
 LayerCount: 4
 Back
 Fore
 SplineSet
-174 667 m 1
- 254 667 l 1
+174 664 m 5
+ 254 664 l 5
  119 456 l 1
  50 456 l 1
- 174 667 l 1
+ 174 664 l 5
 EndSplineSet
 Validated: 1
 Layer: 2

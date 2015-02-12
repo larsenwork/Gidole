@@ -3,12 +3,12 @@ Encoding: 253 253 204
 Width: 480
 VWidth: 0
 Flags: W
-HStem: 545 121
+HStem: 546 120
 VStem: 194 153
 LayerCount: 4
 Back
 Fore
-Refer: 416 769 N 1 0 0 1 144 -1 2
+Refer: 532 714 N 1 0 0 1 144 0 2
 Refer: 70 121 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2
