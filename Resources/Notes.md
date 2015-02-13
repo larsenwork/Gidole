@@ -17,21 +17,6 @@ Ekstrabold  800		80%
 BLack       900		148/140 pt
 ```
 
-**Creating the fractions**
-```
-Scale 58%
-Weight 15 em
-Simplify more 3em
-```
-
-**Fake Weights**
--10 em, LCG, serif height 667, fuzz 0, retain
-
-
-**fem,masc**
-69%, weight 9 em (0,0,retain), 
-
-
 **After build**
 dcaron, lcaron, tcaron rb 30
 napostrophe tix + lb 50
@@ -41,7 +26,7 @@ napostrophe tix + lb 50
 ```
 REGULAR
 x 477
-o 489 (423)
+o 489 (424)
 X 667
 O 679 (609)
 distance to dot: 73
@@ -55,11 +40,3 @@ distance to dot: 100
 finial 20 x-axis shorter
 width -20
 
-BLACK
-
-Non-linear transform reg -> hair
-o: y*471/423
-X: y*661/667
-B: y*653/667
-O: y*661/609
-```

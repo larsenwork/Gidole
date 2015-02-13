@@ -4,14 +4,14 @@ FullName: Gidole Play Regular
 FamilyName: Gidole Play
 Weight: Regular
 Copyright: Copyright (c) 2015, Andreas Larsen (<andreaslarsen.dk|mail@andreaslarsen.dk>)
-Version: 0.3
+Version: 1.0
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
 InvalidEm: 0
-sfntRevision: 0x00004f5d
+sfntRevision: 0x00010042
 LayerCount: 4
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1423741968
+ModificationTime: 1423782672
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -196,7 +196,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 0 19 14
+WinInfo: 76 19 14
 BeginPrivate: 6
 BlueValues 15 [-20 0 667 673]
 BlueShift 1 0

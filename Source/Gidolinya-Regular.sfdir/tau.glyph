@@ -1,0 +1,26 @@
+StartChar: tau
+Encoding: 964 964 458
+Width: 1000
+VWidth: 0
+LayerCount: 4
+Back
+SplineSet
+45 477 m 5
+ 375 477 l 5
+ 375 411 l 5
+ 245 411 l 5
+ 245 124 l 6
+ 245 79 270 60 295 60 c 6
+ 305 60 l 5
+ 305 -6 l 5
+ 295 -6 l 6
+ 236 -6 175 35 175 124 c 6
+ 175 411 l 5
+ 45 411 l 5
+ 45 477 l 5
+EndSplineSet
+Fore
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

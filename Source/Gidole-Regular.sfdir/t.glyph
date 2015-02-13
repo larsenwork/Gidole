@@ -2,8 +2,8 @@ StartChar: t
 Encoding: 116 116 65
 Width: 353
 Flags: W
-HStem: -6 66<196.391 305.284> 416 62<35 115 185 295>
-VStem: 115 70<81.7054 416 478 591>
+HStem: -6 66<195.877 305.284> 416 62<35 115 185 295>
+VStem: 115 70<71.3266 416 478 591>
 AnchorPoint: "DoubleTop" -10 0 basechar 0
 AnchorPoint: "Apos" 336 666 basechar 0
 AnchorPoint: "Top" 5 0 basechar 0
@@ -13,14 +13,14 @@ LayerCount: 4
 Back
 Fore
 SplineSet
-185 162 m 2
+185 182 m 2
  185 114 185 96 196 81 c 0
  207 66 226 60 246 60 c 0
  262 60 281 64 299 72 c 1
  325 11 l 1
  298 0 272 -6 246 -6 c 0
  202 -6 169 10 148 32 c 0
- 115 67 115 100 115 162 c 2
+ 115 67 115 100 115 182 c 2
  115 416 l 1
  35 416 l 1
  35 478 l 1
@@ -31,7 +31,7 @@ SplineSet
  295 478 l 1
  295 416 l 1
  185 416 l 1
- 185 162 l 2
+ 185 182 l 2
 EndSplineSet
 Validated: 1
 Layer: 2

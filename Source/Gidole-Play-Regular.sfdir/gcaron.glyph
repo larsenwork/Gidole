@@ -1,0 +1,15 @@
+StartChar: gcaron
+Encoding: 487 487 499
+Width: 485
+VWidth: 0
+HStem: -189 66<130.264 310.216> -7 66<169.146 310.929> 418 66<171.31 316.284> 545 120
+VStem: 55 70<107.117 368.883> 106 268 355 70<-77.2182 50 106.314 379.273>
+LayerCount: 4
+Back
+Fore
+Refer: 198 711 N 1 0 0 1 56 -1 2
+Refer: 59 103 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

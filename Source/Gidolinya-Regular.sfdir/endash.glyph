@@ -1,0 +1,19 @@
+StartChar: endash
+Encoding: 8211 8211 93
+Width: 500
+Flags: W
+HStem: 221 58<80 420>
+LayerCount: 4
+Back
+Fore
+SplineSet
+80 221 m 1
+ 80 279 l 1
+ 420 279 l 1
+ 420 221 l 1
+ 80 221 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

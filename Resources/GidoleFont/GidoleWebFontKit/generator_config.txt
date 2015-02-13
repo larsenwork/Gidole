@@ -1,0 +1,5 @@
+# Font Squirrel Font-face Generator Configuration File
+# Upload this file to the generator to recreate the settings
+# you used to create these fonts.
+
+{"mode":"expert","formats":["ttf","woff","woff2"],"tt_instructor":"keep","fallback":"none","fallback_custom":"100","options_subset":"none","subset_custom":"","subset_custom_range":"","subset_ot_features_list":"","css_stylesheet":"gidoleregular.css","filename_suffix":"","emsquare":"1000","spacing_adjustment":"0","rememberme":"Y"}
