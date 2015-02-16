@@ -1,0 +1,20 @@
+StartChar: phi
+Encoding: 966 966 564
+Width: 431
+Flags: W
+HStem: 600 66<60 275.17>
+VStem: 54.998 70<108.308 280.115> 311.001 70<-107.081 -22.4614>
+LayerCount: 4
+Back
+Fore
+SplineSet
+73 386 m 5
+ 315 386 l 5
+ 315 126 l 5
+ 73 126 l 5
+ 73 386 l 5
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

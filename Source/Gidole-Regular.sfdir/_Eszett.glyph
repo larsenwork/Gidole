@@ -2,9 +2,9 @@ StartChar: Eszett
 Encoding: 7838 7838 531
 Width: 632
 VWidth: 0
-Flags: HWO
-HStem: -6 70<274.09 454.582> 597 70<200.531 433>
-VStem: 70 74<0 541.257> 508 74<115.29 244.889>
+Flags: W
+HStem: -6 70<274.09 454.582> 597 70<202.162 433>
+VStem: 70 74<0 542.885> 508 74<115.29 244.889>
 LayerCount: 4
 Back
 Fore
@@ -35,6 +35,7 @@ SplineSet
  70 480 70 539 112 592 c 0
  172 667 263 667 354 667 c 2
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

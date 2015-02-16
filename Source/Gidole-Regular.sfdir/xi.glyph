@@ -1,0 +1,20 @@
+StartChar: xi
+Encoding: 958 958 563
+Width: 431
+Flags: W
+HStem: 126 260<73 315>
+VStem: 73 242<126 386>
+LayerCount: 4
+Back
+Fore
+SplineSet
+73 386 m 5
+ 315 386 l 5
+ 315 126 l 5
+ 73 126 l 5
+ 73 386 l 5
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+EndChar

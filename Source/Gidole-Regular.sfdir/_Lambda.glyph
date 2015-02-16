@@ -7,16 +7,16 @@ AnchorPoint: "DoubleTop" 0 0 basechar 0
 AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 0 0 basechar 0
 AnchorPoint: "Bottom" 537 0 basechar 0
-AnchorPoint: "Top" 305 667 basechar 0
+AnchorPoint: "Top" 305 666 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
 273 666 m 5
- 294 666 316 666 337 666 c 5
- 575 0 l 1
- 550 -0 524 0 499 0 c 9
- 305 570 l 29
+ 337 666 l 5
+ 575 0 l 5
+ 499 0 l 13
+ 305 570 l 25
  111 0 l 1
  35 0 l 1
  273 666 l 5
