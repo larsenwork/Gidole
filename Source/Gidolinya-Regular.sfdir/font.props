@@ -4,7 +4,7 @@ FullName: Gidolinya Regular
 FamilyName: Gidolinya
 Weight: Regular
 Copyright: Copyright (c) 2015, Andreas Larsen (<andreaslarsen.dk|mail@andreaslarsen.dk>)
-Version: 1.0
+Version: 1.0.1
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1424033834
+ModificationTime: 1424125861
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -196,7 +196,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 76 19 14
+WinInfo: 0 19 6
 BeginPrivate: 6
 BlueValues 15 [-20 0 667 673]
 BlueShift 1 0
