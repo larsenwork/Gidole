@@ -1,5 +1,6 @@
 StartChar: atilde
 Encoding: 227 227 187
+GlifName: atilde
 Width: 463
 VWidth: 0
 Flags: HW
@@ -10,6 +11,7 @@ Back
 Fore
 Refer: 183 732 N 1 0 0 1 25 0 2
 Refer: 47 97 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

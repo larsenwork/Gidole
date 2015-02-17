@@ -1,5 +1,6 @@
 StartChar: d
 Encoding: 100 100 49
+GlifName: d
 Width: 480
 Flags: HW
 HStem: -6 66<159.44 300.681> 418 66<159.44 300.681> 646 20G<345 415>
@@ -35,6 +36,7 @@ SplineSet
  45 305 45 371 90 425 c 4
  119 460 166 484 225 484 c 4
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

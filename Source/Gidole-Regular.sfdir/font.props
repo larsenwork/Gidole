@@ -17,13 +17,14 @@ Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 Layer: 2 0 "Back 2" 1
 Layer: 3 0 "Back 3" 1
+PreferredKerning: 4
 XUID: [1021 365 -928128380 14908284]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1424189113
+ModificationTime: 1424189832
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5

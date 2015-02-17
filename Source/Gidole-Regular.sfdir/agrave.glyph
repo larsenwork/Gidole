@@ -1,5 +1,6 @@
 StartChar: agrave
 Encoding: 224 224 160
+GlifName: agrave
 Width: 463
 VWidth: 0
 Flags: HW
@@ -10,6 +11,7 @@ Back
 Fore
 Refer: 533 715 N 1 0 0 1 66 0 2
 Refer: 47 97 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

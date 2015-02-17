@@ -1,5 +1,6 @@
 StartChar: emdash
 Encoding: 8212 8212 94
+GlifName: emdash
 Width: 1000
 Flags: W
 HStem: 221 58<80 920>

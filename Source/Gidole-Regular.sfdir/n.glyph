@@ -1,8 +1,9 @@
 StartChar: n
 Encoding: 110 110 58
+GlifName: n
 Width: 460
 VWidth: 0
-Flags: HW
+Flags: HWO
 HStem: 0 21G<64.9984 134.998 354.998 424.998> 418 66<176.492 313.187>
 VStem: 64.9984 70<0 376.362 430 478> 354.998 70<0 375.79>
 AnchorPoint: "DoubleTop" -0.000976562 0 basechar 0

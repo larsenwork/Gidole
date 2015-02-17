@@ -1,5 +1,6 @@
 StartChar: m
 Encoding: 109 109 46
+GlifName: m
 Width: 695
 VWidth: 0
 Flags: HW
@@ -54,6 +55,7 @@ SplineSet
  135.349609375 335.55859375 135 314.4296875 135 291 c 0
  135 0 l 1
 EndSplineSet
+Validated: 524325
 Layer: 2
 Layer: 3
 EndChar
