@@ -1,8 +1,8 @@
 StartChar: ccaron
 Encoding: 269 269 216
-Width: 418
+Width: 440
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -6 66<173.052 333.514> 418 66<172.402 336.141> 546 120
 VStem: 55 70<111.794 366.705> 111 268
 LayerCount: 4
@@ -10,7 +10,6 @@ Back
 Fore
 Refer: 198 711 N 1 0 0 1 61 0 2
 Refer: 54 99 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

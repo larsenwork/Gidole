@@ -1,16 +1,15 @@
 StartChar: nacute
 Encoding: 324 324 256
-Width: 485
+Width: 460
 VWidth: 0
-Flags: W
-HStem: 0 21G<65 135 355 425> 418 66<176.494 313.189> 546 120
-VStem: 65 70<0 376.362 430 478> 199 153 355 70<0 375.79>
+Flags: HW
+HStem: 0 21G<64.9984 134.998 354.998 424.998> 418 66<176.492 313.187> 546 120
+VStem: 64.9984 70<0 376.362 430 478> 198.998 153 354.998 70<0 375.79>
 LayerCount: 4
 Back
 Fore
-Refer: 532 714 N 1 0 0 1 149 0 2
+Refer: 532 714 N 1 0 0 1 148.998 0 2
 Refer: 58 110 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

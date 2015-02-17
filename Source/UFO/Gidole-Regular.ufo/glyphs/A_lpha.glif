@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alpha" format="1">
+  <advance width="610"/>
+  <unicode hex="0391"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="move" name="DoubleTop"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="Apos"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="Center"/>
+    </contour>
+    <contour>
+      <point x="537" y="0" type="move" name="Bottom"/>
+    </contour>
+    <contour>
+      <point x="305" y="666" type="move" name="Top"/>
+    </contour>
+    <contour>
+      <point x="273" y="666" type="line"/>
+      <point x="337" y="666" type="line"/>
+      <point x="575" y="0" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="442" y="165" type="line"/>
+      <point x="168" y="165" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="35" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="305" y="570" type="line"/>
+      <point x="190" y="235" type="line"/>
+      <point x="420" y="235" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>165</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>646</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

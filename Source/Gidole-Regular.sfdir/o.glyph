@@ -1,38 +1,37 @@
 StartChar: o
 Encoding: 111 111 53
-Width: 490
-Flags: W
-HStem: -6 66<173.259 316.741> 418 66<173.259 316.741>
-VStem: 55 70<108.542 369.458> 365 70<108.542 369.458>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Center" 0 0 basechar 0
-AnchorPoint: "Bottom" 245 0 basechar 0
-AnchorPoint: "Top" 245 478 basechar 0
+Width: 470
+Flags: HW
+HStem: -6 66<163.259 306.741> 418 66<163.259 306.741>
+VStem: 45 70<108.542 369.458> 355 70<108.542 369.458>
+AnchorPoint: "DoubleTop" -10 0 basechar 0
+AnchorPoint: "Apos" -10 0 basechar 0
+AnchorPoint: "Center" -10 0 basechar 0
+AnchorPoint: "Bottom" 235 0 basechar 0
+AnchorPoint: "Top" 235 478 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-245 418 m 0
- 201 418 167 400 147 370 c 0
- 125 337 125 290 125 239 c 0
- 125 188 125 141 147 108 c 0
- 167 78 201 60 245 60 c 0
- 289 60 323 78 343 108 c 0
- 365 141 365 188 365 239 c 0
- 365 290 365 337 343 370 c 0
- 323 400 289 418 245 418 c 0
-245 484 m 0
- 316 484 374 452 406 399 c 0
- 435 351 435 296 435 239 c 0
- 435 182 435 127 406 79 c 0
- 374 26 316 -6 245 -6 c 0
- 174 -6 116 26 84 79 c 0
- 55 127 55 182 55 239 c 0
- 55 296 55 351 84 399 c 0
- 116 452 174 484 245 484 c 0
+235 418 m 0
+ 191 418 157 400 137 370 c 0
+ 115 337 115 290 115 239 c 0
+ 115 188 115 141 137 108 c 0
+ 157 78 191 60 235 60 c 0
+ 279 60 313 78 333 108 c 0
+ 355 141 355 188 355 239 c 0
+ 355 290 355 337 333 370 c 0
+ 313 400 279 418 235 418 c 0
+235 484 m 0
+ 306 484 364 452 396 399 c 0
+ 425 351 425 296 425 239 c 0
+ 425 182 425 127 396 79 c 0
+ 364 26 306 -6 235 -6 c 0
+ 164 -6 106 26 74 79 c 0
+ 45 127 45 182 45 239 c 0
+ 45 296 45 351 74 399 c 0
+ 106 452 164 484 235 484 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

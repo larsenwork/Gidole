@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product" format="1">
+  <advance width="590"/>
+  <unicode hex="220F"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="move" name="DoubleTop"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="Apos"/>
+    </contour>
+    <contour>
+      <point x="-5" y="0" type="move" name="Center"/>
+    </contour>
+    <contour>
+      <point x="295" y="0" type="move" name="Bottom"/>
+    </contour>
+    <contour>
+      <point x="295" y="667" type="move" name="Top"/>
+    </contour>
+    <contour>
+      <point x="75" y="666" type="line"/>
+      <point x="515" y="666" type="line"/>
+      <point x="515" y="0" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="441" y="596" type="line"/>
+      <point x="149" y="596" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>596</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>75</integer>
+            <key>width</key>
+            <integer>74</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>441</integer>
+            <key>width</key>
+            <integer>74</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

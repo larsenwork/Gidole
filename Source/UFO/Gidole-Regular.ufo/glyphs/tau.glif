@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="1">
+  <advance width="420"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="175" y="1" type="line"/>
+      <point x="175" y="412" type="line"/>
+      <point x="45" y="412" type="line"/>
+      <point x="45" y="478" type="line"/>
+      <point x="375" y="478" type="line"/>
+      <point x="375" y="412" type="line"/>
+      <point x="245" y="412" type="line"/>
+      <point x="245" y="1" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>412</integer>
+            <key>width</key>
+            <integer>66</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>175</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

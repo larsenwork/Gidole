@@ -2,7 +2,7 @@ StartChar: wcircumflex
 Encoding: 373 373 202
 Width: 720
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<181.389 253.773 466.227 538.611> 546 120
 VStem: 226 268
 LayerCount: 4
@@ -10,7 +10,6 @@ Back
 Fore
 Refer: 143 710 N 1 0 0 1 176 0 2
 Refer: 44 119 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

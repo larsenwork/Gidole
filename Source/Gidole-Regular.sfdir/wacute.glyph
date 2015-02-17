@@ -2,7 +2,7 @@ StartChar: wacute
 Encoding: 7811 7811 335
 Width: 720
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<181.389 253.773 466.227 538.611> 546 120
 VStem: 314 153
 LayerCount: 4
@@ -10,7 +10,6 @@ Back
 Fore
 Refer: 532 714 N 1 0 0 1 264 0 2
 Refer: 44 119 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

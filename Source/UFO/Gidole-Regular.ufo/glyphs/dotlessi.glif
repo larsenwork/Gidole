@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="210"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="-2" y="0" type="move" name="Center"/>
+    </contour>
+    <contour>
+      <point x="-2" y="0" type="move" name="Apos"/>
+    </contour>
+    <contour>
+      <point x="-2" y="0" type="move" name="DoubleTop"/>
+    </contour>
+    <contour>
+      <point x="105" y="0" type="move" name="Bottom"/>
+    </contour>
+    <contour>
+      <point x="105" y="477" type="move" name="Top"/>
+    </contour>
+    <contour>
+      <point x="70" y="478" type="line"/>
+      <point x="140" y="478" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="70" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>70</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
