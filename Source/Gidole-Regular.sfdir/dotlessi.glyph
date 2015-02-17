@@ -1,25 +1,25 @@
 StartChar: dotlessi
 Encoding: 305 305 156
 GlifName: dotlessi
-Width: 210
+Width: 200
 VWidth: 0
 Flags: W
-HStem: 0 21G<70 140>
-VStem: 70 70<0 478>
-AnchorPoint: "Center" -2 0 basechar 0
-AnchorPoint: "Apos" -2 0 basechar 0
-AnchorPoint: "DoubleTop" -2 0 basechar 0
-AnchorPoint: "Bottom" 105 0 basechar 0
-AnchorPoint: "Top" 105 477 basechar 0
+HStem: 0 21G<65 135>
+VStem: 65 70<0 478>
+AnchorPoint: "Center" -7 0 basechar 0
+AnchorPoint: "Apos" -7 0 basechar 0
+AnchorPoint: "DoubleTop" -7 0 basechar 0
+AnchorPoint: "Bottom" 100 0 basechar 0
+AnchorPoint: "Top" 100 477 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-70 478 m 5
- 140 478 l 5
- 140 0 l 1
- 70 0 l 1
- 70 478 l 5
+65 478 m 5
+ 135 478 l 5
+ 135 0 l 1
+ 65 0 l 1
+ 65 478 l 5
 EndSplineSet
 Validated: 1
 Layer: 2

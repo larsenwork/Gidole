@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="1">
-  <advance width="720"/>
+  <advance width="674"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
@@ -16,20 +16,20 @@
       <point x="0" y="0" type="move" name="Center"/>
     </contour>
     <contour>
-      <point x="360" y="478" type="move" name="Top"/>
+      <point x="337" y="478" type="move" name="Top"/>
     </contour>
     <contour>
       <point x="491" y="0" type="line"/>
       <point x="433" y="0" type="line"/>
-      <point x="337" y="359" type="line"/>
+      <point x="337" y="356" type="line"/>
       <point x="241" y="0" type="line"/>
       <point x="183" y="0" type="line"/>
       <point x="30" y="478" type="line"/>
       <point x="103" y="478" type="line"/>
-      <point x="213" y="114" type="line"/>
+      <point x="213" y="117" type="line"/>
       <point x="308" y="478" type="line"/>
       <point x="366" y="478" type="line"/>
-      <point x="461" y="114" type="line"/>
+      <point x="461" y="117" type="line"/>
       <point x="571" y="478" type="line"/>
       <point x="644" y="478" type="line"/>
     </contour>

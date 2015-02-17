@@ -3,7 +3,7 @@ Encoding: 333 333 262
 GlifName: omacron
 Width: 470
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -6 66<163.259 306.741> 418 66<163.259 306.741> 556 56<109 359>
 VStem: 45 70<108.542 369.458> 109 250<556 612> 355 70<108.542 369.458>
 LayerCount: 4

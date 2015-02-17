@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="1">
-  <advance width="210"/>
+  <advance width="200"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="-2" y="0" type="move" name="Center"/>
+      <point x="-7" y="0" type="move" name="Center"/>
     </contour>
     <contour>
-      <point x="-2" y="0" type="move" name="Apos"/>
+      <point x="-7" y="0" type="move" name="Apos"/>
     </contour>
     <contour>
-      <point x="-2" y="0" type="move" name="DoubleTop"/>
+      <point x="-7" y="0" type="move" name="DoubleTop"/>
     </contour>
     <contour>
-      <point x="105" y="0" type="move" name="Bottom"/>
+      <point x="100" y="0" type="move" name="Bottom"/>
     </contour>
     <contour>
-      <point x="105" y="477" type="move" name="Top"/>
+      <point x="100" y="477" type="move" name="Top"/>
     </contour>
     <contour>
-      <point x="70" y="478" type="line"/>
-      <point x="140" y="478" type="line"/>
-      <point x="140" y="0" type="line"/>
-      <point x="70" y="0" type="line"/>
+      <point x="65" y="478" type="line"/>
+      <point x="135" y="478" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="65" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>70</integer>
+            <integer>65</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>

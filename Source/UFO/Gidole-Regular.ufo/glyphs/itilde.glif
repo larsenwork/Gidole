@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="itilde" format="1">
-  <advance width="210"/>
+  <advance width="200"/>
   <unicode hex="0129"/>
   <outline>
-    <component base="tilde" xOffset="-93" yOffset="-1"/>
+    <component base="tilde" xOffset="-98" yOffset="-1"/>
     <component base="dotlessi"/>
   </outline>
   <lib>
@@ -35,19 +35,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-43</integer>
+            <integer>-48</integer>
             <key>width</key>
             <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>70</integer>
+            <integer>65</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>197</integer>
+            <integer>192</integer>
             <key>width</key>
             <integer>56</integer>
           </dict>

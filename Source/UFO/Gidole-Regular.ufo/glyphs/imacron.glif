@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="imacron" format="1">
-  <advance width="210"/>
+  <advance width="200"/>
   <unicode hex="012B"/>
   <outline>
-    <component base="uni02C9" xOffset="-71" yOffset="-1"/>
+    <component base="uni02C9" xOffset="-76" yOffset="-1"/>
     <component base="dotlessi"/>
   </outline>
   <lib>
@@ -29,13 +29,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-21</integer>
+            <integer>-26</integer>
             <key>width</key>
             <integer>250</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>70</integer>
+            <integer>65</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>

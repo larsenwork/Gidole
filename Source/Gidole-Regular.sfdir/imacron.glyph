@@ -1,15 +1,15 @@
 StartChar: imacron
 Encoding: 299 299 239
 GlifName: imacron
-Width: 210
+Width: 200
 VWidth: 0
 Flags: W
-HStem: 0 21G<70 140> 555 56<-21 229>
-VStem: -21 250<555 611> 70 70<0 478>
+HStem: 0 21G<65 135> 555 56<-26 224>
+VStem: -26 250<555 611> 65 70<0 478>
 LayerCount: 4
 Back
 Fore
-Refer: 461 713 N 1 0 0 1 -71 -1 2
+Refer: 461 713 N 1 0 0 1 -76 -1 2
 Refer: 156 305 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

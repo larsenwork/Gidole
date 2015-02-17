@@ -1,11 +1,11 @@
 StartChar: cdotaccent
 Encoding: 267 267 214
 GlifName: cdotaccent
-Width: 440
+Width: 435
 VWidth: 0
-Flags: HW
-HStem: -6 66<173.052 333.514> 418 66<172.402 336.141> 550 94<204.562 285.438>
-VStem: 55 70<111.794 366.705> 198 94<556.897 637.103>
+Flags: W
+HStem: -6 66<172.027 333.285> 418 66<171.337 333.726> 550 94<204.562 285.438>
+VStem: 55 70<109.38 368.852> 198 94<556.897 637.103>
 LayerCount: 4
 Back
 Fore

@@ -1004,7 +1004,7 @@ lookup kernHorizontalKerninglookup0 {
     pos @kc0_first_36 @kc0_second_5 -10;
     pos @kc0_first_36 @kc0_second_8 20;
     pos @kc0_first_36 @kc0_second_9 20;
-    pos @kc0_first_36 @kc0_second_13 -50;
+    pos @kc0_first_36 @kc0_second_13 -45;
     pos @kc0_first_36 @kc0_second_14 -50;
     pos @kc0_first_36 @kc0_second_15 -50;
     pos @kc0_first_36 @kc0_second_16 -40;
@@ -1737,7 +1737,7 @@ feature kern {
 	\uni01CF \uni01D0 \uni01D1 \uni01D2 \uni01D3 \uni01D4 \Gcaron \gcaron \uni01DD 
 	\uni021E \uni021F \uni0226 \uni0227 \uni0228 \uni0229 \uni022E \uni022F \uni0232 
 	\uni0233 \upsilondieresistonos \omegatonos \chi \delta \sigma1 \zeta \xi \phi 
-	\psi \uni0086 \uni0087 \uni0085 ];
+	\psi ];
 @GDEF_Mark = [\quoteright \periodcentered \grave \asciicircum \dieresis 
 	\circumflex \tilde \cedilla \breve \macron \dotaccent \ring \caron \hungarumlaut 
 	\ogonek \uni030F \uni0311 \gravecomb \acutecomb \uni0315 \uni0312 \dotbelowcomb 

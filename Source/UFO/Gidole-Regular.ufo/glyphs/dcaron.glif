@@ -41,13 +41,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>55</integer>
+            <integer>45</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>355</integer>
+            <integer>345</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>

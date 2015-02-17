@@ -2,7 +2,7 @@ StartChar: o
 Encoding: 111 111 53
 GlifName: o
 Width: 470
-Flags: HW
+Flags: W
 HStem: -6 66<163.259 306.741> 418 66<163.259 306.741>
 VStem: 45 70<108.542 369.458> 355 70<108.542 369.458>
 AnchorPoint: "DoubleTop" -10 0 basechar 0

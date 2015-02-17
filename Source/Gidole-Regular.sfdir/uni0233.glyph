@@ -1,14 +1,15 @@
 StartChar: uni0233
 Encoding: 563 563 556
 GlifName: uni0233
-Width: 480
+Width: 470
 VWidth: 0
-HStem: 556 56<114 364>
-VStem: 114 250<556 612>
+Flags: W
+HStem: 556 56<109 359>
+VStem: 109 250<556 612>
 LayerCount: 4
 Back
 Fore
-Refer: 461 713 N 1 0 0 1 64 0 2
+Refer: 461 713 N 1 0 0 1 59 0 2
 Refer: 70 121 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

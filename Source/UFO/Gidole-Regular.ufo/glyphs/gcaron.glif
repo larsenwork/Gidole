@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcaron" format="1">
-  <advance width="490"/>
+  <advance width="480"/>
   <unicode hex="01E7"/>
   <outline>
-    <component base="caron" xOffset="51"/>
+    <component base="caron" xOffset="41"/>
     <component base="g"/>
   </outline>
   <lib>
@@ -41,19 +41,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>55</integer>
+            <integer>45</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>101</integer>
+            <integer>91</integer>
             <key>width</key>
             <integer>268</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>355</integer>
+            <integer>345</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>

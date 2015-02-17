@@ -2,7 +2,7 @@ StartChar: d
 Encoding: 100 100 49
 GlifName: d
 Width: 480
-Flags: HW
+Flags: W
 HStem: -6 66<159.44 300.681> 418 66<159.44 300.681> 646 20G<345 415>
 VStem: 45 70<106.975 371.025> 345 70<0 50 107.175 370.825 428 666>
 AnchorPoint: "DoubleTop" -10 0 basechar 0

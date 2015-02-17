@@ -1,11 +1,11 @@
 StartChar: Cacute
 Encoding: 262 262 209
 GlifName: C_acute
-Width: 537
+Width: 536
 VWidth: 0
 Flags: W
-HStem: -6 70<207.595 382.719> 602 70<206.886 381.61> 734 120
-VStem: 65 74<134.777 531.519> 244 153
+HStem: -6 70<206.393 384.003> 602 70<206.393 382.743> 734 120
+VStem: 65 74<136 530> 244 153
 LayerCount: 4
 Back
 Fore

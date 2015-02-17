@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="1">
-  <advance width="480"/>
+  <advance width="460"/>
   <unicode hex="016D"/>
   <outline>
-    <component base="breve" xOffset="66.998"/>
+    <component base="breve" xOffset="60.9991"/>
     <component base="u"/>
   </outline>
   <lib>
@@ -35,25 +35,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>60</integer>
+            <integer>55</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>117</integer>
+            <integer>111</integer>
             <key>width</key>
             <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>309</integer>
+            <integer>303</integer>
             <key>width</key>
             <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>350</integer>
+            <integer>335</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>

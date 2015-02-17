@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0203" format="1">
-  <advance width="463"/>
+  <advance width="443"/>
   <unicode hex="0203"/>
   <outline>
-    <component base="uni0311" xOffset="49.998"/>
+    <component base="uni0311" xOffset="34.998"/>
     <component base="a"/>
   </outline>
   <lib>
@@ -41,25 +41,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>40</integer>
+            <integer>35</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>100</integer>
+            <integer>85</integer>
             <key>width</key>
             <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>292</integer>
+            <integer>277</integer>
             <key>width</key>
             <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>333</integer>
+            <integer>318</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>

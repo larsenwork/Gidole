@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yacute" format="1">
-  <advance width="480"/>
+  <advance width="470"/>
   <unicode hex="00FD"/>
   <outline>
-    <component base="uni02CA" xOffset="144"/>
+    <component base="uni02CA" xOffset="139"/>
     <component base="y"/>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>194</integer>
+            <integer>189</integer>
             <key>width</key>
             <integer>153</integer>
           </dict>

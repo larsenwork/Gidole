@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igrave" format="1">
-  <advance width="210"/>
+  <advance width="200"/>
   <unicode hex="00EC"/>
   <outline>
-    <component base="uni02CB" xOffset="-52" yOffset="-1"/>
+    <component base="uni02CB" xOffset="-57" yOffset="-1"/>
     <component base="dotlessi"/>
   </outline>
   <lib>
@@ -29,13 +29,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-2</integer>
+            <integer>-7</integer>
             <key>width</key>
             <integer>153</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>70</integer>
+            <integer>65</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>

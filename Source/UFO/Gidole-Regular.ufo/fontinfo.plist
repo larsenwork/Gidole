@@ -137,7 +137,7 @@ Font Name for webfont conversions.
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.0.1</string>
+    <string>Version 1.0.2</string>
     <key>openTypeNameUniqueID</key>
     <string>Gidole Regular 1.0.0</string>
     <key>openTypeOS2Panose</key>

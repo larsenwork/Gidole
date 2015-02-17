@@ -8,12 +8,12 @@
       <point x="450" y="666" type="line"/>
       <point x="450" y="0" type="line"/>
       <point x="376" y="0" type="line"/>
+      <point x="376" y="0"/>
       <point x="376" y="596"/>
       <point x="376" y="596" type="curve"/>
       <point x="307" y="596"/>
       <point x="272" y="594"/>
       <point x="272" y="594" type="curve"/>
-      <point x="272" y="594"/>
       <point x="272" y="0" type="line"/>
       <point x="198" y="0" type="line"/>
       <point x="198" y="250" type="line"/>

@@ -3,14 +3,15 @@ Encoding: 329 329 382
 GlifName: napostrophe
 Width: 597
 VWidth: 0
-Flags: HW
-HStem: 0 21G<177 247 467 537> 418 66<288.494 425.189> 456 216<82.7301 98>
-VStem: 50 102<578 664.037> 177 70<0 376.362 430 478> 467 70<0 375.79>
+Flags: W
+HStem: 0 21G<177 247 457 527> 418 66<284.528 418.81> 456 216<82.7301 98>
+VStem: 50 102<578 664.037> 177 70<0 380.495 433 478> 457 70<0 379.156>
 LayerCount: 4
 Back
 Fore
 Refer: 58 110 S 1 0 0 1 112 0 2
 Refer: 440 700 N 1 0 0 1 0 0 2
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar
