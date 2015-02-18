@@ -1,10 +1,10 @@
 StartChar: Lcaron
 Encoding: 317 317 251
 GlifName: L_caron
-Width: 510
+Width: 480
 VWidth: 0
 Flags: W
-HStem: 0 70<149 455> 456 216<272.73 288> 646 20G<75 149>
+HStem: 0 70<149 425> 456 216<272.73 288> 646 20G<75 149>
 VStem: 75 74<70 666> 240 102<578 664.037>
 LayerCount: 4
 Back

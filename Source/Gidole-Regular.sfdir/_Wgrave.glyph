@@ -1,15 +1,15 @@
 StartChar: Wgrave
 Encoding: 7808 7808 332
 GlifName: W_grave
-Width: 800
+Width: 710
 VWidth: 0
 Flags: W
-HStem: 0 21G<203.775 281.427 518.573 596.225> 646 20G<35 114.794 685.197 765> 734 120
-VStem: 35 75<639.207 666> 293 153 690 75<639.207 666>
+HStem: 0 21G<166.766 236.494 473.506 543.234> 646 20G<30 109.075 603 680> 734 120
+VStem: 247 153
 LayerCount: 4
 Back
 Fore
-Refer: 533 715 N 1 0 0 1 243 188 2
+Refer: 533 715 N 1 0 0 1 197 188 2
 Refer: 26 87 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

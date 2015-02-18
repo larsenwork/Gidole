@@ -1,15 +1,15 @@
 StartChar: sacute
 Encoding: 347 347 274
 GlifName: sacute
-Width: 419
+Width: 408
 VWidth: 0
 Flags: W
-HStem: -6 66<89.37 284.377> 418 66<132.781 314.041> 546 120
-VStem: 41 70<305.99 396.901> 159 153 309 70<85.2982 180.465>
+HStem: -6 66<84.0702 272.756> 418 66<134.477 304.139> 546 120
+VStem: 40 70<308.291 398.944> 153 153 298 70<82.753 178.654>
 LayerCount: 4
 Back
 Fore
-Refer: 532 714 N 1 0 0 1 109 0 2
+Refer: 532 714 N 1 0 0 1 103 0 2
 Refer: 48 115 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

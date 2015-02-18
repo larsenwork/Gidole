@@ -1,21 +1,21 @@
 StartChar: V
 Encoding: 86 86 25
 GlifName: V_
-Width: 610
+Width: 548
 Flags: W
-HStem: 0 21G<265.853 344.147> 646 20G<35 118.893 492.071 575>
+HStem: 0 21G<232.574 315.426> 646 20G<25 108.143 439.857 523>
 LayerCount: 4
 Back
 Fore
 SplineSet
-35 666 m 5
- 112 666 l 5
- 305 106 l 1
- 499 666 l 5
- 575 666 l 5
- 337 0 l 1
- 273 0 l 1
- 35 666 l 5
+309 0 m 5
+ 239 0 l 5
+ 25 666 l 5
+ 102 666 l 5
+ 274 106 l 5
+ 446 666 l 5
+ 523 666 l 5
+ 309 0 l 5
 EndSplineSet
 Validated: 1
 Layer: 2

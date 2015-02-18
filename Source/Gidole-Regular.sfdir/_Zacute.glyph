@@ -1,10 +1,10 @@
 StartChar: Zacute
 Encoding: 377 377 296
 GlifName: Z_acute
-Width: 540
+Width: 530
 VWidth: 0
 Flags: W
-HStem: 0 70<147 480> 596 70<70 382> 734 120
+HStem: 0 70<147 470> 596 70<70 372> 734 120
 VStem: 224 153
 LayerCount: 4
 Back

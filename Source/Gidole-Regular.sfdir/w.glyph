@@ -1,32 +1,32 @@
 StartChar: w
 Encoding: 119 119 44
 GlifName: w
-Width: 674
+Width: 670
 Flags: W
-HStem: 0 21G<176.598 246.393 427.607 497.402>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Bottom" 0 0 basechar 0
-AnchorPoint: "Center" 0 0 basechar 0
-AnchorPoint: "Top" 337 478 basechar 0
+HStem: 0 21G<146.895 222.415 447.585 523.105>
+AnchorPoint: "DoubleTop" 1 0 basechar 0
+AnchorPoint: "Apos" 1 0 basechar 0
+AnchorPoint: "Bottom" 1 0 basechar 0
+AnchorPoint: "Center" 1 0 basechar 0
+AnchorPoint: "Top" 338 478 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-491 0 m 1
- 433 0 l 1
- 337 356 l 1
- 241 0 l 1
- 183 0 l 1
+518 0 m 1
+ 454 0 l 1
+ 335 371 l 1
+ 216 0 l 1
+ 152 0 l 1
  30 478 l 1
- 103 478 l 1
- 213 117 l 1
- 308 478 l 1
- 366 478 l 1
- 461 117 l 1
- 571 478 l 1
- 644 478 l 1
- 491 0 l 1
+ 102 478 l 1
+ 191 111 l 1
+ 309 478 l 1
+ 363 478 l 1
+ 483 111 l 1
+ 570 478 l 1
+ 640 478 l 1
+ 518 0 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

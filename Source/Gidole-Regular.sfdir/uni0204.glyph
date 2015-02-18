@@ -1,10 +1,10 @@
 StartChar: uni0204
 Encoding: 516 516 393
 GlifName: uni0204
-Width: 500
+Width: 510
 VWidth: 0
 Flags: W
-HStem: 0 70<149 435> 308 70<149 385> 596 70<149 435> 732 120
+HStem: 0 70<149 445> 308 70<149 385> 596 70<149 445> 732 120
 VStem: 70 283 75 74<70 308 378 596>
 LayerCount: 4
 Back

@@ -1,27 +1,27 @@
 StartChar: E
 Encoding: 69 69 18
 GlifName: E_
-Width: 500
+Width: 510
 Flags: W
-HStem: 0 70<149 435> 308 70<149 385> 596 70<149 435>
+HStem: 0 70<149 445> 308 70<149 385> 596 70<149 445>
 VStem: 75 74<70 308 378 596>
 LayerCount: 4
 Back
 Fore
 SplineSet
-75 666 m 5
- 435 666 l 5
- 435 596 l 5
- 149 596 l 5
- 149 378 l 5
+75 666 m 1
+ 445 666 l 5
+ 445 596 l 5
+ 149 596 l 1
+ 149 378 l 1
  385 378 l 5
  385 308 l 5
- 149 308 l 5
- 149 70 l 5
- 435 70 l 5
- 435 0 l 5
- 75 0 l 5
- 75 666 l 5
+ 149 308 l 1
+ 149 70 l 1
+ 445 70 l 5
+ 445 0 l 5
+ 75 0 l 1
+ 75 666 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

@@ -1,31 +1,31 @@
 StartChar: A
 Encoding: 65 65 13
 GlifName: A_
-Width: 610
+Width: 544
 Flags: W
-HStem: 0 21G<35 117.909 492.091 575> 165 70<190 420> 646 20G<265.853 344.147>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Center" 0 0 basechar 0
-AnchorPoint: "Bottom" 537 0 basechar 0
-AnchorPoint: "Top" 305 666 basechar 0
+HStem: 0 21G<15 99.4242 444.576 529> 165 70<168 376> 646 20G<235.183 308.817>
+AnchorPoint: "DoubleTop" -33 0 basechar 0
+AnchorPoint: "Apos" -33 0 basechar 0
+AnchorPoint: "Center" -33 0 basechar 0
+AnchorPoint: "Bottom" 504 0 basechar 0
+AnchorPoint: "Top" 272 666 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-273 666 m 1
- 337 666 l 1
- 575 0 l 1
- 499 0 l 1
- 442 165 l 1
- 168 165 l 1
- 111 0 l 1
- 35 0 l 1
- 273 666 l 1
-305 570 m 1
- 190 235 l 1
- 420 235 l 1
- 305 570 l 1
+15 0 m 1
+ 242 666 l 1
+ 302 666 l 1
+ 529 0 l 1
+ 451 0 l 1
+ 398 165 l 1
+ 146 165 l 1
+ 93 0 l 1
+ 15 0 l 1
+376 235 m 1
+ 272 562 l 1
+ 168 235 l 1
+ 376 235 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

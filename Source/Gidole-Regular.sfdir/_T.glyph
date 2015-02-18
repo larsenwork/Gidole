@@ -1,29 +1,29 @@
 StartChar: T
 Encoding: 84 84 29
 GlifName: T_
-Width: 560
+Width: 530
 VWidth: 0
 Flags: W
-HStem: 0 21G<243 317> 596 70<55 243 317 505>
-VStem: 243 74<0 596>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Center" 35 0 basechar 0
-AnchorPoint: "Bottom" 280 0 basechar 0
-AnchorPoint: "Top" 280 666 basechar 0
+HStem: 0 21G<228 302> 596 70<40 228 302 490>
+VStem: 228 74<0 596>
+AnchorPoint: "DoubleTop" -15 0 basechar 0
+AnchorPoint: "Apos" -15 0 basechar 0
+AnchorPoint: "Center" 20 0 basechar 0
+AnchorPoint: "Bottom" 265 0 basechar 0
+AnchorPoint: "Top" 265 666 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-55 666 m 1
- 505 666 l 1
- 505 596 l 1
- 317 596 l 1
- 317 0 l 1
- 243 0 l 1
- 243 596 l 1
- 55 596 l 1
- 55 666 l 1
+40 666 m 1
+ 490 666 l 1
+ 490 596 l 1
+ 302 596 l 1
+ 302 0 l 1
+ 228 0 l 1
+ 228 596 l 1
+ 40 596 l 1
+ 40 666 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

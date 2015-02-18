@@ -1,15 +1,15 @@
 StartChar: Amacron
 Encoding: 256 256 205
 GlifName: A_macron
-Width: 610
+Width: 544
 VWidth: 0
 Flags: W
-HStem: 0 21G<35 117.909 492.091 575> 165 70<190 420> 646 20G<265.853 344.147> 744 56<179 429>
-VStem: 179 250<744 800>
+HStem: 0 21G<15 99.4242 444.576 529> 165 70<168 376> 646 20G<235.183 308.817> 744 56<146 396>
+VStem: 146 250<744 800>
 LayerCount: 4
 Back
 Fore
-Refer: 461 713 N 1 0 0 1 129 188 2
+Refer: 461 713 N 1 0 0 1 96 188 2
 Refer: 13 65 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

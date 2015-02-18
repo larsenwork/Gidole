@@ -1,10 +1,10 @@
 StartChar: Edotaccent
 Encoding: 278 278 223
 GlifName: E_dotaccent
-Width: 500
+Width: 510
 VWidth: 0
 Flags: W
-HStem: 0 70<149 435> 308 70<149 385> 596 70<149 435> 732 94<214.562 295.438>
+HStem: 0 70<149 445> 308 70<149 385> 596 70<149 445> 732 94<214.562 295.438>
 VStem: 75 74<70 308 378 596> 208 94<738.897 819.103>
 LayerCount: 4
 Back

@@ -1,10 +1,10 @@
 StartChar: uni013B
 Encoding: 315 315 249
 GlifName: uni013B_
-Width: 510
+Width: 480
 VWidth: 0
 Flags: W
-HStem: -229 166<246.688 265> 0 70<149 455> 646 20G<75 149>
+HStem: -229 166<246.688 265> 0 70<149 425> 646 20G<75 149>
 VStem: 75 74<70 666> 218 94<-147.943 -69.851>
 LayerCount: 4
 Back

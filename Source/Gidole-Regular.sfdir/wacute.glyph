@@ -1,15 +1,15 @@
 StartChar: wacute
 Encoding: 7811 7811 335
 GlifName: wacute
-Width: 674
+Width: 670
 VWidth: 0
 Flags: W
-HStem: 0 21G<176.598 246.393 427.607 497.402> 546 120
-VStem: 314 153
+HStem: 0 21G<146.895 222.415 447.585 523.105> 546 120
+VStem: 315 153
 LayerCount: 4
 Back
 Fore
-Refer: 532 714 N 1 0 0 1 264 0 2
+Refer: 532 714 N 1 0 0 1 265 0 2
 Refer: 44 119 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

@@ -1,10 +1,10 @@
 StartChar: Ldot
 Encoding: 319 319 253
 GlifName: L_dot
-Width: 510
+Width: 480
 VWidth: 0
 Flags: W
-HStem: 0 70<149 455> 283 102<238.227 323.773> 646 20G<75 149>
+HStem: 0 70<149 425> 283 102<238.227 323.773> 646 20G<75 149>
 VStem: 75 74<70 666> 230 102<291.227 376.773>
 LayerCount: 4
 Back

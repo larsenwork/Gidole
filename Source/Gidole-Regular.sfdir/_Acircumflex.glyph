@@ -1,15 +1,15 @@
 StartChar: Acircumflex
 Encoding: 194 194 150
 GlifName: A_circumflex
-Width: 610
+Width: 544
 VWidth: 0
 Flags: W
-HStem: 0 21G<35 117.909 492.091 575> 165 70<190 420> 646 20G<265.853 344.147> 734 120
-VStem: 171 268
+HStem: 0 21G<15 99.4242 444.576 529> 165 70<168 376> 646 20G<235.183 308.817> 734 120
+VStem: 138 268
 LayerCount: 4
 Back
 Fore
-Refer: 143 710 N 1 0 0 1 121 188 2
+Refer: 143 710 N 1 0 0 1 88 188 2
 Refer: 13 65 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

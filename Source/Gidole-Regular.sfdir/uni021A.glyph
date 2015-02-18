@@ -1,15 +1,15 @@
 StartChar: uni021A
 Encoding: 538 538 318
 GlifName: uni021A_
-Width: 560
+Width: 530
 VWidth: 0
 Flags: W
-HStem: -229 166<261.688 280> 0 21G<243 317> 596 70<55 243 317 505>
-VStem: 233 94<-147.943 -69.851> 243 74<0 596>
+HStem: -229 166<246.688 265> 0 21G<228 302> 596 70<40 228 302 490>
+VStem: 218 94<-147.943 -69.851> 228 74<0 596>
 LayerCount: 4
 Back
 Fore
-Refer: 439 806 N 1 0 0 1 183 0 2
+Refer: 439 806 N 1 0 0 1 168 0 2
 Refer: 29 84 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2
