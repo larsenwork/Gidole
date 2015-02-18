@@ -1,9 +1,10 @@
 StartChar: Lacute
 Encoding: 313 313 247
-Width: 510
+GlifName: L_acute
+Width: 480
 VWidth: 0
 Flags: W
-HStem: 0 70<156.697 455> 646 20G<75 149> 736 120
+HStem: 0 70<156.697 425> 646 20G<75 149> 736 120
 VStem: 67 153 75 74<76.7269 666>
 LayerCount: 4
 Back

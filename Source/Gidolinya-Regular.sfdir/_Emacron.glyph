@@ -1,9 +1,10 @@
 StartChar: Emacron
 Encoding: 274 274 219
-Width: 500
+GlifName: E_macron
+Width: 510
 VWidth: 0
 Flags: W
-HStem: 0 70<156.697 435> 308 70<149 385> 596 70<156.697 435> 746 56<129 379>
+HStem: 0 70<156.697 445> 308 70<149 385> 596 70<156.697 445> 746 56<129 379>
 VStem: 75 74<76.7269 308 378 589.273> 129 250<746 802>
 LayerCount: 4
 Back

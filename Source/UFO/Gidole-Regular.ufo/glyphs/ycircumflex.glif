@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ycircumflex" format="1">
-  <advance width="470"/>
+  <advance width="432"/>
   <unicode hex="0177"/>
   <outline>
-    <component base="circumflex" xOffset="51"/>
+    <component base="circumflex" xOffset="20"/>
     <component base="y"/>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>101</integer>
+            <integer>70</integer>
             <key>width</key>
             <integer>268</integer>
           </dict>

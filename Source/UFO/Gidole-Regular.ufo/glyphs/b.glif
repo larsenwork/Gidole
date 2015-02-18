@@ -44,14 +44,14 @@
       <point x="314" y="-6"/>
       <point x="255" y="-6" type="curve" smooth="yes"/>
       <point x="206" y="-6"/>
-      <point x="162" y="15"/>
-      <point x="135" y="50" type="curve"/>
+      <point x="162" y="17"/>
+      <point x="135" y="55" type="curve"/>
       <point x="135" y="0" type="line"/>
       <point x="65" y="0" type="line"/>
       <point x="65" y="666" type="line"/>
       <point x="135" y="666" type="line"/>
-      <point x="135" y="428" type="line"/>
-      <point x="162" y="463"/>
+      <point x="135" y="423" type="line"/>
+      <point x="162" y="461"/>
       <point x="206" y="484"/>
     </contour>
   </outline>

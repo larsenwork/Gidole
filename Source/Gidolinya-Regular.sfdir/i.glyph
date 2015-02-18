@@ -1,20 +1,31 @@
 StartChar: i
 Encoding: 105 105 52
-Width: 214
+GlifName: i
+Width: 200
 VWidth: 0
 Flags: W
-HStem: 0 21G<72 142> 549 94<66.5618 147.438>
-VStem: 60 94<555.897 636.103> 72 70<0 477>
-AnchorPoint: "Top" 18 23 basechar 0
-AnchorPoint: "Bottom" 102 0 basechar 0
-AnchorPoint: "Center" -1 0 basechar 0
-AnchorPoint: "Apos" -1 0 basechar 0
-AnchorPoint: "DoubleTop" -1 0 basechar 0
+HStem: 0 21G<65 135> 555 94<59.5618 140.438>
+VStem: 53 94<561.897 642.103> 65 70<0 478>
+AnchorPoint: "Top" 13 23 basechar 0
+AnchorPoint: "Bottom" 97 0 basechar 0
+AnchorPoint: "Center" -6 0 basechar 0
+AnchorPoint: "Apos" -6 0 basechar 0
+AnchorPoint: "DoubleTop" -6 0 basechar 0
 LayerCount: 4
 Back
 Fore
-Refer: 196 729 N 1 0 0 1 10 -1 2
-Refer: 156 305 N 1 0 0 1 0 0 3
+SplineSet
+100 649 m 4xe0
+ 127 649 147 630 147 602 c 4
+ 147 574 127 555 100 555 c 4
+ 73 555 53 574 53 602 c 4
+ 53 630 73 649 100 649 c 4xe0
+65 0 m 1xd0
+ 65 478 l 1
+ 135 478 l 1
+ 135 0 l 1
+ 65 0 l 1xd0
+EndSplineSet
 Validated: 1
 Layer: 2
 Layer: 3

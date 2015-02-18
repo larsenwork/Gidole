@@ -1,14 +1,15 @@
 StartChar: zacute
 Encoding: 378 378 297
-Width: 440
+GlifName: zacute
+Width: 414
 VWidth: 0
 Flags: W
-HStem: 0 66<110.184 380> 411 66<60 299.525> 545 120
-VStem: 39 70<68.9036 130.476> 174 153 311 70<346.242 405.657>
+HStem: 0 66<114.475 367> 412 66<57 286.571> 545 120
+VStem: 35 70<71.6461 130.26> 165 153 299 70<346.887 407.561>
 LayerCount: 4
 Back
 Fore
-Refer: 411 769 N 1 0 0 1 124 -1 2
+Refer: 411 769 N 1 0 0 1 115 -1 2
 Refer: 71 122 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

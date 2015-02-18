@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron" format="1">
-  <advance width="540"/>
+  <advance width="530"/>
   <unicode hex="017D"/>
   <outline>
     <component base="caron" xOffset="86" yOffset="188"/>

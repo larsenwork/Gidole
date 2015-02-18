@@ -1,14 +1,15 @@
 StartChar: racute
 Encoding: 341 341 268
-Width: 339
+GlifName: racute
+Width: 338
 VWidth: 0
 Flags: W
-HStem: 0 21G<60 130> 418 66<170.448 294.391> 544 120
-VStem: 60 70<0 378.9> 152.5 153
+HStem: 0 21G<55 125> 418 66<165.448 289.391> 544 120
+VStem: 55 70<0 378.9> 147.5 153
 LayerCount: 4
 Back
 Fore
-Refer: 411 769 N 1 0 0 1 102.5 -2 2
+Refer: 411 769 N 1 0 0 1 97.5 -2 2
 Refer: 62 114 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

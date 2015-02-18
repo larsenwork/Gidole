@@ -1,33 +1,35 @@
 StartChar: u
 Encoding: 117 117 66
-Width: 480
+GlifName: u
+Width: 460
+VWidth: 0
 Flags: W
-HStem: -6 66<171.016 308.984>
-VStem: 60 70<102.21 478> 350 70<102.21 478>
+HStem: -6 66<162.552 297.448>
+VStem: 55 70<98.8435 478> 335 70<98.8435 478>
 AnchorPoint: "DoubleTop" 0 0 basechar 0
 AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Center" -15 0 basechar 0
-AnchorPoint: "Bottom" 237 0 basechar 0
-AnchorPoint: "Top" 237 476 basechar 0
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Bottom" 230 0 basechar 0
+AnchorPoint: "Top" 230 478 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-60 478 m 5
- 130 478 l 5
- 130 232 l 6
- 130 165 130 126 158 94 c 4
- 178 71 208 60 240 60 c 4
- 272 60 302 71 322 94 c 4
- 350 126 350 165 350 232 c 6
- 350 478 l 5
- 420 478 l 5
- 420 232 l 6
- 420 158 420 104 377 53 c 4
- 344 14 293 -6 240 -6 c 4
- 187 -6 136 14 103 53 c 4
- 60 104 60 158 60 232 c 6
- 60 478 l 5
+55 478 m 5
+ 125 478 l 5
+ 125 222 l 6
+ 125 160 125 118 154 89 c 4
+ 171 72 197 60 230 60 c 4
+ 263 60 289 72 306 89 c 4
+ 335 118 335 160 335 222 c 6
+ 335 478 l 5
+ 405 478 l 5
+ 405 222 l 6
+ 405 152 405 94 358 45 c 4
+ 334 20 291 -6 230 -6 c 4
+ 169 -6 126 20 102 45 c 4
+ 55 94 55 152 55 222 c 6
+ 55 478 l 5
 EndSplineSet
 Validated: 1
 Layer: 2

@@ -1,5 +1,6 @@
 StartChar: H
 Encoding: 72 72 20
+GlifName: H_
 Width: 590
 VWidth: 0
 Flags: W
@@ -18,8 +19,8 @@ SplineSet
  149 666 l 1
  149 378 l 1
  441 378 l 1
- 441 666 l 1
- 515 666 l 1
+ 441 666 l 5
+ 515 666 l 5
  515 0 l 1
  441 0 l 1
  441 308 l 1

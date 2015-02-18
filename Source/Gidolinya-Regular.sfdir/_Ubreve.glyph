@@ -1,6 +1,7 @@
 StartChar: Ubreve
 Encoding: 364 364 289
-Width: 570
+GlifName: U_breve
+Width: 554
 VWidth: 0
 Flags: W
 HStem: -6 70<205.732 364.268> 646 20G<70 144 426 500> 729 52<232.65 339.346> 835 20G<161.998 217.998 353.998 409.998>

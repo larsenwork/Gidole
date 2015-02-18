@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uring" format="1">
-  <advance width="570"/>
+  <advance width="554"/>
   <unicode hex="016E"/>
   <outline>
-    <component base="ring" xOffset="145" yOffset="188"/>
+    <component base="ring" xOffset="137" yOffset="188"/>
     <component base="U"/>
   </outline>
   <lib>
@@ -47,19 +47,19 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>198</integer>
+            <integer>190</integer>
             <key>width</key>
             <integer>43</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>330</integer>
+            <integer>322</integer>
             <key>width</key>
             <integer>42</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>426</integer>
+            <integer>410</integer>
             <key>width</key>
             <integer>74</integer>
           </dict>

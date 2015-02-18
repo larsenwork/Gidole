@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wcircumflex" format="1">
-  <advance width="674"/>
+  <advance width="670"/>
   <unicode hex="0175"/>
   <outline>
-    <component base="circumflex" xOffset="176"/>
+    <component base="circumflex" xOffset="177"/>
     <component base="w"/>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>226</integer>
+            <integer>227</integer>
             <key>width</key>
             <integer>268</integer>
           </dict>

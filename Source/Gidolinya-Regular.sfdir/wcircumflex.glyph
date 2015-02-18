@@ -1,10 +1,11 @@
 StartChar: wcircumflex
 Encoding: 373 373 202
-Width: 730
+GlifName: wcircumflex
+Width: 700
 VWidth: 0
 Flags: W
-HStem: -6 66<165.513 295 435.406 564.917> 546 120
-VStem: 60 70<95.7913 478> 241 268 330 70<95.361 478> 600 70<95.361 478>
+HStem: -6 66<156.632 283.528 416.472 543.368> 546 120
+VStem: 55 70<94.1279 478> 241 268 315 70<92.8028 478> 575 70<94.1279 478>
 LayerCount: 4
 Back
 Fore

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E0C" format="1">
-  <advance width="570"/>
+  <advance width="560"/>
   <unicode hex="1E0C"/>
   <outline>
     <component base="dotbelowcomb" xOffset="180"/>
@@ -47,7 +47,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>431</integer>
+            <integer>421</integer>
             <key>width</key>
             <integer>74</integer>
           </dict>

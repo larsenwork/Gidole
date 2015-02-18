@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcaron" format="1">
-  <advance width="550"/>
+  <advance width="540"/>
   <unicode hex="0158"/>
   <outline>
     <component base="caron" xOffset="71" yOffset="188"/>
@@ -53,7 +53,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>401</integer>
+            <integer>406</integer>
             <key>width</key>
             <integer>74</integer>
           </dict>

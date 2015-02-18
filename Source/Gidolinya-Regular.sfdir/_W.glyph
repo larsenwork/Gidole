@@ -1,5 +1,6 @@
 StartChar: W
 Encoding: 87 87 26
+GlifName: W_
 Width: 806
 VWidth: 0
 Flags: W
@@ -40,7 +41,7 @@ SplineSet
  70 102 70 169 70 250 c 2
  70 666 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar

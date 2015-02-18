@@ -1,14 +1,15 @@
 StartChar: uni1EF9
 Encoding: 7929 7929 353
-Width: 476
+GlifName: uni1E_F_9
+Width: 418
 VWidth: 0
 Flags: W
-HStem: 549 52<243.55 332.503> 587 52<151.497 240.555>
-VStem: 94 56<555 584.526> 334 56<603.474 633>
+HStem: 549 52<223.55 312.503> 587 52<131.497 220.555>
+VStem: 74 56<555 584.526> 314 56<603.474 633>
 LayerCount: 4
 Back
 Fore
-Refer: 183 732 N 1 0 0 1 44 -1 2
+Refer: 183 732 N 1 0 0 1 24 -1 2
 Refer: 70 121 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Amacron" format="1">
-  <advance width="610"/>
+  <advance width="544"/>
   <unicode hex="0100"/>
   <outline>
-    <component base="uni02C9" xOffset="129" yOffset="188"/>
+    <component base="uni02C9" xOffset="96" yOffset="188"/>
     <component base="A"/>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>179</integer>
+            <integer>146</integer>
             <key>width</key>
             <integer>250</integer>
           </dict>

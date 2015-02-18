@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zacute" format="1">
-  <advance width="540"/>
+  <advance width="530"/>
   <unicode hex="0179"/>
   <outline>
     <component base="uni02CA" xOffset="174" yOffset="188"/>

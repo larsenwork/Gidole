@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="500"/>
+  <advance width="510"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
       <point x="75" y="666" type="line"/>
-      <point x="435" y="666" type="line"/>
-      <point x="435" y="596" type="line"/>
+      <point x="445" y="666" type="line"/>
+      <point x="445" y="596" type="line"/>
       <point x="149" y="596" type="line"/>
       <point x="149" y="378" type="line"/>
       <point x="385" y="378" type="line"/>
       <point x="385" y="308" type="line"/>
       <point x="149" y="308" type="line"/>
       <point x="149" y="70" type="line"/>
-      <point x="435" y="70" type="line"/>
-      <point x="435" y="0" type="line"/>
+      <point x="445" y="70" type="line"/>
+      <point x="445" y="0" type="line"/>
       <point x="75" y="0" type="line"/>
     </contour>
   </outline>

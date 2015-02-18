@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ebreve" format="1">
-  <advance width="500"/>
+  <advance width="510"/>
   <unicode hex="0114"/>
   <outline>
     <component base="breve" xOffset="81" yOffset="192"/>

@@ -1,9 +1,10 @@
 StartChar: Eacute
 Encoding: 201 201 175
-Width: 500
+GlifName: E_acute
+Width: 510
 VWidth: 0
 Flags: W
-HStem: 0 70<156.697 435> 308 70<149 385> 596 70<156.697 435> 736 120
+HStem: 0 70<156.697 445> 308 70<149 385> 596 70<156.697 445> 736 120
 VStem: 75 74<76.7269 308 378 589.273> 209 153
 LayerCount: 4
 Back

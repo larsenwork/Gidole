@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="1">
-  <advance width="800"/>
+  <advance width="710"/>
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="0" y="0" type="move" name="DoubleTop"/>
+      <point x="-46" y="0" type="move" name="DoubleTop"/>
     </contour>
     <contour>
-      <point x="0" y="0" type="move" name="Apos"/>
+      <point x="-46" y="0" type="move" name="Apos"/>
     </contour>
     <contour>
-      <point x="10" y="0" type="move" name="Bottom"/>
+      <point x="-36" y="0" type="move" name="Bottom"/>
     </contour>
     <contour>
-      <point x="10" y="0" type="move" name="Center"/>
+      <point x="-36" y="0" type="move" name="Center"/>
     </contour>
     <contour>
-      <point x="400" y="666" type="move" name="Top"/>
+      <point x="354" y="666" type="move" name="Top"/>
     </contour>
     <contour>
-      <point x="35" y="666" type="line"/>
-      <point x="110" y="666" type="line"/>
-      <point x="244" y="107" type="line"/>
-      <point x="368" y="501" type="line"/>
-      <point x="432" y="501" type="line"/>
-      <point x="556" y="108" type="line"/>
-      <point x="690" y="666" type="line"/>
-      <point x="765" y="666" type="line"/>
-      <point x="591" y="0" type="line"/>
-      <point x="525" y="0" type="line"/>
-      <point x="400" y="389" type="line"/>
-      <point x="275" y="0" type="line"/>
-      <point x="209" y="0" type="line"/>
+      <point x="382" y="501" type="line"/>
+      <point x="501" y="136" type="line"/>
+      <point x="607" y="666" type="line"/>
+      <point x="680" y="666" type="line"/>
+      <point x="539" y="0" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="355" y="385" type="line"/>
+      <point x="230" y="0" type="line"/>
+      <point x="171" y="0" type="line"/>
+      <point x="30" y="666" type="line"/>
+      <point x="105" y="666" type="line"/>
+      <point x="213" y="136" type="line"/>
+      <point x="330" y="501" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,21 +51,6 @@
             <integer>646</integer>
             <key>width</key>
             <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>35</integer>
-            <key>width</key>
-            <integer>75</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>690</integer>
-            <key>width</key>
-            <integer>75</integer>
           </dict>
         </array>
       </dict>

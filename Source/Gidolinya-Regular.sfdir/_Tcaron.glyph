@@ -1,10 +1,11 @@
 StartChar: Tcaron
 Encoding: 356 356 283
-Width: 560
+GlifName: T_caron
+Width: 530
 VWidth: 0
 Flags: W
-HStem: 0 21G<243 317> 596 70<55 243 317 505> 735 120
-VStem: 146 268 243 74<0 596>
+HStem: 0 21G<228 302> 596 70<40 228 302 490> 735 120
+VStem: 146 268 228 74<0 596>
 LayerCount: 4
 Back
 Fore

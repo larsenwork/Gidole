@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="1">
-  <advance width="470"/>
+  <advance width="430"/>
   <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="-5" y="0" type="move" name="DoubleTop"/>
+      <point x="-24.6719" y="0" type="move" name="DoubleTop"/>
     </contour>
     <contour>
-      <point x="-5" y="0" type="move" name="Apos"/>
+      <point x="-24.6719" y="0" type="move" name="Apos"/>
     </contour>
     <contour>
-      <point x="-15" y="0" type="move" name="Bottom"/>
+      <point x="-34.6719" y="0" type="move" name="Bottom"/>
     </contour>
     <contour>
-      <point x="-15" y="0" type="move" name="Center"/>
+      <point x="-34.6719" y="0" type="move" name="Center"/>
     </contour>
     <contour>
-      <point x="235" y="478" type="move" name="Top"/>
+      <point x="215.328" y="478" type="move" name="Top"/>
     </contour>
     <contour>
-      <point x="25" y="478" type="line"/>
-      <point x="99" y="478" type="line"/>
-      <point x="235" y="97" type="line"/>
-      <point x="371" y="478" type="line"/>
-      <point x="445" y="478" type="line"/>
-      <point x="266" y="0" type="line"/>
-      <point x="204" y="0" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="15" y="478" type="line"/>
+      <point x="89" y="478" type="line"/>
+      <point x="217" y="91" type="line"/>
+      <point x="343" y="478" type="line"/>
+      <point x="415" y="478" type="line"/>
     </contour>
   </outline>
   <lib>

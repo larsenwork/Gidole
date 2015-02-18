@@ -5,7 +5,7 @@ Width: 470
 VWidth: 0
 Flags: W
 HStem: 0 21G<65 135 345 415> 418 66<172.528 306.81> 646 20G<65 135>
-VStem: 65 70<0 380.495 433 666> 345 70<0 379.156>
+VStem: 65 70<0 380.495 428 666> 345 70<0 379.156>
 AnchorPoint: "DoubleTop" 0 0 basechar 0
 AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" -10 0 basechar 0
@@ -17,8 +17,8 @@ Fore
 SplineSet
 65 666 m 1
  135 666 l 1
- 135 433 l 1
- 158 463 198 484 245 484 c 0
+ 135 428 l 1
+ 158 461 198 484 245 484 c 0
  304 484 346 458 369 433 c 0
  415 384 415 326 415 256 c 2
  415 0 l 1

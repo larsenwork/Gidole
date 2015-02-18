@@ -1,6 +1,7 @@
 StartChar: Umacron
 Encoding: 362 362 287
-Width: 570
+GlifName: U_macron
+Width: 554
 VWidth: 0
 Flags: W
 HStem: -6 70<205.732 364.268> 646 20G<70 144 426 500> 745 56<159 409>

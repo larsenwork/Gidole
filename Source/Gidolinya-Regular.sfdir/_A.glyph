@@ -1,6 +1,8 @@
 StartChar: A
 Encoding: 65 65 13
+GlifName: A_
 Width: 594
+InSpiro: 1
 Flags: W
 HStem: 0 21G<35 116.333 477.667 559> 195 70<182 412> 602 70<272.595 321.405>
 AnchorPoint: "DoubleTop" -20 0 basechar 0

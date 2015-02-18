@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abreve" format="1">
-  <advance width="610"/>
+  <advance width="544"/>
   <unicode hex="0102"/>
   <outline>
-    <component base="breve" xOffset="131.998" yOffset="188"/>
+    <component base="breve" xOffset="98.998" yOffset="188"/>
     <component base="A"/>
   </outline>
   <lib>
@@ -47,13 +47,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>182</integer>
+            <integer>149</integer>
             <key>width</key>
             <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>374</integer>
+            <integer>341</integer>
             <key>width</key>
             <integer>56</integer>
           </dict>

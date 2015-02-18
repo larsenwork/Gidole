@@ -1,35 +1,36 @@
 StartChar: c
 Encoding: 99 99 54
-Width: 418
+GlifName: c
+Width: 419
 Flags: W
-HStem: -6 66<173.052 333.514> 418 66<172.402 336.141>
-VStem: 55 70<111.794 366.705>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Center" 5 0 basechar 0
-AnchorPoint: "Bottom" 245 0 basechar 0
-AnchorPoint: "Top" 245 478 basechar 0
+HStem: -6 66<162.027 324.183> 418 66<162.186 323.373>
+VStem: 45 70<109.501 368.989>
+AnchorPoint: "DoubleTop" -10 0 basechar 0
+AnchorPoint: "Apos" -10 0 basechar 0
+AnchorPoint: "Center" -5 0 basechar 0
+AnchorPoint: "Bottom" 235 0 basechar 0
+AnchorPoint: "Top" 235 478 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-245 484 m 4
- 288 484 329 473 367 455 c 5
- 339 395 l 5
- 309 411 276 418 245 418 c 4
- 198 418 165 399 147 368 c 4
- 125 330 125 277 125 239 c 4
- 125 199 125 145 149 107 c 4
- 170 73 207 60 245 60 c 4
- 278 60 311 69 342 86 c 5
- 373 27 l 5
- 335 7 291 -6 245 -6 c 4
- 183 -6 126 19 93 67 c 4
- 55 122 55 190 55 239 c 4
- 55 286 55 354 91 408 c 4
- 123 456 178 484 245 484 c 4
+343 93 m 1
+ 379 37 l 1
+ 337 9 286 -6 235 -6 c 0
+ 171 -6 124.0625 18.0546875 93 53 c 0
+ 45 107 45 184 45 243 c 0
+ 45 295 45 370 92 424 c 0
+ 123 460 171 484 235 484 c 0
+ 283 484 331 471 372 445 c 1
+ 338 388 l 1
+ 308 407 271 418 235 418 c 0
+ 204 418 170 410 146 382 c 0
+ 115 346 115 287 115 243 c 0
+ 115 192 115 132 147 95 c 0
+ 166.015625 73.013671875 196 60 235 60 c 0
+ 273 60 311 71 343 93 c 1
 EndSplineSet
-Validated: 1
+Validated: 524289
 Layer: 2
 Layer: 3
 EndChar

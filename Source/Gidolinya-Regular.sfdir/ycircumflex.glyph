@@ -1,14 +1,15 @@
 StartChar: ycircumflex
 Encoding: 375 375 200
-Width: 476
+GlifName: ycircumflex
+Width: 418
 VWidth: 0
 Flags: W
 HStem: 544 120
-VStem: 104 268
+VStem: 84 268
 LayerCount: 4
 Back
 Fore
-Refer: 143 710 N 1 0 0 1 54 -2 2
+Refer: 143 710 N 1 0 0 1 34 -2 2
 Refer: 70 121 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

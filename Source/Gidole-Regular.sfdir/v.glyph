@@ -1,26 +1,26 @@
 StartChar: v
 Encoding: 118 118 45
 GlifName: v
-Width: 429
+Width: 430
 Flags: W
-HStem: 0 21G<174.054 254.946>
-AnchorPoint: "DoubleTop" -25.6719 0 basechar 0
-AnchorPoint: "Apos" -25.6719 0 basechar 0
-AnchorPoint: "Bottom" -35.6719 0 basechar 0
-AnchorPoint: "Center" -35.6719 0 basechar 0
-AnchorPoint: "Top" 214.328 478 basechar 0
+HStem: 0 21G<174.054 255.946>
+AnchorPoint: "DoubleTop" -24.6719 0 basechar 0
+AnchorPoint: "Apos" -24.6719 0 basechar 0
+AnchorPoint: "Bottom" -34.6719 0 basechar 0
+AnchorPoint: "Center" -34.6719 0 basechar 0
+AnchorPoint: "Top" 215.328 478 basechar 0
 LayerCount: 4
 Back
 Fore
 SplineSet
-248 0 m 5
- 181 0 l 5
- 15 478 l 5
- 89 478 l 5
- 216 91 l 5
- 342 478 l 5
- 414 478 l 5
- 248 0 l 5
+249 0 m 1
+ 181 0 l 1
+ 15 478 l 1
+ 89 478 l 1
+ 217 91 l 5
+ 343 478 l 5
+ 415 478 l 1
+ 249 0 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

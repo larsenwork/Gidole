@@ -1,10 +1,11 @@
 StartChar: ucircumflex
 Encoding: 251 251 155
-Width: 480
+GlifName: ucircumflex
+Width: 460
 VWidth: 0
 Flags: W
-HStem: -6 66<171.016 308.984> 545 120
-VStem: 60 70<102.21 478> 103 268 350 70<102.21 478>
+HStem: -6 66<162.552 297.448> 545 120
+VStem: 55 70<98.8435 478> 103 268 335 70<98.8435 478>
 LayerCount: 4
 Back
 Fore

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cdotaccent" format="1">
-  <advance width="435"/>
+  <advance width="419"/>
   <unicode hex="010B"/>
   <outline>
-    <component base="dotaccent" xOffset="148"/>
+    <component base="dotaccent" xOffset="138"/>
     <component base="c"/>
   </outline>
   <lib>
@@ -35,13 +35,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>55</integer>
+            <integer>45</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>198</integer>
+            <integer>188</integer>
             <key>width</key>
             <integer>94</integer>
           </dict>

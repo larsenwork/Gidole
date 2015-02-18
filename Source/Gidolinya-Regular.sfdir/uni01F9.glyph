@@ -1,9 +1,11 @@
 StartChar: uni01F9
 Encoding: 505 505 486
-Width: 480
+GlifName: uni01F_9
+Width: 460
 VWidth: 0
-HStem: 0 21G<60 130 350 420> 418 66<171.016 308.984> 546 120
-VStem: 60 70<0 375.79> 130 153 350 70<0 375.79>
+Flags: W
+HStem: 0 21G<55 125 335 405> 418 66<162.552 297.448> 546 120
+VStem: 55 70<0 379.156> 130 153 335 70<0 379.156>
 LayerCount: 4
 Back
 Fore

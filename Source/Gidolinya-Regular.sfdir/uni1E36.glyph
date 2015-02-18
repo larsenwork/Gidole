@@ -1,8 +1,10 @@
 StartChar: uni1E36
 Encoding: 7734 7734 457
-Width: 510
+GlifName: uni1E_36
+Width: 480
 VWidth: 0
-HStem: -167 94<224.562 305.438> 0 70<156.697 455> 646 20G<75 149>
+Flags: W
+HStem: -167 94<224.562 305.438> 0 70<156.697 425> 646 20G<75 149>
 VStem: 75 74<76.7269 666> 218 94<-160.103 -79.8974>
 LayerCount: 4
 Back

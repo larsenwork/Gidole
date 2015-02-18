@@ -1,10 +1,11 @@
 StartChar: Ccaron
 Encoding: 268 268 215
-Width: 537
+GlifName: C_caron
+Width: 536
 VWidth: 0
 Flags: W
-HStem: -6 70<207.595 382.719> 602 70<206.886 381.61> 735 120
-VStem: 65 74<134.777 531.519> 156 268
+HStem: -6 70<206.393 384.003> 602 70<206.393 382.743> 735 120
+VStem: 65 74<136 530> 156 268
 LayerCount: 4
 Back
 Fore

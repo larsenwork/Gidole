@@ -1,10 +1,11 @@
 StartChar: Zcaron
 Encoding: 381 381 300
-Width: 540
+GlifName: Z_caron
+Width: 530
 VWidth: 0
 Flags: W
-HStem: 0 70<135.52 480> 596 70<70 402.694> 736 120
-VStem: 51 74<76.8536 141.847> 136 268 405 74<523.251 592.367>
+HStem: 0 70<137.564 470> 596 70<70 381.478> 736 120
+VStem: 52 74<76.0753 143.115> 136 268 394 74<522.847 590.482>
 LayerCount: 4
 Back
 Fore

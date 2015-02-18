@@ -1,7 +1,9 @@
 StartChar: uni01D3
 Encoding: 467 467 495
-Width: 570
+GlifName: uni01D_3
+Width: 554
 VWidth: 0
+Flags: W
 HStem: -6 70<205.732 364.268> 646 20G<70 144 426 500> 734 120
 VStem: 70 74<129.499 666> 151 268 426 74<129.499 666>
 CounterMasks: 1 1c

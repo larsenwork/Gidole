@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="1">
-  <advance width="610"/>
+  <advance width="544"/>
   <unicode hex="00C5"/>
   <outline>
-    <component base="ring" xOffset="165" yOffset="188"/>
+    <component base="ring" xOffset="132" yOffset="188"/>
     <component base="A"/>
   </outline>
   <lib>
@@ -47,13 +47,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>218</integer>
+            <integer>185</integer>
             <key>width</key>
             <integer>43</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>350</integer>
+            <integer>317</integer>
             <key>width</key>
             <integer>42</integer>
           </dict>

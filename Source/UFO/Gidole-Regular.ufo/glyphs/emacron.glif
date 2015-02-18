@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emacron" format="1">
-  <advance width="475"/>
+  <advance width="457"/>
   <unicode hex="0113"/>
   <outline>
-    <component base="uni02C9" xOffset="64.0186"/>
+    <component base="uni02C9" xOffset="54.0186"/>
     <component base="e"/>
   </outline>
   <lib>
@@ -41,19 +41,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>55</integer>
+            <integer>45</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>114</integer>
+            <integer>104</integer>
             <key>width</key>
             <integer>250</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>354</integer>
+            <integer>344</integer>
             <key>width</key>
             <integer>71</integer>
           </dict>
