@@ -1,15 +1,14 @@
 StartChar: a
-Encoding: 97 97 47
-GlifName: a
+Encoding: 97 97 566
 Width: 443
 Flags: W
 HStem: -6 66<135.247 271.104> 229 62<137.559 318> 418 66<94.7784 285.804>
 VStem: 35 70<89.8167 198.436> 318 70<0 57 107.01 229 291 385.626>
-AnchorPoint: "DoubleTop" -20 0 basechar 0
-AnchorPoint: "Apos" -20 0 basechar 0
-AnchorPoint: "Center" -20 0 basechar 0
-AnchorPoint: "Bottom" 350 0 basechar 0
 AnchorPoint: "Top" 213 478 basechar 0
+AnchorPoint: "Bottom" 353 0 basechar 0
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "DoubleTop" 0 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -44,4 +43,5 @@ EndSplineSet
 Validated: 1
 Layer: 2
 Layer: 3
+AlternateSubs2: "'salt' 0-1" aAlt
 EndChar
