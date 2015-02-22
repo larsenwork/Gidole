@@ -1,31 +1,15 @@
 StartChar: upsilon
 Encoding: 965 965 504
 GlifName: upsilon
-Width: 480
+Width: 460
+VWidth: 0
 Flags: W
 HStem: -6 66<170.932 309.068>
 VStem: 60 70<102.333 477> 350 70<102.333 477>
 LayerCount: 4
 Back
 Fore
-SplineSet
-60 478 m 5
- 130 478 l 5
- 130 239 l 6
- 130 178 130 134 153 101 c 4
- 174 71 209 60 240 60 c 4
- 271 60 306 71 327 101 c 4
- 350 134 350 178 350 239 c 6
- 350 478 l 5
- 420 478 l 5
- 420 239 l 6
- 420 168 420 114 385 64 c 4
- 352 17 298 -6 240 -6 c 4
- 182 -6 128 17 95 64 c 4
- 60 114 60 168 60 239 c 6
- 60 478 l 5
-EndSplineSet
-Validated: 1
+Refer: 66 117 N 1 0 0 1 0 0 2
 Layer: 2
 Layer: 3
 EndChar

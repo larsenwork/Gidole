@@ -1,7 +1,7 @@
 StartChar: Mu
 Encoding: 924 924 475
 GlifName: M_u
-Width: 720
+Width: 700
 VWidth: 0
 Flags: W
 HStem: 0 21G<75 149 571 645> 646 20G<75 150.402 568.645 645>
@@ -9,23 +9,7 @@ VStem: 75 74<0 510> 571 74<0 512>
 LayerCount: 4
 Back
 Fore
-SplineSet
-75 666 m 5
- 140 666 l 5
- 360 243 l 1
- 579 666 l 5
- 645 666 l 5
- 645 0 l 1
- 571 0 l 1
- 571 512 l 5
- 392 165 l 1
- 328 165 l 1
- 149 510 l 5
- 149 0 l 1
- 75 0 l 1
- 75 666 l 5
-EndSplineSet
-Validated: 1
+Refer: 27 77 N 1 0 0 1 0 0 2
 Layer: 2
 Layer: 3
 EndChar

@@ -1,29 +1,14 @@
 StartChar: chi
 Encoding: 967 967 559
 GlifName: chi
-Width: 460
+Width: 452
 VWidth: 0
 Flags: W
 HStem: 0 21G<40 128.771 329.438 420>
 LayerCount: 4
 Back
 Fore
-SplineSet
-43 478 m 5
- 122 478 l 5
- 230 291 l 5
- 340 478 l 5
- 417 478 l 5
- 272 241 l 5
- 420 0 l 5
- 341 0 l 5
- 230 192 l 5
- 117 0 l 5
- 40 0 l 5
- 188 241 l 5
- 43 478 l 5
-EndSplineSet
-Validated: 1
+Refer: 69 120 N 1 0 0 1 0 0 2
 Layer: 2
 Layer: 3
 EndChar

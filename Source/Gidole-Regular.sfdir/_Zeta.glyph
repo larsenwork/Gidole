@@ -1,32 +1,14 @@
 StartChar: Zeta
 Encoding: 918 918 467
 GlifName: Z_eta
-Width: 540
+Width: 530
 VWidth: 0
 Flags: W
 HStem: 0 70<147 480> 596 70<70 382>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Center" 5 0 basechar 0
-AnchorPoint: "Bottom" 270 0 basechar 0
-AnchorPoint: "Top" 270 666 basechar 0
 LayerCount: 4
 Back
 Fore
-SplineSet
-70 666 m 1
- 470 666 l 1
- 470 616 l 1
- 147 70 l 1
- 480 70 l 1
- 480 0 l 1
- 60 0 l 1
- 60 50 l 1
- 382 596 l 1
- 70 596 l 1
- 70 666 l 1
-EndSplineSet
-Validated: 1
+Refer: 38 90 N 1 0 0 1 0 0 2
 Layer: 2
 Layer: 3
 EndChar

@@ -1,28 +1,13 @@
 StartChar: nu
 Encoding: 957 957 503
 GlifName: nu
-Width: 480
+Width: 430
 Flags: W
-HStem: 0 21G<201.51 278.49>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Bottom" -10 0 basechar 0
-AnchorPoint: "Center" -10 0 basechar 0
-AnchorPoint: "Top" 240 478 basechar 0
+HStem: 0 21G<174.054 255.946>
 LayerCount: 4
 Back
 Fore
-SplineSet
-30 478 m 1
- 104 478 l 1
- 240 97 l 1
- 376 478 l 1
- 450 478 l 1
- 271 0 l 1
- 209 0 l 1
- 30 478 l 1
-EndSplineSet
-Validated: 1
+Refer: 45 118 N 1 0 0 1 0 0 2
 Layer: 2
 Layer: 3
 EndChar

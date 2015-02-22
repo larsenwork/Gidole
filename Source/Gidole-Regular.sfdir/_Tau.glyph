@@ -1,31 +1,15 @@
 StartChar: Tau
 Encoding: 932 932 474
 GlifName: T_au
-Width: 560
+Width: 530
 VWidth: 0
 Flags: W
 HStem: 0 21G<243 317> 596 70<55 243 317 505>
 VStem: 243 74<0 596>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Center" 35 0 basechar 0
-AnchorPoint: "Bottom" 280 0 basechar 0
-AnchorPoint: "Top" 280 666 basechar 0
 LayerCount: 4
 Back
 Fore
-SplineSet
-55 666 m 1
- 505 666 l 1
- 505 596 l 1
- 317 596 l 1
- 317 0 l 1
- 243 0 l 1
- 243 596 l 1
- 55 596 l 1
- 55 666 l 1
-EndSplineSet
-Validated: 1
+Refer: 29 84 N 1 0 0 1 0 0 2
 Layer: 2
 Layer: 3
 EndChar

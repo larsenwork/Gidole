@@ -22,12 +22,11 @@ SplineSet
  146 165 l 1
  93 0 l 1
  15 0 l 1
-376 235 m 1
+376 235 m 5
  272 562 l 1
  168 235 l 1
- 376 235 l 1
+ 376 235 l 5
 EndSplineSet
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

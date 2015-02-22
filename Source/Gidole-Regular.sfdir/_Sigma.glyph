@@ -1,30 +1,14 @@
 StartChar: Sigma
 Encoding: 931 931 476
 GlifName: S_igma
-Width: 500
+Width: 510
 VWidth: 0
 Flags: W
-HStem: 0 70<147 440> 596 70<147 439>
+HStem: 0 70<147 450> 596 70<147 449>
 LayerCount: 4
 Back
 Fore
-SplineSet
-299 328 m 1
- 147 70 l 1
- 440 70 l 1
- 440 0 l 1
- 60 0 l 1
- 60 50 l 1
- 232 342 l 1
- 60 616 l 5
- 60 666 l 5
- 439 666 l 5
- 439 596 l 5
- 147 596 l 5
- 299 358 l 1
- 299 328 l 1
-EndSplineSet
-Validated: 1
+Refer: 370 425 N 1 0 0 1 0 0 2
 Layer: 2
 Layer: 3
 EndChar

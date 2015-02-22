@@ -1,8 +1,9 @@
 StartChar: Upsilondieresis
 Encoding: 939 939 492
 GlifName: U_psilondieresis
-Width: 540
+Width: 510
 VWidth: 0
+Flags: W
 HStem: 0 21G<233 307> 646 20G<35 126 414 505> 739 94<139.329 220.671 319.329 400.671>
 VStem: 133 94<745.329 826.671> 233 74<0 277> 313 94<745.329 826.671>
 CounterMasks: 1 1c
@@ -11,7 +12,6 @@ Back
 Fore
 Refer: 131 168 N 1 0 0 1 83 189 2
 Refer: 473 933 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

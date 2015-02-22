@@ -1,32 +1,15 @@
 StartChar: Upsilon
 Encoding: 933 933 473
 GlifName: U_psilon
-Width: 540
+Width: 510
 VWidth: 0
 Flags: W
 HStem: 0 21G<233 307> 646 20G<35 126 414 505>
 VStem: 233 74<0 277>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Bottom" 10 0 basechar 0
-AnchorPoint: "Center" 10 0 basechar 0
-AnchorPoint: "Top" 270 666 basechar 0
 LayerCount: 4
 Back
 Fore
-SplineSet
-35 666 m 1
- 116 666 l 1
- 270 358 l 1
- 424 666 l 1
- 505 666 l 1
- 307 277 l 1
- 307 0 l 1
- 233 0 l 1
- 233 277 l 1
- 35 666 l 1
-EndSplineSet
-Validated: 1
+Refer: 37 89 N 1 0 0 1 0 0 2
 Layer: 2
 Layer: 3
 EndChar

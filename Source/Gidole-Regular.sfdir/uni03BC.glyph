@@ -6,33 +6,10 @@ VWidth: 0
 Flags: W
 HStem: -6 66<176.508 313.178>
 VStem: 65 70<-183 48 101.638 478> 355 70<102.21 478>
-AnchorPoint: "DoubleTop" 5 0 basechar 0
-AnchorPoint: "Apos" 5 0 basechar 0
-AnchorPoint: "Center" -10 0 basechar 0
-AnchorPoint: "Bottom" 245 0 basechar 0
-AnchorPoint: "Top" 245 476 basechar 0
 LayerCount: 4
 Back
 Fore
-SplineSet
-250 -6 m 0
- 208 -6 164 12 135 48 c 1
- 135 -183 l 1
- 65 -183 l 1
- 65 478 l 1
- 135 478 l 1
- 135 232 l 2
- 135 165 135 126 163 94 c 0
- 183.070892057 71.0618376491 213 60 245 60 c 0
- 277 60 307 71 327 94 c 0
- 354.901101675 126.086266927 355 165 355 232 c 2
- 355 478 l 1
- 425 478 l 1
- 425 232 l 2
- 425 158 425 104 383 53 c 0
- 350.929844943 14.0576688597 301 -6 250 -6 c 0
-EndSplineSet
-Validated: 1
+Refer: 123 181 N 1 0 0 1 0 0 2
 Layer: 2
 Layer: 3
 EndChar
