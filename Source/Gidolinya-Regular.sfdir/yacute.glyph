@@ -4,14 +4,13 @@ GlifName: yacute
 Width: 418
 VWidth: 0
 Flags: W
-HStem: 544 120
-VStem: 185 153
+HStem: -189 66<94.5857 192.109> 546 120
+VStem: 160 153
 LayerCount: 4
 Back
 Fore
-Refer: 411 769 N 1 0 0 1 135 -2 2
+Refer: 487 714 N 1 0 0 1 110 0 2
 Refer: 70 121 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar

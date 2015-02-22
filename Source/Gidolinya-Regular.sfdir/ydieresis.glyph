@@ -4,14 +4,13 @@ GlifName: ydieresis
 Width: 418
 VWidth: 0
 Flags: W
-HStem: 544 94<87.3292 168.671 267.329 348.671>
-VStem: 81 94<550.329 631.671> 261 94<550.329 631.671>
+HStem: -189 66<94.5857 192.109> 551 94<75.3292 156.671 255.329 336.671>
+VStem: 69 94<557.329 638.671> 249 94<557.329 638.671>
 LayerCount: 4
 Back
 Fore
-Refer: 131 168 N 1 0 0 1 31 -6 2
+Refer: 131 168 N 1 0 0 1 19 1 2
 Refer: 70 121 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Layer: 3
 EndChar
