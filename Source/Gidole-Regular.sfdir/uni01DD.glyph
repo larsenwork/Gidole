@@ -1,5 +1,5 @@
 StartChar: uni01DD
-Encoding: 477 477 546
+Encoding: 477 477 543
 GlifName: uni01D_D_
 Width: 490
 Flags: W
@@ -10,7 +10,7 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 5 0 basechar 0
 AnchorPoint: "Bottom" 250 0 basechar 0
 AnchorPoint: "Top" 245 477 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -20,7 +20,7 @@ SplineSet
  126 193 l 1
  126 167 132 128 150 103 c 0
  170 75 205 60 245 60 c 0
-235 484 m 4
+235 484 m 0
  311 484 368 456 400 409 c 0
  435 358 435 300 435 239 c 0
  435 183 435 120 400 69 c 0
@@ -32,9 +32,6 @@ SplineSet
  316 408 275 418 235 418 c 0
  192 418 150 409 113 390 c 1
  84 450 l 1
- 135 475 189 484 235 484 c 4
+ 135 475 189 484 235 484 c 0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -13,10 +13,10 @@
       <point x="0" y="0" type="move" name="Center"/>
     </contour>
     <contour>
-      <point x="300" y="0" type="move" name="Bottom"/>
+      <point x="292" y="0" type="move" name="Bottom"/>
     </contour>
     <contour>
-      <point x="300" y="666" type="move" name="Top"/>
+      <point x="292" y="666" type="move" name="Top"/>
     </contour>
     <contour>
       <point x="139" y="333" type="curve"/>

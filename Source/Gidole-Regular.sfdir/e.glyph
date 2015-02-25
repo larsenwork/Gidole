@@ -1,41 +1,38 @@
 StartChar: e
-Encoding: 101 101 57
+Encoding: 101 101 56
 GlifName: e
 Width: 457
 Flags: W
-HStem: -6 66<160.493 345.67> 219 62<116 344> 418 66<158.665 301.335>
-VStem: 45 70<108.308 219 281 370.823> 344 71<281 372.339>
-AnchorPoint: "DoubleTop" -14.9814 0 basechar 0
-AnchorPoint: "Apos" -14.9814 0 basechar 0
-AnchorPoint: "Center" -9.98145 0 basechar 0
-AnchorPoint: "Bottom" 235.019 0 basechar 0
-AnchorPoint: "Top" 230.019 478 basechar 0
-LayerCount: 4
+HStem: -6 66<160.459 345.254> 219 62<115 345> 418 66<158.482 301.518>
+VStem: 45 70<108.308 219 281 370.823> 345 70<281 372.176>
+AnchorPoint: "DoubleTop" -15 0 basechar 0
+AnchorPoint: "Apos" -15 0 basechar 0
+AnchorPoint: "Center" -10 0 basechar 0
+AnchorPoint: "Bottom" 235 0 basechar 0
+AnchorPoint: "Top" 230 478 basechar 0
+LayerCount: 2
 Back
 Fore
 SplineSet
-344 281 m 1
- 344 321 336 358 315 383 c 0
- 295 407 262 418 230 418 c 0
- 198 418 165 407 145 383 c 0
- 124 358 116 321 116 281 c 1
- 344 281 l 1
-415 219 m 1
- 115 219 l 1
- 115 190 115 130 145 96 c 0
- 166 72 198 60 240 60 c 0
- 283 60 323 69 359 88 c 1
- 388 28 l 1
- 342 5 292 -6 240 -6 c 0
- 175 -6 124 16 91 54 c 0
- 45 107 45 179 45 239 c 0
- 45 303 45 371 91 425 c 0
- 121 460 171 484 230 484 c 0
- 289 484 339 460 369 425 c 0
+345 281 m 1
+ 345 317 339 353 318 380 c 0
+ 297 407 263 418 230 418 c 0
+ 197 418 163 407 142 380 c 0
+ 121 353 115 317 115 281 c 1
+ 345 281 l 1
+230 484 m 0
+ 290 484 339 460 369 425 c 0
  411 375 415 315 415 239 c 2
  415 219 l 1
+ 115 219 l 1
+ 115 190 115 131 145 96 c 0
+ 163 75 192 60 240 60 c 0
+ 286 60 329 71 367 92 c 1
+ 395 32 l 1
+ 346 6 292 -6 240 -6 c 0
+ 174 -6 124 16 91 54 c 0
+ 45 107 45 179 45 239 c 0
+ 45 303 45 371 91 425 c 0
+ 121 460 170 484 230 484 c 0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

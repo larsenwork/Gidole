@@ -4,19 +4,19 @@
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="-0.000976562" y="0" type="move" name="DoubleTop"/>
+      <point x="-0" y="0" type="move" name="DoubleTop"/>
     </contour>
     <contour>
-      <point x="-0.000976562" y="0" type="move" name="Center"/>
+      <point x="-0" y="0" type="move" name="Center"/>
     </contour>
     <contour>
-      <point x="84.999" y="666" type="move" name="Apos"/>
+      <point x="85" y="666" type="move" name="Apos"/>
     </contour>
     <contour>
-      <point x="239.999" y="0" type="move" name="Bottom"/>
+      <point x="240" y="0" type="move" name="Bottom"/>
     </contour>
     <contour>
-      <point x="239.999" y="478" type="move" name="Top"/>
+      <point x="240" y="478" type="move" name="Top"/>
     </contour>
     <contour>
       <point x="65" y="478" type="line"/>

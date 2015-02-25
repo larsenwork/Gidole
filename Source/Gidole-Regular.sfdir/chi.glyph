@@ -1,14 +1,12 @@
 StartChar: chi
-Encoding: 967 967 559
+Encoding: 967 967 556
 GlifName: chi
 Width: 452
 VWidth: 0
 Flags: W
-HStem: 0 21G<40 128.771 329.438 420>
-LayerCount: 4
+HStem: 0 21G<40 128.658 321.556 412>
+LayerCount: 2
 Back
 Fore
-Refer: 69 120 N 1 0 0 1 0 0 2
-Layer: 2
-Layer: 3
+Refer: 68 120 N 1 0 0 1 0 0 2
 EndChar

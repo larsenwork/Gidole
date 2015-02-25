@@ -2,7 +2,7 @@ StartChar: y
 Encoding: 121 121 70
 GlifName: y
 Width: 418
-Flags: WO
+Flags: W
 HStem: -189 66<94.5857 192.109>
 AnchorPoint: "Top" 206 478 basechar 0
 LayerCount: 4

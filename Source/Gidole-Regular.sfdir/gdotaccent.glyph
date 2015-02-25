@@ -1,17 +1,14 @@
 StartChar: gdotaccent
-Encoding: 289 289 232
+Encoding: 289 289 231
 GlifName: gdotaccent
 Width: 480
 VWidth: 0
 Flags: W
 HStem: -189 66<120.264 300.216> -6 66<159.44 300.681> 418 66<159.44 300.681> 550 94<184.562 265.438>
 VStem: 45 70<106.975 371.025> 178 94<556.897 637.103> 345 70<-77.2182 55 107.175 370.825 423 478>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 196 729 N 1 0 0 1 128 0 2
-Refer: 59 103 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 195 729 N 1 0 0 1 128 0 2
+Refer: 58 103 N 1 0 0 1 0 0 3
 EndChar

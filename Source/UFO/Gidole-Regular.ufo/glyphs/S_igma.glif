@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sigma" format="1">
-  <advance width="500"/>
+  <advance width="510"/>
   <unicode hex="03A3"/>
   <outline>
-    <contour>
-      <point x="299" y="328" type="line"/>
-      <point x="147" y="70" type="line"/>
-      <point x="440" y="70" type="line"/>
-      <point x="440" y="0" type="line"/>
-      <point x="60" y="0" type="line"/>
-      <point x="60" y="50" type="line"/>
-      <point x="232" y="342" type="line"/>
-      <point x="60" y="616" type="line"/>
-      <point x="60" y="666" type="line"/>
-      <point x="439" y="666" type="line"/>
-      <point x="439" y="596" type="line"/>
-      <point x="147" y="596" type="line"/>
-      <point x="299" y="358" type="line"/>
-    </contour>
+    <component base="uni01A9"/>
   </outline>
   <lib>
     <dict>

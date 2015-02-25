@@ -1,12 +1,12 @@
 StartChar: registered
-Encoding: 174 174 75
+Encoding: 174 174 74
 GlifName: registered
 Width: 820
 VWidth: 0
 Flags: W
 HStem: -183 62<210.861 609.139> 0 21G<262 332 487.379 571> 173 66<332 420.532> 412 66<332 465.36> 604 62<210.861 609.139>
 VStem: 75 66<-50.9117 533.912> 262 70<0 173 239 412> 491 70<263.922 387.661> 679 66<-50.9117 533.912>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -58,7 +58,4 @@ SplineSet
  542 415 561 372 561 326 c 0
  561 263 530 217 488 193 c 0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

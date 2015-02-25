@@ -1,17 +1,14 @@
 StartChar: uni1EB8
-Encoding: 7864 7864 340
+Encoding: 7864 7864 339
 GlifName: uni1E_B_8
 Width: 510
 VWidth: 0
 Flags: W
 HStem: -154 94<214.562 295.438> 0 70<149 445> 308 70<149 385> 596 70<149 445>
 VStem: 75 74<70 308 378 596> 208 94<-147.103 -66.8974>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 438 803 N 1 0 0 1 158 13 2
+Refer: 435 803 N 1 0 0 1 158 13 2
 Refer: 18 69 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,9 +1,9 @@
 StartChar: less
-Encoding: 60 60 106
+Encoding: 60 60 105
 GlifName: less
 Width: 520
 Flags: W
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -16,7 +16,4 @@ SplineSet
  421 446 l 1
  449 394 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

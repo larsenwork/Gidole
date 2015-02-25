@@ -1,5 +1,5 @@
 StartChar: k
-Encoding: 107 107 68
+Encoding: 107 107 67
 GlifName: k
 Width: 454
 Flags: W
@@ -10,25 +10,22 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Top" -8 0 basechar 0
 AnchorPoint: "Center" -8 0 basechar 0
 AnchorPoint: "Bottom" 229 0 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
-65 666 m 5
- 135 666 l 5
- 135 229 l 5
- 322 478 l 5
- 404 478 l 5
- 237 261 l 5
- 419 0 l 5
- 338 0 l 5
- 191 213 l 5
- 135 138 l 5
- 135 0 l 5
- 65 0 l 5
- 65 666 l 5
+65 666 m 1
+ 135 666 l 1
+ 135 229 l 1
+ 322 478 l 1
+ 404 478 l 1
+ 237 261 l 1
+ 419 0 l 1
+ 338 0 l 1
+ 191 213 l 1
+ 135 138 l 1
+ 135 0 l 1
+ 65 0 l 1
+ 65 666 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

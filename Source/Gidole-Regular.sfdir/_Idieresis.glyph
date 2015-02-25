@@ -1,18 +1,15 @@
 StartChar: Idieresis
-Encoding: 207 207 135
+Encoding: 207 207 134
 GlifName: I_dieresis
 Width: 224
 VWidth: 0
 Flags: W
-HStem: 0 21G<75 149> 646 20G<75 149> 739 94<-18.6708 62.671 161.329 242.671>
+HStem: 0 21G<75 149> 646 20G<75 149> 739 94<-18.6708 62.6708 161.329 242.671>
 VStem: -25 94<745.329 826.671> 75 74<0 666> 155 94<745.329 826.671>
 CounterMasks: 1 1c
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 131 168 N 1 0 0 1 -75 189 2
+Refer: 130 168 N 1 0 0 1 -75 189 2
 Refer: 21 73 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

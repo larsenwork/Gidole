@@ -1,17 +1,15 @@
 StartChar: Gcircumflex
-Encoding: 284 284 227
+Encoding: 284 284 226
 GlifName: G_circumflex
 Width: 580
 VWidth: 0
 Flags: W
-HStem: -6 70<206.393 373.607> 287 70<303 440.917> 602 70<206.393 382.743> 734 120
-VStem: 65 74<136 530> 156 268 440.917 74.0825<136.004 287>
-LayerCount: 4
+HStem: -6 70<207.962 372.038> 287 70<303 441> 602 70<208.241 378.575> 734 120
+VStem: 65 74<137.4 529.048> 156 268 441 74<137.986 287>
+CounterMasks: 1 0e
+LayerCount: 2
 Back
 Fore
-Refer: 143 710 N 1 0 0 1 106 188 2
+Refer: 142 710 N 1 0 0 1 106 188 2
 Refer: 28 71 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

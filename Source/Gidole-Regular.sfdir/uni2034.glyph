@@ -1,30 +1,27 @@
 StartChar: uni2034
-Encoding: 8244 8244 431
+Encoding: 8244 8244 428
 GlifName: uni2034
 Width: 600
 Flags: W
 HStem: 456 210
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
-474 666 m 5
- 550 666 l 5
+474 666 m 1
+ 550 666 l 1
  415 456 l 1
  350 456 l 1
- 474 666 l 5
-324 666 m 5
- 400 666 l 5
+ 474 666 l 1
+324 666 m 1
+ 400 666 l 1
  265 456 l 1
  200 456 l 1
- 324 666 l 5
-174 666 m 5
- 250 666 l 5
+ 324 666 l 1
+174 666 m 1
+ 250 666 l 1
  115 456 l 1
  50 456 l 1
- 174 666 l 5
+ 174 666 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

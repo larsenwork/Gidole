@@ -1,12 +1,12 @@
 StartChar: hungarumlaut
-Encoding: 733 733 199
+Encoding: 733 733 198
 GlifName: hungarumlaut
 Width: 387
 Flags: W
 HStem: 546 120
 VStem: 50 287
 AnchorPoint: "Top" 173 478 mark 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -21,7 +21,4 @@ SplineSet
  267 666 l 1
  337 666 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

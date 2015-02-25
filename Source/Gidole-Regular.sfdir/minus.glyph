@@ -1,20 +1,17 @@
 StartChar: minus
-Encoding: 8722 8722 432
+Encoding: 8722 8722 429
 GlifName: minus
 Width: 520
 Flags: W
 HStem: 222 58<80 440>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
-80 280 m 5
- 80 280 440 280 440 280 c 5
+80 280 m 1
+ 440 280 l 1
  440 222 l 1
  80 222 l 1
- 80 280 l 5
+ 80 280 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

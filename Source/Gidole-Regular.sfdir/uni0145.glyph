@@ -1,17 +1,14 @@
 StartChar: uni0145
-Encoding: 325 325 257
+Encoding: 325 325 256
 GlifName: uni0145
 Width: 590
 VWidth: 0
 Flags: W
 HStem: -229 166<278.688 297> 0 21G<75 149 438.401 515> 646 20G<75 151.599 441 515>
 VStem: 75 74<0 519> 250 94<-147.943 -69.851> 441 74<147 666>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 439 806 N 1 0 0 1 200 0 2
+Refer: 436 806 N 1 0 0 1 200 0 2
 Refer: 33 78 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

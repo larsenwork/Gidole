@@ -1,16 +1,14 @@
 StartChar: alphatonos
-Encoding: 940 940 495
+Encoding: 940 940 492
 GlifName: alphatonos
 Width: 480
 VWidth: 0
 Flags: W
 HStem: -6 66<159.44 300.681> 418 66<159.44 300.681> 546 120<238 269>
 VStem: 45 70<106.975 371.025> 203 113 345 70<0 55 107.175 370.825 423 478>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 494 900 N 1 0 0 1 153 0 2
-Refer: 401 945 N 1 0 0 1 0 0 3
-Layer: 2
-Layer: 3
+Refer: 491 900 N 1 0 0 1 153 0 2
+Refer: 400 945 N 1 0 0 1 0 0 3
 EndChar

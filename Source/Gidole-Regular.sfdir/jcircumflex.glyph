@@ -1,17 +1,14 @@
 StartChar: jcircumflex
-Encoding: 309 309 244
+Encoding: 309 309 243
 GlifName: jcircumflex
 Width: 200
 VWidth: 0
 Flags: W
 HStem: -189 66<-35.8382 55.2893> 544 120
 VStem: -29 268 65 70<-103.341 478>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 143 710 N 1 0 0 1 -79 -2 2
-Refer: 417 567 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 142 710 N 1 0 0 1 -79 -2 2
+Refer: 416 567 N 1 0 0 1 0 0 3
 EndChar

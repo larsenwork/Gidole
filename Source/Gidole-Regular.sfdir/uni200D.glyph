@@ -1,12 +1,9 @@
 StartChar: uni200D
-Encoding: 8205 8205 524
+Encoding: 8205 8205 521
 GlifName: uni200D_
 Width: 0
 Flags: W
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

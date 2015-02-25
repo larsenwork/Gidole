@@ -1,11 +1,11 @@
 StartChar: summation
-Encoding: 8721 8721 427
+Encoding: 8721 8721 424
 GlifName: summation
 Width: 500
 VWidth: 0
 Flags: W
 HStem: 0 70<155 440> 596 70<155 439>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -16,15 +16,12 @@ SplineSet
  60 0 l 1
  60 40 l 1
  230 342 l 1
- 60 626 l 5
- 60 666 l 5
- 439 666 l 5
- 439 596 l 5
- 155 596 l 5
+ 60 626 l 1
+ 60 666 l 1
+ 439 666 l 1
+ 439 596 l 1
+ 155 596 l 1
  296 358 l 1
  296 328 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

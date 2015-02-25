@@ -1,17 +1,14 @@
 StartChar: uni01D0
-Encoding: 464 464 539
+Encoding: 464 464 536
 GlifName: uni01D_0
 Width: 200
 VWidth: 0
 Flags: W
 HStem: 0 21G<65 135> 545 120
 VStem: -34 268 65 70<0 478>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 198 711 N 1 0 0 1 -84 -1 2
-Refer: 156 305 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 197 711 N 1 0 0 1 -84 -1 2
+Refer: 155 305 N 1 0 0 1 0 0 3
 EndChar

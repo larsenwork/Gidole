@@ -1,17 +1,14 @@
 StartChar: otilde
-Encoding: 245 245 186
+Encoding: 245 245 185
 GlifName: otilde
 Width: 470
 VWidth: 0
 Flags: W
 HStem: -6 66<163.259 306.741> 418 66<163.259 306.741> 550 52<236.55 325.503> 588 52<144.497 233.555>
 VStem: 45 70<108.542 369.458> 87 56<556 585.526> 327 56<604.474 634> 355 70<108.542 369.458>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 183 732 N 1 0 0 1 37 0 2
-Refer: 53 111 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 182 732 N 1 0 0 1 37 0 2
+Refer: 52 111 N 1 0 0 1 0 0 3
 EndChar

@@ -1,17 +1,14 @@
 StartChar: igrave
-Encoding: 236 236 171
+Encoding: 236 236 170
 GlifName: igrave
 Width: 200
 VWidth: 0
 Flags: W
 HStem: 0 21G<65 135> 545 120
 VStem: -7 153 65 70<0 478>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 533 715 N 1 0 0 1 -57 -1 2
-Refer: 156 305 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 530 715 N 1 0 0 1 -57 -1 2
+Refer: 155 305 N 1 0 0 1 0 0 3
 EndChar

@@ -3,35 +3,7 @@
   <advance width="590"/>
   <unicode hex="0397"/>
   <outline>
-    <contour>
-      <point x="0" y="0" type="move" name="DoubleTop"/>
-    </contour>
-    <contour>
-      <point x="0" y="0" type="move" name="Apos"/>
-    </contour>
-    <contour>
-      <point x="-5" y="0" type="move" name="Center"/>
-    </contour>
-    <contour>
-      <point x="295" y="0" type="move" name="Bottom"/>
-    </contour>
-    <contour>
-      <point x="295" y="666" type="move" name="Top"/>
-    </contour>
-    <contour>
-      <point x="75" y="666" type="line"/>
-      <point x="149" y="666" type="line"/>
-      <point x="149" y="378" type="line"/>
-      <point x="441" y="378" type="line"/>
-      <point x="441" y="666" type="line"/>
-      <point x="515" y="666" type="line"/>
-      <point x="515" y="0" type="line"/>
-      <point x="441" y="0" type="line"/>
-      <point x="441" y="308" type="line"/>
-      <point x="149" y="308" type="line"/>
-      <point x="149" y="0" type="line"/>
-      <point x="75" y="0" type="line"/>
-    </contour>
+    <component base="H"/>
   </outline>
   <lib>
     <dict>

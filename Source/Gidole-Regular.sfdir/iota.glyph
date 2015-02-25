@@ -1,5 +1,5 @@
 StartChar: iota
-Encoding: 953 953 499
+Encoding: 953 953 496
 GlifName: iota
 Width: 200
 VWidth: 0
@@ -11,7 +11,7 @@ AnchorPoint: "Apos" -7 0 basechar 0
 AnchorPoint: "DoubleTop" -7 0 basechar 0
 AnchorPoint: "Bottom" 100 0 basechar 0
 AnchorPoint: "Top" 100 478 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -21,7 +21,4 @@ SplineSet
  65 0 l 1
  65 478 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

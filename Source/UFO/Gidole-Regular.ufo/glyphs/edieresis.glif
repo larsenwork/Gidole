@@ -3,7 +3,7 @@
   <advance width="457"/>
   <unicode hex="00EB"/>
   <outline>
-    <component base="dieresis" xOffset="43.0186" yOffset="1"/>
+    <component base="dieresis" xOffset="43" yOffset="1"/>
     <component base="e"/>
   </outline>
   <lib>
@@ -59,9 +59,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>344</integer>
+            <integer>345</integer>
             <key>width</key>
-            <integer>71</integer>
+            <integer>70</integer>
           </dict>
         </array>
       </dict>

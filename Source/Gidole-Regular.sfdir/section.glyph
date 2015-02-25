@@ -1,12 +1,12 @@
 StartChar: section
-Encoding: 167 167 115
+Encoding: 167 167 114
 GlifName: section
 Width: 468
 VWidth: 0
 Flags: W
 HStem: -6 66<124.948 307.759> 607 66<153.665 337.4>
 VStem: 65 70<311.139 417.646 500.645 588.291> 333 70<85.6985 184.242 261.045 374.127>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -37,7 +37,4 @@ SplineSet
  333 380 288 394 222 408 c 0
  205 411 184 416 163 424 c 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni0163
-Encoding: 355 355 282
+Encoding: 355 355 281
 GlifName: uni0163
 Width: 353
 VWidth: 0
@@ -7,7 +7,7 @@ UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -189 52<163.462 252.453> -6 66<251 298.156> 416 62<35 115 185 295>
 VStem: 115 70<81.7054 416 478 591> 265 56<-129.845 -73.0988>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -45,6 +45,4 @@ SplineSet
  191 -189 171 -186 152 -178 c 1
  168 -128 l 1
 EndSplineSet
-Layer: 2
-Layer: 3
 EndChar

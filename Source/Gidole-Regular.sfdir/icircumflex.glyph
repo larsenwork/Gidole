@@ -1,17 +1,14 @@
 StartChar: icircumflex
-Encoding: 238 238 157
+Encoding: 238 238 156
 GlifName: icircumflex
 Width: 200
 VWidth: 0
 Flags: W
 HStem: 0 21G<65 135> 545 120
 VStem: -34 268 65 70<0 478>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 143 710 N 1 0 0 1 -84 -1 2
-Refer: 156 305 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 142 710 N 1 0 0 1 -84 -1 2
+Refer: 155 305 N 1 0 0 1 0 0 3
 EndChar

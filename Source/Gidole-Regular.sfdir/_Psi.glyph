@@ -1,5 +1,5 @@
 StartChar: Psi
-Encoding: 936 936 483
+Encoding: 936 936 480
 GlifName: P_si
 Width: 660
 VWidth: 0
@@ -12,7 +12,7 @@ AnchorPoint: "Bottom" 331 0 basechar 0
 AnchorPoint: "Center" 42 0 basechar 0
 AnchorPoint: "Apos" 42 0 basechar 0
 AnchorPoint: "DoubleTop" 42 0 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -37,47 +37,5 @@ SplineSet
  139 359 139 291 195 243 c 0
  220 222 253 209 293 203 c 1
  293 666 l 1
-  Spiro
-    293 666 v
-    367 666 v
-    367 203 v
-    404.594 211.36 o
-    437.401 224.645 o
-    465 243 o
-    504.383 297.568 o
-    518.932 365.445 o
-    521 446 [
-    521 666 v
-    595 666 v
-    595 446 ]
-    592.046 354.868 o
-    571.261 267.473 o
-    515 191 o
-    472.898 163.098 o
-    423.095 143.577 o
-    367 133 v
-    367 0 v
-    293 0 v
-    293 133 v
-    236.905 143.577 o
-    187.102 163.098 o
-    145 191 o
-    88.7393 267.473 o
-    67.9541 354.868 o
-    65 446 [
-    65 666 v
-    139 666 v
-    139 446 ]
-    141.068 365.445 o
-    155.617 297.568 o
-    195 243 o
-    222.599 224.645 o
-    255.406 211.36 o
-    293 203 v
-    0 0 z
-  EndSpiro
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

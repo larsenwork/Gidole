@@ -4,20 +4,17 @@ GlifName: V_
 Width: 548
 Flags: W
 HStem: 0 21G<232.574 315.426> 646 20G<25 108.143 439.857 523>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
-309 0 m 5
- 239 0 l 5
- 25 666 l 5
- 102 666 l 5
- 274 106 l 5
- 446 666 l 5
- 523 666 l 5
- 309 0 l 5
+309 0 m 1
+ 239 0 l 1
+ 25 666 l 1
+ 102 666 l 1
+ 274 106 l 1
+ 446 666 l 1
+ 523 666 l 1
+ 309 0 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

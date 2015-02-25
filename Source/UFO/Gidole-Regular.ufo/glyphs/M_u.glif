@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Mu" format="1">
-  <advance width="720"/>
+  <advance width="700"/>
   <unicode hex="039C"/>
   <outline>
-    <contour>
-      <point x="75" y="666" type="line"/>
-      <point x="140" y="666" type="line"/>
-      <point x="360" y="243" type="line"/>
-      <point x="579" y="666" type="line"/>
-      <point x="645" y="666" type="line"/>
-      <point x="645" y="0" type="line"/>
-      <point x="571" y="0" type="line"/>
-      <point x="571" y="512" type="line"/>
-      <point x="392" y="165" type="line"/>
-      <point x="328" y="165" type="line"/>
-      <point x="149" y="510" type="line"/>
-      <point x="149" y="0" type="line"/>
-      <point x="75" y="0" type="line"/>
-    </contour>
+    <component base="M"/>
   </outline>
   <lib>
     <dict>
@@ -48,7 +34,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>571</integer>
+            <integer>551</integer>
             <key>width</key>
             <integer>74</integer>
           </dict>

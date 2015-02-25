@@ -1,5 +1,5 @@
 StartChar: lambda
-Encoding: 955 955 498
+Encoding: 955 955 495
 GlifName: lambda
 Width: 480
 Flags: W
@@ -9,21 +9,18 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Top" 240 478 basechar 0
 AnchorPoint: "Center" -10 0 basechar 0
 AnchorPoint: "Bottom" -10 0 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
 30 0 m 1
  203 478 l 1
- 134 666 l 5
- 208 666 l 5
+ 134 666 l 1
+ 208 666 l 1
  450 0 l 1
  376 0 l 1
  240 391 l 1
  104 0 l 1
  30 0 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

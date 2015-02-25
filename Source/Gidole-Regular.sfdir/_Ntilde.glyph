@@ -1,17 +1,14 @@
 StartChar: Ntilde
-Encoding: 209 209 182
+Encoding: 209 209 181
 GlifName: N_tilde
 Width: 590
 VWidth: 0
 Flags: W
 HStem: 0 21G<75 149 438.401 515> 646 20G<75 151.599 441 515> 738 52<296.55 385.503> 776 52<204.497 293.555>
 VStem: 75 74<0 519> 147 56<744 773.526> 387 56<792.474 822> 441 74<147 666>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 183 732 N 1 0 0 1 97 188 2
+Refer: 182 732 N 1 0 0 1 97 188 2
 Refer: 33 78 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

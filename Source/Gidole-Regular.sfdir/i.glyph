@@ -1,5 +1,5 @@
 StartChar: i
-Encoding: 105 105 52
+Encoding: 105 105 51
 GlifName: i
 Width: 200
 VWidth: 0
@@ -11,22 +11,19 @@ AnchorPoint: "Bottom" 97 0 basechar 0
 AnchorPoint: "Center" -6 0 basechar 0
 AnchorPoint: "Apos" -6 0 basechar 0
 AnchorPoint: "DoubleTop" -6 0 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
-100 649 m 4xe0
- 127 649 147 630 147 602 c 4
- 147 574 127 555 100 555 c 4
- 73 555 53 574 53 602 c 4
- 53 630 73 649 100 649 c 4xe0
+100 649 m 0xe0
+ 127 649 147 630 147 602 c 0
+ 147 574 127 555 100 555 c 0
+ 73 555 53 574 53 602 c 0
+ 53 630 73 649 100 649 c 0xe0
 65 0 m 1xd0
  65 478 l 1
  135 478 l 1
  135 0 l 1
  65 0 l 1xd0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

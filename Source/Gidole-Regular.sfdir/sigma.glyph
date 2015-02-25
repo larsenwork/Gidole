@@ -1,5 +1,5 @@
 StartChar: sigma
-Encoding: 963 963 489
+Encoding: 963 963 486
 GlifName: sigma
 Width: 530
 VWidth: 0
@@ -11,7 +11,7 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 0 0 basechar 0
 AnchorPoint: "Bottom" 245 0 basechar 0
 AnchorPoint: "Top" 245 478 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -37,7 +37,4 @@ SplineSet
  485 412 l 1
  398 412 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

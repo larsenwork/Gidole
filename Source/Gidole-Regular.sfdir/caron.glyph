@@ -1,12 +1,12 @@
 StartChar: caron
-Encoding: 711 711 198
+Encoding: 711 711 197
 GlifName: caron
 Width: 368
 Flags: W
 HStem: 546 120
 VStem: 50 268
 AnchorPoint: "Top" 184 478 mark 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -19,7 +19,4 @@ SplineSet
  223 546 l 1
  145 546 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

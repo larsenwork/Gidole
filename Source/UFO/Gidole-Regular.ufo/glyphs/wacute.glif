@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wacute" format="1">
-  <advance width="670"/>
+  <advance width="650"/>
   <unicode hex="1E83"/>
   <outline>
-    <component base="uni02CA" xOffset="265"/>
+    <component base="uni02CA" xOffset="255"/>
     <component base="w"/>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>315</integer>
+            <integer>305</integer>
             <key>width</key>
             <integer>153</integer>
           </dict>

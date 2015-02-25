@@ -1,10 +1,10 @@
 StartChar: guilsinglleft
-Encoding: 8249 8249 188
+Encoding: 8249 8249 187
 GlifName: guilsinglleft
 Width: 304
 Flags: W
 VStem: 50 204
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -16,7 +16,4 @@ SplineSet
  50 250 l 1
  206 449 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

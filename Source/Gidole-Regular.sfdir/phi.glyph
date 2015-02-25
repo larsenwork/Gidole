@@ -1,21 +1,18 @@
 StartChar: phi
-Encoding: 966 966 564
+Encoding: 966 966 561
 GlifName: phi
 Width: 431
 Flags: W
-HStem: 600 66<60 275.17>
-VStem: 54.998 70<108.308 280.115> 311.001 70<-107.081 -22.4614>
-LayerCount: 4
+HStem: 126 260<73 315>
+VStem: 73 242<126 386>
+LayerCount: 2
 Back
 Fore
 SplineSet
-73 386 m 5
- 315 386 l 5
- 315 126 l 5
- 73 126 l 5
- 73 386 l 5
+73 386 m 1
+ 315 386 l 1
+ 315 126 l 1
+ 73 126 l 1
+ 73 386 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

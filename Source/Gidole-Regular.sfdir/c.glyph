@@ -1,36 +1,33 @@
 StartChar: c
-Encoding: 99 99 54
+Encoding: 99 99 53
 GlifName: c
-Width: 419
+Width: 418
 Flags: W
-HStem: -6 66<162.027 324.183> 418 66<162.186 323.373>
+HStem: -6 66<162.014 323.717> 418 66<162.186 323.471>
 VStem: 45 70<109.501 368.989>
 AnchorPoint: "DoubleTop" -10 0 basechar 0
 AnchorPoint: "Apos" -10 0 basechar 0
 AnchorPoint: "Center" -5 0 basechar 0
 AnchorPoint: "Bottom" 235 0 basechar 0
 AnchorPoint: "Top" 235 478 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
 343 93 m 1
- 379 37 l 1
- 337 9 286 -6 235 -6 c 0
- 171 -6 124.0625 18.0546875 93 53 c 0
+ 378 36 l 1
+ 336 9 285 -6 235 -6 c 0
+ 171 -6 124 18 93 53 c 0
  45 107 45 184 45 243 c 0
  45 295 45 370 92 424 c 0
  123 460 171 484 235 484 c 0
- 283 484 331 471 372 445 c 1
+ 283 484 332 470 371 446 c 1
  338 388 l 1
  308 407 271 418 235 418 c 0
  204 418 170 410 146 382 c 0
  115 346 115 287 115 243 c 0
  115 192 115 132 147 95 c 0
- 166.015625 73.013671875 196 60 235 60 c 0
+ 166 73 196 60 235 60 c 0
  273 60 311 71 343 93 c 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

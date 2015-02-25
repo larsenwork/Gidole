@@ -1,5 +1,5 @@
 StartChar: z
-Encoding: 122 122 71
+Encoding: 122 122 70
 GlifName: z
 Width: 440
 VWidth: 0
@@ -11,7 +11,7 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 15 0 basechar 0
 AnchorPoint: "Bottom" 222 0 basechar 0
 AnchorPoint: "Top" 220 478 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -27,7 +27,4 @@ SplineSet
  60 412 l 1
  60 478 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

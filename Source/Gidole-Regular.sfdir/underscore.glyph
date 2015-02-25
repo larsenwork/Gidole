@@ -1,10 +1,10 @@
 StartChar: underscore
-Encoding: 95 95 130
+Encoding: 95 95 129
 GlifName: underscore
 Width: 440
 Flags: W
 HStem: -58 58<35 405>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -14,7 +14,4 @@ SplineSet
  35 -58 l 1
  35 0 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

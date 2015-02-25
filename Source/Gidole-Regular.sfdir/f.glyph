@@ -1,18 +1,18 @@
 StartChar: f
-Encoding: 102 102 60
+Encoding: 102 102 59
 GlifName: f
 Width: 352
 Flags: W
 HStem: 0 21G<115 185> 416 62<35 115 185 295> 606 66<200.627 307.806>
 VStem: 115 70<0 416 478 590.69>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
 115 486 m 2
  115 543 115 581 138 616 c 0
  160 649 199 672 248 672 c 0
- 276 672 300 666 322 659 c 5
+ 276 672 300 666 322 659 c 1
  304 596 l 1
  283 602 265 606 248 606 c 0
  225 606 209 597 199 583 c 0
@@ -28,7 +28,4 @@ SplineSet
  115 478 l 1
  115 486 l 2
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,11 +1,11 @@
 StartChar: beta
-Encoding: 946 946 402
+Encoding: 946 946 401
 GlifName: beta
 Width: 512
 Flags: W
 HStem: -6 66<147.883 340.493> 332 66<207 318.126> 606 66<173.276 318.227>
 VStem: 65 70<-183 15 78.87 568.335> 355 70<434.757 569.851> 397 70<116.464 274.213>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -15,7 +15,7 @@ SplineSet
  371 14 320 -6 257 -6 c 0
  215 -6 174 2 135 15 c 1
  135 -183 l 1
- 135 -183 65 -183 65 -183 c 1
+ 65 -183 l 1
  65 454 l 2
  65 520 65 569 107 616 c 0
  138 650 189 672 247 672 c 0
@@ -37,7 +37,4 @@ SplineSet
  135 547 135 514 135 454 c 2
  135 87 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,17 +1,14 @@
 StartChar: uni01F5
-Encoding: 501 501 303
+Encoding: 501 501 302
 GlifName: uni01F_5
 Width: 480
 VWidth: 0
 Flags: W
 HStem: -189 66<120.264 300.216> -6 66<159.44 300.681> 418 66<159.44 300.681> 546 120
 VStem: 45 70<106.975 371.025> 179 153 345 70<-77.2182 55 107.175 370.825 423 478>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 532 714 N 1 0 0 1 129 0 2
-Refer: 59 103 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 529 714 N 1 0 0 1 129 0 2
+Refer: 58 103 N 1 0 0 1 0 0 3
 EndChar

@@ -1,17 +1,14 @@
 StartChar: omacron
-Encoding: 333 333 262
+Encoding: 333 333 261
 GlifName: omacron
 Width: 470
 VWidth: 0
 Flags: W
 HStem: -6 66<163.259 306.741> 418 66<163.259 306.741> 556 56<109 359>
 VStem: 45 70<108.542 369.458> 109 250<556 612> 355 70<108.542 369.458>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 461 713 N 1 0 0 1 59 0 2
-Refer: 53 111 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 458 713 N 1 0 0 1 59 0 2
+Refer: 52 111 N 1 0 0 1 0 0 3
 EndChar

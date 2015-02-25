@@ -1,5 +1,5 @@
 StartChar: delta
-Encoding: 948 948 560
+Encoding: 948 948 557
 GlifName: delta
 Width: 485
 VWidth: 0
@@ -11,7 +11,7 @@ AnchorPoint: "Center" 0 0 basechar 0
 AnchorPoint: "Top" 0 0 basechar 0
 AnchorPoint: "Apos" 488 667 basechar 0
 AnchorPoint: "Bottom" 230 0 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -43,7 +43,4 @@ SplineSet
  85 610 108 644 134 666 c 0
  164 691 203 702 240 702 c 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

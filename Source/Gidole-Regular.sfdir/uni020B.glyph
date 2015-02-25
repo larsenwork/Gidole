@@ -1,17 +1,14 @@
 StartChar: uni020B
-Encoding: 523 523 309
+Encoding: 523 523 308
 GlifName: uni020B_
 Width: 200
 VWidth: 0
 Flags: W
-HStem: 0 21G<65 135> 619 52<47.65 154.346>
-VStem: -23.002 56<545 605.566> 65 70<0 478> 168.998 56<545 605.566>
-LayerCount: 4
+HStem: 0 21G<65 135> 619 52<47.6522 154.348>
+VStem: -23 56<545 605.418> 65 70<0 478> 169 56<545 605.418>
+LayerCount: 2
 Back
 Fore
-Refer: 414 785 N 1 0 0 1 -73.002 -1 2
-Refer: 156 305 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 413 785 N 1 0 0 1 -73 -1 2
+Refer: 155 305 N 1 0 0 1 0 0 3
 EndChar

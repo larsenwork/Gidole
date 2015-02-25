@@ -1,14 +1,12 @@
 StartChar: Omicron
-Encoding: 927 927 480
+Encoding: 927 927 477
 GlifName: O_micron
 Width: 584
 Flags: W
-HStem: -6 70<211.13 388.87> 602 70<211.13 388.87>
-VStem: 65 74<137.639 528.361> 461 74<137.639 528.361>
-LayerCount: 4
+HStem: -6 70<208.139 375.861> 602 70<208.139 375.861>
+VStem: 65 74<136.034 529.966> 445 74<136.034 529.966>
+LayerCount: 2
 Back
 Fore
 Refer: 16 79 N 1 0 0 1 0 0 2
-Layer: 2
-Layer: 3
 EndChar

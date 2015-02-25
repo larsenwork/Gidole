@@ -1,12 +1,9 @@
 StartChar: uni2006
-Encoding: 8198 8198 517
+Encoding: 8198 8198 514
 GlifName: uni2006
 Width: 166
 Flags: W
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

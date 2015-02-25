@@ -1,5 +1,5 @@
 StartChar: uni01EB
-Encoding: 491 491 412
+Encoding: 491 491 411
 GlifName: uni01E_B_
 Width: 490
 VWidth: 0
@@ -7,7 +7,7 @@ UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -189 56<212.449 294.546> 418 66<172.319 317.681>
 VStem: 55 70<108.461 369.539> 153 56<-130.268 -40.0195> 365 70<108.461 369.539>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -37,6 +37,4 @@ SplineSet
  365 293 365 340 340 375 c 0
  320 403 285 418 245 418 c 0
 EndSplineSet
-Layer: 2
-Layer: 3
 EndChar

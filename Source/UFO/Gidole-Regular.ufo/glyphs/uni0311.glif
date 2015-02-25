@@ -4,23 +4,23 @@
   <unicode hex="0311"/>
   <outline>
     <contour>
-      <point x="173.002" y="478" type="move" name="_Top"/>
+      <point x="173" y="478" type="move" name="_Top"/>
     </contour>
     <contour>
       <point x="298" y="546" type="curve"/>
       <point x="242" y="546" type="line"/>
-      <point x="242" y="594.48"/>
+      <point x="242" y="594"/>
       <point x="222" y="620"/>
       <point x="174" y="620" type="curve" smooth="yes"/>
       <point x="126" y="620"/>
-      <point x="106" y="594.48"/>
+      <point x="106" y="594"/>
       <point x="106" y="546" type="curve"/>
       <point x="50" y="546" type="line"/>
-      <point x="50" y="623.465"/>
+      <point x="50" y="623"/>
       <point x="95" y="672"/>
       <point x="174" y="672" type="curve" smooth="yes"/>
       <point x="253" y="672"/>
-      <point x="298" y="623.465"/>
+      <point x="298" y="623"/>
     </contour>
   </outline>
   <lib>

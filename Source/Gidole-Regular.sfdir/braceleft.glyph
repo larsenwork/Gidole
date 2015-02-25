@@ -1,10 +1,10 @@
 StartChar: braceleft
-Encoding: 123 123 76
+Encoding: 123 123 75
 GlifName: braceleft
 Width: 336
 Flags: W
 VStem: 141 60<-93.0055 222.994 373.006 688.005>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -33,7 +33,4 @@ SplineSet
  205 436 199 402 185 370 c 0
  172 341 156 319 130 298 c 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

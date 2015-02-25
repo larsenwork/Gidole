@@ -1,12 +1,12 @@
 StartChar: sterling
-Encoding: 163 163 114
+Encoding: 163 163 113
 GlifName: sterling
 Width: 548
 VWidth: 0
 Flags: W
 HStem: 0 70<156 488> 292 61<60 120 194 418> 602 70<238.508 406.631>
-VStem: 120 74<123.924 292 353 557.354>
-LayerCount: 4
+VStem: 120 74<123.866 292 353 557.354>
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -21,19 +21,16 @@ SplineSet
  194 353 l 1
  418 353 l 1
  418 292 l 1
- 194 292 l 5
- 194 199.372000859 188 139 156 70 c 5
+ 194 292 l 1
+ 194 199 188 139 156 70 c 1
  488 70 l 1
  488 0 l 1
  60 0 l 1
- 60 50 l 5
- 109 121 120 180.112821053 120 292 c 5
+ 60 50 l 1
+ 109 121 120 180 120 292 c 1
  60 292 l 1
  60 353 l 1
  120 353 l 1
  120 435 l 2
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

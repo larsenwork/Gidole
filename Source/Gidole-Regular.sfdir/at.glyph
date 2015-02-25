@@ -1,11 +1,11 @@
 StartChar: at
-Encoding: 64 64 116
+Encoding: 64 64 115
 GlifName: at
 Width: 855
 Flags: W
 HStem: -183 62<210.861 644.139> -6 66<341.247 477.104> 229 62<343.559 524> 419 62<210.282 482.795> 604 62<282 546.738>
 VStem: 75 66<-50.9117 348.912> 241 70<89.8167 198.436> 524 70<0 57 107.01 229 291 377.601> 714 66<-50.9117 437.06>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -58,7 +58,4 @@ SplineSet
  282 666 l 1
  347 666 l 2
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,15 +1,13 @@
 StartChar: Upsilon
-Encoding: 933 933 473
+Encoding: 933 933 470
 GlifName: U_psilon
 Width: 510
 VWidth: 0
 Flags: W
-HStem: 0 21G<233 307> 646 20G<35 126 414 505>
-VStem: 233 74<0 277>
-LayerCount: 4
+HStem: 0 21G<218 292> 646 20G<20 110.194 399.806 490>
+VStem: 218 74<0 250>
+LayerCount: 2
 Back
 Fore
 Refer: 37 89 N 1 0 0 1 0 0 2
-Layer: 2
-Layer: 3
 EndChar

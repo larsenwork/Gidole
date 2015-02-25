@@ -1,17 +1,14 @@
 StartChar: uni0232
-Encoding: 562 562 555
+Encoding: 562 562 552
 GlifName: uni0232
 Width: 510
 VWidth: 0
 Flags: W
 HStem: 0 21G<218 292> 646 20G<20 110.194 399.806 490> 744 56<129 379>
 VStem: 129 250<744 800> 218 74<0 250>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 461 713 N 1 0 0 1 79 188 2
+Refer: 458 713 N 1 0 0 1 79 188 2
 Refer: 37 89 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

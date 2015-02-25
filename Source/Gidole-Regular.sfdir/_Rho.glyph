@@ -1,14 +1,12 @@
 StartChar: Rho
-Encoding: 929 929 481
+Encoding: 929 929 478
 GlifName: R_ho
 Width: 525
 Flags: W
-HStem: 0 21G<75 149> 236 70<149 335.086> 596 70<149 335.086>
-VStem: 75 74<0 236 306 596> 391 74<363.343 538.657>
-LayerCount: 4
+HStem: 0 21G<75 149> 236 70<149 336.929> 596 70<149 336.929>
+VStem: 75 74<0 236 306 596> 401 74<369.624 532.376>
+LayerCount: 2
 Back
 Fore
 Refer: 31 80 N 1 0 0 1 0 0 2
-Layer: 2
-Layer: 3
 EndChar

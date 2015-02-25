@@ -1,5 +1,5 @@
 StartChar: u
-Encoding: 117 117 66
+Encoding: 117 117 65
 GlifName: u
 Width: 460
 VWidth: 0
@@ -11,7 +11,7 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 0 0 basechar 0
 AnchorPoint: "Bottom" 230 0 basechar 0
 AnchorPoint: "Top" 230 478 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -31,7 +31,4 @@ SplineSet
  55 94 55 152 55 222 c 2
  55 478 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

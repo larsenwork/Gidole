@@ -1,11 +1,11 @@
 StartChar: x
-Encoding: 120 120 69
+Encoding: 120 120 68
 GlifName: x
 Width: 452
 VWidth: 0
 Flags: W
 HStem: 0 21G<40 128.658 321.556 412>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -23,7 +23,4 @@ SplineSet
  187 241 l 1
  43 478 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,5 +1,5 @@
 StartChar: product
-Encoding: 8719 8719 444
+Encoding: 8719 8719 441
 GlifName: product
 Width: 590
 VWidth: 0
@@ -11,21 +11,18 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" -5 0 basechar 0
 AnchorPoint: "Bottom" 295 0 basechar 0
 AnchorPoint: "Top" 295 667 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
-75 666 m 5
- 515 666 l 5
+75 666 m 1
+ 515 666 l 1
  515 0 l 1
  441 0 l 1
- 441 596 l 5
- 149 596 l 5
+ 441 596 l 1
+ 149 596 l 1
  149 0 l 1
  75 0 l 1
- 75 666 l 5
+ 75 666 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,5 +1,5 @@
 StartChar: Euro
-Encoding: 8364 8364 390
+Encoding: 8364 8364 389
 GlifName: E_uro
 Width: 583
 VWidth: 0
@@ -11,7 +11,7 @@ AnchorPoint: "Apos" 20 0 basechar 0
 AnchorPoint: "Center" 20 0 basechar 0
 AnchorPoint: "Bottom" 310 0 basechar 0
 AnchorPoint: "Top" 310 667 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -45,7 +45,4 @@ SplineSet
  275 -6 219 9 177 45 c 0
  115 98 106 168 105 243 c 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,16 +1,13 @@
 StartChar: etatonos
-Encoding: 942 942 497
+Encoding: 942 942 494
 GlifName: etatonos
 Width: 485
 VWidth: 0
 HStem: 0 21G<65 135> 418 66<176.816 313.543> 546 120<248 279>
-VStem: 65 70<0 375.445 429 478> 213 113 355 70<-183 373.065>
-LayerCount: 4
+VStem: 65 70<0 375.445 429 478> 213 113 355 70<-183 373.066>
+LayerCount: 2
 Back
 Fore
-Refer: 494 900 N 1 0 0 1 163 0 2
-Refer: 485 951 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 491 900 N 1 0 0 1 163 0 2
+Refer: 482 951 N 1 0 0 1 0 0 3
 EndChar

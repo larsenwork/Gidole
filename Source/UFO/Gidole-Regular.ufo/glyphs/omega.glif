@@ -7,16 +7,16 @@
       <point x="315" y="478" type="move" name="Top"/>
     </contour>
     <contour>
-      <point x="315.002" y="0" type="move" name="Bottom"/>
+      <point x="315" y="0" type="move" name="Bottom"/>
     </contour>
     <contour>
-      <point x="188.002" y="0" type="move" name="Center"/>
+      <point x="188" y="0" type="move" name="Center"/>
     </contour>
     <contour>
-      <point x="188.002" y="0" type="move" name="Apos"/>
+      <point x="188" y="0" type="move" name="Apos"/>
     </contour>
     <contour>
-      <point x="188.002" y="0" type="move" name="DoubleTop"/>
+      <point x="188" y="0" type="move" name="DoubleTop"/>
     </contour>
     <contour>
       <point x="348" y="387" type="line"/>

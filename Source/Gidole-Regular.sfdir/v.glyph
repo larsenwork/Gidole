@@ -4,24 +4,22 @@ GlifName: v
 Width: 430
 Flags: W
 HStem: 0 21G<174.054 255.946>
-AnchorPoint: "DoubleTop" -24.6719 0 basechar 0
-AnchorPoint: "Apos" -24.6719 0 basechar 0
-AnchorPoint: "Bottom" -34.6719 0 basechar 0
-AnchorPoint: "Center" -34.6719 0 basechar 0
-AnchorPoint: "Top" 215.328 478 basechar 0
-LayerCount: 4
+AnchorPoint: "DoubleTop" -25 0 basechar 0
+AnchorPoint: "Apos" -25 0 basechar 0
+AnchorPoint: "Bottom" -35 0 basechar 0
+AnchorPoint: "Center" -35 0 basechar 0
+AnchorPoint: "Top" 215 478 basechar 0
+LayerCount: 2
 Back
 Fore
 SplineSet
-249 0 m 5
- 181 0 l 5
- 15 478 l 5
- 89 478 l 5
- 216 91 l 5
- 342 478 l 5
- 415 478 l 5
- 249 0 l 5
+249 0 m 1
+ 181 0 l 1
+ 15 478 l 1
+ 89 478 l 1
+ 216 91 l 1
+ 342 478 l 1
+ 415 478 l 1
+ 249 0 l 1
 EndSplineSet
-Layer: 2
-Layer: 3
 EndChar

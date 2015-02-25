@@ -1,5 +1,5 @@
 StartChar: ccedilla
-Encoding: 231 231 191
+Encoding: 231 231 190
 GlifName: ccedilla
 Width: 435
 VWidth: 0
@@ -7,7 +7,7 @@ UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -189 52<177.462 266.453> -5 65<171.943 221 265 333> 418 66<171.337 333.726>
 VStem: 55 70<109.38 368.852> 279 56<-129.845 -73.0988>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -41,6 +41,4 @@ SplineSet
  205 -189 185 -186 166 -178 c 1
  182 -128 l 1
 EndSplineSet
-Layer: 2
-Layer: 3
 EndChar

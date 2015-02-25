@@ -1,27 +1,24 @@
 StartChar: uni2198
-Encoding: 8600 8600 455
+Encoding: 8600 8600 452
 GlifName: uni2198
 Width: 469
 Flags: W
 HStem: 92 58<186 289>
 VStem: 330 59<192 294>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
-70 368 m 5
- 113 409 l 5
- 330 192 l 5
- 329 294 l 5
- 389 294 l 5
- 389 121 l 5
- 359 92 l 5
- 186 92 l 5
- 186 150 l 5
- 289 149 l 5
- 70 368 l 5
+70 368 m 1
+ 113 409 l 1
+ 330 192 l 1
+ 329 294 l 1
+ 389 294 l 1
+ 389 121 l 1
+ 359 92 l 1
+ 186 92 l 1
+ 186 150 l 1
+ 289 149 l 1
+ 70 368 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

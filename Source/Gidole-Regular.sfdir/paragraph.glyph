@@ -1,12 +1,12 @@
 StartChar: paragraph
-Encoding: 182 182 422
+Encoding: 182 182 419
 GlifName: paragraph
 Width: 525
 VWidth: 0
 Flags: W
 HStem: 0 21G<198 272 376 450> 596 70<272.172 376>
 VStem: 60 212<352.088 549.912> 198 74<0 258.499> 376 74<0 596>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -14,7 +14,7 @@ SplineSet
  450 666 l 1
  450 0 l 1
  376 0 l 1
- 376 0 376 596 376 596 c 1
+ 376 596 l 1
  307 596 272 594 272 594 c 1
  272 0 l 1
  198 0 l 1
@@ -24,7 +24,4 @@ SplineSet
  60 504 78 567 127 611 c 0
  188 666 262 666 341 666 c 2xe8
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

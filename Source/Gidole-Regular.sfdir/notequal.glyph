@@ -1,36 +1,33 @@
 StartChar: notequal
-Encoding: 8800 8800 120
+Encoding: 8800 8800 119
 GlifName: notequal
 Width: 520
 Flags: W
 HStem: 155 52<80 165 262 440> 293 52<80 258 355 440>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
-359 443 m 5
- 421 443 l 5
- 355 345 l 5
- 440 345 l 5
- 440 293 l 5
- 320 293 l 5
- 262 207 l 5
- 440 207 l 5
- 440 155 l 5
- 227 155 l 5
- 161 57 l 5
- 99 57 l 5
- 165 155 l 5
- 80 155 l 5
- 80 207 l 5
- 200 207 l 5
- 258 293 l 5
- 80 293 l 5
- 80 345 l 5
- 293 345 l 5
- 359 443 l 5
+359 443 m 1
+ 421 443 l 1
+ 355 345 l 1
+ 440 345 l 1
+ 440 293 l 1
+ 320 293 l 1
+ 262 207 l 1
+ 440 207 l 1
+ 440 155 l 1
+ 227 155 l 1
+ 161 57 l 1
+ 99 57 l 1
+ 165 155 l 1
+ 80 155 l 1
+ 80 207 l 1
+ 200 207 l 1
+ 258 293 l 1
+ 80 293 l 1
+ 80 345 l 1
+ 293 345 l 1
+ 359 443 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

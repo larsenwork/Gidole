@@ -1,5 +1,5 @@
 StartChar: Pi
-Encoding: 928 928 479
+Encoding: 928 928 476
 GlifName: P_i
 Width: 590
 VWidth: 0
@@ -11,7 +11,7 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" -5 0 basechar 0
 AnchorPoint: "Bottom" 295 0 basechar 0
 AnchorPoint: "Top" 295 666 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -25,7 +25,4 @@ SplineSet
  75 0 l 1
  75 666 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

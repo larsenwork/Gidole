@@ -1,5 +1,5 @@
 StartChar: omega
-Encoding: 969 969 509
+Encoding: 969 969 506
 GlifName: omega
 Width: 630
 VWidth: 0
@@ -8,11 +8,11 @@ HStem: -6 67<203.221 282 348 426.779>
 VStem: 58 70<141.169 417.75> 282 66<61 387> 502 70<141.169 417.75>
 CounterMasks: 1 70
 AnchorPoint: "Top" 315 478 basechar 0
-AnchorPoint: "Bottom" 315.002 0 basechar 0
-AnchorPoint: "Center" 188.002 0 basechar 0
-AnchorPoint: "Apos" 188.002 0 basechar 0
-AnchorPoint: "DoubleTop" 188.002 0 basechar 0
-LayerCount: 4
+AnchorPoint: "Bottom" 315 0 basechar 0
+AnchorPoint: "Center" 188 0 basechar 0
+AnchorPoint: "Apos" 188 0 basechar 0
+AnchorPoint: "DoubleTop" 188 0 basechar 0
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -35,7 +35,4 @@ SplineSet
  282 387 l 1
  348 387 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,17 +1,14 @@
 StartChar: uni0218
-Encoding: 536 536 316
+Encoding: 536 536 315
 GlifName: uni0218
 Width: 510
 VWidth: 0
 Flags: W
-HStem: -229 166<228.688 247> -6 70<144.299 331.498> 602 70<163.872 348.375>
+HStem: -229 166<228.688 247> -6 70<142.855 331.519> 602 70<163.872 347.842>
 VStem: 49 74<443.227 561.61> 200 94<-147.943 -69.851> 386 74<115.775 244.17>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 439 806 N 1 0 0 1 150 0 2
+Refer: 436 806 N 1 0 0 1 150 0 2
 Refer: 35 83 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

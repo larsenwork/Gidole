@@ -1,17 +1,14 @@
 StartChar: Wcircumflex
-Encoding: 372 372 295
+Encoding: 372 372 294
 GlifName: W_circumflex
 Width: 710
 VWidth: 0
 Flags: W
 HStem: 0 21G<166.766 236.494 473.506 543.234> 646 20G<30 109.075 603 680> 734 120
 VStem: 220 268
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 143 710 N 1 0 0 1 170 188 2
+Refer: 142 710 N 1 0 0 1 170 188 2
 Refer: 26 87 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

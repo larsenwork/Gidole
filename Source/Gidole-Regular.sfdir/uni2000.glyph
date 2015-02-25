@@ -1,12 +1,9 @@
 StartChar: uni2000
-Encoding: 8192 8192 511
+Encoding: 8192 8192 508
 GlifName: uni2000
 Width: 500
 Flags: W
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

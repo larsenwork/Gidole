@@ -3,7 +3,7 @@
   <advance width="443"/>
   <unicode hex="0227"/>
   <outline>
-    <component base="dotaccent" xOffset="111"/>
+    <component base="dotaccent" xOffset="116"/>
     <component base="a"/>
   </outline>
   <lib>
@@ -47,7 +47,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>161</integer>
+            <integer>166</integer>
             <key>width</key>
             <integer>94</integer>
           </dict>

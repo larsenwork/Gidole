@@ -1,12 +1,12 @@
 StartChar: Thorn
-Encoding: 222 222 362
+Encoding: 222 222 361
 GlifName: T_horn
 Width: 520
 VWidth: 0
 Flags: W
 HStem: 0 21G<75 149> 126 70<149 326.929> 486 70<149 326.929> 646 20G<75 149>
 VStem: 75 74<0 126 196 486 556 666> 391 74<259.624 422.376>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -31,7 +31,4 @@ SplineSet
  307 486 258 486 184 486 c 2
  149 486 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

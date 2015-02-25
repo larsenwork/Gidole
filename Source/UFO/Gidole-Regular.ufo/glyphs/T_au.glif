@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tau" format="1">
-  <advance width="560"/>
+  <advance width="530"/>
   <unicode hex="03A4"/>
   <outline>
-    <contour>
-      <point x="0" y="0" type="move" name="DoubleTop"/>
-    </contour>
-    <contour>
-      <point x="0" y="0" type="move" name="Apos"/>
-    </contour>
-    <contour>
-      <point x="35" y="0" type="move" name="Center"/>
-    </contour>
-    <contour>
-      <point x="280" y="0" type="move" name="Bottom"/>
-    </contour>
-    <contour>
-      <point x="280" y="666" type="move" name="Top"/>
-    </contour>
-    <contour>
-      <point x="55" y="666" type="line"/>
-      <point x="505" y="666" type="line"/>
-      <point x="505" y="596" type="line"/>
-      <point x="317" y="596" type="line"/>
-      <point x="317" y="0" type="line"/>
-      <point x="243" y="0" type="line"/>
-      <point x="243" y="596" type="line"/>
-      <point x="55" y="596" type="line"/>
-    </contour>
+    <component base="T"/>
   </outline>
   <lib>
     <dict>
@@ -52,7 +28,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>243</integer>
+            <integer>228</integer>
             <key>width</key>
             <integer>74</integer>
           </dict>

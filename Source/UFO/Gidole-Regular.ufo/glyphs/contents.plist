@@ -96,7 +96,7 @@
     <string>v.glif</string>
     <key>m</key>
     <string>m.glif</string>
-    <key>a</key>
+    <key>a.alt</key>
     <string>a.glif</string>
     <key>s</key>
     <string>s.glif</string>
@@ -1134,5 +1134,9 @@
     <string>phi.glif</string>
     <key>psi</key>
     <string>psi.glif</string>
+    <key>a</key>
+    <string>a.glif</string>
+    <key>aAlt</key>
+    <string>aA_lt.glif</string>
   </dict>
 </plist>

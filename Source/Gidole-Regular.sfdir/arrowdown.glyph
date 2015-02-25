@@ -1,26 +1,23 @@
 StartChar: arrowdown
-Encoding: 8595 8595 450
+Encoding: 8595 8595 447
 GlifName: arrowdown
 Width: 414
 Flags: W
 VStem: 177 60<140 450>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
-177 450 m 5
- 237 450 l 5
- 237 140 l 5
- 307 212 l 5
- 351 172 l 5
- 229 50 l 5
- 185 50 l 5
- 63 172 l 5
- 107 212 l 5
- 177 140 l 5
- 177 450 l 5
+177 450 m 1
+ 237 450 l 1
+ 237 140 l 1
+ 307 212 l 1
+ 351 172 l 1
+ 229 50 l 1
+ 185 50 l 1
+ 63 172 l 1
+ 107 212 l 1
+ 177 140 l 1
+ 177 450 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

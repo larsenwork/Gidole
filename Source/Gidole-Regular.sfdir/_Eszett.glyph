@@ -1,12 +1,12 @@
 StartChar: Eszett
-Encoding: 7838 7838 531
+Encoding: 7838 7838 528
 GlifName: E_szett
 Width: 632
 VWidth: 0
 Flags: W
 HStem: -6 70<274.09 454.582> 597 70<202.162 433>
 VStem: 70 74<0 542.885> 508 74<115.29 244.889>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -36,7 +36,4 @@ SplineSet
  70 480 70 539 112 592 c 0
  172 667 263 667 354 667 c 2
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

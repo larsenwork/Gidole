@@ -1,12 +1,12 @@
 StartChar: copyright
-Encoding: 169 169 74
+Encoding: 169 169 73
 GlifName: copyright
 Width: 820
 VWidth: 0
 Flags: W
 HStem: -185 62<210.861 609.139> -6 66<349.148 495.927> 417 66<350.375 492.978> 605 62<210.861 609.139>
 VStem: 75 66<-52.9117 534.912> 252 70<87.613 389.522> 679 66<-52.9117 534.912>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -54,7 +54,4 @@ SplineSet
  518 10 470 -6 417 -6 c 0
  364 -6 320 13 292 42 c 0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

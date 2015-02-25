@@ -1,12 +1,12 @@
 StartChar: cent
-Encoding: 162 162 354
+Encoding: 162 162 353
 GlifName: cent
 Width: 450
 VWidth: 0
 Flags: W
 HStem: -5 66<171.78 230 280 356.875> 416 66<171.78 230 280 356.162>
 VStem: 55 70<106.798 368.417> 230 50<-86 -2.53525 61 416 479.756 563>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -37,7 +37,4 @@ SplineSet
  230 416 l 1
  195 413 168 396 151 376 c 0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

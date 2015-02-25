@@ -1,17 +1,14 @@
 StartChar: uni020D
-Encoding: 525 525 410
+Encoding: 525 525 409
 GlifName: uni020D_
 Width: 470
 VWidth: 0
 Flags: W
 HStem: -6 66<163.259 306.741> 418 66<163.259 306.741> 546 120
 VStem: 45 70<108.542 369.458> 73 283 355 70<108.542 369.458>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 399 783 N 1 0 0 1 23 0 2
-Refer: 53 111 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 398 783 N 1 0 0 1 23 0 2
+Refer: 52 111 N 1 0 0 1 0 0 3
 EndChar

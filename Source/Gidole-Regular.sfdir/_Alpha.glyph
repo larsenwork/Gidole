@@ -1,13 +1,11 @@
 StartChar: Alpha
-Encoding: 913 913 462
+Encoding: 913 913 459
 GlifName: A_lpha
 Width: 544
 Flags: W
 HStem: 0 21G<15 99.4242 444.576 529> 165 70<168 376> 646 20G<235.183 308.817>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 Refer: 13 65 N 1 0 0 1 0 0 2
-Layer: 2
-Layer: 3
 EndChar

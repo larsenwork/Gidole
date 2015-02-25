@@ -1,25 +1,22 @@
 StartChar: second
-Encoding: 8243 8243 430
+Encoding: 8243 8243 427
 GlifName: second
 Width: 450
 Flags: W
 HStem: 456 210
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
-324 666 m 5
- 400 666 l 5
+324 666 m 1
+ 400 666 l 1
  265 456 l 1
  200 456 l 1
- 324 666 l 5
-174 666 m 5
- 250 666 l 5
+ 324 666 l 1
+174 666 m 1
+ 250 666 l 1
  115 456 l 1
  50 456 l 1
- 174 666 l 5
+ 174 666 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

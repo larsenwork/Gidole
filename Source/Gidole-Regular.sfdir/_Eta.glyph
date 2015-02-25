@@ -1,15 +1,13 @@
 StartChar: Eta
-Encoding: 919 919 468
+Encoding: 919 919 465
 GlifName: E_ta
 Width: 590
 VWidth: 0
 Flags: W
 HStem: 0 21G<75 149 441 515> 308 70<149 441> 646 20G<75 149 441 515>
 VStem: 75 74<0 308 378 666> 441 74<0 308 378 666>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 Refer: 20 72 N 1 0 0 1 0 0 2
-Layer: 2
-Layer: 3
 EndChar

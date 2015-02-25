@@ -1,23 +1,23 @@
 StartChar: onehalf
-Encoding: 189 189 358
+Encoding: 189 189 357
 GlifName: onehalf
 Width: 894
 VWidth: 0
 Flags: W
 HStem: 0 66<661 844> 418 66<610.834 748.202> 646 21G<134.755 231 549.205 624>
 VStem: 161 70<188 584> 769 70<290.763 400.896>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
-174 666 m 5
- 231 666 l 5
- 231 188 l 5
- 161 188 l 5
- 161 584 l 5
- 100 553 l 5
- 70 613 l 5
- 174 666 l 5
+174 666 m 1
+ 231 666 l 1
+ 231 188 l 1
+ 161 188 l 1
+ 161 584 l 1
+ 100 553 l 1
+ 70 613 l 1
+ 174 666 l 1
 619 395 m 1
  578 448 l 1
  614 475 659 484 691 484 c 0
@@ -40,7 +40,4 @@ SplineSet
  200 0 l 1
  560 667 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

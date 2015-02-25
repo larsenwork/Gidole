@@ -1,17 +1,14 @@
 StartChar: uni021B
-Encoding: 539 539 319
+Encoding: 539 539 318
 GlifName: uni021B_
 Width: 355
 VWidth: 0
 Flags: W
-HStem: -229 166<212.688 231> -6 66<194.203 306.038> 416 62<35 115 185 295>
+HStem: -229 166<212.688 231> -6 66<194.203 305.02> 416 62<35 115 185 295>
 VStem: 115 70<67.9239 416 478 591> 184 94<-147.943 -69.851>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 439 806 N 1 0 0 1 134 0 2
-Refer: 65 116 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 436 806 N 1 0 0 1 134 0 2
+Refer: 64 116 N 1 0 0 1 0 0 3
 EndChar

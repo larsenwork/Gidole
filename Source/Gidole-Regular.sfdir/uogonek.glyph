@@ -1,5 +1,5 @@
 StartChar: uogonek
-Encoding: 371 371 388
+Encoding: 371 371 387
 GlifName: uogonek
 Width: 480
 VWidth: 0
@@ -7,7 +7,7 @@ UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -189 56<207.449 289.546>
 VStem: 60 70<104.934 478> 148 56<-130.268 -39.5702> 350 70<104.934 478>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -34,6 +34,4 @@ SplineSet
  60 114 60 168 60 239 c 2
  60 478 l 1
 EndSplineSet
-Layer: 2
-Layer: 3
 EndChar

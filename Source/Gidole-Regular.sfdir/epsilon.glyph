@@ -1,5 +1,5 @@
 StartChar: epsilon
-Encoding: 949 949 493
+Encoding: 949 949 490
 GlifName: epsilon
 Width: 423
 VWidth: 0
@@ -11,7 +11,7 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 0 0 basechar 0
 AnchorPoint: "Bottom" 225 0 basechar 0
 AnchorPoint: "Top" 225 478 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -40,6 +40,4 @@ SplineSet
  378 21 l 1
  328 3 275 -6 225 -6 c 0
 EndSplineSet
-Layer: 2
-Layer: 3
 EndChar

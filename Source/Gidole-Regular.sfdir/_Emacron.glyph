@@ -1,17 +1,14 @@
 StartChar: Emacron
-Encoding: 274 274 219
+Encoding: 274 274 218
 GlifName: E_macron
 Width: 510
 VWidth: 0
 Flags: W
 HStem: 0 70<149 445> 308 70<149 385> 596 70<149 445> 732 56<130 380>
 VStem: 75 74<70 308 378 596> 130 250<732 788>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 461 713 N 1 0 0 1 80 176 2
+Refer: 458 713 N 1 0 0 1 80 176 2
 Refer: 18 69 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

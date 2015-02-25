@@ -1,17 +1,14 @@
 StartChar: uni1EE4
-Encoding: 7908 7908 348
+Encoding: 7908 7908 347
 GlifName: uni1E_E_4
 Width: 554
 VWidth: 0
 Flags: W
 HStem: -167 94<234.562 315.438> -6 70<199.666 354.334> 646 20G<70 144 410 484>
 VStem: 70 74<121.119 666> 228 94<-160.103 -79.8974> 410 74<121.119 666>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 438 803 N 1 0 0 1 178 0 2
+Refer: 435 803 N 1 0 0 1 178 0 2
 Refer: 24 85 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,14 +1,12 @@
 StartChar: Zeta
-Encoding: 918 918 467
+Encoding: 918 918 464
 GlifName: Z_eta
 Width: 530
 VWidth: 0
 Flags: W
-HStem: 0 70<147 480> 596 70<70 382>
-LayerCount: 4
+HStem: 0 70<147 470> 596 70<70 372>
+LayerCount: 2
 Back
 Fore
 Refer: 38 90 N 1 0 0 1 0 0 2
-Layer: 2
-Layer: 3
 EndChar

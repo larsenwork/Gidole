@@ -1,15 +1,13 @@
 StartChar: upsilon
-Encoding: 965 965 504
+Encoding: 965 965 501
 GlifName: upsilon
 Width: 460
 VWidth: 0
 Flags: W
-HStem: -6 66<170.932 309.068>
-VStem: 60 70<102.333 477> 350 70<102.333 477>
-LayerCount: 4
+HStem: -6 66<162.552 297.448>
+VStem: 55 70<98.8435 478> 335 70<98.8435 478>
+LayerCount: 2
 Back
 Fore
-Refer: 66 117 N 1 0 0 1 0 0 2
-Layer: 2
-Layer: 3
+Refer: 65 117 N 1 0 0 1 0 0 2
 EndChar

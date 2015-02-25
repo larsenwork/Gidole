@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alphatonos" format="1">
-  <advance width="490"/>
+  <advance width="480"/>
   <unicode hex="03AC"/>
   <outline>
     <component base="tonos" xOffset="153"/>
@@ -35,7 +35,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>55</integer>
+            <integer>45</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
@@ -47,7 +47,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>355</integer>
+            <integer>345</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>

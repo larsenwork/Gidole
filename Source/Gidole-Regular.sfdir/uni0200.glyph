@@ -1,16 +1,14 @@
 StartChar: uni0200
-Encoding: 512 512 391
+Encoding: 512 512 390
 GlifName: uni0200
 Width: 544
 VWidth: 0
 Flags: W
 HStem: 0 21G<15 99.4242 444.576 529> 165 70<168 376> 646 20G<235.183 308.817> 734 120
 VStem: 110 283
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 399 783 N 1 0 0 1 60 188 2
+Refer: 398 783 N 1 0 0 1 60 188 2
 Refer: 13 65 N 1 0 0 1 0 0 3
-Layer: 2
-Layer: 3
 EndChar

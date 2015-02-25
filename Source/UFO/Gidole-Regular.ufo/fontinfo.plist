@@ -30,6 +30,8 @@
     <integer>-191</integer>
     <key>openTypeHheaLineGap</key>
     <integer>26</integer>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://gidole.github.io</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -137,9 +139,7 @@ Font Name for webfont conversions.
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.0.2</string>
-    <key>openTypeNameUniqueID</key>
-    <string>Gidole Regular 1.0.0</string>
+    <string>Version 1.0.5</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>2</integer>

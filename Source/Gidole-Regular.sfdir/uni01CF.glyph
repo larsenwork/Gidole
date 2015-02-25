@@ -1,16 +1,13 @@
 StartChar: uni01CF
-Encoding: 463 463 538
+Encoding: 463 463 535
 GlifName: uni01C_F_
 Width: 224
 VWidth: 0
 HStem: 0 21G<75 149> 646 20G<75 149> 734 120
 VStem: -22 268 75 74<0 666>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 198 711 N 1 0 0 1 -72 188 2
+Refer: 197 711 N 1 0 0 1 -72 188 2
 Refer: 21 73 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

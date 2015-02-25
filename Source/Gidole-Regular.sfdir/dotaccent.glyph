@@ -1,5 +1,5 @@
 StartChar: dotaccent
-Encoding: 729 729 196
+Encoding: 729 729 195
 GlifName: dotaccent
 Width: 194
 VWidth: 0
@@ -7,7 +7,7 @@ Flags: W
 HStem: 550 94<56.5618 137.438>
 VStem: 50 94<556.897 637.103>
 AnchorPoint: "Top" 97 478 mark 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -17,7 +17,4 @@ SplineSet
  70 550 50 569 50 597 c 0
  50 625 70 644 97 644 c 0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

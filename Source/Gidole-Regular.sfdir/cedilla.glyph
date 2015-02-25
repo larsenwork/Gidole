@@ -1,12 +1,12 @@
 StartChar: cedilla
-Encoding: 184 184 190
+Encoding: 184 184 189
 GlifName: cedilla
 Width: 269
 Flags: W
 HStem: -189 52<61.4617 150.453>
 VStem: 163 56<-129.845 -73.0988>
 AnchorPoint: "Bottom" 129 0 mark 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -27,7 +27,4 @@ SplineSet
  89 -189 69 -186 50 -178 c 0
  66 -128 l 0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

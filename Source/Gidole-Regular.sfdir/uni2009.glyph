@@ -1,12 +1,9 @@
 StartChar: uni2009
-Encoding: 8201 8201 520
+Encoding: 8201 8201 517
 GlifName: uni2009
 Width: 187
 Flags: W
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

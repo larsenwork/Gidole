@@ -1,14 +1,12 @@
 StartChar: kappa
-Encoding: 954 954 486
+Encoding: 954 954 483
 GlifName: kappa
 Width: 454
 Flags: W
 HStem: 0 21G<65 135 324.132 419>
 VStem: 65 70<0 137 228 478>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 413 312 N 1 0 0 1 0 0 2
-Layer: 2
-Layer: 3
+Refer: 412 312 N 1 0 0 1 0 0 2
 EndChar

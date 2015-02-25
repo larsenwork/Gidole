@@ -1,16 +1,14 @@
 StartChar: uni01CD
-Encoding: 461 461 536
+Encoding: 461 461 533
 GlifName: uni01C_D_
 Width: 544
 VWidth: 0
 Flags: W
 HStem: 0 21G<15 99.4242 444.576 529> 165 70<168 376> 646 20G<235.183 308.817> 734 120
 VStem: 138 268
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 198 711 N 1 0 0 1 88 188 2
+Refer: 197 711 N 1 0 0 1 88 188 2
 Refer: 13 65 N 1 0 0 1 0 0 3
-Layer: 2
-Layer: 3
 EndChar

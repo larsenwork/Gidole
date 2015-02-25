@@ -1,12 +1,12 @@
 StartChar: currency
-Encoding: 164 164 441
+Encoding: 164 164 438
 GlifName: currency
 Width: 626
 VWidth: 0
 Flags: W
 HStem: 59 70<224.082 401.918> 449 70<224.082 401.918>
 VStem: 81 74<199.255 378.745> 471 74<199.255 378.745>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -37,7 +37,4 @@ SplineSet
  81 343 96 390 123 428 c 1
  60 491 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilondieresistonos" format="1">
-  <advance width="480"/>
+  <advance width="460"/>
   <unicode hex="03B0"/>
   <outline>
-    <component base="tonos" xOffset="133.5" yOffset="157"/>
+    <component base="tonos" xOffset="134" yOffset="157"/>
     <component base="upsilondieresis"/>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>60</integer>
+            <integer>55</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
@@ -59,7 +59,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>350</integer>
+            <integer>335</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>

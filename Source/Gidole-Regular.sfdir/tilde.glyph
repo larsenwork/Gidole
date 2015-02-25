@@ -1,12 +1,12 @@
 StartChar: tilde
-Encoding: 732 732 183
+Encoding: 732 732 182
 GlifName: tilde
 Width: 396
 Flags: W
 HStem: 550 52<199.55 288.503> 588 52<107.497 196.555>
 VStem: 50 56<556 585.526> 290 56<604.474 634>
 AnchorPoint: "Top" 198 478 mark 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -22,7 +22,4 @@ SplineSet
  346 634 l 1
  346 586 307 550 258 550 c 0xb0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

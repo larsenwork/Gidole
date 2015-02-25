@@ -1,17 +1,14 @@
 StartChar: Ebreve
-Encoding: 276 276 221
+Encoding: 276 276 220
 GlifName: E_breve
 Width: 510
 VWidth: 0
 Flags: W
 HStem: 0 70<149 445> 308 70<149 385> 596 70<149 445> 732 52<201.652 308.348> 838 20G<131 187 323 379>
-VStem: 75 74<70 308 378 596> 131 56<797.434 858> 323 56<797.434 858>
-LayerCount: 4
+VStem: 75 74<70 308 378 596> 131 56<797.582 858> 323 56<797.582 858>
+LayerCount: 2
 Back
 Fore
-Refer: 194 728 N 1 0 0 1 81 192 2
+Refer: 193 728 N 1 0 0 1 81 192 2
 Refer: 18 69 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

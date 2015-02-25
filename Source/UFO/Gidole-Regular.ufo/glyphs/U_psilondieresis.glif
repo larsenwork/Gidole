@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilondieresis" format="1">
-  <advance width="540"/>
+  <advance width="510"/>
   <unicode hex="03AB"/>
   <outline>
     <component base="dieresis" xOffset="83" yOffset="189"/>
@@ -41,7 +41,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>233</integer>
+            <integer>218</integer>
             <key>width</key>
             <integer>74</integer>
           </dict>

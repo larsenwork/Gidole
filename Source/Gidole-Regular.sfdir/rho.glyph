@@ -1,5 +1,5 @@
 StartChar: rho
-Encoding: 961 961 488
+Encoding: 961 961 485
 GlifName: rho
 Width: 485
 Flags: W
@@ -10,7 +10,7 @@ AnchorPoint: "Center" -5 0 basechar 0
 AnchorPoint: "Top" -5 0 basechar 0
 AnchorPoint: "Apos" 483 667 basechar 0
 AnchorPoint: "Bottom" 250 0 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -35,7 +35,4 @@ SplineSet
  60 294 60 358 95 410 c 0
  128 459 185 484 245 484 c 0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

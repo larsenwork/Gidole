@@ -1,11 +1,11 @@
 StartChar: slash
-Encoding: 47 47 73
+Encoding: 47 47 72
 GlifName: slash
 Width: 342
 VWidth: 0
 Flags: W
 VStem: 20 302
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -15,7 +15,4 @@ SplineSet
  20 -144 l 1
  260 740 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

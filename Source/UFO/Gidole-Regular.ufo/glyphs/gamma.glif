@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gamma" format="1">
-  <advance width="476"/>
+  <advance width="430"/>
   <unicode hex="03B3"/>
   <outline>
     <contour>
-      <point x="201" y="0" type="line"/>
-      <point x="30" y="477" type="line"/>
-      <point x="104" y="477" type="line"/>
-      <point x="238" y="81" type="line"/>
-      <point x="372" y="477" type="line"/>
-      <point x="446" y="477" type="line"/>
-      <point x="275" y="0" type="line"/>
-      <point x="275" y="-185" type="line"/>
-      <point x="201" y="-185" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="15" y="478" type="line"/>
+      <point x="89" y="478" type="line"/>
+      <point x="216" y="89" type="line"/>
+      <point x="342" y="478" type="line"/>
+      <point x="415" y="478" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="-183" type="line"/>
+      <point x="180" y="-183" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,9 +23,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>201</integer>
+            <integer>180</integer>
             <key>width</key>
-            <integer>74</integer>
+            <integer>70</integer>
           </dict>
         </array>
       </dict>

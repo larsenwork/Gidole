@@ -1,12 +1,9 @@
 StartChar: uni2004
-Encoding: 8196 8196 515
+Encoding: 8196 8196 512
 GlifName: uni2004
 Width: 333
 Flags: W
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

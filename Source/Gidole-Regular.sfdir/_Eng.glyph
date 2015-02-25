@@ -1,12 +1,12 @@
 StartChar: Eng
-Encoding: 330 330 383
+Encoding: 330 330 382
 GlifName: E_ng
 Width: 590
 VWidth: 0
 Flags: W
 HStem: -191 70<322.444 432.263> 0 21G<75 149> 646 20G<75 151.599 441 515>
 VStem: 75 74<0 519> 441 74<-97.4843 16 147 666>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -29,7 +29,4 @@ SplineSet
  75 0 l 1
  75 666 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

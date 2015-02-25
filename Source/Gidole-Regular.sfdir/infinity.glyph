@@ -1,12 +1,12 @@
 StartChar: infinity
-Encoding: 8734 8734 117
+Encoding: 8734 8734 116
 GlifName: infinity
 Width: 750
 VWidth: 0
 Flags: W
 HStem: 81 58<176.757 288.847 461.153 573.243> 361 58<176.757 288.847 461.153 573.243>
 VStem: 80 60<178.681 321.319> 610 60<178.681 321.319>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -30,7 +30,4 @@ SplineSet
  427 201 453 139 518 139 c 0
  576 139 610 195 610 250 c 0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

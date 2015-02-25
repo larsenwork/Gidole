@@ -1,5 +1,5 @@
 StartChar: iogonek
-Encoding: 303 303 377
+Encoding: 303 303 376
 GlifName: iogonek
 Width: 200
 VWidth: 0
@@ -7,7 +7,7 @@ UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -189 56<38.4486 120.546> 550 94<59.5618 140.438>
 VStem: -21 56<-130.268 -42.4377> 53 94<556.897 637.103> 65 70<-6.34476 478>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -28,6 +28,4 @@ SplineSet
  135 478 l 1
  135 0 l 1xe8
 EndSplineSet
-Layer: 2
-Layer: 3
 EndChar

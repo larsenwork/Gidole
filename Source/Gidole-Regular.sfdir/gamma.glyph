@@ -1,10 +1,10 @@
 StartChar: gamma
-Encoding: 947 947 403
+Encoding: 947 947 402
 GlifName: gamma
 Width: 430
 Flags: W
 VStem: 180 70<-183 0>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -19,6 +19,4 @@ SplineSet
  180 -183 l 1
  180 0 l 1
 EndSplineSet
-Layer: 2
-Layer: 3
 EndChar

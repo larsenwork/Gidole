@@ -1,12 +1,12 @@
 StartChar: uni0315
-Encoding: 789 789 436
+Encoding: 789 789 433
 GlifName: uni0315
 Width: 202
 Flags: W
 HStem: 455 217<82.7301 98>
 VStem: 50 102<577.953 664.037>
 AnchorPoint: "Apos" 22 666 mark 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -19,7 +19,4 @@ SplineSet
  82 573 l 0
  63 579 50 598 50 621 c 0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

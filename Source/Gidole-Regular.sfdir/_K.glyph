@@ -10,7 +10,7 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Top" -5 0 basechar 0
 AnchorPoint: "Center" -5 0 basechar 0
 AnchorPoint: "Bottom" 285 0 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -20,15 +20,12 @@ SplineSet
  149 192 l 1
  149 0 l 1
  75 0 l 1
- 75 666 l 5
- 149 666 l 5
+ 75 666 l 1
+ 149 666 l 1
  149 294 l 1
- 418 666 l 5
- 505 666 l 5
+ 418 666 l 1
+ 505 666 l 1
  273 347 l 1
  525 0 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

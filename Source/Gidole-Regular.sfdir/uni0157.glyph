@@ -1,17 +1,14 @@
 StartChar: uni0157
-Encoding: 343 343 270
+Encoding: 343 343 269
 GlifName: uni0157
 Width: 348
 VWidth: 0
 Flags: W
 HStem: -229 166<81.6875 100> 0 21G<65 135> 418 66<179.319 301.777>
 VStem: 53 94<-147.943 -69.851> 65 70<0 370.825 423 478>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 439 806 N 1 0 0 1 3 0 2
-Refer: 62 114 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 436 806 N 1 0 0 1 3 0 2
+Refer: 61 114 N 1 0 0 1 0 0 3
 EndChar

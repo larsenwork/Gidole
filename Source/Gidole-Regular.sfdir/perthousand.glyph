@@ -1,12 +1,12 @@
 StartChar: perthousand
-Encoding: 8240 8240 103
+Encoding: 8240 8240 102
 GlifName: perthousand
 Width: 992
 VWidth: 0
 Flags: W
 HStem: -6 58<464.946 559.054 764.946 859.054> 237 58<464.946 559.054 764.946 859.054> 371 58<132.946 227.054> 614 58<132.946 227.054>
 VStem: 60 60<447.818 595.169> 240 60<447.818 595.169> 392 60<70.8177 218.169> 572 60<70.8177 218.169> 692 60<70.8177 218.169> 872 60<70.8177 218.169>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -70,7 +70,4 @@ SplineSet
  126 0 l 1
  486 666 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,14 +1,12 @@
 StartChar: Kappa
-Encoding: 922 922 470
+Encoding: 922 922 467
 GlifName: K_appa
 Width: 565
 Flags: W
 HStem: 0 21G<75 149 421.492 525> 646 20G<75 149 403.538 505>
 VStem: 75 74<0 192 294 666>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 Refer: 34 75 N 1 0 0 1 0 0 2
-Layer: 2
-Layer: 3
 EndChar

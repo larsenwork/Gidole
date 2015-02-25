@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="chi" format="1">
-  <advance width="460"/>
+  <advance width="452"/>
   <unicode hex="03C7"/>
   <outline>
-    <contour>
-      <point x="43" y="478" type="line"/>
-      <point x="122" y="478" type="line"/>
-      <point x="230" y="291" type="line"/>
-      <point x="340" y="478" type="line"/>
-      <point x="417" y="478" type="line"/>
-      <point x="272" y="241" type="line"/>
-      <point x="420" y="0" type="line"/>
-      <point x="341" y="0" type="line"/>
-      <point x="230" y="192" type="line"/>
-      <point x="117" y="0" type="line"/>
-      <point x="40" y="0" type="line"/>
-      <point x="188" y="241" type="line"/>
-    </contour>
+    <component base="x"/>
   </outline>
   <lib>
     <dict>

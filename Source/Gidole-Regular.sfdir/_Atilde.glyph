@@ -1,16 +1,14 @@
 StartChar: Atilde
-Encoding: 195 195 184
+Encoding: 195 195 183
 GlifName: A_tilde
 Width: 544
 VWidth: 0
 Flags: W
 HStem: 0 21G<15 99.4242 444.576 529> 165 70<168 376> 646 20G<235.183 308.817> 738 52<273.55 362.503> 776 52<181.497 270.555>
 VStem: 124 56<744 773.526> 364 56<792.474 822>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 183 732 N 1 0 0 1 74 188 2
+Refer: 182 732 N 1 0 0 1 74 188 2
 Refer: 13 65 N 1 0 0 1 0 0 3
-Layer: 2
-Layer: 3
 EndChar

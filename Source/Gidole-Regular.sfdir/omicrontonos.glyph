@@ -1,16 +1,13 @@
 StartChar: omicrontonos
-Encoding: 972 972 506
+Encoding: 972 972 503
 GlifName: omicrontonos
 Width: 490
 VWidth: 0
 HStem: -6 66<172.319 317.681> 418 66<172.319 317.681> 546 120<234 265>
 VStem: 55 70<108.461 369.539> 199 113 365 70<108.461 369.539>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 494 900 N 1 0 0 1 149 0 2
-Refer: 487 959 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 491 900 N 1 0 0 1 149 0 2
+Refer: 484 959 N 1 0 0 1 0 0 3
 EndChar

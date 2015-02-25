@@ -18,24 +18,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>600</integer>
+            <integer>126</integer>
             <key>width</key>
-            <integer>66</integer>
+            <integer>260</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>55</integer>
+            <integer>73</integer>
             <key>width</key>
-            <integer>70</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>311</integer>
-            <key>width</key>
-            <integer>70</integer>
+            <integer>242</integer>
           </dict>
         </array>
       </dict>

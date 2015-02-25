@@ -1,13 +1,11 @@
 StartChar: nu
-Encoding: 957 957 503
+Encoding: 957 957 500
 GlifName: nu
 Width: 430
 Flags: W
 HStem: 0 21G<174.054 255.946>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 Refer: 45 118 N 1 0 0 1 0 0 2
-Layer: 2
-Layer: 3
 EndChar

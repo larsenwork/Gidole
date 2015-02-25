@@ -1,5 +1,5 @@
 StartChar: y
-Encoding: 121 121 70
+Encoding: 121 121 69
 GlifName: y
 Width: 432
 Flags: W
@@ -8,21 +8,18 @@ AnchorPoint: "Apos" -36 0 basechar 0
 AnchorPoint: "Top" 204 478 basechar 0
 AnchorPoint: "Center" -46 0 basechar 0
 AnchorPoint: "Bottom" -46 0 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
-15 478 m 5
- 89 478 l 5
- 218 82 l 5
- 342 478 l 5
- 414 478 l 5
- 193 -183 l 5
- 120 -183 l 5
- 182 -3 l 5
- 15 478 l 5
+15 478 m 1
+ 89 478 l 1
+ 218 82 l 1
+ 342 478 l 1
+ 414 478 l 1
+ 193 -183 l 1
+ 120 -183 l 1
+ 182 -3 l 1
+ 15 478 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

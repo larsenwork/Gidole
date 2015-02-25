@@ -1,37 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kappa" format="1">
-  <advance width="570"/>
+  <advance width="565"/>
   <unicode hex="039A"/>
   <outline>
-    <contour>
-      <point x="0" y="0" type="move" name="DoubleTop"/>
-    </contour>
-    <contour>
-      <point x="0" y="0" type="move" name="Apos"/>
-    </contour>
-    <contour>
-      <point x="-5" y="0" type="move" name="Top"/>
-    </contour>
-    <contour>
-      <point x="-5" y="0" type="move" name="Center"/>
-    </contour>
-    <contour>
-      <point x="285" y="0" type="move" name="Bottom"/>
-    </contour>
-    <contour>
-      <point x="525" y="0" type="line"/>
-      <point x="436" y="0" type="line"/>
-      <point x="222" y="295" type="line"/>
-      <point x="149" y="192" type="line"/>
-      <point x="149" y="0" type="line"/>
-      <point x="75" y="0" type="line"/>
-      <point x="75" y="666" type="line"/>
-      <point x="149" y="666" type="line"/>
-      <point x="149" y="294" type="line"/>
-      <point x="418" y="666" type="line"/>
-      <point x="505" y="666" type="line"/>
-      <point x="273" y="347" type="line"/>
-    </contour>
+    <component base="K"/>
   </outline>
   <lib>
     <dict>

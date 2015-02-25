@@ -1,24 +1,21 @@
 StartChar: Delta
-Encoding: 8710 8710 428
+Encoding: 8710 8710 425
 GlifName: D_elta
 Width: 649
 Flags: W
 HStem: 0 68<136 514> 646 20G<285.252 364.718>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
 35 0 m 1
- 293 666 l 5
- 357 666 l 5
+ 293 666 l 1
+ 357 666 l 1
  614 0 l 1
  35 0 l 1
 514 68 m 1
- 325 572 l 5
+ 325 572 l 1
  136 68 l 1
  514 68 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

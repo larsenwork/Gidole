@@ -1,14 +1,12 @@
 StartChar: Sigma
-Encoding: 931 931 476
+Encoding: 931 931 473
 GlifName: S_igma
 Width: 510
 VWidth: 0
 Flags: W
 HStem: 0 70<147 450> 596 70<147 449>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 370 425 N 1 0 0 1 0 0 2
-Layer: 2
-Layer: 3
+Refer: 369 425 N 1 0 0 1 0 0 2
 EndChar

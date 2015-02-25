@@ -1,25 +1,22 @@
 StartChar: equal
-Encoding: 61 61 83
+Encoding: 61 61 82
 GlifName: equal
 Width: 520
 Flags: W
 HStem: 153 58<80 440> 289 58<80 440>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
-80 347 m 5
- 440 347 l 5
- 440 289 l 5
- 80 289 l 5
- 80 347 l 5
-80 211 m 5
- 440 211 l 5
- 440 153 l 5
- 80 153 l 5
- 80 211 l 5
+80 347 m 1
+ 440 347 l 1
+ 440 289 l 1
+ 80 289 l 1
+ 80 347 l 1
+80 211 m 1
+ 440 211 l 1
+ 440 153 l 1
+ 80 153 l 1
+ 80 211 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

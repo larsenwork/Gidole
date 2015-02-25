@@ -1,5 +1,5 @@
 StartChar: oslash
-Encoding: 248 248 124
+Encoding: 248 248 123
 GlifName: oslash
 Width: 490
 VWidth: 0
@@ -11,7 +11,7 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Bottom" 5 0 basechar 0
 AnchorPoint: "Center" 5 0 basechar 0
 AnchorPoint: "Top" 250 546 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -43,7 +43,4 @@ SplineSet
  171 82 l 1
  190 68 216 60 245 60 c 0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

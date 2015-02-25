@@ -1,17 +1,14 @@
 StartChar: iotatonos
-Encoding: 943 943 500
+Encoding: 943 943 497
 GlifName: iotatonos
 Width: 200
 VWidth: 0
 Flags: W
 HStem: 0 21G<65 135> 546 120<98 129>
 VStem: 63 113 65 70<0 478>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 494 900 N 1 0 0 1 13 0 2
-Refer: 499 953 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 491 900 N 1 0 0 1 13 0 2
+Refer: 496 953 N 1 0 0 1 0 0 3
 EndChar

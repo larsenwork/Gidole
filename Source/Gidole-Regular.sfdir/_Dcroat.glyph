@@ -1,15 +1,13 @@
 StartChar: Dcroat
-Encoding: 272 272 371
+Encoding: 272 272 370
 GlifName: D_croat
 Width: 612
 VWidth: 0
 Flags: W
 HStem: 0 70<201 387.495> 308 70<55 127 201 319> 596 70<201 387.495>
 VStem: 127 74<70 308 378 596> 473 74<153.163 512.837>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 360 208 N 1 0 0 1 0 0 2
-Layer: 2
-Layer: 3
+Refer: 359 208 N 1 0 0 1 0 0 2
 EndChar

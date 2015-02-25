@@ -1,5 +1,5 @@
 StartChar: h
-Encoding: 104 104 56
+Encoding: 104 104 55
 GlifName: h
 Width: 470
 VWidth: 0
@@ -11,7 +11,7 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" -10 0 basechar 0
 AnchorPoint: "Bottom" 245 0 basechar 0
 AnchorPoint: "Top" 100 666 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -32,7 +32,4 @@ SplineSet
  65 0 l 1
  65 666 l 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,17 +1,14 @@
 StartChar: Ibreve
-Encoding: 300 300 240
+Encoding: 300 300 239
 GlifName: I_breve
 Width: 224
 VWidth: 0
 Flags: W
-HStem: 0 21G<75 149> 646 20G<75 149> 728 52<59.6502 166.346> 834 20G<-11.002 44.998 180.998 236.998>
-VStem: -11.002 56<793.434 854> 75 74<0 666> 180.998 56<793.434 854>
-LayerCount: 4
+HStem: 0 21G<75 149> 646 20G<75 149> 728 52<59.6522 166.348> 834 20G<-11 45 181 237>
+VStem: -11 56<793.582 854> 75 74<0 666> 181 56<793.582 854>
+LayerCount: 2
 Back
 Fore
-Refer: 194 728 N 1 0 0 1 -61.002 188 2
+Refer: 193 728 N 1 0 0 1 -61 188 2
 Refer: 21 73 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

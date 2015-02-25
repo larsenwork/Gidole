@@ -1,5 +1,5 @@
 StartChar: uni018F
-Encoding: 399 399 395
+Encoding: 399 399 394
 GlifName: uni018F_
 Width: 580
 Flags: W
@@ -10,7 +10,7 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 0 0 basechar 0
 AnchorPoint: "Bottom" 290 0 basechar 0
 AnchorPoint: "Top" 290 667 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -37,7 +37,4 @@ SplineSet
  113 614 l 1
  163 654 229 672 290 672 c 0
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar

@@ -1,17 +1,14 @@
 StartChar: uni0219
-Encoding: 537 537 317
+Encoding: 537 537 316
 GlifName: uni0219
 Width: 408
 VWidth: 0
 Flags: W
 HStem: -229 166<180.688 199> -6 66<84.0702 272.756> 418 66<134.477 304.139>
 VStem: 40 70<308.291 398.944> 152 94<-147.943 -69.851> 298 70<82.753 178.654>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
-Refer: 439 806 N 1 0 0 1 102 0 2
-Refer: 48 115 N 1 0 0 1 0 0 3
-Validated: 1
-Layer: 2
-Layer: 3
+Refer: 436 806 N 1 0 0 1 102 0 2
+Refer: 47 115 N 1 0 0 1 0 0 3
 EndChar

@@ -1,5 +1,5 @@
 StartChar: s
-Encoding: 115 115 48
+Encoding: 115 115 47
 GlifName: s
 Width: 408
 VWidth: 0
@@ -11,7 +11,7 @@ AnchorPoint: "Apos" -3 0 basechar 0
 AnchorPoint: "Center" -11 0 basechar 0
 AnchorPoint: "Bottom" 199 0 basechar 0
 AnchorPoint: "Top" 199 478 basechar 0
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -39,7 +39,4 @@ SplineSet
  123 475 158 484 199 484 c 0
  250 484 300 472 345 451 c 1
 EndSplineSet
-Validated: 1
-Layer: 2
-Layer: 3
 EndChar
