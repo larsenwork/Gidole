@@ -1,0 +1,20 @@
+StartChar: less
+Encoding: 60 60 12
+Width: 600
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+300 600 m 5
+ 445 600 506 600 553 553 c 5
+ 600 506 600 445 600 300 c 5
+ 600 155 600 94 553 47 c 5
+ 506 0 445 0 300 0 c 5
+ 155 0 94 0 47 47 c 5
+ 0 94 0 155 0 300 c 5
+ 0 445 0 506 47 553 c 4
+ 94 600 155 600 300 600 c 5
+EndSplineSet
+EndChar

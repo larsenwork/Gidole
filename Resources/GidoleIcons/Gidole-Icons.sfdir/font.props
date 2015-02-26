@@ -1,0 +1,52 @@
+SplineFontDB: 3.0
+FontName: Gidole-Icons
+FullName: Gidole Icons
+FamilyName: Gidole
+Weight: Regular
+Copyright: Copyright (c) 2015, Andreas Larsen
+UComments: "2015-2-26: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: 0
+UnderlineWidth: 0
+Ascent: 600
+Descent: 0
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 365 -928128380 8987614]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1424934057
+ModificationTime: 1424951312
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 54
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2CapHeight: 0
+OS2XHeight: 0
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "The MIT License (MIT)+AAoACgAA-Copyright (c) 2015 Andreas Larsen+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of this software and associated documentation files (the +ACIA-Software+ACIA), to deal+AAoA-in the Software without restriction, including without limitation the rights+AAoA-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell+AAoA-copies of the Software, and to permit persons to whom the Software is+AAoA-furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright notice and this permission notice shall be included in+AAoA-all copies or substantial portions of the Software.+AAoACgAA-THE SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR+AAoA-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE+AAoA-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER+AAoA-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,+AAoA-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN+AAoA-THE SOFTWARE."
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -96
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 28 7 6
+BeginPrivate: 0
+EndPrivate
+EndSplineFont
