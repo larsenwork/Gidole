@@ -1,0 +1,28 @@
+StartChar: four.sup
+Encoding: 1114116 -1 496
+Width: 720
+Flags: W
+HStem: 0 21G<441 573> 165 118<242 441 573 637>
+VStem: 441 132<0 165 283 447>
+LayerCount: 2
+Back
+Fore
+SplineSet
+637 283 m 5
+ 637 165 l 5
+ 573 165 l 5
+ 573 0 l 5
+ 441 0 l 5
+ 441 165 l 5
+ 84 165 l 5
+ 84 248 l 5
+ 344 754 l 5
+ 484 754 l 5
+ 242 283 l 5
+ 441 283 l 5
+ 441 447 l 5
+ 573 447 l 5
+ 573 283 l 5
+ 637 283 l 5
+EndSplineSet
+EndChar

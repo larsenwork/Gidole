@@ -1,0 +1,23 @@
+StartChar: arrowleft
+Encoding: 8592 8592 411
+GlifName: arrowleft
+Width: 1140
+Flags: W
+HStem: 474 134<292 1060>
+LayerCount: 2
+Back
+Fore
+SplineSet
+614 100 m 1
+ 508 8 l 1
+ 80 500 l 1
+ 80 582 l 1
+ 508 1074 l 1
+ 614 982 l 1
+ 292 608 l 1
+ 1060 608 l 5
+ 1060 474 l 5
+ 292 474 l 1
+ 614 100 l 1
+EndSplineSet
+EndChar
