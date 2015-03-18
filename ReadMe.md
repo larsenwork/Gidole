@@ -1,4 +1,4 @@
-Please don't hesitate to contact me with questions etc. 
+Please don't hesitate to contact me.
 
 I don't use UFO format so they may be outdated - let me know if you want an update.
 
