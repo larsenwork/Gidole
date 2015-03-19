@@ -1,0 +1,43 @@
+StartChar: epsilon
+Encoding: 949 949 453
+GlifName: epsilon
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -12 135<313.392 729.449> 434 135<307.281 635> 856 135<314.586 731.717>
+VStem: 113 143<173.687 383.229 613.935 806.399>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Bottom" 461 0 basechar 0
+AnchorPoint: "Top" 461 979 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+461 -12 m 0
+ 361 -12 282 10 221 59 c 0
+ 153 112 113 191 113 279 c 0
+ 113 375 162 453 244 500 c 1
+ 164 543 117 617 117 709 c 0
+ 117 797 160 875 223 922 c 0
+ 286 971 365 991 461 991 c 0
+ 561 991 662 975 758 946 c 1
+ 723 815 l 1
+ 637 842 549 856 461 856 c 0
+ 436 856 370 856 319 821 c 0
+ 288 801 260 762 260 709 c 0
+ 260 664 280 625 319 600 c 0
+ 366 569 436 569 563 569 c 2
+ 635 569 l 1
+ 635 434 l 1
+ 565 434 l 2
+ 436 434 362 434 309 391 c 0
+ 272 362 256 320 256 279 c 0
+ 256 228 280 187 317 160 c 0
+ 354 133 406 123 461 123 c 0
+ 551 123 643 141 731 172 c 1
+ 774 43 l 1
+ 672 6 563 -12 461 -12 c 0
+EndSplineSet
+EndChar

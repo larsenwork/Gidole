@@ -1,0 +1,14 @@
+StartChar: iotatonos
+Encoding: 943 943 460
+GlifName: iotatonos
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<140 290> 1220 274<156 230>
+VStem: 104 222 140 150<0 1082>
+LayerCount: 2
+Back
+Fore
+Refer: 454 900 N 1 0 0 1 -8 -2 2
+Refer: 459 953 N 1 0 0 1 0 0 3
+EndChar

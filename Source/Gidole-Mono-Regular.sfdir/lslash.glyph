@@ -1,0 +1,20 @@
+StartChar: lslash
+Encoding: 322 322 363
+GlifName: lslash
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<253 403>
+VStem: 45 566 253 150<0 1496>
+LayerCount: 2
+Back
+Fore
+SplineSet
+117 542 m 1xc0
+ 45 646 l 1
+ 539 990 l 1
+ 611 886 l 1
+ 117 542 l 1xc0
+EndSplineSet
+Refer: 50 108 S 1 0 0 1 113 0 2
+EndChar

@@ -1,0 +1,14 @@
+StartChar: rcaron
+Encoding: 345 345 271
+GlifName: rcaron
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<140 290> 964 134<382.903 618.521> 1222 274
+VStem: 140 150<0 865.757 971 1082> 174 622
+LayerCount: 2
+Back
+Fore
+Refer: 197 711 N 1 0 0 1 74 0 2
+Refer: 61 114 N 1 0 0 1 0 0 3
+EndChar

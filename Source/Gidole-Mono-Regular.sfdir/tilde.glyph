@@ -1,0 +1,23 @@
+StartChar: tilde
+Encoding: 732 732 182
+GlifName: tilde
+Width: 1140
+Flags: W
+HStem: 1224 124<420.899 569.017> 1304 124<245.203 393.101>
+VStem: 100 614
+AnchorPoint: "Top" 407 1082 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+230 1228 m 1x60
+ 100 1270 l 1
+ 123 1349 193 1428 298 1428 c 0x60
+ 408 1428 463 1348 516 1348 c 0
+ 550 1348 573 1390 584 1424 c 1
+ 714 1382 l 1
+ 691 1302 621 1224 516 1224 c 0xa0
+ 406 1224 351 1304 298 1304 c 0
+ 264 1304 242 1263 230 1228 c 1x60
+EndSplineSet
+EndChar

@@ -1,0 +1,11 @@
+StartChar: guilsinglright
+Encoding: 8250 8250 188
+GlifName: guilsinglright
+Width: 1140
+Flags: W
+VStem: 100 370
+LayerCount: 2
+Back
+Fore
+Refer: 187 8249 S -1 0 0 1 570 0 2
+EndChar

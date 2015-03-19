@@ -1,0 +1,19 @@
+StartChar: Eth
+Encoding: 208 208 345
+GlifName: E_th
+Width: 1140
+Flags: W
+HStem: 0 140<368 744.909> 652 140<56.123 612> 1276 140<368 744.909>
+VStem: 212 156<140 1276> 962 157<367.155 1048.83>
+LayerCount: 2
+Back
+Fore
+SplineSet
+56 652 m 5
+ 56.123046875 792 l 5
+ 612 792 l 5
+ 612 652 l 5
+ 56 652 l 5
+EndSplineSet
+Refer: 17 68 S 1 0 0 1 56 0 2
+EndChar

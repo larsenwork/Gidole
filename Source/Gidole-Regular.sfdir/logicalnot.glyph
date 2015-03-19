@@ -1,20 +1,20 @@
 StartChar: logicalnot
-Encoding: 172 172 421
+Encoding: 172 172 388
 GlifName: logicalnot
-Width: 520
+Width: 900
 Flags: W
-HStem: 221 58<80 380>
-VStem: 380 60<70 221>
+HStem: 474 134<100 650>
+VStem: 650 150<200 474>
 LayerCount: 2
 Back
 Fore
 SplineSet
-80 279 m 1
- 440 280 l 1
- 440 70 l 1
- 380 70 l 1
- 380 221 l 1
- 80 221 l 1
- 80 279 l 1
+100 608 m 1
+ 800 608 l 1
+ 800 200 l 1
+ 650 200 l 1
+ 650 474 l 1
+ 100 474 l 1
+ 100 608 l 1
 EndSplineSet
 EndChar

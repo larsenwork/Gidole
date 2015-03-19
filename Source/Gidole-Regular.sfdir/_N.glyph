@@ -1,30 +1,30 @@
 StartChar: N
 Encoding: 78 78 33
 GlifName: N_
-Width: 590
+Width: 1246
 VWidth: 0
 Flags: W
-HStem: 0 21G<75 149 438.401 515> 646 20G<75 151.599 441 515>
-VStem: 75 74<0 519> 441 74<147 666>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Center" -3 0 basechar 0
-AnchorPoint: "Bottom" 297 0 basechar 0
-AnchorPoint: "Top" 295 666 basechar 0
+HStem: 0 21G<156 312 922.067 1090>
+VStem: 156 156<0 1136> 934 156<280 1416>
+AnchorPoint: "DoubleTop" -6 0 basechar 0
+AnchorPoint: "Apos" -6 0 basechar 0
+AnchorPoint: "Center" -12 0 basechar 0
+AnchorPoint: "Bottom" 623 0 basechar 0
+AnchorPoint: "Top" 623 1416 basechar 0
 LayerCount: 2
 Back
 Fore
 SplineSet
-75 666 m 1
- 140 666 l 1
- 441 147 l 1
- 441 666 l 1
- 515 666 l 1
- 515 0 l 1
- 450 0 l 1
- 149 519 l 1
- 149 0 l 1
- 75 0 l 1
- 75 666 l 1
+934 1416 m 5
+ 1090 1416 l 5
+ 1090 0 l 5
+ 933 0 l 5
+ 312 1136 l 5
+ 312 0 l 5
+ 156 0 l 5
+ 156 1416 l 5
+ 313 1416 l 5
+ 934 280 l 5
+ 934 1416 l 5
 EndSplineSet
 EndChar

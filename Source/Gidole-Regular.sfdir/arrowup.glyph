@@ -1,23 +1,23 @@
 StartChar: arrowup
-Encoding: 8593 8593 445
+Encoding: 8593 8593 412
 GlifName: arrowup
-Width: 414
+Width: 1186
 Flags: W
-VStem: 177 60<50 360>
+VStem: 518 150<50 826>
 LayerCount: 2
 Back
 Fore
 SplineSet
-185 450 m 1
- 229 450 l 1
- 351 328 l 1
- 307 288 l 1
- 237 360 l 1
- 237 50 l 1
- 177 50 l 1
- 177 360 l 1
- 107 288 l 1
- 63 328 l 1
- 185 450 l 1
+152 509 m 5
+ 60 615 l 5
+ 541 1032 l 5
+ 645 1032 l 5
+ 1126 615 l 5
+ 1034 509 l 5
+ 668 826 l 5
+ 668 50 l 5
+ 518 50 l 5
+ 518 826 l 5
+ 152 509 l 5
 EndSplineSet
 EndChar

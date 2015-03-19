@@ -1,0 +1,25 @@
+StartChar: X
+Encoding: 88 88 36
+GlifName: X_
+Width: 1140
+Flags: W
+HStem: 0 21G<66 251.769 874.231 1060>
+LayerCount: 2
+Back
+Fore
+SplineSet
+81 1416 m 5
+ 256 1416 l 1
+ 563 846 l 1
+ 870 1416 l 1
+ 1045 1416 l 1
+ 651 722 l 1
+ 1060 0 l 1
+ 885 0 l 1
+ 563 598 l 1
+ 241 0 l 1
+ 66 0 l 1
+ 475 722 l 1
+ 81 1416 l 5
+EndSplineSet
+EndChar

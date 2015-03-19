@@ -1,28 +1,13 @@
 StartChar: product
-Encoding: 8719 8719 441
+Encoding: 8719 8719 408
 GlifName: product
-Width: 590
+Width: 1232
 VWidth: 0
 Flags: W
-HStem: 0 21G<75 149 441 515> 596 70<149 441>
-VStem: 75 74<0 596> 441 74<0 596>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Center" -5 0 basechar 0
-AnchorPoint: "Bottom" 295 0 basechar 0
-AnchorPoint: "Top" 295 667 basechar 0
+HStem: 0 21G<156 312 920 1076> 1276 140<312 920>
+VStem: 156 156<0 1276> 920 156<0 1276>
 LayerCount: 2
 Back
 Fore
-SplineSet
-75 666 m 1
- 515 666 l 1
- 515 0 l 1
- 441 0 l 1
- 441 596 l 1
- 149 596 l 1
- 149 0 l 1
- 75 0 l 1
- 75 666 l 1
-EndSplineSet
+Refer: 439 928 N 1 0 0 1 0 0 2
 EndChar

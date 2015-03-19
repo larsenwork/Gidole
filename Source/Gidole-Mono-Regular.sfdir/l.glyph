@@ -1,0 +1,24 @@
+StartChar: l
+Encoding: 108 108 50
+GlifName: l
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<140 290>
+VStem: 140 150<0 1496>
+AnchorPoint: "DoubleTop" 22 0 basechar 0
+AnchorPoint: "Center" 290 722 basechar 0
+AnchorPoint: "Apos" 389 1496 basechar 0
+AnchorPoint: "Bottom" 215 0 basechar 0
+AnchorPoint: "Top" 215 1456 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+290 0 m 5
+ 140 0 l 5
+ 140 1496 l 5
+ 290 1496 l 5
+ 290 0 l 5
+EndSplineSet
+EndChar

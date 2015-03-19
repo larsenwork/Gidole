@@ -1,0 +1,26 @@
+StartChar: plus
+Encoding: 43 43 83
+GlifName: plus
+Width: 1140
+Flags: W
+HStem: 474 134<120 455 605 940>
+VStem: 455 150<131 474 608 951>
+LayerCount: 2
+Back
+Fore
+SplineSet
+120 474 m 5
+ 120 608 l 5
+ 455 608 l 5
+ 455 951 l 5
+ 605 951 l 5
+ 605 608 l 5
+ 940 608 l 5
+ 940 474 l 5
+ 605 474 l 5
+ 605 131 l 5
+ 455 131 l 5
+ 455 474 l 5
+ 120 474 l 5
+EndSplineSet
+EndChar

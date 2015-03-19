@@ -1,0 +1,25 @@
+StartChar: lessequal
+Encoding: 8804 8804 117
+GlifName: lessequal
+Width: 1140
+Flags: W
+HStem: 264 134<140 840>
+LayerCount: 2
+Back
+Fore
+SplineSet
+785 1144 m 5
+ 837 1018 l 5
+ 329 811 l 5
+ 837 604 l 5
+ 785 478 l 5
+ 140 750 l 5
+ 140 872 l 5
+ 785 1144 l 5
+140 398 m 5
+ 840 398 l 5
+ 840 264 l 5
+ 140 264 l 5
+ 140 398 l 5
+EndSplineSet
+EndChar

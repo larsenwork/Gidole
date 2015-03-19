@@ -1,0 +1,36 @@
+StartChar: o
+Encoding: 111 111 52
+GlifName: o
+Width: 1140
+Flags: W
+HStem: -16 134<365.875 684.125> 964 134<365.875 684.125>
+VStem: 100 150<243.661 838.339> 800 150<243.661 838.339>
+AnchorPoint: "DoubleTop" -45 0 basechar 0
+AnchorPoint: "Apos" -45 0 basechar 0
+AnchorPoint: "Center" -45 0 basechar 0
+AnchorPoint: "Bottom" 525 0 basechar 0
+AnchorPoint: "Top" 525 1082 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+525 964 m 4
+ 436 964 367 932 326 885 c 4
+ 250 798 250 669 250 541 c 4
+ 250 413 250 284 326 197 c 4
+ 367 150 436 118 525 118 c 4
+ 614 118 683 150 724 197 c 4
+ 800 284 800 413 800 541 c 4
+ 800 669 800 798 724 885 c 4
+ 683 932 614 964 525 964 c 4
+525 1098 m 4
+ 662 1098 772 1045 838 972 c 4
+ 950 848 950 688 950 541 c 4
+ 950 394 950 234 838 110 c 4
+ 772 37 662 -16 525 -16 c 4
+ 388 -16 278 37 212 110 c 4
+ 100 234 100 394 100 541 c 4
+ 100 688 100 848 212 972 c 4
+ 278 1045 388 1098 525 1098 c 4
+EndSplineSet
+EndChar

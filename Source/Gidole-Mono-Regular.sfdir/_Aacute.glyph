@@ -1,0 +1,14 @@
+StartChar: Aacute
+Encoding: 193 193 175
+GlifName: A_acute
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<30 199.491 970.509 1140> 342 140<350 820> 1556 274<648 652>
+VStem: 494 323
+LayerCount: 2
+Back
+Fore
+Refer: 478 714 N 1 0 0 1 394 334 2
+Refer: 13 65 N 1 0 0 1 0 0 3
+EndChar

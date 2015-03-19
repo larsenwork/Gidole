@@ -1,0 +1,25 @@
+StartChar: y
+Encoding: 121 121 69
+GlifName: y
+Width: 1140
+Flags: W
+AnchorPoint: "DoubleTop" -74 0 basechar 0
+AnchorPoint: "Apos" -74 0 basechar 0
+AnchorPoint: "Top" 474 1082 basechar 0
+AnchorPoint: "Center" -94 0 basechar 0
+AnchorPoint: "Bottom" -94 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+452 -414 m 1
+ 307 -414 l 1
+ 432 -2 l 1
+ 40 1082 l 1
+ 197 1082 l 1
+ 500 194 l 1
+ 752 1082 l 1
+ 907 1082 l 1
+ 452 -414 l 1
+EndSplineSet
+EndChar

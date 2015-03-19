@@ -1,0 +1,26 @@
+StartChar: exclam
+Encoding: 33 33 81
+GlifName: exclam
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -16 220<119.109 300.891>
+VStem: 100 220<3.10925 184.891> 132 156<557.098 1416>
+LayerCount: 2
+Back
+Fore
+SplineSet
+210 204 m 4xc0
+ 275 204 320 159 320 94 c 4
+ 320 29 275 -16 210 -16 c 4
+ 145 -16 100 29 100 94 c 4
+ 100 159 145 204 210 204 c 4xc0
+132 1416 m 5xa0
+ 288 1416 l 5
+ 288 1051 l 6
+ 288 812 268 388 268 388 c 5
+ 152 388 l 5
+ 152 388 132 810 132 1051 c 6
+ 132 1416 l 5xa0
+EndSplineSet
+EndChar

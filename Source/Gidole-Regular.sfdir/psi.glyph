@@ -1,18 +1,18 @@
 StartChar: psi
-Encoding: 968 968 562
+Encoding: 968 968 488
 GlifName: psi
-Width: 431
+Width: 881
 Flags: W
-HStem: 126 260<73 315>
-VStem: 73 242<126 386>
+HStem: 258 533<150 645>
+VStem: 150 495<258 791>
 LayerCount: 2
 Back
 Fore
 SplineSet
-73 386 m 1
- 315 386 l 1
- 315 126 l 1
- 73 126 l 1
- 73 386 l 1
+150 791 m 1
+ 645 791 l 1
+ 645 258 l 1
+ 150 258 l 1
+ 150 791 l 1
 EndSplineSet
 EndChar

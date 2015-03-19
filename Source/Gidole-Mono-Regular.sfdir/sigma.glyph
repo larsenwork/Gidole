@@ -1,0 +1,19 @@
+StartChar: sigma
+Encoding: 963 963 449
+GlifName: sigma
+Width: 1140
+Flags: W
+HStem: -16 134<365.875 684.125> 948 134<690 1000> 964 134<365.875 684.125>
+VStem: 100 150<243.661 838.339> 800 150<243.661 838.339>
+LayerCount: 2
+Back
+Fore
+SplineSet
+1000 1082 m 5xd8
+ 1000 948 l 5
+ 690 948 l 5
+ 540 1082 l 5
+ 1000 1082 l 5xd8
+EndSplineSet
+Refer: 52 111 N 1 0 0 1 0 0 2
+EndChar

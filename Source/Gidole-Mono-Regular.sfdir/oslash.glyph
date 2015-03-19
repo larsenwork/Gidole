@@ -1,0 +1,46 @@
+StartChar: oslash
+Encoding: 248 248 123
+GlifName: oslash
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -16 134<381.56 694.125> 964 134<375.875 688.44>
+VStem: 110 150<278.896 838.339> 810 150<243.661 803.104>
+AnchorPoint: "DoubleTop" 10 0 basechar 0
+AnchorPoint: "Apos" 10 0 basechar 0
+AnchorPoint: "Bottom" 20 0 basechar 0
+AnchorPoint: "Center" 20 0 basechar 0
+AnchorPoint: "Top" 535 1082 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+535 964 m 4
+ 446 964 377 932 336 885 c 4
+ 260 798 260 669 260 541 c 4
+ 260 447 260 353 290 275 c 5
+ 691 922 l 5
+ 651 948 598 964 535 964 c 4
+208 -116 m 5
+ 92 -44 l 5
+ 202 134 l 5
+ 110 254 110 403 110 541 c 4
+ 110 688 110 848 222 972 c 4
+ 288 1045 398 1098 535 1098 c 4
+ 624 1098 702 1075 764 1039 c 5
+ 862 1198 l 5
+ 978 1126 l 5
+ 868 948 l 5
+ 960 828 960 679 960 541 c 4
+ 960 394 960 234 848 110 c 4
+ 782 37 672 -16 535 -16 c 4
+ 446 -16 368 7 306 43 c 5
+ 208 -116 l 5
+379 160 m 5
+ 419 134 472 118 535 118 c 4
+ 624 118 693 150 734 197 c 4
+ 810 284 810 413 810 541 c 4
+ 810 635 810 729 780 807 c 5
+ 379 160 l 5
+EndSplineSet
+EndChar

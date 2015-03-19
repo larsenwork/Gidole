@@ -1,0 +1,15 @@
+StartChar: uni0162
+Encoding: 354 354 280
+GlifName: uni0162
+Width: 1140
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -430 124<405.157 517.263> -20 20G<482.348 612> 0 21G<472 628> 1277 140<86 472 628 1014>
+VStem: 472 156<0 1277> 524 140<-299.532 -152.623>
+LayerCount: 2
+Back
+Fore
+Refer: 189 184 N 1 0 0 1 280 0 2
+Refer: 29 84 N 1 0 0 1 0 0 3
+EndChar

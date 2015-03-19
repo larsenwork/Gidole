@@ -1,0 +1,14 @@
+StartChar: nacute
+Encoding: 324 324 255
+GlifName: nacute
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<140 290 780 930> 964 134<387.919 686.233> 1222 274<618 622>
+VStem: 140 150<0 864.073 970 1082> 464 323 780 150<0 867.577>
+LayerCount: 2
+Back
+Fore
+Refer: 478 714 N 1 0 0 1 364 0 2
+Refer: 57 110 N 1 0 0 1 0 0 3
+EndChar

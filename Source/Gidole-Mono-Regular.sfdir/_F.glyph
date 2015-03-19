@@ -1,0 +1,24 @@
+StartChar: F
+Encoding: 70 70 19
+GlifName: F_
+Width: 1140
+Flags: W
+HStem: 0 21G<156 312> 652 140<312 836> 1276 140<312 916>
+VStem: 156 156<0 652 792 1276>
+LayerCount: 2
+Back
+Fore
+SplineSet
+156 1416 m 1
+ 916 1416 l 1
+ 916 1276 l 1
+ 312 1276 l 1
+ 312 792 l 5
+ 836 792 l 5
+ 836 652 l 5
+ 312 652 l 5
+ 312 0 l 1
+ 156 0 l 1
+ 156 1416 l 1
+EndSplineSet
+EndChar

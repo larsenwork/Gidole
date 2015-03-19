@@ -1,0 +1,16 @@
+StartChar: fraction
+Encoding: 8260 8260 121
+GlifName: fraction
+Width: 1140
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+868 1352 m 5
+ 982 1280 l 5
+ 214 64 l 5
+ 100 136 l 5
+ 868 1352 l 5
+EndSplineSet
+EndChar

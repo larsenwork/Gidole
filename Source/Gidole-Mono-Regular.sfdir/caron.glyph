@@ -1,0 +1,13 @@
+StartChar: caron
+Encoding: 711 711 197
+GlifName: caron
+Width: 1140
+Flags: W
+HStem: 1222 274
+VStem: 100 622
+AnchorPoint: "Top" 411 1082 mark 0
+LayerCount: 2
+Back
+Fore
+Refer: 142 710 N -1 0 0 -1 822 2718 2
+EndChar

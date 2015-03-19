@@ -1,0 +1,37 @@
+StartChar: trademark
+Encoding: 8482 8482 125
+GlifName: trademark
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 1298 118<86 307 439 661>
+VStem: 307 132<662 1298> 788 132<662 1197> 1413 132<662 1197>
+LayerCount: 2
+Back
+Fore
+SplineSet
+86 1298 m 1
+ 86 1416 l 1
+ 661 1416 l 1
+ 661 1298 l 1
+ 439 1298 l 1
+ 439 662 l 1
+ 307 662 l 1
+ 307 1298 l 1
+ 86 1298 l 1
+1545 662 m 5
+ 1413 662 l 5
+ 1413 1197 l 5
+ 1225 871 l 5
+ 1109 871 l 5
+ 920 1197 l 5
+ 920 662 l 5
+ 788 662 l 5
+ 788 1416 l 5
+ 923 1416 l 5
+ 1167 1001 l 5
+ 1411 1416 l 5
+ 1545 1416 l 5
+ 1545 662 l 5
+EndSplineSet
+EndChar

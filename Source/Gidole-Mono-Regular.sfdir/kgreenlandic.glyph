@@ -1,0 +1,31 @@
+StartChar: kgreenlandic
+Encoding: 312 312 381
+GlifName: kgreenlandic
+Width: 1140
+Flags: W
+HStem: 0 21G<140 290 720.327 915>
+VStem: 140 150<0 287 489 1082>
+AnchorPoint: "Bottom" 469 0 basechar 0
+AnchorPoint: "Center" -16 0 basechar 0
+AnchorPoint: "Top" -16 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+140 1082 m 5
+ 290 1082 l 5
+ 290 489 l 5
+ 729 1082 l 5
+ 905 1082 l 5
+ 504 547 l 5
+ 915 0 l 5
+ 735 0 l 5
+ 410 443 l 5
+ 290 287 l 5
+ 290 0 l 5
+ 140 0 l 5
+ 140 1082 l 5
+EndSplineSet
+EndChar

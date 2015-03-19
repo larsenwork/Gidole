@@ -1,0 +1,14 @@
+StartChar: Udieresis
+Encoding: 220 220 139
+GlifName: U_dieresis
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -19 140<427.313 760.687> 1581 188<321.891 484.109 703.891 866.109>
+VStem: 136 156<267.371 1416> 309 188<1593.89 1756.11> 691 188<1593.89 1756.11> 896 156<267.371 1416>
+LayerCount: 2
+Back
+Fore
+Refer: 130 168 N 1 0 0 1 209 334 2
+Refer: 24 85 N 1 0 0 1 0 0 3
+EndChar

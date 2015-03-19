@@ -1,0 +1,29 @@
+StartChar: J
+Encoding: 74 74 22
+GlifName: J_
+Width: 1140
+Flags: W
+HStem: -19 140<230.15 546.621>
+VStem: 632 156<206.37 1416>
+AnchorPoint: "DoubleTop" 2 0 basechar 0
+AnchorPoint: "Apos" 2 0 basechar 0
+AnchorPoint: "Center" 2 0 basechar 0
+AnchorPoint: "Bottom" 385 0 basechar 0
+AnchorPoint: "Top" 710 1416 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+632 1416 m 1
+ 788 1416 l 1
+ 788 434 l 2
+ 788 320 788 217 706 115 c 0
+ 643 37 537 -19 405 -19 c 0
+ 275 -19 153 33 66 94 c 1
+ 146 214 l 1
+ 209 169 308 121 405 121 c 0
+ 481 121 540 149 580 197 c 0
+ 632 260 632 337 632 434 c 2
+ 632 1416 l 1
+EndSplineSet
+EndChar

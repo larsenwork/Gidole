@@ -1,0 +1,12 @@
+StartChar: uni2010
+Encoding: 8208 8208 472
+GlifName: uni2010
+Width: 1140
+Flags: W
+HStem: 474 134<100 600>
+VStem: 100 500<474 608>
+LayerCount: 2
+Back
+Fore
+Refer: 80 45 S 1 0 0 1 0 0 2
+EndChar

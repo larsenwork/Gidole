@@ -1,0 +1,17 @@
+StartChar: slash
+Encoding: 47 47 72
+GlifName: slash
+Width: 1140
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+657 1416 m 5
+ 804 1416 l 5
+ 233 -90 l 5
+ 86 -90 l 5
+ 657 1416 l 5
+EndSplineSet
+EndChar

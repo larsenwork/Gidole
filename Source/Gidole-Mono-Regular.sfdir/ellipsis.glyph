@@ -1,0 +1,19 @@
+StartChar: ellipsis
+Encoding: 8230 8230 109
+GlifName: ellipsis
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -16 220<139.109 320.891 507.109 688.891 875.109 1056.89>
+VStem: 120 220<3.10925 184.891> 488 220<3.10925 184.891> 856 220<3.10925 184.891>
+CounterMasks: 1 70
+LayerCount: 2
+Back
+Fore
+SplineSet
+385 -252 m 1055,36,-1
+EndSplineSet
+Refer: 1 46 N 1 0 0 1 736 0 2
+Refer: 1 46 N 1 0 0 1 368 0 2
+Refer: 1 46 N 1 0 0 1 0 0 2
+EndChar

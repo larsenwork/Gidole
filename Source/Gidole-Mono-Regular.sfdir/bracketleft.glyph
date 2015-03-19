@@ -1,0 +1,23 @@
+StartChar: bracketleft
+Encoding: 91 91 71
+GlifName: bracketleft
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -456 124<296 488> 1414 124<296 488>
+VStem: 156 332<-456 -332 1414 1538> 156 140<-332 1414>
+LayerCount: 2
+Back
+Fore
+SplineSet
+156 1538 m 5xe0
+ 488 1538 l 5
+ 488 1414 l 5xe0
+ 296 1414 l 5
+ 296 -332 l 5xd0
+ 488 -332 l 5
+ 488 -456 l 5
+ 156 -456 l 5
+ 156 1538 l 5xe0
+EndSplineSet
+EndChar

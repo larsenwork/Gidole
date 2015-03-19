@@ -1,0 +1,20 @@
+StartChar: greater
+Encoding: 62 62 106
+GlifName: greater
+Width: 1140
+Flags: W
+VStem: 106 677
+LayerCount: 2
+Back
+Fore
+SplineSet
+783 597 m 5
+ 783 485 l 5
+ 175 131 l 5
+ 106 251 l 5
+ 616 541 l 5
+ 106 831 l 5
+ 175 951 l 5
+ 783 597 l 5
+EndSplineSet
+EndChar

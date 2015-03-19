@@ -1,0 +1,34 @@
+StartChar: D
+Encoding: 68 68 17
+GlifName: D_
+Width: 1140
+Flags: W
+HStem: 0 140<312 688.909> 1276 140<312 688.909>
+VStem: 156 156<140 1276> 906 157<367.155 1048.83>
+AnchorPoint: "DoubleTop" -10 0 basechar 0
+AnchorPoint: "Apos" -10 0 basechar 0
+AnchorPoint: "Center" -20 0 basechar 0
+AnchorPoint: "Bottom" 557 0 basechar 0
+AnchorPoint: "Top" 563 1416 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+384 1276 m 2
+ 312 1276 l 1
+ 312 140 l 1
+ 384 140 l 2
+ 529 140 690 140 796 262 c 0
+ 906 389 906 538 906 707 c 0
+ 906 878 906 1027 796 1154 c 0
+ 690 1276 529 1276 384 1276 c 2
+385 1416 m 2
+ 561 1416 763 1416 922 1237 c 0
+ 1063 1078 1063 864 1063 708 c 0
+ 1063 552 1063 338 922 179 c 0
+ 763 0 561 0 385 0 c 2
+ 156 0 l 1
+ 156 1416 l 5
+ 385 1416 l 2
+EndSplineSet
+EndChar

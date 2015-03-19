@@ -1,0 +1,14 @@
+StartChar: itilde
+Encoding: 297 297 236
+GlifName: itilde
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<140 290> 1224 124<228.899 377.017> 1304 124<53.203 201.101>
+VStem: -92 614 140 150<0 1082>
+LayerCount: 2
+Back
+Fore
+Refer: 182 732 N 1 0 0 1 -192 0 2
+Refer: 155 305 N 1 0 0 1 0 0 3
+EndChar

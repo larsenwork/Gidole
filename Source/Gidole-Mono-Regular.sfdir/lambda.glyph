@@ -1,0 +1,26 @@
+StartChar: lambda
+Encoding: 955 955 458
+GlifName: lambda
+Width: 1140
+Flags: W
+HStem: 0 21G<61 219.966 763.059 922>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Apos" 0 0 basechar 0
+AnchorPoint: "Top" 492 979 basechar 0
+AnchorPoint: "Center" -20 0 basechar 0
+AnchorPoint: "Bottom" -20 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+61 0 m 1
+ 416 979 l 1
+ 274 1364 l 1
+ 426 1364 l 1
+ 922 0 l 1
+ 770 0 l 1
+ 492 801 l 1
+ 213 0 l 1
+ 61 0 l 1
+EndSplineSet
+EndChar

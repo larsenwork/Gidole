@@ -1,0 +1,29 @@
+StartChar: four
+Encoding: 52 52 6
+GlifName: four
+Width: 1140
+Flags: W
+HStem: 0 21G<722 878> 350 140<289 722 878 998>
+VStem: 722 156<0 350 490 840>
+LayerCount: 2
+Back
+Fore
+SplineSet
+998 490 m 5
+ 998 350 l 5
+ 878 350 l 5
+ 878 0 l 5
+ 722 0 l 5
+ 722 350 l 5
+ 116 350 l 1
+ 116 451 l 1
+ 530 1416 l 1
+ 687 1416 l 1
+ 289 490 l 1
+ 722 490 l 5
+ 722 840 l 5
+ 878 840 l 5
+ 878 490 l 5
+ 998 490 l 5
+EndSplineSet
+EndChar

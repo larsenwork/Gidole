@@ -1,0 +1,15 @@
+StartChar: Idieresis
+Encoding: 207 207 134
+GlifName: I_dieresis
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<156 312> 1581 188<-38.109 124.109 343.891 506.109>
+VStem: -51 188<1593.89 1756.11> 156 156<0 1416> 331 188<1593.89 1756.11>
+CounterMasks: 1 38
+LayerCount: 2
+Back
+Fore
+Refer: 130 168 N 1 0 0 1 -151 334 2
+Refer: 21 73 N 1 0 0 1 0 0 3
+EndChar

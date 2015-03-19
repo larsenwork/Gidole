@@ -1,0 +1,26 @@
+StartChar: Iogonek
+Encoding: 302 302 360
+GlifName: I_ogonek
+Width: 1140
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -430 124<120.383 286.709>
+VStem: -14 124<-294.992 -112.457> 156 156<-20.9816 1416>
+LayerCount: 2
+Back
+Fore
+SplineSet
+156 1 m 5
+ 156 1416 l 5
+ 312 1416 l 5
+ 312 0 l 5
+ 233 -36 110 -114 110 -218 c 4
+ 110 -265 144 -306 191 -306 c 4
+ 222 -306 246 -291 267 -279 c 5
+ 330 -391 l 5
+ 287 -415 239 -430 190 -430 c 4
+ 79 -430 -14 -344 -14 -234 c 4
+ -14 -124 66 -47 156 1 c 5
+EndSplineSet
+EndChar

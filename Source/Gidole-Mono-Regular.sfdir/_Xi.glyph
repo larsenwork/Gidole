@@ -1,0 +1,33 @@
+StartChar: Xi
+Encoding: 926 926 442
+GlifName: X_i
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 140<126 863> 652 140<167 822> 1276 140<126 863>
+AnchorPoint: "DoubleTop" -27 0 basechar 0
+AnchorPoint: "Apos" -27 0 basechar 0
+AnchorPoint: "Center" -27 0 basechar 0
+AnchorPoint: "Bottom" 495 0 basechar 0
+AnchorPoint: "Top" 495 1364 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+167 792 m 1
+ 822 792 l 1
+ 822 652 l 1
+ 167 652 l 1
+ 167 792 l 1
+126 140 m 5
+ 863 140 l 5
+ 863 0 l 1
+ 126 0 l 1
+ 126 140 l 5
+126 1416 m 1
+ 863 1416 l 1
+ 863 1276 l 1
+ 126 1276 l 1
+ 126 1416 l 1
+EndSplineSet
+EndChar

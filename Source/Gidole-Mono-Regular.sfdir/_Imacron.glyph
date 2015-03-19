@@ -1,0 +1,14 @@
+StartChar: Imacron
+Encoding: 298 298 237
+GlifName: I_macron
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<156 312> 1586 134<-51 519>
+VStem: -51 570<1586 1720> 156 156<0 1416>
+LayerCount: 2
+Back
+Fore
+Refer: 421 713 N 1 0 0 1 -151 334 2
+Refer: 21 73 N 1 0 0 1 0 0 3
+EndChar

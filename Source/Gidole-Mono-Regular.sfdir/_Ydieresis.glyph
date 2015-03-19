@@ -1,0 +1,15 @@
+StartChar: Ydieresis
+Encoding: 376 376 132
+GlifName: Y_dieresis
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<453 609> 1581 188<258.891 421.109 640.891 803.109>
+VStem: 246 188<1593.89 1756.11> 453 156<0 506> 628 188<1593.89 1756.11>
+CounterMasks: 1 38
+LayerCount: 2
+Back
+Fore
+Refer: 130 168 N 1 0 0 1 146 334 2
+Refer: 37 89 N 1 0 0 1 0 0 3
+EndChar

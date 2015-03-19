@@ -1,21 +1,12 @@
 StartChar: quoteleft
 Encoding: 8216 8216 86
 GlifName: quoteleft
-Width: 202
+Width: 420
 Flags: W
-HStem: 449 217<104 119.27>
-VStem: 50 102<456.963 543.047>
+HStem: 992 424<215 254.609>
+VStem: 100 220<1011.11 1191.63>
 LayerCount: 2
 Back
 Fore
-SplineSet
-152 500 m 0
- 152 469 131 449 101 449 c 0
- 71 449 50 469 50 500 c 0
- 50 513 54 525 58 537 c 2
- 104 666 l 1
- 149 666 l 1
- 120 548 l 0
- 139 542 152 523 152 500 c 0
-EndSplineSet
+Refer: 85 8217 S -1 0 0 -1 420 2422 2
 EndChar

@@ -1,14 +1,14 @@
 StartChar: ccircumflex
 Encoding: 265 265 211
 GlifName: ccircumflex
-Width: 418
+Width: 930
 VWidth: 0
 Flags: W
-HStem: -6 66<162.014 323.717> 418 66<162.186 323.471> 546 120
-VStem: 45 70<109.501 368.989> 101 268
+HStem: -16 134<364.816 699.43> 964 134<365.045 690.051> 1222 274
+VStem: 100 150<243.538 837.921> 199 622
 LayerCount: 2
 Back
 Fore
-Refer: 142 710 N 1 0 0 1 51 0 2
+Refer: 142 710 N 1 0 0 1 99 0 2
 Refer: 53 99 N 1 0 0 1 0 0 3
 EndChar

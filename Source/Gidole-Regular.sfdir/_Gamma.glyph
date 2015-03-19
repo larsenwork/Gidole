@@ -1,21 +1,12 @@
 StartChar: Gamma
-Encoding: 915 915 461
+Encoding: 915 915 424
 GlifName: G_amma
-Width: 500
-VWidth: 0
+Width: 962
 Flags: W
-HStem: 0 21G<75 149> 596 70<149 445>
-VStem: 75 74<0 596>
+HStem: 1276 140<312 876>
+VStem: 156 156<0 1276>
 LayerCount: 2
 Back
 Fore
-SplineSet
-75 666 m 1
- 445 666 l 1
- 445 596 l 1
- 149 596 l 1
- 149 0 l 1
- 75 0 l 1
- 75 666 l 1
-EndSplineSet
+Refer: 23 76 S 1 0 0 -1 0 1416 2
 EndChar

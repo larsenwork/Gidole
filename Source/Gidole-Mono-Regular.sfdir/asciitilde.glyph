@@ -1,0 +1,23 @@
+StartChar: asciitilde
+Encoding: 126 126 179
+GlifName: asciitilde
+Width: 1140
+VWidth: 1000
+Flags: W
+HStem: 404 134<602.399 806.049> 544 134<267.951 471.601>
+VStem: 80 139<452.462 495.326> 855 139<586.674 629.538>
+LayerCount: 2
+Back
+Fore
+SplineSet
+356 678 m 4
+ 530 678 609 538 718 538 c 4
+ 779 538 832 591 855 669 c 5
+ 994 625 l 5
+ 959 506 860 404 718 404 c 4
+ 544 404 465 544 356 544 c 4
+ 295 544 242 491 219 413 c 5
+ 80 457 l 5
+ 115 576 214 678 356 678 c 4
+EndSplineSet
+EndChar

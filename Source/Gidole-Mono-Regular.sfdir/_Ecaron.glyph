@@ -1,0 +1,14 @@
+StartChar: Ecaron
+Encoding: 282 282 224
+GlifName: E_caron
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 140<312 936> 652 140<312 856> 1276 140<312 936> 1556 274
+VStem: 156 156<140 652 792 1276> 242 622
+LayerCount: 2
+Back
+Fore
+Refer: 197 711 N 1 0 0 1 142 334 2
+Refer: 18 69 N 1 0 0 1 0 0 3
+EndChar

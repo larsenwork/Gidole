@@ -1,0 +1,13 @@
+StartChar: quotedblright
+Encoding: 8221 8221 84
+GlifName: quotedblright
+Width: 1140
+Flags: W
+HStem: 1006 424<165.391 205 485.391 525>
+VStem: 100 220<1230.37 1410.89> 420 220<1230.37 1410.89>
+LayerCount: 2
+Back
+Fore
+Refer: 85 8217 N 1 0 0 1 320 0 2
+Refer: 85 8217 S 1 0 0 1 0 0 2
+EndChar

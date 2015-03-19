@@ -1,14 +1,14 @@
 StartChar: Dcaron
 Encoding: 270 270 216
 GlifName: D_caron
-Width: 560
+Width: 1179
 VWidth: 0
 Flags: W
-HStem: 0 70<149 335.495> 596 70<149 335.495> 734 120
-VStem: 75 74<70 596> 146 268 421 74<153.163 512.837>
+HStem: 0 140<312 688.909> 1276 140<312 688.909> 1556 274
+VStem: 156 156<140 1276> 252 622 906 157<367.155 1048.83>
 LayerCount: 2
 Back
 Fore
-Refer: 197 711 N 1 0 0 1 96 188 2
+Refer: 197 711 N 1 0 0 1 152 334 2
 Refer: 17 68 N 1 0 0 1 0 0 3
 EndChar

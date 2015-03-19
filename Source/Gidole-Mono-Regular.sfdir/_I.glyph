@@ -1,0 +1,24 @@
+StartChar: I
+Encoding: 73 73 21
+GlifName: I_
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<156 312>
+VStem: 156 156<0 1416>
+AnchorPoint: "DoubleTop" 6 0 basechar 0
+AnchorPoint: "Apos" 6 0 basechar 0
+AnchorPoint: "Center" -4 0 basechar 0
+AnchorPoint: "Bottom" 233 0 basechar 0
+AnchorPoint: "Top" 234 1416 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+312 1416 m 1
+ 312 0 l 1
+ 156 0 l 1
+ 156 1416 l 1
+ 312 1416 l 1
+EndSplineSet
+EndChar

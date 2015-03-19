@@ -1,0 +1,15 @@
+StartChar: Uogonek
+Encoding: 370 370 369
+GlifName: U_ogonek
+Width: 1140
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -430.003 124.002<537.273 703.75> -19 140<427.313 760.687>
+VStem: 136 156<267.371 1416> 403 123.999<-295.237 -112.379> 896 156<267.371 1416>
+LayerCount: 2
+Back
+Fore
+Refer: 371 731 S 1 0 0 1 303 0 2
+Refer: 24 85 N 1 0 0 1 0 0 3
+EndChar

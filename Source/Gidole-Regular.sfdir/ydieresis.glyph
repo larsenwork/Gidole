@@ -1,14 +1,14 @@
 StartChar: ydieresis
 Encoding: 255 255 131
 GlifName: ydieresis
-Width: 432
+Width: 947
 VWidth: 0
 Flags: W
-HStem: 551 94<73.3292 154.671 253.329 334.671>
-VStem: 67 94<557.329 638.671> 247 94<557.329 638.671>
+HStem: 1247 188<201.891 364.109 583.891 746.109>
+VStem: 189 188<1259.89 1422.11> 571 188<1259.89 1422.11>
 LayerCount: 2
 Back
 Fore
-Refer: 130 168 N 1 0 0 1 17 1 2
+Refer: 130 168 N 1 0 0 1 89 0 2
 Refer: 69 121 N 1 0 0 1 0 0 3
 EndChar

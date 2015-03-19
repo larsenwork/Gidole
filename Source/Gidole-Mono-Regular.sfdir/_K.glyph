@@ -1,0 +1,31 @@
+StartChar: K
+Encoding: 75 75 34
+GlifName: K_
+Width: 1140
+Flags: W
+HStem: 0 21G<156 312 905.994 1105>
+VStem: 156 156<0 400 601 1416>
+AnchorPoint: "DoubleTop" 6 0 basechar 0
+AnchorPoint: "Apos" 6 0 basechar 0
+AnchorPoint: "Top" -4 0 basechar 0
+AnchorPoint: "Center" -4 0 basechar 0
+AnchorPoint: "Bottom" 590 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+312 601 m 1
+ 910 1416 l 1
+ 1087 1416 l 1
+ 582 735 l 1
+ 1105 0 l 1
+ 920 0 l 1
+ 483 624 l 1
+ 312 400 l 1
+ 312 0 l 1
+ 156 0 l 1
+ 156 1416 l 1
+ 312 1416 l 1
+ 312 601 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,38 @@
+StartChar: e
+Encoding: 101 101 56
+GlifName: e
+Width: 1140
+Flags: W
+HStem: -16 134<362.746 743.244> 509 124<251 760> 964 134<360.323 648.125>
+VStem: 100 150<236.828 509 633 842.344> 760 150<633 846.285>
+AnchorPoint: "DoubleTop" -66 0 basechar 0
+AnchorPoint: "Apos" -66 0 basechar 0
+AnchorPoint: "Center" -55 0 basechar 0
+AnchorPoint: "Bottom" 525 0 basechar 0
+AnchorPoint: "Top" 507 1087 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+525 -16 m 4
+ 365 -16 246 50 179 147 c 4
+ 100 261 100 400 100 541 c 4
+ 100 660 100 759 137 856 c 4
+ 192 1001 331 1098 505 1098 c 4
+ 677 1098 817 1000 874 855 c 4
+ 910 763 910 681 910 542 c 6
+ 910 509 l 5
+ 250 509 l 5
+ 250 411 251 296 307 217 c 4
+ 351 154 424 118 525 118 c 4
+ 627 118 729 152 811 191 c 5
+ 868 67 l 5
+ 772 22 649 -16 525 -16 c 4
+760 633 m 5
+ 759 691 754 757 731 814 c 4
+ 695 904 611 964 505 964 c 4
+ 394 964 314 902 280 815 c 4
+ 259 761 252 698 251 633 c 5
+ 760 633 l 5
+EndSplineSet
+EndChar

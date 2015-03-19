@@ -1,0 +1,14 @@
+StartChar: Abreve
+Encoding: 258 258 206
+GlifName: A_breve
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<30 199.491 970.509 1140> 342 140<350 820> 1543 124<497.605 674.395>
+VStem: 321 140<1702.93 1831> 711 140<1702.93 1831>
+LayerCount: 2
+Back
+Fore
+Refer: 193 728 N 1 0 0 1 231 335 2
+Refer: 13 65 N 1 0 0 1 0 0 3
+EndChar

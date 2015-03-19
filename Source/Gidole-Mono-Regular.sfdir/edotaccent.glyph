@@ -1,0 +1,15 @@
+StartChar: edotaccent
+Encoding: 279 279 223
+GlifName: edotaccent
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -16 134<362.746 743.244> 509 124<251 760> 964 134<360.323 648.125> 1247 188<423.891 586.109>
+VStem: 100 150<236.828 509 633 842.344> 411 188<1259.89 1422.11> 760 150<633 846.285>
+CounterMasks: 1 0e
+LayerCount: 2
+Back
+Fore
+Refer: 195 729 N 1 0 0 1 311 0 2
+Refer: 56 101 N 1 0 0 1 0 0 3
+EndChar

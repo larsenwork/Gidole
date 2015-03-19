@@ -1,14 +1,14 @@
 StartChar: Igrave
 Encoding: 204 204 165
 GlifName: I_grave
-Width: 224
+Width: 468
 VWidth: 0
 Flags: W
-HStem: 0 21G<75 149> 646 20G<75 149> 734 120
-VStem: 5 153 75 74<0 666>
+HStem: 0 21G<156 312> 1556 274<165 169>
+VStem: 0 323 156 156<0 1416>
 LayerCount: 2
 Back
 Fore
-Refer: 530 715 N 1 0 0 1 -45 188 2
+Refer: 479 715 N 1 0 0 1 -100 334 2
 Refer: 21 73 N 1 0 0 1 0 0 3
 EndChar

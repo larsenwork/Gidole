@@ -1,0 +1,17 @@
+StartChar: underscore
+Encoding: 95 95 129
+GlifName: underscore
+Width: 1140
+Flags: W
+HStem: -150 150<10 790>
+LayerCount: 2
+Back
+Fore
+SplineSet
+10 0 m 1
+ 790 0 l 1
+ 790 -150 l 5
+ 10 -150 l 5
+ 10 0 l 1
+EndSplineSet
+EndChar

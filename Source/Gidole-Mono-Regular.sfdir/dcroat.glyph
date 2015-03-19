@@ -1,0 +1,19 @@
+StartChar: dcroat
+Encoding: 273 273 356
+GlifName: dcroat
+Width: 1140
+Flags: W
+HStem: -16 134<390.543 688.873> 0 21G<805 955> 964 134<390.326 688.885> 1236 124<538 1070>
+VStem: 125 150<242.001 839.569> 805 150<0 117 241.242 840.758 967 1496>
+LayerCount: 2
+Back
+Fore
+SplineSet
+1070 1360 m 1x3c
+ 1070 1236 l 1
+ 538 1236 l 1
+ 538 1360 l 1
+ 1070 1360 l 1x3c
+EndSplineSet
+Refer: 48 100 S 1 0 0 1 0 0 2
+EndChar

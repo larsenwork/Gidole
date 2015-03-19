@@ -1,20 +1,14 @@
 StartChar: periodcentered
 Encoding: 183 183 99
 GlifName: periodcentered
-Width: 262
+Width: 460
 VWidth: 0
 Flags: W
-HStem: 199 102<88.2266 173.773>
-VStem: 80 102<207.227 292.773>
-AnchorPoint: "Center" 17 250 mark 0
+HStem: 431 220<139.109 320.891>
+VStem: 120 220<450.109 631.891>
+AnchorPoint: "Center" -65 541 mark 0
 LayerCount: 2
 Back
 Fore
-SplineSet
-131 301 m 0
- 161 301 182 280 182 250 c 0
- 182 220 161 199 131 199 c 0
- 101 199 80 220 80 250 c 0
- 80 280 101 301 131 301 c 0
-EndSplineSet
+Refer: 1 46 N 1 0 0 1 0 447 2
 EndChar

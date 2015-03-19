@@ -1,0 +1,39 @@
+StartChar: alpha
+Encoding: 945 945 377
+GlifName: alpha
+Width: 1140
+Flags: W
+HStem: -16 134<365.543 663.873> 0 21G<780 930> 964 134<365.326 663.885>
+VStem: 100 150<242.001 839.569> 780 150<0 117 241.242 840.758 967 1082>
+AnchorPoint: "DoubleTop" 0 0 basechar 0
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Top" 495 1082 basechar 0
+AnchorPoint: "Apos" 999 1366 basechar 0
+AnchorPoint: "Bottom" 481 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+515 964 m 0xb8
+ 422 964 351 923 310 865 c 0
+ 251 782 250 664 250 541 c 0
+ 250 418 251 300 310 217 c 0
+ 351 159 422 118 515 118 c 0
+ 608 118 679 159 720 217 c 0
+ 779 300 780 418 780 541 c 0
+ 780 664 779 782 720 865 c 0
+ 679 923 608 964 515 964 c 0xb8
+780 1082 m 1
+ 930 1082 l 1
+ 930 0 l 1
+ 780 0 l 1x78
+ 780 117 l 1
+ 709 31 623 -16 495 -16 c 0
+ 351 -16 245 53 180 144 c 0
+ 100 261 100 408 100 541 c 0
+ 100 674 103 819 180 938 c 0
+ 243 1030 351 1098 495 1098 c 0
+ 622 1098 710 1053 780 967 c 1
+ 780 1082 l 1
+EndSplineSet
+EndChar

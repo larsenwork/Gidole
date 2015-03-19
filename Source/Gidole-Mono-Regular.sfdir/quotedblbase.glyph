@@ -1,0 +1,13 @@
+StartChar: quotedblbase
+Encoding: 8222 8222 107
+GlifName: quotedblbase
+Width: 1140
+Flags: W
+HStem: -220 424<165.391 205 485.391 525>
+VStem: 100 220<4.36516 184.891> 420 220<4.36516 184.891>
+LayerCount: 2
+Back
+Fore
+Refer: 85 8217 S 1 0 0 1 320 -1226 2
+Refer: 85 8217 N 1 0 0 1 0 -1226 2
+EndChar

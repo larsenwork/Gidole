@@ -1,24 +1,24 @@
 StartChar: l
 Encoding: 108 108 50
 GlifName: l
-Width: 200
+Width: 430
 VWidth: 0
 Flags: W
-HStem: 0 21G<65 135> 646 20G<65 135>
-VStem: 65 70<0 666>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Center" 136 334 basechar 0
-AnchorPoint: "Apos" 199 667 basechar 0
-AnchorPoint: "Bottom" 100 0 basechar 0
-AnchorPoint: "Top" 100 666 basechar 0
+HStem: 0 21G<140 290>
+VStem: 140 150<0 1496>
+AnchorPoint: "DoubleTop" 22 0 basechar 0
+AnchorPoint: "Center" 290 722 basechar 0
+AnchorPoint: "Apos" 389 1496 basechar 0
+AnchorPoint: "Bottom" 215 0 basechar 0
+AnchorPoint: "Top" 215 1456 basechar 0
 LayerCount: 2
 Back
 Fore
 SplineSet
-65 666 m 1
- 135 666 l 1
- 135 0 l 1
- 65 0 l 1
- 65 666 l 1
+290 0 m 5
+ 140 0 l 5
+ 140 1496 l 5
+ 290 1496 l 5
+ 290 0 l 5
 EndSplineSet
 EndChar

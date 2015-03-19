@@ -1,14 +1,14 @@
 StartChar: Wacute
-Encoding: 7810 7810 333
+Encoding: 7810 7810 319
 GlifName: W_acute
-Width: 710
+Width: 1460
 VWidth: 0
 Flags: W
-HStem: 0 21G<166.766 236.494 473.506 543.234> 646 20G<30 109.075 603 680> 734 120
-VStem: 308 153
+HStem: 0 21G<346.607 508.958 951.042 1113.39> 1556 274<793 797>
+VStem: 639 323
 LayerCount: 2
 Back
 Fore
-Refer: 529 714 N 1 0 0 1 258 188 2
+Refer: 478 714 N 1 0 0 1 539 334 2
 Refer: 26 87 N 1 0 0 1 0 0 3
 EndChar

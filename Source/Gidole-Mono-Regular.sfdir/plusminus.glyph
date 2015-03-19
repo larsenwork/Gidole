@@ -1,0 +1,31 @@
+StartChar: plusminus
+Encoding: 177 177 104
+GlifName: plusminus
+Width: 1140
+Flags: W
+HStem: 184 134<150 920> 664 134<140 455 605 920>
+VStem: 455 150<421 664 798 1031>
+LayerCount: 2
+Back
+Fore
+SplineSet
+150 184 m 5
+ 150 318 l 5
+ 920 318 l 5
+ 920 184 l 5
+ 150 184 l 5
+140 664 m 5
+ 140 798 l 5
+ 455 798 l 5
+ 455 1031 l 5
+ 605 1031 l 5
+ 605 798 l 5
+ 920 798 l 5
+ 920 664 l 5
+ 605 664 l 5
+ 605 421 l 5
+ 455 421 l 5
+ 455 664 l 5
+ 140 664 l 5
+EndSplineSet
+EndChar

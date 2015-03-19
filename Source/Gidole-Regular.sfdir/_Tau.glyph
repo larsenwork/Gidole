@@ -1,11 +1,11 @@
 StartChar: Tau
-Encoding: 932 932 471
+Encoding: 932 932 434
 GlifName: T_au
-Width: 530
+Width: 1100
 VWidth: 0
 Flags: W
-HStem: 0 21G<228 302> 596 70<40 228 302 490>
-VStem: 228 74<0 596>
+HStem: 0 21G<472 628> 1277 140<86 472 628 1014>
+VStem: 472 156<0 1277>
 LayerCount: 2
 Back
 Fore

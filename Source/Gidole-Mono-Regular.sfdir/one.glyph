@@ -1,0 +1,21 @@
+StartChar: one
+Encoding: 49 49 3
+GlifName: one
+Width: 1140
+Flags: W
+HStem: 0 21G<398 554>
+VStem: 398 156<0 1235>
+LayerCount: 2
+Back
+Fore
+SplineSet
+554 0 m 5
+ 398 0 l 5
+ 398 1235 l 5
+ 201 1133 l 5
+ 136 1261 l 5
+ 436 1416 l 5
+ 554 1416 l 5
+ 554 0 l 5
+EndSplineSet
+EndChar

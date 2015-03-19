@@ -1,0 +1,12 @@
+StartChar: Dcroat
+Encoding: 272 272 355
+GlifName: D_croat
+Width: 1140
+Flags: W
+HStem: 0 140<368 744.909> 652 140<56.123 612> 1276 140<368 744.909>
+VStem: 212 156<140 1276> 962 157<367.155 1048.83>
+LayerCount: 2
+Back
+Fore
+Refer: 345 208 N 1 0 0 1 0 0 2
+EndChar

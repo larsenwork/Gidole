@@ -1,11 +1,11 @@
 StartChar: Mu
-Encoding: 924 924 472
+Encoding: 924 924 435
 GlifName: M_u
-Width: 700
+Width: 1446
 VWidth: 0
 Flags: W
-HStem: 0 21G<75 149 551 625> 646 20G<75 150.169 548.879 625>
-VStem: 75 74<0 500> 551 74<0 502>
+HStem: 0 21G<156 312 1134 1290>
+VStem: 156 156<0 1122> 1134 156<0 1122>
 LayerCount: 2
 Back
 Fore

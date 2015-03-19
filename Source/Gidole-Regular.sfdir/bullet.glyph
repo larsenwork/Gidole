@@ -1,19 +1,19 @@
 StartChar: bullet
 Encoding: 8226 8226 100
 GlifName: bullet
-Width: 325
+Width: 578
 VWidth: 0
 Flags: W
-HStem: 167 166<104.514 220.623>
-VStem: 80 165<191.514 308.486>
+HStem: 342 340<170.349 407.925>
+VStem: 120 338<392.349 631.651>
 LayerCount: 2
 Back
 Fore
 SplineSet
-163 333 m 0
- 211 333 245 299 245 250 c 0
- 245 201 211 167 163 167 c 0
- 114 167 80 201 80 250 c 0
- 80 299 114 333 163 333 c 0
+290 682 m 0
+ 388 682 458 612 458 512 c 0
+ 458 412 388 342 290 342 c 0
+ 190 342 120 412 120 512 c 0
+ 120 612 190 682 290 682 c 0
 EndSplineSet
 EndChar

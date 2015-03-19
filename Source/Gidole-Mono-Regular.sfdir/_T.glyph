@@ -1,0 +1,28 @@
+StartChar: T
+Encoding: 84 84 29
+GlifName: T_
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<472 628> 1277 140<86 472 628 1014>
+VStem: 472 156<0 1277>
+AnchorPoint: "DoubleTop" -24 0 basechar 0
+AnchorPoint: "Apos" -24 0 basechar 0
+AnchorPoint: "Center" 48 0 basechar 0
+AnchorPoint: "Bottom" 550 0 basechar 0
+AnchorPoint: "Top" 550 1416 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+86 1417 m 5
+ 1014 1417 l 5
+ 1014 1277 l 5
+ 628 1277 l 5
+ 628 0 l 5
+ 472 0 l 5
+ 472 1277 l 5
+ 86 1277 l 5
+ 86 1417 l 5
+EndSplineSet
+EndChar

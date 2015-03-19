@@ -1,0 +1,14 @@
+StartChar: emacron
+Encoding: 275 275 219
+GlifName: emacron
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -16 134<362.746 743.244> 509 124<251 760> 964 134<360.323 648.125> 1252 134<220 790>
+VStem: 100 150<236.828 509 633 842.344> 220 570<1252 1386> 760 150<633 846.285>
+LayerCount: 2
+Back
+Fore
+Refer: 421 713 N 1 0 0 1 120 0 2
+Refer: 56 101 N 1 0 0 1 0 0 3
+EndChar

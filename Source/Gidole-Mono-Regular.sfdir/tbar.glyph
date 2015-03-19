@@ -1,0 +1,19 @@
+StartChar: tbar
+Encoding: 359 359 368
+GlifName: tbar
+Width: 1140
+Flags: W
+HStem: -16 134<425.657 634.948> 658 124<110 610> 958 124<110 260 410 610>
+VStem: 260 150<174.027 958 1082 1316>
+LayerCount: 2
+Back
+Fore
+SplineSet
+610 782 m 1
+ 610 658 l 1
+ 110 658 l 1
+ 110 782 l 1
+ 610 782 l 1
+EndSplineSet
+Refer: 64 116 N 1 0 0 1 30 0 2
+EndChar

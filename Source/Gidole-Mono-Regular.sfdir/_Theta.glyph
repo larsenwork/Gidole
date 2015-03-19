@@ -1,0 +1,20 @@
+StartChar: Theta
+Encoding: 920 920 444
+GlifName: T_heta
+Width: 1140
+Flags: W
+HStem: -19 140<438.945 789.055> 638 140<449 777> 1295 140<438.945 789.055>
+VStem: 116 156<311.742 1104.26> 956 156<311.742 1104.26>
+CounterMasks: 1 e0
+LayerCount: 2
+Back
+Fore
+SplineSet
+449 778 m 5
+ 777 778 l 5
+ 777 638 l 5
+ 449 638 l 5
+ 449 778 l 5
+EndSplineSet
+Refer: 16 79 N 1 0 0 1 0 0 2
+EndChar

@@ -1,21 +1,12 @@
 StartChar: quotereversed
-Encoding: 8219 8219 522
+Encoding: 8219 8219 471
 GlifName: quotereversed
-Width: 202
+Width: 420
 Flags: W
-HStem: 455 217<104 119.27>
-VStem: 50 102<577.953 664.037>
+HStem: 1006 424<215 254.609>
+VStem: 100 220<1230.37 1410.89>
 LayerCount: 2
 Back
 Fore
-SplineSet
-152 621 m 0
- 152 598 139 579 120 573 c 0
- 149 455 l 1
- 104 455 l 1
- 58 584 l 2
- 54 596 50 608 50 621 c 0
- 50 652 71 672 101 672 c 0
- 131 672 152 652 152 621 c 0
-EndSplineSet
+Refer: 85 8217 S -1 0 0 1 420 0 2
 EndChar

@@ -1,0 +1,14 @@
+StartChar: Upsilondieresis
+Encoding: 939 939 452
+GlifName: U_psilondieresis
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<453 609> 1634 188<291.891 454.109 673.891 836.109>
+VStem: 279 188<1646.89 1809.11> 453 156<0 506> 661 188<1646.89 1809.11>
+LayerCount: 2
+Back
+Fore
+Refer: 130 168 N 1 0 0 1 179 387 2
+Refer: 433 933 N 1 0 0 1 0 0 3
+EndChar

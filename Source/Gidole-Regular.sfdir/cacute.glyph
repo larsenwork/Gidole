@@ -1,14 +1,14 @@
 StartChar: cacute
 Encoding: 263 263 209
 GlifName: cacute
-Width: 418
+Width: 930
 VWidth: 0
 Flags: W
-HStem: -6 66<162.014 323.717> 418 66<162.186 323.471> 546 120
-VStem: 45 70<109.501 368.989> 189 153
+HStem: -16 134<364.816 699.43> 964 134<365.045 690.051> 1222 274<573 577>
+VStem: 100 150<243.538 837.921> 419 323
 LayerCount: 2
 Back
 Fore
-Refer: 529 714 N 1 0 0 1 139 0 2
+Refer: 478 714 N 1 0 0 1 319 0 2
 Refer: 53 99 N 1 0 0 1 0 0 3
 EndChar

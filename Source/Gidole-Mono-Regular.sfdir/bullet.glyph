@@ -1,0 +1,19 @@
+StartChar: bullet
+Encoding: 8226 8226 100
+GlifName: bullet
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 342 340<170.349 407.925>
+VStem: 120 338<392.349 631.651>
+LayerCount: 2
+Back
+Fore
+SplineSet
+290 682 m 0
+ 388 682 458 612 458 512 c 0
+ 458 412 388 342 290 342 c 0
+ 190 342 120 412 120 512 c 0
+ 120 612 190 682 290 682 c 0
+EndSplineSet
+EndChar

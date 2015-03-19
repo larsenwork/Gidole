@@ -1,25 +1,10 @@
 StartChar: guillemotright
 Encoding: 187 187 127
 GlifName: guillemotright
-Width: 484
+Width: 902
 Flags: W
 LayerCount: 2
 Back
 Fore
-SplineSet
-98 449 m 1
- 254 250 l 1
- 98 51 l 1
- 50 87 l 1
- 179 250 l 1
- 50 413 l 1
- 98 449 l 1
-278 449 m 1
- 434 250 l 1
- 278 51 l 1
- 230 87 l 1
- 359 250 l 1
- 230 413 l 1
- 278 449 l 1
-EndSplineSet
+Refer: 128 171 S -1 0 0 -1 902 1078 2
 EndChar

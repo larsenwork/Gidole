@@ -1,0 +1,23 @@
+StartChar: bracketright
+Encoding: 93 93 49
+GlifName: bracketright
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -456 124<126 318> 1414 124<126 318>
+VStem: 126 332<-456 -332 1414 1538> 318 140<-332 1414>
+LayerCount: 2
+Back
+Fore
+SplineSet
+458 1538 m 5xe0
+ 458 -456 l 5
+ 126 -456 l 5
+ 126 -332 l 5xe0
+ 318 -332 l 5
+ 318 1414 l 5xd0
+ 126 1414 l 5
+ 126 1538 l 5
+ 458 1538 l 5xe0
+EndSplineSet
+EndChar

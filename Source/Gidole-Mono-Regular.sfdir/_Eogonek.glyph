@@ -1,0 +1,15 @@
+StartChar: Eogonek
+Encoding: 280 280 353
+GlifName: E_ogonek
+Width: 1140
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -430.003 124.002<744.273 910.75> 0 140<312 936> 652 140<312 856> 1276 140<312 936>
+VStem: 156 156<140 652 792 1276> 610 123.999<-295.237 -112.379>
+LayerCount: 2
+Back
+Fore
+Refer: 371 731 N 1 0 0 1 510 0 2
+Refer: 18 69 N 1 0 0 1 0 0 3
+EndChar

@@ -1,0 +1,14 @@
+StartChar: Wdieresis
+Encoding: 7812 7812 321
+GlifName: W_dieresis
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<346.607 508.958 951.042 1113.39> 1581 188<457.891 620.109 839.891 1002.11>
+VStem: 445 188<1593.89 1756.11> 827 188<1593.89 1756.11>
+LayerCount: 2
+Back
+Fore
+Refer: 130 168 N 1 0 0 1 345 334 2
+Refer: 26 87 N 1 0 0 1 0 0 3
+EndChar

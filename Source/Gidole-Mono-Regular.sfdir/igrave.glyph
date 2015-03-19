@@ -1,0 +1,14 @@
+StartChar: igrave
+Encoding: 236 236 170
+GlifName: igrave
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<140 290> 1222 274<146 150>
+VStem: -19 323 140 150<0 1082>
+LayerCount: 2
+Back
+Fore
+Refer: 479 715 N 1 0 0 1 -119 0 2
+Refer: 155 305 N 1 0 0 1 0 0 3
+EndChar

@@ -1,0 +1,13 @@
+StartChar: iota
+Encoding: 953 953 459
+GlifName: iota
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<140 290>
+VStem: 140 150<0 1082>
+LayerCount: 2
+Back
+Fore
+Refer: 155 305 N 1 0 0 1 0 0 2
+EndChar

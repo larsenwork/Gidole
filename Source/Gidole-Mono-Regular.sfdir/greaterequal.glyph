@@ -1,0 +1,11 @@
+StartChar: greaterequal
+Encoding: 8805 8805 118
+GlifName: greaterequal
+Width: 1140
+Flags: W
+HStem: 264 134<140 840>
+LayerCount: 2
+Back
+Fore
+Refer: 117 8804 S -1 0 0 1 980 0 2
+EndChar

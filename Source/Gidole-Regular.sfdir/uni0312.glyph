@@ -1,23 +1,23 @@
 StartChar: uni0312
-Encoding: 786 786 434
+Encoding: 786 786 401
 GlifName: uni0312
-Width: 194
+Width: 393
 VWidth: 0
 Flags: W
-HStem: 552 166<97 115.312>
-VStem: 50 94<558.851 636.943>
-AnchorPoint: "Top" 97 478 mark 0
+HStem: 1206 330<197 234.359>
+VStem: 100 193<1220.34 1380.74>
+AnchorPoint: "Top" 197 1082 mark 0
 LayerCount: 2
 Back
 Fore
 SplineSet
-50 598 m 0
- 50 612 56 625 61 637 c 2
- 97 718 l 1
- 142 718 l 1
- 116 640 l 0
- 132 634 144 619 144 598 c 0
- 144 571 123 552 97 552 c 0
- 71 552 50 571 50 598 c 0
+100 1301 m 0
+ 100 1330 113 1359 125 1383 c 2
+ 197 1536 l 1
+ 289 1536 l 1
+ 236 1387 l 0
+ 269 1375 293 1344 293 1301 c 0
+ 293 1246 250 1206 197 1206 c 0
+ 144 1206 100 1246 100 1301 c 0
 EndSplineSet
 EndChar

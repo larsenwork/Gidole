@@ -1,0 +1,14 @@
+StartChar: etatonos
+Encoding: 942 942 457
+GlifName: etatonos
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<140 290> 964 134<387.919 686.233> 1222 274<541 615>
+VStem: 140 150<0 864.073 970 1082> 489 222 780 150<-414 867.577>
+LayerCount: 2
+Back
+Fore
+Refer: 454 900 N 1 0 0 1 377 0 2
+Refer: 445 951 N 1 0 0 1 0 0 3
+EndChar

@@ -1,31 +1,31 @@
 StartChar: kgreenlandic
-Encoding: 312 312 412
+Encoding: 312 312 381
 GlifName: kgreenlandic
-Width: 454
+Width: 965
 Flags: W
-HStem: 0 21G<65 135 324.132 419>
-VStem: 65 70<0 137 228 478>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
+HStem: 0 21G<140 290 720.327 915>
+VStem: 140 150<0 287 489 1082>
+AnchorPoint: "Bottom" 469 0 basechar 0
+AnchorPoint: "Center" -16 0 basechar 0
+AnchorPoint: "Top" -16 0 basechar 0
 AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Top" -8 0 basechar 0
-AnchorPoint: "Center" -8 0 basechar 0
-AnchorPoint: "Bottom" 229 0 basechar 0
+AnchorPoint: "DoubleTop" 0 0 basechar 0
 LayerCount: 2
 Back
 Fore
 SplineSet
-65 478 m 1
- 135 478 l 1
- 135 228 l 1
- 322 478 l 1
- 404 478 l 1
- 237 260 l 1
- 419 0 l 1
- 338 0 l 1
- 191 212 l 1
- 135 137 l 1
- 135 0 l 1
- 65 0 l 1
- 65 478 l 1
+140 1082 m 5
+ 290 1082 l 5
+ 290 489 l 5
+ 729 1082 l 5
+ 905 1082 l 5
+ 504 547 l 5
+ 915 0 l 5
+ 735 0 l 5
+ 410 443 l 5
+ 290 287 l 5
+ 290 0 l 5
+ 140 0 l 5
+ 140 1082 l 5
 EndSplineSet
 EndChar

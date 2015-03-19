@@ -1,0 +1,20 @@
+StartChar: seven.sup
+Encoding: 1114119 -1 499
+Width: 720
+Flags: W
+HStem: 0 21G<160 312.375> 636 118<106 458>
+VStem: 106 512<672 754>
+LayerCount: 2
+Back
+Fore
+SplineSet
+106 636 m 5
+ 106 754 l 5
+ 618 754 l 5
+ 618 672 l 5
+ 303 0 l 5
+ 160 0 l 5
+ 458 636 l 5
+ 106 636 l 5
+EndSplineSet
+EndChar

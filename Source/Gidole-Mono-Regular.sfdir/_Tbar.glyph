@@ -1,0 +1,31 @@
+StartChar: Tbar
+Encoding: 358 358 367
+GlifName: T_bar
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<472 628> 722 124<274 472 628 826> 1277 140<86 472 628 1014>
+VStem: 472 156<0 722 846 1277>
+LayerCount: 2
+Back
+Fore
+SplineSet
+86 1417 m 1
+ 1014 1417 l 1
+ 1014 1277 l 1
+ 628 1277 l 1
+ 628 846 l 1
+ 826 846 l 1
+ 826 722 l 1
+ 628 722 l 1
+ 628 0 l 1
+ 472 0 l 1
+ 472 722 l 1
+ 274 722 l 1
+ 274 846 l 1
+ 472 846 l 1
+ 472 1277 l 1
+ 86 1277 l 1
+ 86 1417 l 1
+EndSplineSet
+EndChar

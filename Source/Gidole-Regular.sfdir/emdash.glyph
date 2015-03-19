@@ -1,17 +1,17 @@
 StartChar: emdash
 Encoding: 8212 8212 93
 GlifName: emdash
-Width: 1000
+Width: 2048
 Flags: W
-HStem: 221 58<80 920>
+HStem: 472 134<100 1948>
 LayerCount: 2
 Back
 Fore
 SplineSet
-80 221 m 1
- 80 279 l 1
- 920 279 l 1
- 920 221 l 1
- 80 221 l 1
+100 472 m 1
+ 100 606 l 1
+ 1948 606 l 5
+ 1948 472 l 5
+ 100 472 l 1
 EndSplineSet
 EndChar

@@ -1,0 +1,14 @@
+StartChar: Ucircumflex
+Encoding: 219 219 143
+GlifName: U_circumflex
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -19 140<427.313 760.687> 1556 274
+VStem: 136 156<267.371 1416> 283 622 896 156<267.371 1416>
+LayerCount: 2
+Back
+Fore
+Refer: 142 710 N 1 0 0 1 183 334 2
+Refer: 24 85 N 1 0 0 1 0 0 3
+EndChar

@@ -1,0 +1,14 @@
+StartChar: ccircumflex
+Encoding: 265 265 211
+GlifName: ccircumflex
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -16 134<404.816 739.43> 964 134<405.045 730.051> 1222 274
+VStem: 140 150<243.538 837.921> 199 622
+LayerCount: 2
+Back
+Fore
+Refer: 142 710 N 1 0 0 1 99 0 2
+Refer: 53 99 N 1 0 0 1 0 0 3
+EndChar

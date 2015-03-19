@@ -1,0 +1,14 @@
+StartChar: sacute
+Encoding: 347 347 273
+GlifName: sacute
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -16 134<220.497 604.49> 964 134<298.531 660.475> 1222 274<509 513>
+VStem: 85 150<690.831 902.957> 355 323 681 150<191.009 411.927>
+LayerCount: 2
+Back
+Fore
+Refer: 478 714 N 1 0 0 1 255 0 2
+Refer: 47 115 N 1 0 0 1 0 0 3
+EndChar

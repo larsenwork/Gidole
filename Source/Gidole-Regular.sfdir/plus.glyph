@@ -1,26 +1,26 @@
 StartChar: plus
 Encoding: 43 43 83
 GlifName: plus
-Width: 520
+Width: 1060
 Flags: W
-HStem: 221 58<80 230 290 440>
-VStem: 230 60<70 221 279 430>
+HStem: 474 134<120 455 605 940>
+VStem: 455 150<131 474 608 951>
 LayerCount: 2
 Back
 Fore
 SplineSet
-80 279 m 1
- 230 279 l 1
- 230 430 l 1
- 290 430 l 1
- 290 279 l 1
- 440 279 l 1
- 440 221 l 1
- 290 221 l 1
- 290 70 l 1
- 230 70 l 1
- 230 221 l 1
- 80 221 l 1
- 80 279 l 1
+120 474 m 5
+ 120 608 l 5
+ 455 608 l 5
+ 455 951 l 5
+ 605 951 l 5
+ 605 608 l 5
+ 940 608 l 5
+ 940 474 l 5
+ 605 474 l 5
+ 605 131 l 5
+ 455 131 l 5
+ 455 474 l 5
+ 120 474 l 5
 EndSplineSet
 EndChar

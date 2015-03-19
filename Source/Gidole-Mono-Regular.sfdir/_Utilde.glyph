@@ -1,0 +1,14 @@
+StartChar: Utilde
+Encoding: 360 360 284
+GlifName: U_tilde
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -19 140<427.313 760.687> 1558 124<607.899 756.017> 1638 124<432.203 580.101>
+VStem: 136 156<267.371 1416> 287 614 896 156<267.371 1416>
+LayerCount: 2
+Back
+Fore
+Refer: 182 732 N 1 0 0 1 187 334 2
+Refer: 24 85 N 1 0 0 1 0 0 3
+EndChar

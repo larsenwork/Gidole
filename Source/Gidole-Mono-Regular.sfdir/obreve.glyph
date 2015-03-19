@@ -1,0 +1,14 @@
+StartChar: obreve
+Encoding: 335 335 263
+GlifName: obreve
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -16 134<365.875 684.125> 964 134<365.875 684.125> 1209 124<437.605 614.395>
+VStem: 100 150<243.661 838.339> 261 140<1368.93 1497> 651 140<1368.93 1497> 800 150<243.661 838.339>
+LayerCount: 2
+Back
+Fore
+Refer: 193 728 N 1 0 0 1 171 1 2
+Refer: 52 111 N 1 0 0 1 0 0 3
+EndChar

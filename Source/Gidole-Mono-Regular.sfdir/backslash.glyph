@@ -1,0 +1,17 @@
+StartChar: backslash
+Encoding: 92 92 66
+GlifName: backslash
+Width: 1140
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+86 1416 m 1
+ 233 1416 l 1
+ 804 -90 l 1
+ 657 -90 l 1
+ 86 1416 l 1
+EndSplineSet
+EndChar

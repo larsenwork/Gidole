@@ -1,0 +1,28 @@
+StartChar: M
+Encoding: 77 77 27
+GlifName: M_
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<156 312 1134 1290>
+VStem: 156 156<0 1122> 1134 156<0 1122>
+LayerCount: 2
+Back
+Fore
+SplineSet
+156 0 m 1
+ 156 1416 l 1
+ 312 1416 l 1
+ 723 577 l 1
+ 1134 1416 l 1
+ 1290 1416 l 1
+ 1290 0 l 1
+ 1134 0 l 1
+ 1134 1122 l 1
+ 794 421 l 1
+ 652 421 l 1
+ 312 1122 l 5
+ 312 0 l 1
+ 156 0 l 1
+EndSplineSet
+EndChar

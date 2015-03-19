@@ -1,0 +1,12 @@
+StartChar: Epsilon
+Encoding: 917 917 426
+GlifName: E_psilon
+Width: 1140
+Flags: W
+HStem: 0 140<312 936> 652 140<312 856> 1276 140<312 936>
+VStem: 156 156<140 652 792 1276>
+LayerCount: 2
+Back
+Fore
+Refer: 18 69 S 1 0 0 1 0 0 2
+EndChar

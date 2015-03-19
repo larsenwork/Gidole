@@ -1,43 +1,19 @@
 StartChar: Eth
-Encoding: 208 208 359
+Encoding: 208 208 345
 GlifName: E_th
-Width: 612
-VWidth: 0
+Width: 1235
 Flags: W
-HStem: 0 70<201 387.495> 308 70<55 127 201 319> 596 70<201 387.495>
-VStem: 127 74<70 308 378 596> 473 74<153.163 512.837>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Center" -5 0 basechar 0
-AnchorPoint: "Bottom" 277 1 basechar 0
-AnchorPoint: "Top" 280 667 basechar 0
+HStem: 0 140<368 744.909> 652 140<56.123 612> 1276 140<368 744.909>
+VStem: 212 156<140 1276> 962 157<367.155 1048.83>
 LayerCount: 2
 Back
 Fore
 SplineSet
-236 666 m 2
- 324 666 410 666 479 597 c 0
- 547 529 547 445 547 333 c 0
- 547 221 547 137 479 69 c 0
- 410 0 324 0 236 0 c 2
- 127 0 l 1
- 127 308 l 1
- 55 308 l 1
- 55 378 l 1
- 127 378 l 1
- 127 666 l 1
- 236 666 l 2
-236 70 m 2
- 315 70 378 70 425 117 c 0
- 473 165 473 227 473 333 c 0
- 473 439 473 501 425 549 c 0
- 378 596 315 596 236 596 c 2
- 201 596 l 1
- 201 378 l 1
- 319 378 l 1
- 319 308 l 1
- 201 308 l 1
- 201 70 l 1
- 236 70 l 2
+56 652 m 5
+ 56.123046875 792 l 5
+ 612 792 l 5
+ 612 652 l 5
+ 56 652 l 5
 EndSplineSet
+Refer: 17 68 S 1 0 0 1 56 0 2
 EndChar

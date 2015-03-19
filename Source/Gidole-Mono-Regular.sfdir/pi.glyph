@@ -1,0 +1,27 @@
+StartChar: pi
+Encoding: 960 960 380
+GlifName: pi
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<220 370 790 940> 948 134<80 220 370 790 940 1080>
+VStem: 220 150<0 948> 790 150<0 948>
+LayerCount: 2
+Back
+Fore
+SplineSet
+80 1082 m 1
+ 1080 1082 l 5
+ 1080 948 l 5
+ 940 948 l 1
+ 940 0 l 17
+ 790 0 l 9
+ 790 948 l 1
+ 370 948 l 1
+ 370 0 l 1
+ 220 0 l 1
+ 220 948 l 1
+ 80 948 l 1
+ 80 1082 l 1
+EndSplineSet
+EndChar

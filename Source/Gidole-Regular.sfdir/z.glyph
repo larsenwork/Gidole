@@ -1,30 +1,29 @@
 StartChar: z
 Encoding: 122 122 70
 GlifName: z
-Width: 440
+Width: 920
 VWidth: 0
 Flags: W
-HStem: 0 66<146 380> 412 66<60 294>
-VStem: 60 320<0 50 428 478>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Center" 15 0 basechar 0
-AnchorPoint: "Bottom" 222 0 basechar 0
-AnchorPoint: "Top" 220 478 basechar 0
+HStem: 0 134<285 820> 948 134<107 626>
+AnchorPoint: "DoubleTop" 7 0 basechar 0
+AnchorPoint: "Apos" 7 0 basechar 0
+AnchorPoint: "Center" 38 0 basechar 0
+AnchorPoint: "Bottom" 460 0 basechar 0
+AnchorPoint: "Top" 460 1082 basechar 0
 LayerCount: 2
 Back
 Fore
 SplineSet
-60 478 m 1
- 380 478 l 1
- 380 428 l 1
- 146 66 l 1
- 380 66 l 1
- 380 0 l 1
- 60 0 l 1
- 60 50 l 1
- 294 412 l 1
- 60 412 l 1
- 60 478 l 1
+820 134 m 1
+ 820 0 l 1
+ 100 0 l 1
+ 100 108 l 1
+ 626 948 l 1
+ 107 948 l 1
+ 107 1082 l 1
+ 811 1082 l 1
+ 811 974 l 1
+ 285 134 l 1
+ 820 134 l 1
 EndSplineSet
 EndChar

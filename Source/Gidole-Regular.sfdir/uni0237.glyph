@@ -1,24 +1,30 @@
 StartChar: uni0237
-Encoding: 567 567 416
+Encoding: 567 567 383
 GlifName: uni0237
-Width: 200
+Width: 430
+VWidth: 0
 Flags: W
-HStem: -189 66<-35.8382 55.2893>
-VStem: 65 70<-103.341 478>
+HStem: -430 136<-42.6434 123.225>
+VStem: 140 150<-255.726 1082>
+AnchorPoint: "DoubleTop" -12 0 basechar 0
+AnchorPoint: "Apos" -12 0 basechar 0
+AnchorPoint: "Center" -12 0 basechar 0
+AnchorPoint: "Bottom" 45 -414 basechar 0
+AnchorPoint: "Top" 215 1082 basechar 0
 LayerCount: 2
 Back
 Fore
 SplineSet
-135 -24 m 2
- 135 -78 135 -113 109 -146 c 0
- 89 -171 57 -189 14 -189 c 0
- -12 -189 -36 -182 -56 -173 c 1
- -29 -112 l 1
- -15 -119 1 -123 14 -123 c 0
- 30 -123 45 -118 55 -104 c 0
- 65 -90 65 -72 65 -14 c 2
- 65 478 l 1
- 135 478 l 1
- 135 -24 l 2
+140 1082 m 1
+ 290 1082 l 1
+ 290 -120 l 2
+ 290 -206 290 -260 256 -318 c 0
+ 217 -385 142 -430 45 -430 c 0
+ -3 -430 -43 -420 -82 -405 c 1
+ -32 -278 l 1
+ -10 -286 19 -294 45 -294 c 0
+ 81 -294 106 -281 122 -257 c 0
+ 140 -230 140 -192 140 -120 c 2
+ 140 1082 l 1
 EndSplineSet
 EndChar

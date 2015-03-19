@@ -1,0 +1,38 @@
+StartChar: R
+Encoding: 82 82 32
+GlifName: R_
+Width: 1140
+Flags: W
+HStem: 0 21G<156 312 850.791 1028> 556 140<312 604> 1276 140<312 719.568>
+VStem: 156 156<0 556 696 1276> 846 156<821.96 1151.69>
+AnchorPoint: "DoubleTop" 10 0 basechar 0
+AnchorPoint: "Apos" 10 0 basechar 0
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Bottom" 577 0 basechar 0
+AnchorPoint: "Top" 532 1416 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+312 696 m 5
+ 434 696 l 6
+ 587 696 700 696 783 794 c 4
+ 826 845 846 919 846 986 c 4
+ 846 1058 824 1129 783 1178 c 4
+ 700 1276 587 1276 434 1276 c 6
+ 312 1276 l 5
+ 312 696 l 5
+156 1416 m 5
+ 434 1416 l 6
+ 595 1416 777 1416 907 1263 c 4
+ 975 1183 1002 1082 1002 986 c 4
+ 1002 812 910 661 753 598 c 5
+ 1028 0 l 5
+ 860 0 l 5
+ 604 556 l 5
+ 312 556 l 5
+ 312 0 l 5
+ 156 0 l 5
+ 156 1416 l 5
+EndSplineSet
+EndChar

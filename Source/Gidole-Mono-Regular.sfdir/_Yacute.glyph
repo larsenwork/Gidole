@@ -1,0 +1,14 @@
+StartChar: Yacute
+Encoding: 221 221 202
+GlifName: Y_acute
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<453 609> 1556 274<594 598>
+VStem: 440 323 453 156<0 506>
+LayerCount: 2
+Back
+Fore
+Refer: 478 714 N 1 0 0 1 340 334 2
+Refer: 37 89 N 1 0 0 1 0 0 3
+EndChar

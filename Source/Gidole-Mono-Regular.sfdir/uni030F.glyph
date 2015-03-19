@@ -1,0 +1,13 @@
+StartChar: uni030F
+Encoding: 783 783 375
+GlifName: uni030F_
+Width: 1140
+Flags: W
+HStem: 1222 274
+VStem: 100 610
+AnchorPoint: "Top" 470 1082 mark 0
+LayerCount: 2
+Back
+Fore
+Refer: 198 733 N -1 0 0 1 810 0 2
+EndChar

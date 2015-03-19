@@ -1,0 +1,14 @@
+StartChar: uacute
+Encoding: 250 250 158
+GlifName: uacute
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -16 134<365.617 664.383> 1222 274<578 582>
+VStem: 120 150<220.243 1082> 424 323 760 150<220.243 1082>
+LayerCount: 2
+Back
+Fore
+Refer: 478 714 N 1 0 0 1 324 0 2
+Refer: 65 117 N 1 0 0 1 0 0 3
+EndChar

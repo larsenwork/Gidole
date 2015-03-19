@@ -1,0 +1,37 @@
+StartChar: omega
+Encoding: 969 969 469
+GlifName: omega
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -12 137<416.051 578 713 873.949>
+VStem: 119 143<289.251 851.938> 578 135<125 793> 1028 143<289.251 851.938>
+AnchorPoint: "Top" 645 979 basechar 0
+AnchorPoint: "Bottom" 645 0 basechar 0
+AnchorPoint: "Center" 385 0 basechar 0
+AnchorPoint: "Apos" 385 0 basechar 0
+AnchorPoint: "DoubleTop" 385 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+713 793 m 1
+ 713 125 l 1
+ 805 131 873 154 930 211 c 0
+ 998 279 1028 389 1028 510 c 0
+ 1028 660 997 811 956 963 c 1
+ 1096 995 l 1
+ 1139 839 1171 678 1171 510 c 0
+ 1171 369 1138 223 1034 119 c 0
+ 938 23 817 -12 645 -12 c 0
+ 473 -12 352 23 256 119 c 0
+ 152 223 119 369 119 510 c 0
+ 119 678 152 839 195 995 c 1
+ 334 963 l 1
+ 293 811 262 660 262 510 c 0
+ 262 389 292 279 360 211 c 0
+ 417 154 486 131 578 125 c 1
+ 578 793 l 1
+ 713 793 l 1
+EndSplineSet
+EndChar

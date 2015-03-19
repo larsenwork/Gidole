@@ -1,29 +1,29 @@
 StartChar: i
 Encoding: 105 105 51
 GlifName: i
-Width: 200
+Width: 430
 VWidth: 0
 Flags: W
-HStem: 0 21G<65 135> 555 94<59.5618 140.438>
-VStem: 53 94<561.897 642.103> 65 70<0 478>
-AnchorPoint: "Top" 13 23 basechar 0
-AnchorPoint: "Bottom" 97 0 basechar 0
-AnchorPoint: "Center" -6 0 basechar 0
-AnchorPoint: "Apos" -6 0 basechar 0
-AnchorPoint: "DoubleTop" -6 0 basechar 0
+HStem: 0 21G<140 290> 1247 188<133.891 296.109>
+VStem: 121 188<1259.89 1422.11> 140 150<0 1082>
+AnchorPoint: "Top" 27 47 basechar 0
+AnchorPoint: "Bottom" 215 0 basechar 0
+AnchorPoint: "Center" -12 0 basechar 0
+AnchorPoint: "Apos" -12 0 basechar 0
+AnchorPoint: "DoubleTop" -12 0 basechar 0
 LayerCount: 2
 Back
 Fore
 SplineSet
-100 649 m 0xe0
- 127 649 147 630 147 602 c 0
- 147 574 127 555 100 555 c 0
- 73 555 53 574 53 602 c 0
- 53 630 73 649 100 649 c 0xe0
-65 0 m 1xd0
- 65 478 l 1
- 135 478 l 1
- 135 0 l 1
- 65 0 l 1xd0
+215 1435 m 4xe0
+ 270 1435 309 1396 309 1341 c 4
+ 309 1286 270 1247 215 1247 c 4
+ 160 1247 121 1286 121 1341 c 4
+ 121 1396 160 1435 215 1435 c 4xe0
+290 0 m 1xd0
+ 140 0 l 1
+ 140 1082 l 1
+ 290 1082 l 1
+ 290 0 l 1xd0
 EndSplineSet
 EndChar

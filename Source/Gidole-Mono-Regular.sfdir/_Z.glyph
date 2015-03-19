@@ -1,0 +1,29 @@
+StartChar: Z
+Encoding: 90 90 38
+GlifName: Z_
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 140<282 963> 1276 140<121 757>
+AnchorPoint: "DoubleTop" -21 0 basechar 0
+AnchorPoint: "Apos" -21 0 basechar 0
+AnchorPoint: "Center" -11 0 basechar 0
+AnchorPoint: "Bottom" 530 0 basechar 0
+AnchorPoint: "Top" 530 1416 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+121 1276 m 1
+ 121 1416 l 1
+ 943 1416 l 1
+ 943 1315 l 1
+ 282 140 l 1
+ 963 140 l 1
+ 963 0 l 1
+ 96 0 l 1
+ 96 101 l 1
+ 757 1276 l 1
+ 121 1276 l 1
+EndSplineSet
+EndChar

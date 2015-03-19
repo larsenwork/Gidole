@@ -1,19 +1,20 @@
 StartChar: greater
 Encoding: 62 62 106
 GlifName: greater
-Width: 520
+Width: 923
 Flags: W
+VStem: 106 677
 LayerCount: 2
 Back
 Fore
 SplineSet
-71 394 m 1
- 99 446 l 1
- 440 276 l 1
- 440 224 l 1
- 99 54 l 1
- 71 106 l 1
- 363 250 l 1
- 71 394 l 1
+783 597 m 5
+ 783 485 l 5
+ 175 131 l 5
+ 106 251 l 5
+ 616 541 l 5
+ 106 831 l 5
+ 175 951 l 5
+ 783 597 l 5
 EndSplineSet
 EndChar

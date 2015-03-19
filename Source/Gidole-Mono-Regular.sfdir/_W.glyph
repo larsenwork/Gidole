@@ -1,0 +1,32 @@
+StartChar: W
+Encoding: 87 87 26
+GlifName: W_
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<346.607 508.958 951.042 1113.39>
+AnchorPoint: "DoubleTop" -92 0 basechar 0
+AnchorPoint: "Apos" -92 0 basechar 0
+AnchorPoint: "Bottom" -72 0 basechar 0
+AnchorPoint: "Center" -72 0 basechar 0
+AnchorPoint: "Top" 730 1416 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+200 1416 m 1
+ 442 275 l 1
+ 655 986 l 1
+ 805 986 l 1
+ 1018 275 l 1
+ 1260 1416 l 1
+ 1420 1416 l 1
+ 1109 0 l 1
+ 957 0 l 1
+ 730 762 l 1
+ 503 0 l 1
+ 351 0 l 1
+ 40 1416 l 1
+ 200 1416 l 1
+EndSplineSet
+EndChar

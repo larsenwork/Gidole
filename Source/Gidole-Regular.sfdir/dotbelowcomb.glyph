@@ -1,20 +1,14 @@
 StartChar: dotbelowcomb
-Encoding: 803 803 435
+Encoding: 803 803 402
 GlifName: dotbelowcomb
-Width: 194
+Width: 460
 VWidth: 0
 Flags: W
-HStem: -167 94<56.5618 137.438>
-VStem: 50 94<-160.103 -79.8974>
-AnchorPoint: "Bottom" 97 0 mark 0
+HStem: -385 220<139.109 320.891>
+VStem: 120 220<-365.891 -184.109>
+AnchorPoint: "Bottom" 210 0 mark 0
 LayerCount: 2
 Back
 Fore
-SplineSet
-97 -73 m 0
- 124 -73 144 -92 144 -120 c 0
- 144 -148 124 -167 97 -167 c 0
- 70 -167 50 -148 50 -120 c 0
- 50 -92 70 -73 97 -73 c 0
-EndSplineSet
+Refer: 1 46 N 1 0 0 1 0 -369 2
 EndChar

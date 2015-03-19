@@ -1,0 +1,19 @@
+StartChar: macron
+Encoding: 175 175 194
+GlifName: macron
+Width: 1140
+Flags: W
+HStem: 1252 134<100 670>
+VStem: 100 570<1252 1386>
+AnchorPoint: "Top" 385 1082 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+100 1386 m 1
+ 670 1386 l 1
+ 670 1252 l 1
+ 100 1252 l 1
+ 100 1386 l 1
+EndSplineSet
+EndChar

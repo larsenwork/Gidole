@@ -1,15 +1,14 @@
 StartChar: Itilde
 Encoding: 296 296 235
 GlifName: I_tilde
-Width: 224
+Width: 468
 VWidth: 0
 Flags: W
-HStem: 0 21G<75 149> 646 20G<75 149> 738 52<113.55 202.503> 776 52<21.4967 110.555>
-VStem: -36 56<744 773.526> 75 74<0 666> 204 56<792.474 822>
-CounterMasks: 1 0e
+HStem: 0 21G<156 312> 1558 124<247.899 396.017> 1638 124<72.203 220.101>
+VStem: -73 614 156 156<0 1416>
 LayerCount: 2
 Back
 Fore
-Refer: 182 732 N 1 0 0 1 -86 188 2
+Refer: 182 732 N 1 0 0 1 -173 334 2
 Refer: 21 73 N 1 0 0 1 0 0 3
 EndChar

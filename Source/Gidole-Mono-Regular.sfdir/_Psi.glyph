@@ -1,0 +1,41 @@
+StartChar: Psi
+Encoding: 936 936 443
+GlifName: P_si
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<600 752> 272 144<456.612 600 752 895.388>
+VStem: 133 152<585.356 1364> 600 152<0 277.852 416 1364> 1067 152<593.555 1364>
+CounterMasks: 1 38
+AnchorPoint: "Top" 678 1364 basechar 0
+AnchorPoint: "Bottom" 678 0 basechar 0
+AnchorPoint: "Center" 86 0 basechar 0
+AnchorPoint: "Apos" 86 0 basechar 0
+AnchorPoint: "DoubleTop" 86 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+600 1364 m 1
+ 752 1364 l 1
+ 752 416 l 1
+ 834 428 901 455 952 498 c 0
+ 1067 596 1067 735 1067 913 c 2
+ 1067 1364 l 1
+ 1219 1364 l 1
+ 1219 913 l 2
+ 1219 727 1219 532 1055 391 c 0
+ 977 325 873 284 752 272 c 1
+ 752 0 l 1
+ 600 0 l 1
+ 600 272 l 1
+ 479 284 375 325 297 391 c 0
+ 133 532 133 727 133 913 c 2
+ 133 1364 l 1
+ 285 1364 l 1
+ 285 913 l 2
+ 285 735 284 596 399 498 c 0
+ 450 455 518 428 600 416 c 1
+ 600 1364 l 1
+EndSplineSet
+EndChar

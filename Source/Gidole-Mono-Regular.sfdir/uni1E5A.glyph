@@ -1,0 +1,14 @@
+StartChar: uni1E5A
+Encoding: 7770 7770 311
+GlifName: uni1E_5A_
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -385 220<506.109 687.891> 0 21G<156 312 850.791 1028> 556 140<312 604> 1276 140<312 719.568>
+VStem: 156 156<0 556 696 1276> 487 220<-365.891 -184.109> 846 156<821.96 1151.69>
+LayerCount: 2
+Back
+Fore
+Refer: 402 803 N 1 0 0 1 367 0 2
+Refer: 32 82 N 1 0 0 1 0 0 3
+EndChar

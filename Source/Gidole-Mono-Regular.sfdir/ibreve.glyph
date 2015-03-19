@@ -1,0 +1,14 @@
+StartChar: ibreve
+Encoding: 301 301 240
+GlifName: ibreve
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<140 290> 1209 124<127.605 304.395>
+VStem: -49 140<1368.93 1497> 140 150<0 1082> 341 140<1368.93 1497>
+LayerCount: 2
+Back
+Fore
+Refer: 193 728 N 1 0 0 1 -139 1 2
+Refer: 155 305 N 1 0 0 1 0 0 3
+EndChar

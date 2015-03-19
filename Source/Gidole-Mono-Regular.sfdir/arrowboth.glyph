@@ -1,0 +1,29 @@
+StartChar: arrowboth
+Encoding: 8596 8596 415
+GlifName: arrowboth
+Width: 1140
+Flags: W
+HStem: 474 134<292 1408>
+LayerCount: 2
+Back
+Fore
+SplineSet
+1086 982 m 5
+ 1192 1074 l 5
+ 1620 582 l 5
+ 1620 500 l 5
+ 1192 8 l 5
+ 1086 100 l 5
+ 1408 474 l 5
+ 292 474 l 5
+ 614 100 l 5
+ 508 8 l 5
+ 80 500 l 5
+ 80 582 l 5
+ 508 1074 l 5
+ 614 982 l 5
+ 292 608 l 5
+ 1408 608 l 5
+ 1086 982 l 5
+EndSplineSet
+EndChar

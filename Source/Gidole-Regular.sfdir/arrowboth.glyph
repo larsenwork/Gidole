@@ -1,29 +1,29 @@
 StartChar: arrowboth
-Encoding: 8596 8596 448
+Encoding: 8596 8596 415
 GlifName: arrowboth
-Width: 640
+Width: 1700
 Flags: W
-HStem: 221 58<171 469>
+HStem: 474 134<292 1408>
 LayerCount: 2
 Back
 Fore
 SplineSet
-171 221 m 1
- 246 148 l 1
- 202 108 l 1
- 80 230 l 1
- 80 270 l 1
- 202 392 l 1
- 246 352 l 1
- 171 279 l 1
- 469 279 l 1
- 394 352 l 1
- 438 392 l 1
- 560 270 l 1
- 560 230 l 1
- 438 108 l 1
- 394 148 l 1
- 469 221 l 1
- 171 221 l 1
+1086 982 m 5
+ 1192 1074 l 5
+ 1620 582 l 5
+ 1620 500 l 5
+ 1192 8 l 5
+ 1086 100 l 5
+ 1408 474 l 5
+ 292 474 l 5
+ 614 100 l 5
+ 508 8 l 5
+ 80 500 l 5
+ 80 582 l 5
+ 508 1074 l 5
+ 614 982 l 5
+ 292 608 l 5
+ 1408 608 l 5
+ 1086 982 l 5
 EndSplineSet
 EndChar

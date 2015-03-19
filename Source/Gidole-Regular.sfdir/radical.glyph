@@ -1,20 +1,20 @@
 StartChar: radical
-Encoding: 8730 8730 422
+Encoding: 8730 8730 389
 GlifName: radical
-Width: 505
+Width: 1082
 Flags: W
-HStem: 0 21G<209.148 285.856> 646 20G<406.184 475>
+HStem: 0 21G<425.268 586.896>
 LayerCount: 2
 Back
 Fore
 SplineSet
-45 257 m 1
- 95 289 l 1
- 241 78 l 1
- 412 666 l 1
- 475 666 l 1
- 280 0 l 1
- 223 0 l 1
- 45 257 l 1
+60 552 m 5
+ 180 634 l 5
+ 483 183 l 5
+ 867 1496 l 5
+ 1022 1496 l 5
+ 581 0 l 5
+ 439 0 l 5
+ 60 552 l 5
 EndSplineSet
 EndChar

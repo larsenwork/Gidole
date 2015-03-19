@@ -1,24 +1,13 @@
 StartChar: iota
-Encoding: 953 953 496
+Encoding: 953 953 459
 GlifName: iota
-Width: 200
+Width: 430
 VWidth: 0
 Flags: W
-HStem: 0 21G<65 135>
-VStem: 65 70<0 478>
-AnchorPoint: "Center" -7 0 basechar 0
-AnchorPoint: "Apos" -7 0 basechar 0
-AnchorPoint: "DoubleTop" -7 0 basechar 0
-AnchorPoint: "Bottom" 100 0 basechar 0
-AnchorPoint: "Top" 100 478 basechar 0
+HStem: 0 21G<140 290>
+VStem: 140 150<0 1082>
 LayerCount: 2
 Back
 Fore
-SplineSet
-65 478 m 1
- 135 478 l 1
- 135 0 l 1
- 65 0 l 1
- 65 478 l 1
-EndSplineSet
+Refer: 155 305 N 1 0 0 1 0 0 2
 EndChar

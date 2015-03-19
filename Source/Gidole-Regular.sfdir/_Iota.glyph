@@ -1,11 +1,11 @@
 StartChar: Iota
-Encoding: 921 921 466
+Encoding: 921 921 429
 GlifName: I_ota
-Width: 224
+Width: 468
 VWidth: 0
 Flags: W
-HStem: 0 21G<75 149> 646 20G<75 149>
-VStem: 75 74<0 666>
+HStem: 0 21G<156 312>
+VStem: 156 156<0 1416>
 LayerCount: 2
 Back
 Fore

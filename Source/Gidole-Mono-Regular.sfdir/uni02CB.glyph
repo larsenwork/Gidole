@@ -1,0 +1,13 @@
+StartChar: uni02CB
+Encoding: 715 715 479
+GlifName: uni02C_B_
+Width: 1140
+Flags: W
+HStem: 1222 274<265 269>
+VStem: 100 323
+AnchorPoint: "Top" 334 1082 mark 0
+LayerCount: 2
+Back
+Fore
+Refer: 110 96 N 1 0 0 1 0 0 2
+EndChar

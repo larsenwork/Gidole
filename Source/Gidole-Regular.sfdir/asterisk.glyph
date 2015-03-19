@@ -1,30 +1,29 @@
 StartChar: asterisk
 Encoding: 42 42 95
 GlifName: asterisk
-Width: 352
+Width: 1003
 VWidth: 0
 Flags: W
-HStem: 429 238
-VStem: 153 46<576 667>
+VStem: 432 141<1105 1416>
 LayerCount: 2
 Back
 Fore
 SplineSet
-150 667 m 1
- 202 667 l 1
- 199 576 l 1
- 286 607 l 1
- 302 557 l 1
- 214 532 l 1
- 270 460 l 1
- 228 429 l 1
- 176 504 l 1
- 124 429 l 1
- 83 459 l 1
- 138 532 l 1
- 50 558 l 1
- 66 608 l 1
- 153 576 l 1
- 150 667 l 1
+861 1204 m 5
+ 903 1075 l 5
+ 609 984 l 5
+ 796 735 l 5
+ 678 650 l 5
+ 502 901 l 5
+ 326 650 l 5
+ 208 735 l 5
+ 395 984 l 5
+ 100 1075 l 5
+ 143 1204 l 5
+ 432 1104 l 5
+ 427 1416 l 5
+ 577 1416 l 5
+ 573 1105 l 5
+ 861 1204 l 5
 EndSplineSet
 EndChar

@@ -1,0 +1,14 @@
+StartChar: Lcaron
+Encoding: 317 317 250
+GlifName: L_caron
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 140<312 876> 1006 424<596.391 636>
+VStem: 156 156<140 1416> 531 220<1230.37 1410.89>
+LayerCount: 2
+Back
+Fore
+Refer: 404 700 N 1 0 0 1 431 0 2
+Refer: 23 76 N 1 0 0 1 0 0 2
+EndChar

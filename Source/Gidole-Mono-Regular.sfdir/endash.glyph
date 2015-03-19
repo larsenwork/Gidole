@@ -1,0 +1,17 @@
+StartChar: endash
+Encoding: 8211 8211 92
+GlifName: endash
+Width: 1140
+Flags: W
+HStem: 472 134<100 924>
+LayerCount: 2
+Back
+Fore
+SplineSet
+100 472 m 5
+ 100 606 l 5
+ 924 606 l 5
+ 924 472 l 5
+ 100 472 l 5
+EndSplineSet
+EndChar

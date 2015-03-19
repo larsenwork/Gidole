@@ -1,0 +1,14 @@
+StartChar: wcircumflex
+Encoding: 373 373 201
+GlifName: wcircumflex
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: 0 21G<304.213 460.35 907.65 1063.79> 1222 274
+VStem: 373 622
+LayerCount: 2
+Back
+Fore
+Refer: 142 710 N 1 0 0 1 273 0 2
+Refer: 44 119 N 1 0 0 1 0 0 3
+EndChar

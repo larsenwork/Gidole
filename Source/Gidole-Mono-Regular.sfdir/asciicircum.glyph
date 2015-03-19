@@ -1,0 +1,22 @@
+StartChar: asciicircum
+Encoding: 94 94 112
+GlifName: asciicircum
+Width: 1140
+Flags: W
+HStem: 1222 274
+VStem: 100 622
+AnchorPoint: "Top" 411 1082 mark 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+551 1222 m 1
+ 411 1360 l 1
+ 271 1222 l 1
+ 100 1222 l 1
+ 358 1496 l 1
+ 464 1496 l 1
+ 722 1222 l 1
+ 551 1222 l 1
+EndSplineSet
+EndChar

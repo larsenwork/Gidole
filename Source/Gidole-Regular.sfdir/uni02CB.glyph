@@ -1,19 +1,13 @@
 StartChar: uni02CB
-Encoding: 715 715 530
+Encoding: 715 715 479
 GlifName: uni02C_B_
-Width: 253
+Width: 523
 Flags: W
-HStem: 546 120
-VStem: 50 153
-AnchorPoint: "Top" 157 478 mark 0
+HStem: 1222 274<265 269>
+VStem: 100 323
+AnchorPoint: "Top" 334 1082 mark 0
 LayerCount: 2
 Back
 Fore
-SplineSet
-50 666 m 25
- 128 666 l 25
- 203 546 l 1
- 137 546 l 1
- 50 666 l 25
-EndSplineSet
+Refer: 110 96 N 1 0 0 1 0 0 2
 EndChar

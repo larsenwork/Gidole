@@ -1,20 +1,12 @@
 StartChar: uni00B9
-Encoding: 185 185 454
+Encoding: 185 185 417
 GlifName: uni00B_9
-Width: 321
+Width: 498
 Flags: W
-VStem: 161 70<260 656>
+HStem: 789 21G<246 378>
+VStem: 246 132<789 1389>
 LayerCount: 2
 Back
 Fore
-SplineSet
-174 738 m 1
- 231 738 l 1
- 231 260 l 1
- 161 260 l 1
- 161 656 l 1
- 100 625 l 1
- 70 685 l 1
- 174 738 l 1
-EndSplineSet
+Refer: 493 -1 S 1 0 0 1 -110 789 2
 EndChar

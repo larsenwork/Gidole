@@ -1,0 +1,28 @@
+StartChar: E
+Encoding: 69 69 18
+GlifName: E_
+Width: 1140
+Flags: W
+HStem: 0 140<312 936> 652 140<312 856> 1276 140<312 936>
+VStem: 156 156<140 652 792 1276>
+AnchorPoint: "Bottom" 861 0 basechar 0
+AnchorPoint: "Top" 553 1416 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+156 1416 m 5
+ 936 1416 l 5
+ 936 1276 l 5
+ 312 1276 l 5
+ 312 792 l 5
+ 856 792 l 5
+ 856 652 l 5
+ 312 652 l 5
+ 312 140 l 5
+ 936 140 l 5
+ 936 0 l 5
+ 156 0 l 5
+ 156 1416 l 5
+EndSplineSet
+EndChar

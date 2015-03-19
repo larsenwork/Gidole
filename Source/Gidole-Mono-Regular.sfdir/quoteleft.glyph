@@ -1,0 +1,12 @@
+StartChar: quoteleft
+Encoding: 8216 8216 86
+GlifName: quoteleft
+Width: 1140
+Flags: W
+HStem: 992 424<215 254.609>
+VStem: 100 220<1011.11 1191.63>
+LayerCount: 2
+Back
+Fore
+Refer: 85 8217 S -1 0 0 -1 420 2422 2
+EndChar

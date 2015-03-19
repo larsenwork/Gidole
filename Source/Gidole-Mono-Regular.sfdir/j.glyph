@@ -1,0 +1,35 @@
+StartChar: j
+Encoding: 106 106 60
+GlifName: j
+Width: 1140
+VWidth: 0
+Flags: W
+HStem: -428 134<-45.3489 123.635> 1247 188<133.891 296.109>
+VStem: 121 188<1259.89 1422.11> 140 150<-252.784 1082>
+AnchorPoint: "Top" 27 47 basechar 0
+AnchorPoint: "Bottom" 45 -414 basechar 0
+AnchorPoint: "Center" -12 0 basechar 0
+AnchorPoint: "Apos" -12 0 basechar 0
+AnchorPoint: "DoubleTop" -12 0 basechar 0
+LayerCount: 2
+Back
+Fore
+SplineSet
+290 -119 m 2xd0
+ 290 -206 290 -256 257 -315 c 0
+ 218 -385 141 -428 45 -428 c 0
+ -1.09523809524 -428 -40.4682539683 -419.857142857 -76 -409 c 1
+ -38 -279 l 5
+ -13.5256410256 -287.076923077 15.2051282051 -294 45 -294 c 0
+ 84 -294 108 -280 123 -254 c 0
+ 138 -228 140 -206 140 -119 c 2
+ 140 1082 l 1
+ 290 1082 l 1
+ 290 -119 l 2xd0
+215 1435 m 0
+ 270 1435 309 1396 309 1341 c 0
+ 309 1286 270 1247 215 1247 c 0
+ 160 1247 121 1286 121 1341 c 0xe0
+ 121 1396 160 1435 215 1435 c 0
+EndSplineSet
+EndChar

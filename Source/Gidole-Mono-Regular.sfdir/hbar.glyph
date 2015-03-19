@@ -1,0 +1,19 @@
+StartChar: hbar
+Encoding: 295 295 359
+GlifName: hbar
+Width: 1140
+Flags: W
+HStem: 0 21G<220 370 860 1010> 964 134<467.919 766.233> 1236 124<80 612>
+VStem: 220 150<0 864.073 970 1496> 860 150<0 867.577>
+LayerCount: 2
+Back
+Fore
+SplineSet
+80 1360 m 1
+ 612 1360 l 1
+ 612 1236 l 1
+ 80 1236 l 1
+ 80 1360 l 1
+EndSplineSet
+Refer: 55 104 N 1 0 0 1 80 0 2
+EndChar
