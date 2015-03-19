@@ -3,18 +3,27 @@ Encoding: 322 322 363
 GlifName: lslash
 Width: 656
 VWidth: 0
-Flags: HW
-HStem: 0 21G<253 403>
-VStem: 45 566 253 150<0 1496>
+Flags: W
+HStem: -16 134<429.938 498>
+VStem: 253 150<138.078 1496>
 LayerCount: 2
 Back
 Fore
 SplineSet
-117 542 m 1xc0
+498 118 m 1
+ 498 -16 l 1
+ 452 -16 410 -15 357 12 c 0
+ 327 27 298 55 280 85 c 0
+ 253 130 253 176 253 229 c 2
+ 253 1496 l 1
+ 403 1496 l 1
+ 403 249 l 2
+ 403 183 403 160 429 137 c 0
+ 449 119 469 118 498 118 c 1
+117 542 m 1
  45 646 l 1
  539 990 l 1
  611 886 l 1
- 117 542 l 1xc0
+ 117 542 l 1
 EndSplineSet
-Refer: 50 108 S 1 0 0 1 113 0 2
 EndChar

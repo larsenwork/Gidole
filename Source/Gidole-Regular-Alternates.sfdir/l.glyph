@@ -3,7 +3,7 @@ Encoding: 108 108 50
 GlifName: l
 Width: 430
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -16 134<316.938 385>
 VStem: 140 150<138.078 1496>
 AnchorPoint: "Center" 290 722 basechar 0

@@ -40,5 +40,5 @@ SplineSet
  430 527 356 527 297 477 c 4
  259 445 230 389 230 321 c 4
 EndSplineSet
-AlternateSubs2: "'salt' 0-1" aAlt
+Substitution2: "'ss01' Style Set 1 lookup 0 subtable" a.alt
 EndChar
