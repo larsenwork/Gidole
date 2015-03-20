@@ -1,5 +1,0 @@
-Gidole is an open source modern DIN created by Andreas Larsen in 2015. Currently only regular weight but more weights are in the pipeline along with full greek + cyrillic support. 
-
-Gidole.github.io is the place where you can find more information, give me feedback, contribute to the project and show some love by donating to the Ethiopian Red Cross Society.
-
-Follow @andreaslarsendk to get notified about major updates.
