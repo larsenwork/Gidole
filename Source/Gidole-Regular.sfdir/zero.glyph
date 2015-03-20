@@ -29,4 +29,15 @@ SplineSet
  796 987 796 1137 719 1222 c 4
  679 1267 617 1295 534 1295 c 4
 EndSplineSet
+Substitution2: "Single Substitution lookup 28 subtable" zero.d
+Substitution2: "Single Substitution lookup 26 subtable" zero.n
+Substitution2: "Single Substitution lookup 24 subtable" zero.n
+Substitution2: "Single Substitution lookup 22 subtable" zero.n
+Substitution2: "Single Substitution lookup 20 subtable" zero.n
+Substitution2: "Single Substitution lookup 18 subtable" zero.n
+Substitution2: "Single Substitution lookup 16 subtable" zero.n
+Substitution2: "Single Substitution lookup 14 subtable" zero.n
+Substitution2: "Single Substitution lookup 12 subtable" zero.n
+Substitution2: "Single Substitution lookup 10 subtable" zero.n
+Substitution2: "Single Substitution lookup 8 subtable" zero.n
 EndChar

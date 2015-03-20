@@ -24,4 +24,15 @@ SplineSet
  135 1286 l 5
  217 1365 337 1435 492 1435 c 4
 EndSplineSet
+Substitution2: "Single Substitution lookup 28 subtable" two.d
+Substitution2: "Single Substitution lookup 26 subtable" two.n
+Substitution2: "Single Substitution lookup 24 subtable" two.n
+Substitution2: "Single Substitution lookup 22 subtable" two.n
+Substitution2: "Single Substitution lookup 20 subtable" two.n
+Substitution2: "Single Substitution lookup 18 subtable" two.n
+Substitution2: "Single Substitution lookup 16 subtable" two.n
+Substitution2: "Single Substitution lookup 14 subtable" two.n
+Substitution2: "Single Substitution lookup 12 subtable" two.n
+Substitution2: "Single Substitution lookup 10 subtable" two.n
+Substitution2: "Single Substitution lookup 8 subtable" two.n
 EndChar

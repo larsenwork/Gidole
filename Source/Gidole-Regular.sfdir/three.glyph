@@ -30,4 +30,15 @@ SplineSet
  957 157 788 -19 534 -19 c 0
  364 -19 228 56 144 145 c 1xe8
 EndSplineSet
+Substitution2: "Single Substitution lookup 28 subtable" three.d
+Substitution2: "Single Substitution lookup 26 subtable" three.n
+Substitution2: "Single Substitution lookup 24 subtable" three.n
+Substitution2: "Single Substitution lookup 22 subtable" three.n
+Substitution2: "Single Substitution lookup 20 subtable" three.n
+Substitution2: "Single Substitution lookup 18 subtable" three.n
+Substitution2: "Single Substitution lookup 16 subtable" three.n
+Substitution2: "Single Substitution lookup 14 subtable" three.n
+Substitution2: "Single Substitution lookup 12 subtable" three.n
+Substitution2: "Single Substitution lookup 10 subtable" three.n
+Substitution2: "Single Substitution lookup 8 subtable" three.n
 EndChar

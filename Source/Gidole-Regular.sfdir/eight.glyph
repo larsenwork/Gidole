@@ -29,4 +29,15 @@ SplineSet
  690 121 801 222 801 391 c 0xf2
  801 560 690 661 534 661 c 0
 EndSplineSet
+Substitution2: "Single Substitution lookup 28 subtable" eight.d
+Substitution2: "Single Substitution lookup 26 subtable" eight.n
+Substitution2: "Single Substitution lookup 24 subtable" eight.n
+Substitution2: "Single Substitution lookup 22 subtable" eight.n
+Substitution2: "Single Substitution lookup 20 subtable" eight.n
+Substitution2: "Single Substitution lookup 18 subtable" eight.n
+Substitution2: "Single Substitution lookup 16 subtable" eight.n
+Substitution2: "Single Substitution lookup 14 subtable" eight.n
+Substitution2: "Single Substitution lookup 12 subtable" eight.n
+Substitution2: "Single Substitution lookup 10 subtable" eight.n
+Substitution2: "Single Substitution lookup 8 subtable" eight.n
 EndChar

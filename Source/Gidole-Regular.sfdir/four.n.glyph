@@ -1,9 +1,9 @@
 StartChar: four.n
 Encoding: 1114126 -1 516
-Width: 720
+Width: 700
 Flags: W
-HStem: 662 21G<441 573> 827 118<242 441 573 637>
-VStem: 441 132<662 827 945 1109>
+HStem: 662 21G<431 563> 827 118<232 431 563 627>
+VStem: 431 132<662 827 945 1109>
 LayerCount: 2
 Back
 Fore
