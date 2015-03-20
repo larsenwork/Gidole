@@ -1,14 +1,14 @@
 StartChar: onequarter
 Encoding: 188 188 342
 GlifName: onequarter
-Width: 1237
+Width: 1327
 Flags: W
-HStem: 0 21G<925 1057> 165 118<726 925 1057 1121> 789 21G<306 438>
-VStem: 306 132<789 1389> 925 132<0 165 283 447>
+HStem: 0 21G<1015 1147> 165 118<816 1015 1147 1211> 662 21G<256 388>
+VStem: 256 132<662 1262> 1015 132<0 165 283 447>
 LayerCount: 2
 Back
 Fore
-Refer: 496 -1 N 1 0 0 1 484 0 2
-Refer: 493 -1 S 1 0 0 1 -50 789 2
-Refer: 121 8260 N 1 0 0 1 65 63 2
+Refer: 121 8260 N 1 0 0 1 510 0 2
+Refer: 496 -1 S 1 0 0 1 574 0 2
+Refer: 493 -1 N 1 0 0 1 -10 662 2
 EndChar

@@ -1,0 +1,296 @@
+@figures = [
+    zero
+    one
+    two
+    three
+    four
+    five
+    six
+    seven
+    eight
+    nine
+];
+@numerators = [
+    zero.n
+    one.n
+    two.n
+    three.n
+    four.n
+    five.n
+    six.n
+    seven.n
+    eight.n
+    nine.n
+];
+@denominators = [
+    zero.d
+    one.d
+    two.d
+    three.d
+    four.d
+    five.d
+    six.d
+    seven.d
+    eight.d
+    nine.d
+];
+
+feature frac {
+
+   lookup FractionBar {
+        ignore sub slash
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            slash';
+        ignore sub slash'
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            slash;
+        ignore sub slash
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            slash';
+        ignore sub slash'
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            slash;
+        ignore sub slash
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            slash';
+        ignore sub slash'
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            slash;
+        ignore sub slash
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            slash';
+        ignore sub slash'
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            slash;
+        ignore sub slash
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            slash';
+        ignore sub slash'
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            slash;
+        ignore sub slash
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            slash';
+        ignore sub slash'
+            @figures
+            @figures
+            @figures
+            @figures
+            @figures
+            slash;
+        ignore sub slash
+            @figures
+            @figures
+            @figures
+            @figures
+            slash';
+        ignore sub slash'
+            @figures
+            @figures
+            @figures
+            @figures
+            slash;
+        ignore sub slash
+            @figures
+            @figures
+            @figures
+            slash';
+        ignore sub slash'
+            @figures
+            @figures
+            @figures
+            slash;
+        ignore sub slash
+            @figures
+            @figures
+            slash';
+        ignore sub slash'
+            @figures
+            @figures
+            slash;
+        ignore sub slash
+            @figures
+            slash';
+        ignore sub slash'
+            @figures
+            slash;
+        sub @figures slash' @figures by fraction;
+   } FractionBar;
+
+   lookup Numerator1 {
+        sub @figures'
+        fraction by @numerators;
+   } Numerator1;
+
+   lookup Numerator2 {
+        sub @figures'
+        @numerators
+        fraction by @numerators;
+   } Numerator2;
+
+   lookup Numerator3 {
+        sub @figures'
+        @numerators
+        @numerators
+        fraction by @numerators;
+   } Numerator3;
+
+   lookup Numerator4 {
+        sub @figures'
+        @numerators
+        @numerators
+        @numerators
+        fraction by @numerators;
+   } Numerator4;
+
+   lookup Numerator5 {
+        sub @figures'
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        fraction by @numerators;
+   } Numerator5;
+
+   lookup Numerator6 {
+        sub @figures'
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        fraction by @numerators;
+   } Numerator6;
+
+   lookup Numerator7 {
+        sub @figures'
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        fraction by @numerators;
+   } Numerator7;
+
+   lookup Numerator8 {
+        sub @figures'
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        fraction by @numerators;
+   } Numerator8;
+
+   lookup Numerator9 {
+        sub @figures'
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        fraction by @numerators;
+   } Numerator9;
+
+   lookup Numerator10 {
+        sub @figures'
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        @numerators
+        fraction by @numerators;
+   } Numerator10;
+
+   lookup Denominator {
+        sub [fraction @denominators]
+        @figures' by @denominators;
+   } Denominator;
+
+   sub @figures space' @numerators by thinspace;
+
+} frac;

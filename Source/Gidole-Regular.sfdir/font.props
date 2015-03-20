@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1426824643
+ModificationTime: 1426858226
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -105,7 +105,7 @@ KernClass2: 74 58 "'kern' 0-1"
  15 eogonek uni1EB9
  14 f longs florin
  15 g q aogonek.alt
- 35 a.alt u.alt uogonek.alt uni1EE5.alt
+ 29 a.alt u.alt uogonek.alt six.n
  45 gcircumflex gbreve gdotaccent uni0123 uni01F5
  209 agrave.alt aacute.alt acircumflex.alt atilde.alt adieresis.alt aring.alt amacron.alt abreve.alt ugrave.alt uacute.alt ucircumflex.alt udieresis.alt utilde.alt umacron.alt ubreve.alt uring.alt uhungarumlaut.alt
  1 i
@@ -173,7 +173,7 @@ KernClass2: 74 58 "'kern' 0-1"
  5 l.alt
  15 uni0163 uni1E6D
  4 tbar
- 47 u uogonek uni1EE5 u.alt uogonek.alt uni1EE5.alt
+ 41 u uogonek uni1EE5 u.alt uogonek.alt six.n
  93 ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uni0215 uni0217
  1 v
  7 y y.alt
@@ -207,7 +207,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 7882 14 11
+WinInfo: 7868 14 11
 BeginPrivate: 6
 BlueValues 17 [-41 0 1366 1378]
 BlueShift 1 0
