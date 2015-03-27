@@ -1,8 +1,9 @@
 StartChar: uniFEFF
-Encoding: 65279 65279 511
+Encoding: 520 65279 511
 Width: 0
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
+Layer: 2
 EndChar

@@ -1,0 +1,13 @@
+StartChar: two.tab
+Encoding: 591 -1 591
+Width: 1068
+Flags: W
+HStem: 0 140<334 942> 1295 140<330.321 641.445>
+VStem: 744 156<883.397 1189.2>
+LayerCount: 4
+Back
+Fore
+Refer: 4 50 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+EndChar

@@ -8,7 +8,7 @@ VStem: 100 150<242.001 839.569> 780 150<0 117 241.242 840.758 967 1082>
 AnchorPoint: "Top" 495 1082 basechar 0
 AnchorPoint: "Bottom" 855 0 basechar 0
 AnchorPoint: "Center" 495 1062 basechar 0
-LayerCount: 2
+LayerCount: 4
 Back
 Fore
 SplineSet
@@ -34,5 +34,7 @@ SplineSet
  622 1098 710 1053 780 967 c 1
  780 1082 l 1
 EndSplineSet
+Layer: 2
+Layer: 3
 AlternateSubs2: "'salt' 0-1" aAlt
 EndChar

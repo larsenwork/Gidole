@@ -7,8 +7,10 @@ Flags: W
 HStem: 431 220<139.109 320.891>
 VStem: 120 220<450.109 631.891>
 AnchorPoint: "Center" -65 541 mark 0
-LayerCount: 2
+LayerCount: 4
 Back
 Fore
 Refer: 1 46 N 1 0 0 1 0 447 2
+Layer: 2
+Layer: 3
 EndChar

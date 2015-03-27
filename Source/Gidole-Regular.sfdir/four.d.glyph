@@ -1,10 +1,10 @@
 StartChar: four.d
-Encoding: 1114116 -1 496
+Encoding: 525 -1 496
 Width: 700
 Flags: W
 HStem: 0 21G<431 563> 165 118<232 431 563 627>
 VStem: 431 132<0 165 283 447>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -25,4 +25,5 @@ SplineSet
  563 283 l 5
  627 283 l 5
 EndSplineSet
+Layer: 2
 EndChar

@@ -1,11 +1,11 @@
 StartChar: nine
-Encoding: 57 57 11
+Encoding: 25 57 11
 GlifName: nine
 Width: 1068
 Flags: W
 HStem: 0 21G<355 536.28> 525 130<395.773 637.29> 1295 140<391.456 676.544>
 VStem: 116 156<783.42 1165.76> 796 156<783.46 1165.76>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -24,6 +24,8 @@ SplineSet
  678 655 796 767 796 975 c 4
  796 1183 678 1295 534 1295 c 4
 EndSplineSet
+Layer: 2
+Substitution2: "'tnum' Tabular Numbers lookup 33-1" nine.tab
 Substitution2: "Single Substitution lookup 28 subtable" nine.d
 Substitution2: "Single Substitution lookup 26 subtable" nine.n
 Substitution2: "Single Substitution lookup 24 subtable" nine.n

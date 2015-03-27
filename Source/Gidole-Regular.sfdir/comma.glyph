@@ -1,11 +1,11 @@
 StartChar: comma
-Encoding: 44 44 39
+Encoding: 12 44 39
 GlifName: comma
 Width: 460
 Flags: W
 HStem: -250 454<185.391 225>
 VStem: 120 220<4.77377 184.891>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -18,4 +18,5 @@ SplineSet
  147 7 120 45 120 94 c 4
  120 159 165 204 230 204 c 4
 EndSplineSet
+Layer: 2
 EndChar

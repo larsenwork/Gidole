@@ -1,25 +1,26 @@
 StartChar: lessequal
-Encoding: 8804 8804 117
+Encoding: 517 8804 117
 GlifName: lessequal
-Width: 980
+Width: 1020
 Flags: W
-HStem: 264 134<140 840>
-LayerCount: 2
+HStem: 264 134<160 860>
+LayerCount: 3
 Back
 Fore
 SplineSet
-785 1144 m 5
- 837 1018 l 5
- 329 811 l 5
- 837 604 l 5
- 785 478 l 5
- 140 750 l 5
- 140 872 l 5
- 785 1144 l 5
-140 398 m 5
- 840 398 l 5
- 840 264 l 5
- 140 264 l 5
- 140 398 l 5
+805 1144 m 5
+ 857 1018 l 5
+ 349 811 l 5
+ 857 604 l 5
+ 805 478 l 5
+ 160 750 l 5
+ 160 872 l 5
+ 805 1144 l 5
+160 398 m 5
+ 860 398 l 5
+ 860 264 l 5
+ 160 264 l 5
+ 160 398 l 5
 EndSplineSet
+Layer: 2
 EndChar

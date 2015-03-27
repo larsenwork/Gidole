@@ -1,25 +1,27 @@
 StartChar: L
-Encoding: 76 76 23
+Encoding: 44 76 23
 GlifName: L_
-Width: 962
+Width: 940
 Flags: W
-HStem: 0 140<312 876>
-VStem: 156 156<140 1416>
-AnchorPoint: "DoubleTop" 2 0 basechar 0
-AnchorPoint: "Apos" 476 1416 basechar 0
-AnchorPoint: "Bottom" 517 0 basechar 0
-AnchorPoint: "Center" 312 722 basechar 0
-AnchorPoint: "Top" 235 1416 basechar 0
-LayerCount: 2
+HStem: 0 140<316 880>
+VStem: 160 156<140 1416>
+AnchorPoint: "DoubleTop" 6 0 basechar 0
+AnchorPoint: "Apos" 480 1416 basechar 0
+AnchorPoint: "Bottom" 521 0 basechar 0
+AnchorPoint: "Center" 316 722 basechar 0
+AnchorPoint: "Top" 239 1416 basechar 0
+LayerCount: 4
 Back
 Fore
 SplineSet
-156 1416 m 5
- 312 1416 l 5
- 312 140 l 5
- 876 140 l 5
- 876 0 l 5
- 156 0 l 5
- 156 1416 l 5
+160 1416 m 5
+ 316 1416 l 5
+ 316 140 l 5
+ 880 140 l 5
+ 880 0 l 5
+ 160 0 l 5
+ 160 1416 l 5
 EndSplineSet
+Layer: 2
+Layer: 3
 EndChar

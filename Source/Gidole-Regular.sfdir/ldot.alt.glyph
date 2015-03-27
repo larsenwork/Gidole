@@ -1,11 +1,11 @@
 StartChar: ldot.alt
-Encoding: 1114164 -1 554
+Encoding: 573 -1 554
 Width: 814
 VWidth: 0
 Flags: W
 HStem: -16 134<316.938 385> 614 220<493.109 674.891>
 VStem: 140 150<138.078 1496> 474 220<633.109 814.891>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -25,4 +25,5 @@ SplineSet
  519 614 474 659 474 724 c 4
  474 789 519 834 584 834 c 4
 EndSplineSet
+Layer: 2
 EndChar

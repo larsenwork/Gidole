@@ -1,5 +1,5 @@
 StartChar: ring
-Encoding: 730 730 196
+Encoding: 334 730 196
 GlifName: ring
 Width: 618
 VWidth: 0
@@ -7,7 +7,7 @@ Flags: W
 HStem: 1012 106<231.491 386.509> 1312 106<231.491 386.509>
 VStem: 100 118<1129.94 1300.06> 400 118<1129.94 1300.06>
 AnchorPoint: "Center" 309 1082 mark 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -22,4 +22,5 @@ SplineSet
  184 1012 100 1103 100 1215 c 4
  100 1327 184 1418 309 1418 c 4
 EndSplineSet
+Layer: 2
 EndChar

@@ -1,5 +1,5 @@
 StartChar: Xi
-Encoding: 926 926 442
+Encoding: 358 926 442
 GlifName: X_i
 Width: 989
 VWidth: 0
@@ -10,7 +10,7 @@ AnchorPoint: "Apos" -27 0 basechar 0
 AnchorPoint: "Center" -27 0 basechar 0
 AnchorPoint: "Bottom" 495 0 basechar 0
 AnchorPoint: "Top" 495 1364 basechar 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -30,4 +30,5 @@ SplineSet
  126 1276 l 1
  126 1416 l 1
 EndSplineSet
+Layer: 2
 EndChar

@@ -4,8 +4,10 @@ GlifName: minus
 Width: 1024
 Flags: W
 HStem: 472 134<100 924>
-LayerCount: 2
+LayerCount: 4
 Back
 Fore
 Refer: 92 8211 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
 EndChar

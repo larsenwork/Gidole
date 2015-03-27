@@ -1,12 +1,13 @@
 StartChar: quotesinglbase
-Encoding: 8218 8218 108
+Encoding: 460 8218 108
 GlifName: quotesinglbase
 Width: 420
 Flags: W
 HStem: -220 424<165.391 205>
 VStem: 100 220<4.36516 184.891>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
-Refer: 85 8217 S 1 0 0 1 0 -1226 2
+Refer: 85 8217 S 1 0 0 1 0 -1308 2
+Layer: 2
 EndChar

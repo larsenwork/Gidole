@@ -1,27 +1,28 @@
 StartChar: lozenge
-Encoding: 9674 9674 406
+Encoding: 519 9674 406
 GlifName: lozenge
-Width: 916
+Width: 996
 VWidth: 0
 Flags: W
-HStem: -38 21G<379.455 536.545>
-LayerCount: 2
+HStem: 0 21G<418.672 577.328>
+LayerCount: 3
 Back
 Fore
 SplineSet
-390 1120 m 1
- 526 1120 l 1
- 816 570 l 1
- 816 512 l 1
- 526 -38 l 1
- 390 -38 l 1
- 100 512 l 1
- 100 570 l 1
- 390 1120 l 1
-458 954 m 5
- 251 541 l 1
- 458 128 l 1
- 665 541 l 1
- 458 954 l 5
+430 1082 m 1
+ 566 1082 l 1
+ 856 570 l 1
+ 856 512 l 1
+ 566 0 l 1
+ 430 0 l 1
+ 140 512 l 1
+ 140 570 l 1
+ 430 1082 l 1
+498 916 m 1
+ 291 541 l 1
+ 498 166 l 1
+ 705 541 l 1
+ 498 916 l 1
 EndSplineSet
+Layer: 2
 EndChar

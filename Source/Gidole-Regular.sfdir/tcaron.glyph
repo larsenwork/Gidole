@@ -1,14 +1,15 @@
 StartChar: tcaron
-Encoding: 357 357 283
+Encoding: 290 357 283
 GlifName: tcaron
-Width: 1063
+Width: 956
 VWidth: 0
 Flags: W
-HStem: -16 134<395.657 604.948> 958 124<80 230 380 580> 1084 424<808.391 848>
-VStem: 230 150<174.027 958 1082 1316> 743 220<1308.37 1488.89>
-LayerCount: 2
+HStem: -16 134<335.721 544.948> 958 124<20 170 320 520> 1166 424<681.391 721>
+VStem: 170 150<174.027 958 1082 1316> 616 220<1390.37 1570.89>
+LayerCount: 3
 Back
 Fore
-Refer: 404 700 N 1 0 0 1 643 78 2
+Refer: 404 700 N 1 0 0 1 516 78 2
 Refer: 64 116 N 1 0 0 1 0 0 2
+Layer: 2
 EndChar

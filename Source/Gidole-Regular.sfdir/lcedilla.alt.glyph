@@ -1,11 +1,11 @@
 StartChar: lcedilla.alt
-Encoding: 1114162 -1 552
+Encoding: 571 -1 552
 Width: 430
 VWidth: 0
 Flags: W
 HStem: -16 134<316.938 385>
 VStem: 140 193<-299.736 -139.338> 140 150<138.078 1496>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -28,4 +28,5 @@ SplineSet
  140 -165 183 -125 236 -125 c 4
  289 -125 333 -165 333 -220 c 4xc0
 EndSplineSet
+Layer: 2
 EndChar

@@ -4,8 +4,10 @@ GlifName: nu
 Width: 950
 Flags: W
 HStem: 0 21G<396.29 553.71>
-LayerCount: 2
+LayerCount: 4
 Back
 Fore
 Refer: 45 118 S 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
 EndChar

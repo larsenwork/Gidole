@@ -1,29 +1,30 @@
 StartChar: arrowupdn
-Encoding: 8597 8597 416
+Encoding: 504 8597 416
 GlifName: arrowupdn
-Width: 1186
+Width: 1266
 Flags: W
-VStem: 518 150<-10 1090>
-LayerCount: 2
+VStem: 558 150<-10 1090>
+LayerCount: 3
 Back
 Fore
 SplineSet
-1034 307 m 5
- 1126 201 l 5
- 645 -216 l 5
- 541 -216 l 5
- 60 201 l 5
- 152 307 l 5
- 518 -10 l 5
- 518 1090 l 5
- 152 773 l 5
- 60 879 l 5
- 541 1296 l 5
- 645 1296 l 5
- 1126 879 l 5
- 1034 773 l 5
- 668 1090 l 5
- 668 -10 l 5
- 1034 307 l 5
+1074 307 m 1
+ 1166 201 l 1
+ 685 -216 l 1
+ 581 -216 l 1
+ 100 201 l 1
+ 192 307 l 1
+ 558 -10 l 1
+ 558 1090 l 1
+ 192 773 l 1
+ 100 879 l 1
+ 581 1296 l 1
+ 685 1296 l 1
+ 1166 879 l 1
+ 1074 773 l 1
+ 708 1090 l 1
+ 708 -10 l 1
+ 1074 307 l 1
 EndSplineSet
+Layer: 2
 EndChar

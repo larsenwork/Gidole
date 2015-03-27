@@ -1,10 +1,10 @@
 StartChar: backslash
-Encoding: 92 92 66
+Encoding: 60 92 66
 GlifName: backslash
 Width: 890
 VWidth: 0
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -14,4 +14,5 @@ SplineSet
  657 -90 l 1
  86 1416 l 1
 EndSplineSet
+Layer: 2
 EndChar

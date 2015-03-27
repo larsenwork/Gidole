@@ -1,25 +1,26 @@
 StartChar: l
-Encoding: 108 108 50
+Encoding: 76 108 50
 GlifName: l
-Width: 430
+Width: 440
 VWidth: 0
 Flags: W
-HStem: 0 21G<140 290>
-VStem: 140 150<0 1496>
-AnchorPoint: "DoubleTop" 22 0 basechar 0
-AnchorPoint: "Center" 290 722 basechar 0
-AnchorPoint: "Apos" 389 1496 basechar 0
-AnchorPoint: "Bottom" 215 0 basechar 0
-AnchorPoint: "Top" 215 1456 basechar 0
-LayerCount: 2
+HStem: 0 21G<145 295>
+VStem: 145 150<0 1496>
+AnchorPoint: "DoubleTop" 27 0 basechar 0
+AnchorPoint: "Center" 295 722 basechar 0
+AnchorPoint: "Apos" 394 1496 basechar 0
+AnchorPoint: "Bottom" 220 0 basechar 0
+AnchorPoint: "Top" 220 1456 basechar 0
+LayerCount: 3
 Back
 Fore
 SplineSet
-290 0 m 5
- 140 0 l 5
- 140 1496 l 5
- 290 1496 l 5
- 290 0 l 5
+295 0 m 5
+ 145 0 l 5
+ 145 1496 l 5
+ 295 1496 l 5
+ 295 0 l 5
 EndSplineSet
+Layer: 2
 Substitution2: "'ss04' Style Set 4 lookup 3 subtable" l.alt
 EndChar

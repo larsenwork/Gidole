@@ -4,7 +4,7 @@ GlifName: seven
 Width: 1068
 Flags: W
 HStem: 0 21G<250 425.245> 1276 140<106 777>
-LayerCount: 2
+LayerCount: 4
 Back
 Fore
 SplineSet
@@ -17,4 +17,6 @@ SplineSet
  777 1276 l 5
  106 1276 l 5
 EndSplineSet
+Layer: 2
+Layer: 3
 EndChar

@@ -1,23 +1,24 @@
 StartChar: arrowleft
-Encoding: 8592 8592 411
+Encoding: 499 8592 411
 GlifName: arrowleft
-Width: 1140
+Width: 1220
 Flags: W
-HStem: 474 134<292 1060>
-LayerCount: 2
+HStem: 474 134<332 1100>
+LayerCount: 3
 Back
 Fore
 SplineSet
-614 100 m 1
- 508 8 l 1
- 80 500 l 1
- 80 582 l 1
- 508 1074 l 1
- 614 982 l 1
- 292 608 l 1
- 1060 608 l 5
- 1060 474 l 5
- 292 474 l 1
- 614 100 l 1
+654 100 m 1
+ 548 8 l 1
+ 120 500 l 1
+ 120 582 l 1
+ 548 1074 l 1
+ 654 982 l 1
+ 332 608 l 1
+ 1100 608 l 5
+ 1100 474 l 5
+ 332 474 l 1
+ 654 100 l 1
 EndSplineSet
+Layer: 2
 EndChar

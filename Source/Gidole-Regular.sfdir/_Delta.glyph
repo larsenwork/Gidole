@@ -1,11 +1,12 @@
 StartChar: Delta
-Encoding: 8710 8710 392
+Encoding: 506 8710 392
 GlifName: D_elta
 Width: 1170
 Flags: W
 HStem: 0 140<240 930>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 425 916 N 1 0 0 1 0 0 2
+Layer: 2
 EndChar

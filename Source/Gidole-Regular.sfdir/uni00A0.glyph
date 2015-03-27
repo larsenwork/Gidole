@@ -1,9 +1,10 @@
 StartChar: uni00A0
-Encoding: 160 160 126
+Encoding: 95 160 126
 GlifName: uni00A_0
 Width: 550
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
+Layer: 2
 EndChar

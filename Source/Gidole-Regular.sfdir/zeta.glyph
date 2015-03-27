@@ -1,11 +1,11 @@
 StartChar: zeta
-Encoding: 950 950 485
+Encoding: 381 950 485
 GlifName: zeta
 Width: 881
 Flags: W
 HStem: 1229 135<123 563>
 VStem: 113 143<222.051 576.744> 637 143<-218.387 -45.5798>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -38,4 +38,5 @@ SplineSet
  774 -64 780 -102 780 -139 c 0
  780 -180 770 -217 760 -252 c 1
 EndSplineSet
+Layer: 2
 EndChar

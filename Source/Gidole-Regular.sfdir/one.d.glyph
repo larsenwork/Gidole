@@ -1,11 +1,11 @@
 StartChar: one.d
-Encoding: 1114113 -1 493
+Encoding: 522 -1 493
 Width: 508
 VWidth: 0
 Flags: W
 HStem: 0 21G<266 398>
 VStem: 266 132<0 600>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -18,4 +18,5 @@ SplineSet
  398 754 l 5
  398 0 l 5
 EndSplineSet
+Layer: 2
 EndChar

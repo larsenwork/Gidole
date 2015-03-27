@@ -1,10 +1,10 @@
 StartChar: five.d
-Encoding: 1114117 -1 497
+Encoding: 526 -1 497
 Width: 700
 Flags: W
 HStem: -12 118<198.624 448.74> 363 118<251.11 446.741> 636 118<250 554>
 VStem: 118 132<449 636> 478 132<136.219 331.33>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -25,4 +25,5 @@ SplineSet
  118 754 l 5
  554 754 l 5
 EndSplineSet
+Layer: 2
 EndChar

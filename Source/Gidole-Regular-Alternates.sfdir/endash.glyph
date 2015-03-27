@@ -4,7 +4,7 @@ GlifName: endash
 Width: 1024
 Flags: W
 HStem: 472 134<100 924>
-LayerCount: 2
+LayerCount: 4
 Back
 Fore
 SplineSet
@@ -14,4 +14,6 @@ SplineSet
  924 472 l 5
  100 472 l 5
 EndSplineSet
+Layer: 2
+Layer: 3
 EndChar

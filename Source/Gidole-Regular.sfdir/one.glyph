@@ -1,23 +1,25 @@
 StartChar: one
-Encoding: 49 49 3
+Encoding: 17 49 3
 GlifName: one
-Width: 750
+Width: 718
 Flags: W
-HStem: 0 21G<398 554>
-VStem: 398 156<0 1235>
-LayerCount: 2
+HStem: 0 21G<362 518>
+VStem: 362 156<0 1235>
+LayerCount: 3
 Back
 Fore
 SplineSet
-554 0 m 5
- 398 0 l 5
- 398 1235 l 5
- 201 1133 l 5
- 136 1261 l 5
- 436 1416 l 5
- 554 1416 l 5
- 554 0 l 5
+518 0 m 5
+ 362 0 l 5
+ 362 1235 l 5
+ 165 1133 l 5
+ 100 1261 l 5
+ 400 1416 l 5
+ 518 1416 l 5
+ 518 0 l 5
 EndSplineSet
+Layer: 2
+Substitution2: "'tnum' Tabular Numbers lookup 33-1" one.tab
 Substitution2: "Single Substitution lookup 28 subtable" one.d
 Substitution2: "Single Substitution lookup 26 subtable" one.n
 Substitution2: "Single Substitution lookup 24 subtable" one.n

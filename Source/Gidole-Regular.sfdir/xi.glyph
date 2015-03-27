@@ -1,11 +1,11 @@
 StartChar: xi
-Encoding: 958 958 486
+Encoding: 389 958 486
 GlifName: xi
 Width: 881
 Flags: W
 HStem: 258 533<150 645>
 VStem: 150 495<258 791>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -15,4 +15,5 @@ SplineSet
  150 258 l 1
  150 791 l 1
 EndSplineSet
+Layer: 2
 EndChar

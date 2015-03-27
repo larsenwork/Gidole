@@ -3,8 +3,10 @@ Encoding: 187 187 127
 GlifName: guillemotright
 Width: 902
 Flags: W
-LayerCount: 2
+LayerCount: 4
 Back
 Fore
 Refer: 128 171 S -1 0 0 -1 902 1078 2
+Layer: 2
+Layer: 3
 EndChar

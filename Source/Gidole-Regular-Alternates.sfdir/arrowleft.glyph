@@ -4,7 +4,7 @@ GlifName: arrowleft
 Width: 1140
 Flags: W
 HStem: 474 134<292 1060>
-LayerCount: 2
+LayerCount: 4
 Back
 Fore
 SplineSet
@@ -20,4 +20,6 @@ SplineSet
  292 474 l 1
  614 100 l 1
 EndSplineSet
+Layer: 2
+Layer: 3
 EndChar

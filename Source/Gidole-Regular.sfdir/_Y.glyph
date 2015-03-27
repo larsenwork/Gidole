@@ -1,29 +1,30 @@
 StartChar: Y
-Encoding: 89 89 37
+Encoding: 57 89 37
 GlifName: Y_
-Width: 1062
+Width: 1042
 VWidth: 0
 Flags: W
-HStem: 0 21G<453 609>
-VStem: 453 156<0 506>
-AnchorPoint: "DoubleTop" -22 0 basechar 0
-AnchorPoint: "Apos" -22 0 basechar 0
-AnchorPoint: "Bottom" -1 0 basechar 0
-AnchorPoint: "Center" -1 0 basechar 0
-AnchorPoint: "Top" 531 1416 basechar 0
-LayerCount: 2
+HStem: 0 21G<443 599>
+VStem: 443 156<0 506>
+AnchorPoint: "DoubleTop" -32 0 basechar 0
+AnchorPoint: "Apos" -32 0 basechar 0
+AnchorPoint: "Bottom" -11 0 basechar 0
+AnchorPoint: "Center" -11 0 basechar 0
+AnchorPoint: "Top" 521 1416 basechar 0
+LayerCount: 3
 Back
 Fore
 SplineSet
-30 1416 m 1
- 199 1416 l 1
- 531 672 l 1
- 863 1416 l 1
- 1032 1416 l 1
- 609 506 l 1
- 609 0 l 1
- 453 0 l 1
- 453 506 l 1
- 30 1416 l 1
+20 1416 m 1
+ 189 1416 l 1
+ 521 672 l 1
+ 853 1416 l 1
+ 1022 1416 l 1
+ 599 506 l 1
+ 599 0 l 1
+ 443 0 l 1
+ 443 506 l 1
+ 20 1416 l 1
 EndSplineSet
+Layer: 2
 EndChar

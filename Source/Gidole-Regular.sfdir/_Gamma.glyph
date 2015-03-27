@@ -1,12 +1,14 @@
 StartChar: Gamma
-Encoding: 915 915 424
+Encoding: 347 915 424
 GlifName: G_amma
-Width: 962
+Width: 940
 Flags: W
-HStem: 1276 140<312 876>
-VStem: 156 156<0 1276>
-LayerCount: 2
+HStem: 1276 140<316 880>
+VStem: 160 156<0 1276>
+LayerCount: 4
 Back
 Fore
 Refer: 23 76 S 1 0 0 -1 0 1416 2
+Layer: 2
+Layer: 3
 EndChar

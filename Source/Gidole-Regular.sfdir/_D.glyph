@@ -1,34 +1,33 @@
 StartChar: D
-Encoding: 68 68 17
+Encoding: 36 68 17
 GlifName: D_
-Width: 1179
+Width: 1177
 Flags: W
-HStem: 0 140<312 688.909> 1276 140<312 688.909>
-VStem: 156 156<140 1276> 906 157<367.155 1048.83>
-AnchorPoint: "DoubleTop" -10 0 basechar 0
-AnchorPoint: "Apos" -10 0 basechar 0
-AnchorPoint: "Center" -20 0 basechar 0
-AnchorPoint: "Bottom" 557 0 basechar 0
-AnchorPoint: "Top" 563 1416 basechar 0
-LayerCount: 2
+HStem: 0 140<316 692.909> 1276 140<316 692.909>
+VStem: 160 156<140 1276> 910 157<367.155 1048.83>
+AnchorPoint: "Bottom" 561 0 basechar 0
+AnchorPoint: "Top" 567 1416 basechar 0
+LayerCount: 4
 Back
 Fore
 SplineSet
-384 1276 m 2
- 312 1276 l 1
- 312 140 l 1
- 384 140 l 2
- 529 140 690 140 796 262 c 0
- 906 389 906 538 906 707 c 0
- 906 878 906 1027 796 1154 c 0
- 690 1276 529 1276 384 1276 c 2
-385 1416 m 2
- 561 1416 763 1416 922 1237 c 0
- 1063 1078 1063 864 1063 708 c 0
- 1063 552 1063 338 922 179 c 0
- 763 0 561 0 385 0 c 2
- 156 0 l 1
- 156 1416 l 5
- 385 1416 l 2
+388 1276 m 2
+ 316 1276 l 1
+ 316 140 l 1
+ 388 140 l 2
+ 533 140 694 140 800 262 c 0
+ 910 389 910 538 910 707 c 0
+ 910 878 910 1027 800 1154 c 0
+ 694 1276 533 1276 388 1276 c 2
+389 1416 m 2
+ 565 1416 767 1416 926 1237 c 0
+ 1067 1078 1067 864 1067 708 c 0
+ 1067 552 1067 338 926 179 c 0
+ 767 0 565 0 389 0 c 2
+ 160 0 l 1
+ 160 1416 l 1
+ 389 1416 l 2
 EndSplineSet
+Layer: 2
+Layer: 3
 EndChar

@@ -1,5 +1,5 @@
 StartChar: l.alt
-Encoding: 1114160 -1 550
+Encoding: 569 -1 550
 Width: 430
 VWidth: 0
 Flags: W
@@ -9,7 +9,7 @@ AnchorPoint: "Center" 290 722 basechar 0
 AnchorPoint: "Apos" 389 1496 basechar 0
 AnchorPoint: "Bottom" 215 0 basechar 0
 AnchorPoint: "Top" 215 1456 basechar 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -24,4 +24,5 @@ SplineSet
  290 183 290 160 316 137 c 0
  336 119 356 118 385 118 c 1
 EndSplineSet
+Layer: 2
 EndChar

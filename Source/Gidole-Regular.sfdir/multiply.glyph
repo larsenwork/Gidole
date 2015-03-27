@@ -1,24 +1,25 @@
 StartChar: multiply
-Encoding: 215 215 346
+Encoding: 150 215 346
 GlifName: multiply
 Width: 970
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
-850 269 m 5
- 757 176 l 5
- 485 448 l 5
- 213 176 l 5
- 120 269 l 5
- 392 541 l 5
- 120 813 l 5
- 213 906 l 5
- 485 634 l 5
- 757 906 l 5
- 850 813 l 5
- 578 541 l 5
- 850 269 l 5
+840 279 m 1
+ 747 186 l 1
+ 485 448 l 1
+ 223 186 l 1
+ 130 279 l 1
+ 392 541 l 1
+ 130 803 l 5
+ 223 896 l 5
+ 485 634 l 1
+ 747 896 l 1
+ 840 803 l 1
+ 578 541 l 1
+ 840 279 l 1
 EndSplineSet
+Layer: 2
 EndChar

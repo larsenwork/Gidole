@@ -1,7 +1,7 @@
 StartChar: r
-Encoding: 114 114 61
+Encoding: 82 114 61
 GlifName: r
-Width: 715
+Width: 665
 Flags: W
 HStem: 0 21G<140 290> 964 134<382.903 618.521>
 VStem: 140 150<0 865.757 971 1082>
@@ -10,14 +10,14 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 0 0 basechar 0
 AnchorPoint: "Bottom" 214 0 basechar 0
 AnchorPoint: "Top" 445 1082 basechar 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
 535 1098 m 0
  573 1098 608 1093 645 1085 c 1
  618 952 l 5
- 584.01 959.857142857 546.90960396 964 515 964 c 0
+ 584.009765625 959.857421875 546.909179688 964 515 964 c 0
  437 964 377 927 341 876 c 0
  290 804 290 715 290 556 c 2
  290 0 l 1
@@ -27,4 +27,5 @@ SplineSet
  290 971 l 1
  348 1057 432 1098 535 1098 c 0
 EndSplineSet
+Layer: 2
 EndChar

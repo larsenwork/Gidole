@@ -1,12 +1,12 @@
 StartChar: zero
-Encoding: 48 48 2
+Encoding: 16 48 2
 GlifName: zero
 Width: 1068
 VWidth: 0
 Flags: W
 HStem: -19 140<380.406 687.594> 1295 140<380.406 687.594>
 VStem: 116 156<242.808 1173.19> 796 156<242.808 1173.19>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -29,6 +29,9 @@ SplineSet
  796 987 796 1137 719 1222 c 4
  679 1267 617 1295 534 1295 c 4
 EndSplineSet
+Layer: 2
+Substitution2: "'tnum' Tabular Numbers lookup 33-1" zero.tab
+Substitution2: "'zero' Slashed Zero lookup 31 subtable" zero.zero
 Substitution2: "Single Substitution lookup 28 subtable" zero.d
 Substitution2: "Single Substitution lookup 26 subtable" zero.n
 Substitution2: "Single Substitution lookup 24 subtable" zero.n

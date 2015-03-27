@@ -1,14 +1,16 @@
 StartChar: uni0136
-Encoding: 310 310 244
+Encoding: 243 310 244
 GlifName: uni0136
-Width: 1171
+Width: 1139
 VWidth: 0
 Flags: W
-HStem: -455 330<553.641 591> 0 21G<156 312 905.994 1105>
-VStem: 156 156<0 400 601 1416> 495 193<-299.736 -139.338>
-LayerCount: 2
+HStem: -455 330<557.641 595> 0 21G<160 316 909.994 1109>
+VStem: 160 156<0 400 601 1416> 499 193<-299.736 -139.338>
+LayerCount: 4
 Back
 Fore
-Refer: 403 806 N 1 0 0 1 395 0 2
+Refer: 403 806 N 1 0 0 1 399 0 2
 Refer: 34 75 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
 EndChar

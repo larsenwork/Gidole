@@ -1,0 +1,14 @@
+StartChar: zero.tab
+Encoding: 589 -1 589
+Width: 1068
+VWidth: 0
+Flags: W
+HStem: -19 140<380.406 687.594> 1295 140<380.406 687.594>
+VStem: 116 156<242.808 1173.19> 796 156<242.808 1173.19>
+LayerCount: 4
+Back
+Fore
+Refer: 2 48 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+EndChar

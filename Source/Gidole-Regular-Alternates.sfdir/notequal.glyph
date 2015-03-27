@@ -4,7 +4,7 @@ GlifName: notequal
 Width: 980
 Flags: W
 HStem: 314 134<140 840> 634 134<140 840>
-LayerCount: 2
+LayerCount: 4
 Back
 Fore
 SplineSet
@@ -15,4 +15,6 @@ SplineSet
  190 45 l 5
 EndSplineSet
 Refer: 82 61 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
 EndChar

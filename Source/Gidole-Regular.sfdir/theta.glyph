@@ -1,5 +1,5 @@
 StartChar: theta
-Encoding: 952 952 461
+Encoding: 383 952 461
 GlifName: theta
 Width: 1024
 VWidth: 0
@@ -11,7 +11,7 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Center" 0 0 basechar 0
 AnchorPoint: "Bottom" 532 0 basechar 0
 AnchorPoint: "Top" 0 0 basechar 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -43,4 +43,5 @@ SplineSet
  266 317 266 283 317 211 c 0
  358 154 430 123 512 123 c 0
 EndSplineSet
+Layer: 2
 EndChar

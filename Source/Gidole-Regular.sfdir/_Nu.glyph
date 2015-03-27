@@ -1,13 +1,15 @@
 StartChar: Nu
-Encoding: 925 925 438
+Encoding: 357 925 438
 GlifName: N_u
-Width: 1246
+Width: 1254
 VWidth: 0
 Flags: W
-HStem: 0 21G<156 312 922.067 1090>
-VStem: 156 156<0 1136> 934 156<280 1416>
-LayerCount: 2
+HStem: 0 21G<160 316 926.067 1094>
+VStem: 160 156<0 1136> 938 156<280 1416>
+LayerCount: 4
 Back
 Fore
 Refer: 33 78 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
 EndChar

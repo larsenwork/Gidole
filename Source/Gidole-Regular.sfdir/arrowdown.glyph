@@ -1,11 +1,12 @@
 StartChar: arrowdown
-Encoding: 8595 8595 414
+Encoding: 502 8595 414
 GlifName: arrowdown
-Width: 1186
+Width: 1266
 Flags: W
-VStem: 518 150<256 1032>
-LayerCount: 2
+VStem: 558 150<256 1032>
+LayerCount: 3
 Back
 Fore
-Refer: 412 8593 S -1 0 0 -1 1186 1082 2
+Refer: 412 8593 S -1 0 0 -1 1266 1082 2
+Layer: 2
 EndChar

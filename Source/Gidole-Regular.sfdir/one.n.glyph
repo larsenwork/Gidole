@@ -1,12 +1,13 @@
 StartChar: one.n
-Encoding: 1114123 -1 513
+Encoding: 532 -1 513
 Width: 508
 VWidth: 0
 Flags: W
 HStem: 662 21G<266 398>
 VStem: 266 132<662 1262>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 493 -1 S 1 0 0 1 0 662 2
+Layer: 2
 EndChar

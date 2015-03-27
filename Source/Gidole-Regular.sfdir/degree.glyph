@@ -1,12 +1,12 @@
 StartChar: degree
-Encoding: 176 176 150
+Encoding: 111 176 150
 GlifName: degree
 Width: 652
 VWidth: 0
 Flags: W
 HStem: 993 118<239.896 412.104> 1393 118<239.896 412.104>
 VStem: 80 132<1135.56 1368.44> 440 132<1135.56 1368.44>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -21,4 +21,5 @@ SplineSet
  173.512695312 993 80 1113.60449219 80 1252 c 4
  80 1390.39453125 173.512695312 1511 326 1511 c 4
 EndSplineSet
+Layer: 2
 EndChar

@@ -1,15 +1,16 @@
 StartChar: ytilde
-Encoding: 7929 7929 338
+Encoding: 441 7929 338
 GlifName: uni1E_F_9
 Width: 947
 VWidth: 0
 Flags: W
-HStem: 1224 124<487.899 636.017> 1304 124<312.203 460.101>
-VStem: 167 614
-LayerCount: 2
+HStem: 1224 124<494.843 630.411> 1304 124<317.645 452.748>
+VStem: 171 606
+LayerCount: 3
 Back
 Fore
-Refer: 182 732 N 1 0 0 1 67 0 2
+Refer: 182 732 N 1 0 0 1 65 2 2
 Refer: 69 121 N 1 0 0 1 0 0 3
+Layer: 2
 Substitution2: "'ss03' Style Set 3 lookup 2 subtable" ytilde.alt
 EndChar

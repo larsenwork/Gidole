@@ -1,22 +1,23 @@
 StartChar: quoteright
-Encoding: 8217 8217 85
+Encoding: 459 8217 85
 GlifName: quoteright
 Width: 420
 Flags: W
-HStem: 1006 424<165.391 205>
-VStem: 100 220<1230.37 1410.89>
-AnchorPoint: "Apos" 45 1366 mark 0
-LayerCount: 2
+HStem: 1088 424<165.391 205>
+VStem: 100 220<1312.37 1492.89>
+AnchorPoint: "Apos" 45 1448 mark 0
+LayerCount: 3
 Back
 Fore
 SplineSet
-210 1430 m 4
- 275 1430 320 1385 320 1320 c 4
- 320 1295 316 1279 295 1228 c 6
- 205 1006 l 5
- 107 1006 l 5
- 164 1219 l 5
- 127 1233 100 1271 100 1320 c 4
- 100 1385 145 1430 210 1430 c 4
+210 1512 m 4
+ 275 1512 320 1467 320 1402 c 4
+ 320 1377 316 1361 295 1310 c 6
+ 205 1088 l 5
+ 107 1088 l 5
+ 164 1301 l 5
+ 127 1315 100 1353 100 1402 c 4
+ 100 1467 145 1512 210 1512 c 4
 EndSplineSet
+Layer: 2
 EndChar

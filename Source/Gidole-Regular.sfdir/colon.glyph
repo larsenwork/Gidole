@@ -1,11 +1,11 @@
 StartChar: colon
-Encoding: 58 58 12
+Encoding: 26 58 12
 GlifName: colon
 Width: 460
 Flags: W
 HStem: -16 220<139.109 320.891> 881 220<139.109 320.891>
 VStem: 120 220<3.10925 184.891 900.109 1081.89>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -20,4 +20,5 @@ SplineSet
  165 881 120 926 120 991 c 4
  120 1056 165 1101 230 1101 c 4
 EndSplineSet
+Layer: 2
 EndChar

@@ -1,5 +1,5 @@
 StartChar: omega
-Encoding: 969 969 469
+Encoding: 400 969 469
 GlifName: omega
 Width: 1289
 VWidth: 0
@@ -11,7 +11,7 @@ AnchorPoint: "Bottom" 645 0 basechar 0
 AnchorPoint: "Center" 385 0 basechar 0
 AnchorPoint: "Apos" 385 0 basechar 0
 AnchorPoint: "DoubleTop" 385 0 basechar 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -34,4 +34,5 @@ SplineSet
  578 793 l 1
  713 793 l 1
 EndSplineSet
+Layer: 2
 EndChar

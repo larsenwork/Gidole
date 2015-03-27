@@ -1,13 +1,14 @@
 StartChar: circumflex
-Encoding: 710 710 142
+Encoding: 327 710 142
 GlifName: circumflex
 Width: 822
 Flags: W
 HStem: 1222 274
 VStem: 100 622
 AnchorPoint: "Top" 411 1082 mark 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 112 94 N 1 0 0 1 0 0 2
+Layer: 2
 EndChar

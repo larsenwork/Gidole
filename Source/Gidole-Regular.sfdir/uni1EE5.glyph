@@ -1,15 +1,17 @@
 StartChar: uni1EE5
-Encoding: 7909 7909 334
+Encoding: 437 7909 334
 GlifName: uni1E_E_5
-Width: 1030
+Width: 1050
 VWidth: 0
 Flags: W
-HStem: -385 220<444.109 625.891> -16 134<365.617 664.383>
-VStem: 120 150<220.243 1082> 425 220<-365.891 -184.109> 760 150<220.243 1082>
-LayerCount: 2
+HStem: -385 220<434.109 615.891> -16 134<375.617 674.383>
+VStem: 130 150<220.243 1082> 415 220<-365.891 -184.109> 770 150<220.243 1082>
+CounterMasks: 1 38
+LayerCount: 3
 Back
 Fore
-Refer: 402 803 N 1 0 0 1 305 0 2
+Refer: 402 803 N 1 0 0 1 295 0 2
 Refer: 65 117 N 1 0 0 1 0 0 3
+Layer: 2
 Substitution2: "'ss02' Style Set 2 lookup 1 subtable" uni1EE5.alt
 EndChar

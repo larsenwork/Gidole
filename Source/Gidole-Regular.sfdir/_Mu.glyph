@@ -1,13 +1,15 @@
 StartChar: Mu
-Encoding: 924 924 435
+Encoding: 356 924 435
 GlifName: M_u
-Width: 1446
+Width: 1454
 VWidth: 0
 Flags: W
-HStem: 0 21G<156 312 1134 1290>
-VStem: 156 156<0 1122> 1134 156<0 1122>
-LayerCount: 2
+HStem: 0 21G<160 316 1138 1294>
+VStem: 160 156<0 1122> 1138 156<0 1122>
+LayerCount: 4
 Back
 Fore
 Refer: 27 77 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
 EndChar

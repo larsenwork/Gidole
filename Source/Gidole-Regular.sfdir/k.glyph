@@ -1,7 +1,7 @@
 StartChar: k
-Encoding: 107 107 67
+Encoding: 75 107 67
 GlifName: k
-Width: 965
+Width: 955
 Flags: W
 HStem: 0 21G<140 290 720.327 915>
 VStem: 140 150<0 287 489 1496>
@@ -10,7 +10,7 @@ AnchorPoint: "Apos" 0 0 basechar 0
 AnchorPoint: "Top" -16 0 basechar 0
 AnchorPoint: "Center" -16 0 basechar 0
 AnchorPoint: "Bottom" 469 0 basechar 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -28,4 +28,5 @@ SplineSet
  140 0 l 5
  140 1496 l 5
 EndSplineSet
+Layer: 2
 EndChar

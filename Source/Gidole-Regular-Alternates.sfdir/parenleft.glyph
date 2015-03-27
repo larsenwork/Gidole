@@ -4,7 +4,7 @@ GlifName: parenleft
 Width: 619
 Flags: W
 VStem: 106 140<76.4363 1005.56>
-LayerCount: 2
+LayerCount: 4
 Back
 Fore
 SplineSet
@@ -20,4 +20,6 @@ SplineSet
  106 374 111 202 157 36 c 4
  208 -145 309 -314 463 -439 c 5
 EndSplineSet
+Layer: 2
+Layer: 3
 EndChar

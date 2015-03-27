@@ -1,9 +1,8 @@
 StartChar: aAlt
-Encoding: 57344 57344 490
+Encoding: -1 57344 490
 GlifName: aA_lt
 Width: 2048
-Flags: H
-LayerCount: 2
+LayerCount: 3
 Back
 SplineSet
 217.087890625 309.248046875 m 4
@@ -62,4 +61,5 @@ SplineSet
  -14.498046875 865.765625 l 5
 EndSplineSet
 Fore
+Layer: 2
 EndChar

@@ -1,12 +1,12 @@
 StartChar: pi
-Encoding: 960 960 380
+Encoding: 391 960 380
 GlifName: pi
 Width: 1160
 VWidth: 0
 Flags: W
 HStem: 0 21G<220 370 790 940> 948 134<80 220 370 790 940 1080>
 VStem: 220 150<0 948> 790 150<0 948>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -24,4 +24,5 @@ SplineSet
  80 948 l 1
  80 1082 l 1
 EndSplineSet
+Layer: 2
 EndChar

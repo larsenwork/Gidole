@@ -1,5 +1,5 @@
 StartChar: Psi
-Encoding: 936 936 443
+Encoding: 367 936 443
 GlifName: P_si
 Width: 1350
 VWidth: 0
@@ -12,7 +12,7 @@ AnchorPoint: "Bottom" 678 0 basechar 0
 AnchorPoint: "Center" 86 0 basechar 0
 AnchorPoint: "Apos" 86 0 basechar 0
 AnchorPoint: "DoubleTop" 86 0 basechar 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -38,4 +38,5 @@ SplineSet
  450 455 518 428 600 416 c 1
  600 1364 l 1
 EndSplineSet
+Layer: 2
 EndChar

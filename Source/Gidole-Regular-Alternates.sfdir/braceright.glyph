@@ -4,7 +4,7 @@ GlifName: braceright
 Width: 663
 Flags: W
 VStem: 262 140<-227.307 386.359 695.641 1309.31>
-LayerCount: 2
+LayerCount: 4
 Back
 Fore
 SplineSet
@@ -25,4 +25,6 @@ SplineSet
  262 35 252 102 252 174 c 4
  252 346 313 462 409 541 c 5
 EndSplineSet
+Layer: 2
+Layer: 3
 EndChar

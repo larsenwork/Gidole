@@ -1,12 +1,13 @@
 StartChar: quoteleft
-Encoding: 8216 8216 86
+Encoding: 458 8216 86
 GlifName: quoteleft
 Width: 420
 Flags: W
-HStem: 992 424<215 254.609>
-VStem: 100 220<1011.11 1191.63>
-LayerCount: 2
+HStem: 1072 424<215 254.609>
+VStem: 100 220<1091.11 1271.63>
+LayerCount: 3
 Back
 Fore
-Refer: 85 8217 S -1 0 0 -1 420 2422 2
+Refer: 85 8217 N -1 0 0 -1 420 2584 2
+Layer: 2
 EndChar

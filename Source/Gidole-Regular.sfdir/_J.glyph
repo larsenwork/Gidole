@@ -1,7 +1,7 @@
 StartChar: J
-Encoding: 74 74 22
+Encoding: 42 74 22
 GlifName: J_
-Width: 924
+Width: 928
 Flags: W
 HStem: -19 140<230.15 546.621>
 VStem: 632 156<206.37 1416>
@@ -10,7 +10,7 @@ AnchorPoint: "Apos" 2 0 basechar 0
 AnchorPoint: "Center" 2 0 basechar 0
 AnchorPoint: "Bottom" 385 0 basechar 0
 AnchorPoint: "Top" 710 1416 basechar 0
-LayerCount: 2
+LayerCount: 4
 Back
 Fore
 SplineSet
@@ -26,4 +26,6 @@ SplineSet
  632 260 632 337 632 434 c 2
  632 1416 l 1
 EndSplineSet
+Layer: 2
+Layer: 3
 EndChar

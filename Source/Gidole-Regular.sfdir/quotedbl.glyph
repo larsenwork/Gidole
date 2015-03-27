@@ -1,13 +1,14 @@
 StartChar: quotedbl
-Encoding: 34 34 89
+Encoding: 2 34 89
 GlifName: quotedbl
 Width: 720
 Flags: W
-HStem: 1006 424<111 209 431 529>
-VStem: 60 200<1044.25 1415.18> 111 98<1006 1092.65> 380 200<1044.25 1415.18> 431 98<1006 1092.65>
-LayerCount: 2
+HStem: 1006 424<151 249 471 569>
+VStem: 100 200<1044.25 1415.18> 151 98<1006 1092.65> 420 200<1044.25 1415.18> 471 98<1006 1092.65>
+LayerCount: 3
 Back
 Fore
 Refer: 94 39 N 1 0 0 1 320 0 2
 Refer: 94 39 N 1 0 0 1 0 0 2
+Layer: 2
 EndChar

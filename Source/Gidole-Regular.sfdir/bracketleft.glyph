@@ -1,23 +1,24 @@
 StartChar: bracketleft
-Encoding: 91 91 71
+Encoding: 59 91 71
 GlifName: bracketleft
-Width: 614
+Width: 612
 VWidth: 0
 Flags: W
-HStem: -456 124<296 488> 1414 124<296 488>
-VStem: 156 332<-456 -332 1414 1538> 156 140<-332 1414>
-LayerCount: 2
+HStem: -456 124<290 482> 1414 124<290 482>
+VStem: 150 332<-456 -332 1414 1538> 150 140<-332 1414>
+LayerCount: 3
 Back
 Fore
 SplineSet
-156 1538 m 5xe0
- 488 1538 l 5
- 488 1414 l 5xe0
- 296 1414 l 5
- 296 -332 l 5xd0
- 488 -332 l 5
- 488 -456 l 5
- 156 -456 l 5
- 156 1538 l 5xe0
+150 1538 m 5xe0
+ 482 1538 l 5
+ 482 1414 l 5xe0
+ 290 1414 l 5
+ 290 -332 l 5xd0
+ 482 -332 l 5
+ 482 -456 l 5
+ 150 -456 l 5
+ 150 1538 l 5xe0
 EndSplineSet
+Layer: 2
 EndChar

@@ -1,11 +1,11 @@
 StartChar: p
-Encoding: 112 112 62
+Encoding: 80 112 62
 GlifName: p
-Width: 1070
+Width: 1075
 Flags: W
 HStem: -16 134<406.127 704.457> 964 134<406.115 704.674>
 VStem: 140 150<-414 117 241.242 840.758 967 1082> 820 150<242.001 839.569>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -31,4 +31,5 @@ SplineSet
  140 1082 l 5
  290 1082 l 5
 EndSplineSet
+Layer: 2
 EndChar

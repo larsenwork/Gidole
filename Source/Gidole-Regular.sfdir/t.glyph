@@ -1,37 +1,35 @@
 StartChar: t
-Encoding: 116 116 64
+Encoding: 84 116 64
 GlifName: t
-Width: 681
+Width: 617
 Flags: W
-HStem: -16 134<395.657 604.948> 958 124<80 230 380 580>
-VStem: 230 150<174.027 958 1082 1316>
-AnchorPoint: "DoubleTop" -20 0 basechar 0
-AnchorPoint: "Apos" 688 1494 basechar 0
-AnchorPoint: "Top" 10 0 basechar 0
-AnchorPoint: "Center" 10 0 basechar 0
-AnchorPoint: "Bottom" 473 0 basechar 0
-LayerCount: 2
+HStem: -16 134<335.721 544.948> 958 124<20 170 320 520>
+VStem: 170 150<174.027 958 1082 1316>
+AnchorPoint: "Apos" 561 1494 basechar 0
+AnchorPoint: "Bottom" 395 0 basechar 0
+LayerCount: 3
 Back
 Fore
 SplineSet
-475 118 m 4
- 516 118 557 134 589 149 c 5
- 647 26 l 5
- 596 2 535 -16 475 -16 c 4
- 347 -16 264 64 240 150 c 4
- 230 186 230 208 230 340 c 6
- 230 958 l 5
- 80 958 l 5
- 80 1082 l 5
- 230 1082 l 5
- 230 1316 l 5
- 380 1316 l 5
- 380 1082 l 5
- 580 1082 l 5
- 580 958 l 5
- 380 958 l 5
- 380 380 l 6
- 380 211 380 195 389 173 c 4
- 404 135 438 118 475 118 c 4
+415 118 m 0
+ 456 118 497 134 529 149 c 1
+ 587 26 l 1
+ 536 2 475 -16 415 -16 c 0
+ 287 -16 205.147766285 53.9027212284 180 146 c 0
+ 170 182.62244898 170 205.387755102 170 340 c 2
+ 170 958 l 1
+ 20 958 l 1
+ 20 1082 l 1
+ 170 1082 l 1
+ 170 1316 l 1
+ 320 1316 l 1
+ 320 1082 l 1
+ 520 1082 l 1
+ 520 958 l 1
+ 320 958 l 1
+ 320 380 l 2
+ 320 211 320 195 329 173 c 0
+ 344 135 378 118 415 118 c 0
 EndSplineSet
+Layer: 2
 EndChar

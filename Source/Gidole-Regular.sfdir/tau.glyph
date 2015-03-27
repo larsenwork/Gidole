@@ -1,12 +1,12 @@
 StartChar: tau
-Encoding: 964 964 462
+Encoding: 395 964 462
 GlifName: tau
 Width: 896
 VWidth: 0
 Flags: W
 HStem: 948 134<80 373 523 816>
 VStem: 373 150<2 948>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -20,4 +20,5 @@ SplineSet
  523 2 l 1
  373 2 l 1
 EndSplineSet
+Layer: 2
 EndChar
