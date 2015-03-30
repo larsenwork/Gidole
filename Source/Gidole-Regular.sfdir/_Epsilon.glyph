@@ -1,9 +1,9 @@
 StartChar: Epsilon
-Encoding: 349 917 426
+Encoding: 917 917 426
 GlifName: E_psilon
 Width: 1060
 Flags: W
-HStem: 0 140<316 940> 652 140<316 860> 1276 140<316 940>
+HStem: 0 140<316 940> 652 140<316 850> 1276 140<316 940>
 VStem: 160 156<140 652 792 1276>
 LayerCount: 4
 Back

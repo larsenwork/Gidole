@@ -1,5 +1,5 @@
 StartChar: onequarter
-Encoding: 123 188 342
+Encoding: 188 188 342
 GlifName: onequarter
 Width: 1327
 Flags: W
@@ -9,7 +9,7 @@ LayerCount: 3
 Back
 Fore
 Refer: 121 8260 S 1 0 0 1 520 0 2
-Refer: 496 -1 S 1 0 0 1 584 0 2
-Refer: 493 -1 N 1 0 0 1 -10 662 2
+Refer: 495 -1 S 1 0 0 1 584 0 2
+Refer: 492 -1 N 1 0 0 1 -10 662 2
 Layer: 2
 EndChar

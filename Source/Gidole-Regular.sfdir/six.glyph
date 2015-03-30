@@ -1,5 +1,5 @@
 StartChar: six
-Encoding: 22 54 8
+Encoding: 54 54 8
 GlifName: six
 Width: 1068
 Flags: W
@@ -25,6 +25,8 @@ SplineSet
  462 883 512 891 564 891 c 4
 EndSplineSet
 Layer: 2
+Substitution2: "'sups' Superscript lookup 35-1" uni2076
+Substitution2: "'subs' Subscript lookup 34-1" uni2086
 Substitution2: "'tnum' Tabular Numbers lookup 33-1" six.tab
 Substitution2: "Single Substitution lookup 28 subtable" six.d
 Substitution2: "Single Substitution lookup 26 subtable" six.n

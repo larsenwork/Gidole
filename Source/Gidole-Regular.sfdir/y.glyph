@@ -1,5 +1,5 @@
 StartChar: y
-Encoding: 89 121 69
+Encoding: 121 121 69
 GlifName: y
 Width: 947
 Flags: W
@@ -12,15 +12,15 @@ LayerCount: 3
 Back
 Fore
 SplineSet
-452 -414 m 1
- 307 -414 l 1
- 432 -2 l 1
- 40 1082 l 1
- 197 1082 l 1
- 500 194 l 1
- 752 1082 l 1
- 907 1082 l 1
- 452 -414 l 1
+452 -414 m 5
+ 307 -414 l 5
+ 432 -2 l 5
+ 40 1082 l 5
+ 197 1082 l 5
+ 500 194 l 5
+ 752 1082 l 5
+ 907 1082 l 5
+ 452 -414 l 5
 EndSplineSet
 Layer: 2
 Substitution2: "'ss03' Style Set 3 lookup 2 subtable" y.alt

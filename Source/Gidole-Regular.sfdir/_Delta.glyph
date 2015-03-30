@@ -1,8 +1,8 @@
 StartChar: Delta
-Encoding: 506 8710 392
+Encoding: 8710 8710 392
 GlifName: D_elta
-Width: 1170
-Flags: W
+Width: 1150
+Flags: HW
 HStem: 0 140<240 930>
 LayerCount: 3
 Back

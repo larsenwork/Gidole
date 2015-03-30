@@ -1,5 +1,5 @@
 StartChar: seven
-Encoding: 23 55 9
+Encoding: 55 55 9
 GlifName: seven
 Width: 1068
 Flags: W
@@ -18,6 +18,8 @@ SplineSet
  106 1276 l 5
 EndSplineSet
 Layer: 2
+Substitution2: "'sups' Superscript lookup 35-1" uni2077
+Substitution2: "'subs' Subscript lookup 34-1" uni2087
 Substitution2: "'tnum' Tabular Numbers lookup 33-1" seven.tab
 Substitution2: "Single Substitution lookup 28 subtable" seven.d
 Substitution2: "Single Substitution lookup 26 subtable" seven.n

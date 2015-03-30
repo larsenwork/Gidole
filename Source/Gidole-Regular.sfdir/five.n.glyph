@@ -1,5 +1,5 @@
 StartChar: five.n
-Encoding: 536 -1 517
+Encoding: 1114127 -1 516
 Width: 700
 Flags: W
 HStem: 650 118<198.624 448.74> 1025 118<251.11 446.741> 1298 118<250 554>
@@ -7,6 +7,6 @@ VStem: 118 132<1111 1298> 478 132<798.219 993.33>
 LayerCount: 3
 Back
 Fore
-Refer: 497 -1 S 1 0 0 1 0 662 2
+Refer: 496 -1 S 1 0 0 1 0 662 2
 Layer: 2
 EndChar

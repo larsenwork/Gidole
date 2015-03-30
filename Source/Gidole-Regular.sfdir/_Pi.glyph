@@ -1,29 +1,24 @@
 StartChar: Pi
-Encoding: 360 928 439
+Encoding: 928 928 439
 GlifName: P_i
-Width: 1232
+Width: 1216
 VWidth: 0
 Flags: W
-HStem: 0 21G<156 312 920 1076> 1276 140<312 920>
-VStem: 156 156<0 1276> 920 156<0 1276>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Center" -10 0 basechar 0
-AnchorPoint: "Bottom" 604 0 basechar 0
-AnchorPoint: "Top" 604 1364 basechar 0
+HStem: 0 21G<160 316 904 1060> 1276 140<316 904>
+VStem: 160 156<0 1276> 904 156<0 1276>
 LayerCount: 3
 Back
 Fore
 SplineSet
-156 1416 m 5
- 1076 1416 l 5
- 1076 0 l 5
- 920 0 l 5
- 920 1276 l 5
- 312 1276 l 5
- 312 0 l 5
- 156 0 l 5
- 156 1416 l 5
+160 1416 m 1
+ 1060 1416 l 5
+ 1060 0 l 5
+ 904 0 l 5
+ 904 1276 l 5
+ 316 1276 l 1
+ 316 0 l 1
+ 160 0 l 1
+ 160 1416 l 1
 EndSplineSet
 Layer: 2
 EndChar

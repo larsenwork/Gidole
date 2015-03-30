@@ -1,5 +1,5 @@
 StartChar: tonos
-Encoding: 344 900 454
+Encoding: 900 900 454
 GlifName: tonos
 Width: 435
 Flags: W
@@ -10,11 +10,11 @@ LayerCount: 3
 Back
 Fore
 SplineSet
-334 1496 m 25
- 238 1222 l 1
- 112 1222 l 1
+334 1496 m 29
+ 238 1222 l 5
+ 112 1222 l 5
  164 1496 l 29
- 334 1496 l 25
+ 334 1496 l 29
 EndSplineSet
 Layer: 2
 EndChar

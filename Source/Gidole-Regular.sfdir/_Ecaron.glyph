@@ -1,10 +1,10 @@
 StartChar: Ecaron
-Encoding: 217 282 224
+Encoding: 282 282 224
 GlifName: E_caron
 Width: 1060
 VWidth: 0
 Flags: W
-HStem: 0 140<316 940> 652 140<316 860> 1276 140<316 940> 1556 274
+HStem: 0 140<316 940> 652 140<316 850> 1276 140<316 940> 1556 274
 VStem: 160 156<140 652 792 1276> 246 622
 LayerCount: 4
 Back

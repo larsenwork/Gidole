@@ -1,5 +1,5 @@
 StartChar: uni00B3
-Encoding: 114 179 419
+Encoding: 179 179 419
 GlifName: uni00B_3
 Width: 717
 VWidth: 0
@@ -9,6 +9,6 @@ VStem: 475 132<921.82 1090.48 1269.71 1404.24>
 LayerCount: 3
 Back
 Fore
-Refer: 495 -1 S 1 0 0 1 2 789 2
+Refer: 494 -1 S 1 0 0 1 2 789 2
 Layer: 2
 EndChar

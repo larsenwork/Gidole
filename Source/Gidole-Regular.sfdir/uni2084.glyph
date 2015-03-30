@@ -1,30 +1,13 @@
 StartChar: uni2084
-Encoding: 488 8324 583
+Encoding: 8324 8324 582
 Width: 700
 Flags: W
-HStem: 0 21G<431 563> 165 118<232 431 563 627>
-VStem: 431 132<0 165 283 447>
+HStem: -127 21G<431 563> 38 118<232 431 563 627>
+VStem: 431 132<-127 38 156 320>
 LayerCount: 4
 Back
 Fore
-SplineSet
-627 283 m 5
- 627 165 l 5
- 563 165 l 5
- 563 0 l 5
- 431 0 l 5
- 431 165 l 5
- 74 165 l 5
- 74 248 l 5
- 334 754 l 5
- 474 754 l 5
- 232 283 l 5
- 431 283 l 5
- 431 447 l 5
- 563 447 l 5
- 563 283 l 5
- 627 283 l 5
-EndSplineSet
+Refer: 495 -1 N 1 0 0 1 0 -127 2
 Layer: 2
 Layer: 3
 EndChar

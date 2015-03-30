@@ -1,20 +1,19 @@
 StartChar: Theta
-Encoding: 352 920 444
+Encoding: 920 920 444
 GlifName: T_heta
 Width: 1216
 Flags: W
-HStem: -19 140<432.945 783.055> 638 140<443 771> 1295 140<432.945 783.055>
+HStem: -19 140<432.945 783.055> 652 140<443 771> 1295 140<432.945 783.055>
 VStem: 110 156<311.742 1104.26> 950 156<311.742 1104.26>
-CounterMasks: 1 e0
 LayerCount: 4
 Back
 Fore
 SplineSet
-443 778 m 5
- 771 778 l 5
- 771 638 l 5
- 443 638 l 5
- 443 778 l 5
+443 792 m 5
+ 771 792 l 5
+ 771 652 l 5
+ 443 652 l 5
+ 443 792 l 5
 EndSplineSet
 Refer: 16 79 N 1 0 0 1 0 0 2
 Layer: 2

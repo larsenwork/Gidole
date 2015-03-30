@@ -1,5 +1,5 @@
 StartChar: ft
-Encoding: 587 -1 571
+Encoding: 1114178 -1 570
 Width: 1192
 Flags: W
 HStem: -16 134<910.721 1119.95> 0 21G<190 340> 958 124<40 190 340 745 895 1095> 1378 134<374.602 593.292>
@@ -44,6 +44,6 @@ SplineSet
 EndSplineSet
 Layer: 2
 Layer: 3
-LCarets2: 2 0 0
+LCarets2: 1 0
 Ligature2: "'dlig' Discretionary Ligatures lookup 32-1" f t
 EndChar

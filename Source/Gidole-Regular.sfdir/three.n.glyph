@@ -1,5 +1,5 @@
 StartChar: three.n
-Encoding: 534 -1 515
+Encoding: 1114125 -1 514
 Width: 700
 VWidth: 0
 Flags: W
@@ -8,6 +8,6 @@ VStem: 473 132<794.82 963.479 1142.71 1277.24>
 LayerCount: 3
 Back
 Fore
-Refer: 495 -1 S 1 0 0 1 0 662 2
+Refer: 494 -1 S 1 0 0 1 0 662 2
 Layer: 2
 EndChar

@@ -1,11 +1,11 @@
 StartChar: uhungarumlaut
-Encoding: 302 369 293
+Encoding: 369 369 293
 GlifName: uhungarumlaut
 Width: 1050
 VWidth: 0
 Flags: W
-HStem: -16 134<375.617 674.383> 1222 274
-VStem: 130 150<220.243 1082> 285 610 770 150<220.243 1082>
+HStem: -16 134<376.645 673.355> 1222 274
+VStem: 130 150<218.501 1082> 285 610 770 150<218.501 1082>
 LayerCount: 3
 Back
 Fore

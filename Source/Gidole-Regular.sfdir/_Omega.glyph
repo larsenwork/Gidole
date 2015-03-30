@@ -1,9 +1,9 @@
 StartChar: Omega
-Encoding: 498 8486 387
+Encoding: 8486 8486 387
 GlifName: O_mega
 Width: 1270
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 140<126 338 932 1144> 1295 140<461.572 808.428>
 VStem: 147 156<372.274 1105.39> 967 156<372.274 1105.39>
 LayerCount: 3

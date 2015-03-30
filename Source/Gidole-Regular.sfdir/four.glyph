@@ -1,32 +1,34 @@
 StartChar: four
-Encoding: 20 52 6
+Encoding: 52 52 6
 GlifName: four
-Width: 1114
+Width: 1102
 Flags: W
-HStem: 0 21G<722 878> 350 140<289 722 878 998>
-VStem: 722 156<0 350 490 840>
+HStem: 0 21G<716 872> 350 140<283 716 872 992>
+VStem: 716 156<0 350 490 840>
 LayerCount: 3
 Back
 Fore
 SplineSet
-998 490 m 5
- 998 350 l 5
- 878 350 l 5
- 878 0 l 5
- 722 0 l 5
- 722 350 l 5
- 116 350 l 1
- 116 451 l 1
- 530 1416 l 1
- 687 1416 l 1
- 289 490 l 1
- 722 490 l 5
- 722 840 l 5
- 878 840 l 5
- 878 490 l 5
- 998 490 l 5
+992 490 m 5
+ 992 350 l 5
+ 872 350 l 5
+ 872 0 l 5
+ 716 0 l 5
+ 716 350 l 5
+ 110 350 l 1
+ 110 451 l 1
+ 524 1416 l 1
+ 681 1416 l 1
+ 283 490 l 1
+ 716 490 l 5
+ 716 840 l 5
+ 872 840 l 5
+ 872 490 l 5
+ 992 490 l 5
 EndSplineSet
 Layer: 2
+Substitution2: "'sups' Superscript lookup 35-1" uni2074
+Substitution2: "'subs' Subscript lookup 34-1" uni2084
 Substitution2: "'tnum' Tabular Numbers lookup 33-1" four.tab
 Substitution2: "Single Substitution lookup 28 subtable" four.d
 Substitution2: "Single Substitution lookup 26 subtable" four.n

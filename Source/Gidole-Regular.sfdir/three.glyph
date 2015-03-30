@@ -1,5 +1,5 @@
 StartChar: three
-Encoding: 19 51 5
+Encoding: 51 51 5
 GlifName: three
 Width: 1068
 Flags: W
@@ -31,6 +31,8 @@ SplineSet
  364 -19 228 56 144 145 c 1xe8
 EndSplineSet
 Layer: 2
+Substitution2: "'sups' Superscript lookup 35-1" uni00B3
+Substitution2: "'subs' Subscript lookup 34-1" uni2083
 Substitution2: "'tnum' Tabular Numbers lookup 33-1" three.tab
 Substitution2: "Single Substitution lookup 28 subtable" three.d
 Substitution2: "Single Substitution lookup 26 subtable" three.n

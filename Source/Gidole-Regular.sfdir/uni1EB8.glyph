@@ -1,9 +1,9 @@
 StartChar: uni1EB8
-Encoding: 428 7864 325
+Encoding: 7864 7864 325
 GlifName: uni1E_B_8
 Width: 1060
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -385 220<504.109 685.891> 0 140<316 940> 652 140<316 860> 1276 140<316 940>
 VStem: 160 156<140 652 792 1276> 485 220<-365.891 -184.109>
 LayerCount: 4
