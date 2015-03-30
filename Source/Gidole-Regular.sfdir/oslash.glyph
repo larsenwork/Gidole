@@ -3,7 +3,7 @@ Encoding: 248 248 123
 GlifName: oslash
 Width: 1060
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -16 134<371.019 689.125> 964 134<370.875 688.981>
 VStem: 105 150<272.274 838.339> 805 150<243.661 809.726>
 AnchorPoint: "Top" 535 1082 basechar 0
