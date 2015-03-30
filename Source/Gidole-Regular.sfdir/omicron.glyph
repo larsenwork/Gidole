@@ -2,7 +2,7 @@ StartChar: omicron
 Encoding: 959 959 447
 GlifName: omicron
 Width: 1060
-Flags: HW
+Flags: W
 HStem: -16 134<370.875 689.125> 964 134<370.875 689.125>
 VStem: 105 150<243.661 838.339> 805 150<243.661 838.339>
 AnchorPoint: "Top" 530 1082 basechar 0

@@ -2,9 +2,9 @@ StartChar: sigma1
 Encoding: 962 962 484
 GlifName: sigma1
 Width: 898
-Flags: HW
+Flags: W
 HStem: 964 134<370.2 692.585>
-VStem: 105 150<247.771 839.539> 635 140<-219.845 -30.3352>
+VStem: 105 150<247.271 839.539> 655 140<-219.845 -29.9914>
 LayerCount: 3
 Back
 SplineSet

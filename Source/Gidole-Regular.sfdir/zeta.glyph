@@ -2,9 +2,9 @@ StartChar: zeta
 Encoding: 950 950 485
 GlifName: zeta
 Width: 860
-Flags: HW
-HStem: 1282 134<113 587>
-VStem: 80 150<242.534 589.154> 630 140<-219.845 -29.4034>
+Flags: W
+HStem: 1282 134<113 567>
+VStem: 80 150<241.619 598.082> 630 140<-219.845 -29.4034>
 LayerCount: 3
 Back
 SplineSet
