@@ -5,9 +5,6 @@ Width: 1060
 Flags: W
 HStem: -16 134<370.875 689.125> 964 134<370.875 689.125>
 VStem: 105 150<243.661 838.339> 805 150<243.661 838.339>
-AnchorPoint: "DoubleTop" -40 0 basechar 0
-AnchorPoint: "Apos" -40 0 basechar 0
-AnchorPoint: "Center" -40 0 basechar 0
 AnchorPoint: "Bottom" 530 0 basechar 0
 AnchorPoint: "Top" 530 1082 basechar 0
 LayerCount: 3
