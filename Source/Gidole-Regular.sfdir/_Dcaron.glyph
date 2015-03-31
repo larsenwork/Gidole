@@ -3,7 +3,7 @@ Encoding: 270 270 216
 GlifName: D_caron
 Width: 1177
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 140<316 692.909> 1276 140<316 692.909> 1556 274
 VStem: 160 156<140 1276> 256 622 910 157<367.155 1048.83>
 LayerCount: 3

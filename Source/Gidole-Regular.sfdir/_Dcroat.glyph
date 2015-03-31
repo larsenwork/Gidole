@@ -2,7 +2,7 @@ StartChar: Dcroat
 Encoding: 272 272 355
 GlifName: D_croat
 Width: 1237
-Flags: W
+Flags: HW
 HStem: 0 140<376 752.909> 652 140<60.123 616> 1276 140<376 752.909>
 VStem: 220 156<140 1276> 970 157<367.155 1048.83>
 LayerCount: 3

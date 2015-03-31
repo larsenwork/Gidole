@@ -2,7 +2,7 @@ StartChar: tilde
 Encoding: 732 732 182
 GlifName: tilde
 Width: 818
-Flags: WO
+Flags: W
 HStem: 1234 124<395.537 576.301> 1294 124<241.699 422.463>
 VStem: 109 600
 AnchorPoint: "Top" 409 1080 mark 0

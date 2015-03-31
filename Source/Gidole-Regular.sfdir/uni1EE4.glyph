@@ -3,7 +3,7 @@ Encoding: 7908 7908 333
 GlifName: uni1E_E_4
 Width: 1196
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -385 220<507.109 688.891> -19 140<432.563 763.305>
 VStem: 140 156<264.847 1416> 488 220<-365.891 -184.109> 900 156<264.403 1416>
 CounterMasks: 1 38
