@@ -2,8 +2,7 @@ StartChar: uni2005
 Encoding: 8197 8197 506
 Width: 512
 Flags: W
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
-Layer: 2
 EndChar

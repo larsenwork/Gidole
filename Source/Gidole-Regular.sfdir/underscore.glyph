@@ -4,7 +4,7 @@ GlifName: underscore
 Width: 800
 Flags: W
 HStem: -150 150<10 790>
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -14,5 +14,4 @@ SplineSet
  10 -150 l 5
  10 0 l 1
 EndSplineSet
-Layer: 2
 EndChar

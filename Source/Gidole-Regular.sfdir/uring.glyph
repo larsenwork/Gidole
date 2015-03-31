@@ -3,14 +3,13 @@ Encoding: 367 367 291
 GlifName: uring
 Width: 1050
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -16 134<376.645 673.355> 1132 106<447.491 602.509> 1432 106<447.491 602.509>
 VStem: 130 150<218.501 1082> 316 118<1249.94 1420.06> 616 118<1249.94 1420.06> 770 150<218.501 1082>
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 Refer: 196 730 N 1 0 0 1 216 120 2
 Refer: 65 117 N 1 0 0 1 0 0 3
-Layer: 2
 Substitution2: "'ss02' Style Set 2 lookup 1 subtable" uring.alt
 EndChar

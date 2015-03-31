@@ -7,7 +7,7 @@ VStem: 105 150<242.001 839.569> 785 150<0 117 241.242 840.758 967 1082>
 AnchorPoint: "Top" 500 1082 basechar 0
 AnchorPoint: "Bottom" 860 0 basechar 0
 AnchorPoint: "Center" 500 1062 basechar 0
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -33,5 +33,4 @@ SplineSet
  627 1098 715 1053 785 967 c 5
  785 1082 l 5
 EndSplineSet
-Layer: 2
 EndChar

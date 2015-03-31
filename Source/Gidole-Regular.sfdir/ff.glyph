@@ -4,7 +4,7 @@ Width: 1125
 Flags: W
 HStem: 0 21G<190 340 740 890> 958 124<40 190 340 740 890 1090> 1338 134<367.026 559.859> 1378 134<924.63 1143.27>
 VStem: 190 150<0 958 1082 1297.59> 740 150<0 958 1082 1344.23>
-LayerCount: 4
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -42,8 +42,6 @@ SplineSet
  190 1082 l 1
  190 1151 l 2xdc
 EndSplineSet
-Layer: 2
-Layer: 3
 LCarets2: 1 0
 Ligature2: "'dlig' Discretionary Ligatures lookup 32-1" f f
 EndChar

@@ -1,34 +1,33 @@
 StartChar: Xi
 Encoding: 926 926 442
 GlifName: X_i
-Width: 989
+Width: 977
 VWidth: 0
 Flags: W
-HStem: 0 140<126 863> 652 140<187 802> 1276 140<126 863>
+HStem: 0 140<120 857> 652 140<181 796> 1276 140<120 857>
 AnchorPoint: "DoubleTop" -27 0 basechar 0
 AnchorPoint: "Apos" -27 0 basechar 0
 AnchorPoint: "Center" -27 0 basechar 0
 AnchorPoint: "Bottom" 495 0 basechar 0
 AnchorPoint: "Top" 495 1364 basechar 0
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 SplineSet
-187 792 m 1
- 802 792 l 5
- 802 652 l 5
- 187 652 l 1
- 187 792 l 1
-126 140 m 1
- 863 140 l 1
- 863 0 l 1
- 126 0 l 1
- 126 140 l 1
-126 1416 m 1
- 863 1416 l 1
- 863 1276 l 1
- 126 1276 l 1
- 126 1416 l 1
+181 792 m 5
+ 796 792 l 5
+ 796 652 l 5
+ 181 652 l 5
+ 181 792 l 5
+120 140 m 5
+ 857 140 l 5
+ 857 0 l 5
+ 120 0 l 5
+ 120 140 l 5
+120 1416 m 5
+ 857 1416 l 5
+ 857 1276 l 5
+ 120 1276 l 5
+ 120 1416 l 5
 EndSplineSet
-Layer: 2
 EndChar

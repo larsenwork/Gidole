@@ -5,7 +5,7 @@ Width: 1068
 Flags: W
 HStem: -19 140<357.731 688.639> 661 140<373 677.57> 1295 140<360.568 678.91>
 VStem: 778 156<903.799 1197.3> 801 156<236.504 542.835>
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -30,7 +30,6 @@ SplineSet
  957 157 788 -19 534 -19 c 0
  364 -19 228 56 144 145 c 1xe8
 EndSplineSet
-Layer: 2
 Substitution2: "'sups' Superscript lookup 35-1" uni00B3
 Substitution2: "'subs' Subscript lookup 34-1" uni2083
 Substitution2: "'tnum' Tabular Numbers lookup 33-1" three.tab

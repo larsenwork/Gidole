@@ -16,7 +16,7 @@ LayerCount: 4
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 Layer: 2 0 "Back 2" 1
-Layer: 3 0 "Back 3" 1
+Layer: 3 0 "Back 2" 1
 PreferredKerning: 4
 XUID: [1021 365 -928128380 2253708]
 FSType: 0
@@ -24,7 +24,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1427734519
+ModificationTime: 1427809487
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -611,11 +611,11 @@ LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "http://gidole.github.io" "Th
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -48
+DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 1114036 14 11
+WinInfo: 0 19 14
 BeginPrivate: 6
 BlueValues 17 [-41 0 1366 1378]
 BlueShift 1 0

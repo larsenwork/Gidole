@@ -6,9 +6,8 @@ Flags: W
 HStem: 1222 274<254 258>
 VStem: 100 323
 AnchorPoint: "Top" 191 1082 mark 0
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 Refer: 168 180 S 1 0 0 1 0 0 2
-Layer: 2
 EndChar

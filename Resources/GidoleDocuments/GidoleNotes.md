@@ -34,9 +34,8 @@ napostrophe tix + lb 50
 **Misc**
 ```
 Ink trap (e.g. b)
-  Point 40(50) down
-  Handle 30(40) up 10(0) left
-  Middle handle 10(0) left
+  Interpolatecpsonmotion ON
+  n: 30pt right, 6pt right
 Terminals
   C: 108%   114t118b
   c,2: 112%   124t128b

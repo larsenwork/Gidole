@@ -2,10 +2,10 @@ StartChar: lslash.alt
 Encoding: 1114165 -1 554
 Width: 656
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -16 133<417.94 498.507>
 VStem: 253 150<137.843 637 895 1496>
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -29,5 +29,4 @@ SplineSet
  253 637 l 5
  117 542 l 5
 EndSplineSet
-Layer: 2
 EndChar

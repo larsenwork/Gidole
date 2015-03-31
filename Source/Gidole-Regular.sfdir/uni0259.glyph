@@ -5,9 +5,8 @@ Width: 1015
 Flags: W
 HStem: -16 134<361.875 649.677> 449 124<250 759> 964 134<266.756 647.254>
 VStem: 100 150<235.715 449> 760 150<239.656 449 573 845.172>
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 Refer: 56 101 S -1 0 0 -1 1015 1082 2
-Layer: 2
 EndChar

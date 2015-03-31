@@ -3,15 +3,14 @@ Encoding: 7909 7909 334
 GlifName: uni1E_E_5
 Width: 1050
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -385 220<434.109 615.891> -16 134<376.645 673.355>
 VStem: 130 150<218.501 1082> 415 220<-365.891 -184.109> 770 150<218.501 1082>
 CounterMasks: 1 38
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 Refer: 402 803 N 1 0 0 1 295 0 2
 Refer: 65 117 N 1 0 0 1 0 0 3
-Layer: 2
 Substitution2: "'ss02' Style Set 2 lookup 1 subtable" uni1EE5.alt
 EndChar

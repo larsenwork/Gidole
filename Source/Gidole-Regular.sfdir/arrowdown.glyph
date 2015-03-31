@@ -4,9 +4,8 @@ GlifName: arrowdown
 Width: 1266
 Flags: W
 VStem: 558 150<256 1032>
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 Refer: 412 8593 S -1 0 0 -1 1266 1082 2
-Layer: 2
 EndChar
