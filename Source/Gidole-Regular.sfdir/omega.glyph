@@ -8,7 +8,7 @@ HStem: -16 134<353.002 621.662 956.345 1225>
 VStem: 110 150<216.496 903.492> 714 150<216.16 774> 1318 150<216.496 903.492>
 CounterMasks: 1 70
 AnchorPoint: "Top" 749 1083 basechar 0
-LayerCount: 2
+LayerCount: 3
 Back
 SplineSet
 864 638 m 5
@@ -107,4 +107,5 @@ SplineSet
  713.998744335 463.903115172 714 465.954403397 714 468 c 2
  714 774 l 1
 EndSplineSet
+Layer: 2
 EndChar

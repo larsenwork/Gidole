@@ -4,7 +4,7 @@ GlifName: arrowup
 Width: 1266
 Flags: W
 VStem: 558 150<50 826>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -20,4 +20,5 @@ SplineSet
  558 826 l 5
  192 509 l 5
 EndSplineSet
+Layer: 2
 EndChar

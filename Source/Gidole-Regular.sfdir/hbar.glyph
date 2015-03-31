@@ -2,10 +2,10 @@ StartChar: hbar
 Encoding: 295 295 359
 GlifName: hbar
 Width: 1090
-Flags: HW
-HStem: 0 21G<180 330 820 970> 964 134<435.743 725.292> 1236 124<40 572>
-VStem: 180 150<0 869.778 967 1496> 820 150<0 867.003>
-LayerCount: 2
+Flags: W
+HStem: 0 21G<180 330 820 970> 964 134<432.929 722.183> 1236 124<40 572>
+VStem: 180 150<0 864.511 967.77 1496> 820 150<0 864.191>
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -16,4 +16,5 @@ SplineSet
  40 1360 l 1
 EndSplineSet
 Refer: 55 104 N 1 0 0 1 40 0 2
+Layer: 2
 EndChar

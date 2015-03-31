@@ -7,7 +7,7 @@ UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -430 124<659.59 822.997> -16 134<305.178 597.606> 527 124<308.153 700> 964 134<266.845 615.404>
 VStem: 80 150<189.918 453.43> 524 124<-297.881 -108.028> 700 150<-17.0151 112 224.818 527 651 879.441>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -43,5 +43,6 @@ SplineSet
  430 527 356 527 297 477 c 4
  259 445 230 389 230 321 c 4
 EndSplineSet
+Layer: 2
 Substitution2: "'ss01' Style Set 1 lookup 0 subtable" aogonek.alt
 EndChar

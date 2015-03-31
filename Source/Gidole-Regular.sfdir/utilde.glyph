@@ -4,12 +4,13 @@ GlifName: utilde
 Width: 1050
 VWidth: 0
 Flags: HW
-HStem: -16 134<376.645 673.355> 1224 124<545.843 681.411> 1304 124<368.645 503.748>
-VStem: 130 150<218.501 1082> 222 606 770 150<218.501 1082>
-LayerCount: 2
+HStem: -16 134<377.535 672.465> 1236 124<511.537 692.301> 1296 124<357.699 538.463>
+VStem: 130 150<219.022 1082> 225 600 770 150<219.022 1082>
+LayerCount: 3
 Back
 Fore
 Refer: 182 732 N 1 0 0 1 116 2 2
 Refer: 65 117 N 1 0 0 1 0 0 3
+Layer: 2
 Substitution2: "'ss02' Style Set 2 lookup 1 subtable" utilde.alt
 EndChar

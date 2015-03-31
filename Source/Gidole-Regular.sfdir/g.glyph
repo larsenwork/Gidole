@@ -2,12 +2,12 @@ StartChar: g
 Encoding: 103 103 58
 GlifName: g
 Width: 1075
-Flags: HW
+Flags: W
 HStem: -427 134<269.926 664.155> -16 134<371.305 669.746> 964 134<371.309 669.75>
 VStem: 105 150<241.146 840.856> 785 150<-171.521 115 242.051 839.945 967 1082>
 AnchorPoint: "Bottom" 500 -414 basechar 0
 AnchorPoint: "Top" 500 1082 basechar 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -38,4 +38,5 @@ SplineSet
  785 683 779.999613328 789.999720173 725 866 c 0
  683.017578125 924.012695312 613 964 520 964 c 0
 EndSplineSet
+Layer: 2
 EndChar

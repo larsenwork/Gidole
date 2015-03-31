@@ -4,7 +4,7 @@ GlifName: greater
 Width: 923
 Flags: W
 VStem: 106 677
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -17,4 +17,5 @@ SplineSet
  175 951 l 5
  783 597 l 5
 EndSplineSet
+Layer: 2
 EndChar

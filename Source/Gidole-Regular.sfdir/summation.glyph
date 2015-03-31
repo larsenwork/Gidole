@@ -5,8 +5,9 @@ Width: 940
 VWidth: 0
 Flags: HW
 HStem: 0 140<258 860> 1276 140<258 860>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 436 931 S 1 0 0 1 0 0 2
+Layer: 2
 EndChar

@@ -4,7 +4,7 @@ GlifName: approxequal
 Width: 996
 Flags: W
 HStem: 286 134<487.124 784.988> 356 134<211.012 508.876> 591 134<487.124 784.988> 661 134<211.012 508.876>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -27,4 +27,5 @@ SplineSet
  817 634 729 591 638 591 c 0x20
  519 591 437 661 358 661 c 0x10
 EndSplineSet
+Layer: 2
 EndChar

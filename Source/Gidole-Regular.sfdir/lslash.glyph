@@ -6,7 +6,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<258 408>
 VStem: 45 566 258 150<0 1496>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -17,5 +17,6 @@ SplineSet
  117 542 l 1xc0
 EndSplineSet
 Refer: 50 108 S 1 0 0 1 113 0 2
+Layer: 2
 Substitution2: "'ss04' Style Set 4 lookup 3 subtable" lslash.alt
 EndChar

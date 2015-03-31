@@ -6,7 +6,7 @@ VWidth: 1000
 Flags: W
 HStem: -232 134<486.511 1237.49> -58 20G<1207 1289.48> 200 134<774.178 1066.61> 743 124<777.153 1169> 1180 134<488.655 1065.6>
 VStem: 160 150<102.687 983.001> 549 150<405.918 669.43> 1169 150<216 328 440.593 743 867 1077.68>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -42,5 +42,6 @@ SplineSet
  899 743 825 743 766 693 c 0
  728 661 699 605 699 537 c 0
 EndSplineSet
+Layer: 2
 Substitution2: "'ss05' Style Set 5 lookup 4 subtable" at.alt
 EndChar

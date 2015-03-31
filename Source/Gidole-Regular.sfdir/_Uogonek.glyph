@@ -7,7 +7,7 @@ UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -430 124<522.59 685.997>
 VStem: 140 156<267.371 1416> 387 124<-297.881 -110.053> 900 156<267.371 1416>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -34,4 +34,5 @@ SplineSet
  896 69 813 16 710 -7 c 4
  627 -25 511 -105 511 -216 c 4
 EndSplineSet
+Layer: 2
 EndChar

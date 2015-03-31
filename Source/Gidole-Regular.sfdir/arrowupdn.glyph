@@ -4,7 +4,7 @@ GlifName: arrowupdn
 Width: 1266
 Flags: W
 VStem: 558 150<-10 1090>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -26,4 +26,5 @@ SplineSet
  708 -10 l 1
  1074 307 l 1
 EndSplineSet
+Layer: 2
 EndChar

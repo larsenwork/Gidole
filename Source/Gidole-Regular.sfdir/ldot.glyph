@@ -6,10 +6,11 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<145 295> 614 220<493.109 674.891>
 VStem: 145 150<0 1496> 474 220<633.109 814.891>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 99 183 S 1 0 0 1 354 183 2
 Refer: 50 108 N 1 0 0 1 0 0 2
+Layer: 2
 Substitution2: "'ss04' Style Set 4 lookup 3 subtable" ldot.alt
 EndChar

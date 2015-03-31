@@ -3,12 +3,13 @@ Encoding: 296 296 235
 GlifName: I_tilde
 Width: 476
 VWidth: 0
-Flags: W
-HStem: 0 21G<160 316> 1558 124<258.843 394.411> 1638 124<81.6453 216.748>
-VStem: -65 606 160 156<0 1416>
-LayerCount: 2
+Flags: HW
+HStem: 0 21G<160 316> 1570 124<224.537 405.301> 1630 124<70.6986 251.463>
+VStem: -62 600 160 156<0 1416>
+LayerCount: 3
 Back
 Fore
 Refer: 182 732 N 1 0 0 1 -171 336 2
 Refer: 21 73 N 1 0 0 1 0 0 3
+Layer: 2
 EndChar

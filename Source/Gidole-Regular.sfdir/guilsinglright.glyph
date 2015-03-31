@@ -4,8 +4,9 @@ GlifName: guilsinglright
 Width: 570
 Flags: W
 VStem: 100 370
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 187 8249 S -1 0 0 1 570 0 2
+Layer: 2
 EndChar

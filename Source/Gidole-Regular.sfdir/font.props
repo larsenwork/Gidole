@@ -12,11 +12,12 @@ Ascent: 1536
 Descent: 512
 InvalidEm: 0
 sfntRevision: 0x0002028f
-LayerCount: 4
+LayerCount: 5
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 Layer: 2 0 "Back 2" 1
 Layer: 3 0 "Back 2" 1
+Layer: 4 0 "Back 2" 1
 PreferredKerning: 4
 XUID: [1021 365 -928128380 2253708]
 FSType: 0
@@ -24,7 +25,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1427809487
+ModificationTime: 1427812982
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -615,7 +616,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 0 19 14
+WinInfo: 532 19 14
 BeginPrivate: 6
 BlueValues 17 [-41 0 1366 1378]
 BlueShift 1 0

@@ -4,7 +4,7 @@ GlifName: X_
 Width: 1034
 Flags: W
 HStem: 0 21G<20 205.769 828.231 1014>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -22,4 +22,5 @@ SplineSet
  429 722 l 1
  35 1416 l 5
 EndSplineSet
+Layer: 2
 EndChar

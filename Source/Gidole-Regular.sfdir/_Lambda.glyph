@@ -4,8 +4,9 @@ GlifName: L_ambda
 Width: 1150
 Flags: W
 HStem: 1395 21G<493.22 656.78>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 25 86 S 1 0 0 -1 0 1416 2
+Layer: 2
 EndChar

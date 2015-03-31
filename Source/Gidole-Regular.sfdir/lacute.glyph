@@ -6,10 +6,11 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<145 295> 1596 274<283 287>
 VStem: 129 323 145 150<0 1496>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 478 714 N 1 0 0 1 29 374 2
 Refer: 50 108 N 1 0 0 1 0 0 3
+Layer: 2
 Substitution2: "'ss04' Style Set 4 lookup 3 subtable" lacute.alt
 EndChar
