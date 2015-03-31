@@ -3,9 +3,9 @@ Encoding: 368 368 292
 GlifName: U_hungarumlaut
 Width: 1196
 VWidth: 0
-Flags: HW
-HStem: -19 140<432.563 763.305> 1556 274
-VStem: 140 156<264.847 1416> 358 610 900 156<264.403 1416>
+Flags: W
+HStem: -19 140<434.716 761.284> 1556 274
+VStem: 140 156<260.535 1416> 358 610 900 156<260.535 1416>
 LayerCount: 3
 Back
 Fore
