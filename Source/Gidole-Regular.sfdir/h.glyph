@@ -7,7 +7,7 @@ HStem: 0 21G<140 290 780 930> 964 134<392.929 682.183>
 VStem: 140 150<0 864.511 967.77 1496> 780 150<0 864.191>
 AnchorPoint: "Bottom" 530 0 basechar 0
 AnchorPoint: "Top" 214 1496 basechar 0
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -28,5 +28,4 @@ SplineSet
  290 967.76953125 l 1
  361.826012919 1046.93551927 446.034695669 1098 565 1098 c 0
 EndSplineSet
-Layer: 2
 EndChar

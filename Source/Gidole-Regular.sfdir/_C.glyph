@@ -7,7 +7,7 @@ HStem: -19 140<425.071 803.011> 1295 140<426.451 795.402>
 VStem: 110 156<307.452 1109.37>
 AnchorPoint: "Bottom" 598 0 basechar 0
 AnchorPoint: "Top" 598 1416 basechar 0
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -27,5 +27,4 @@ SplineSet
  110 876 114 1053 171 1178 c 4
  242 1334 389 1435 598 1435 c 4
 EndSplineSet
-Layer: 2
 EndChar

@@ -4,12 +4,11 @@ GlifName: itilde
 Width: 430
 VWidth: 0
 Flags: W
-HStem: 0 21G<140 290> 1236 124<201.537 382.301> 1296 124<47.6986 228.463>
+HStem: 0 21G<140 290> 1222 124<201.537 382.301> 1282 124<47.6986 228.463>
 VStem: -85 600 140 150<0 1082>
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
-Refer: 182 732 N 1 0 0 1 -194 2 2
+Refer: 182 732 N 1 0 0 1 -194 0 2
 Refer: 155 305 N 1 0 0 1 0 0 3
-Layer: 2
 EndChar

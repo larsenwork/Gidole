@@ -1,30 +1,26 @@
 StartChar: J
 Encoding: 74 74 22
 GlifName: J_
-Width: 928
-Flags: W
-HStem: -19 140<230.15 545.818>
-VStem: 632 156<208.904 1416>
-AnchorPoint: "DoubleTop" 2 0 basechar 0
-AnchorPoint: "Apos" 2 0 basechar 0
-AnchorPoint: "Center" 2 0 basechar 0
-AnchorPoint: "Bottom" 385 0 basechar 0
-AnchorPoint: "Top" 710 1416 basechar 0
-LayerCount: 3
+Width: 926
+Flags: WO
+HStem: -19 140<228.692 542.528>
+VStem: 630 156<210.065 1416>
+AnchorPoint: "Bottom" 413 0 basechar 0
+AnchorPoint: "Top" 708 1416 basechar 0
+LayerCount: 2
 Back
 Fore
 SplineSet
-632 1416 m 5
- 788 1416 l 5
- 788 424 l 6
- 788 310 788 217 708 115 c 4
- 646 36 543 -19 405 -19 c 4
- 275 -19 153 33 66 94 c 5
- 146 214 l 5
- 209 169 308 121 405 121 c 4
- 481 121 540 149 580 197 c 4
- 632 260 632 337 632 434 c 6
- 632 1416 l 5
+630 1416 m 1
+ 786 1416 l 1
+ 786 436 l 2
+ 786 357.404296875 786 298 769 238 c 0
+ 726 86 601.412109375 -19 413 -19 c 0
+ 267 -19 168 31 70 90 c 1
+ 145 213 l 1
+ 219 168 302 121 403 121 c 0
+ 512.780273438 121 587 180 615 266 c 0
+ 630 312 630 354.235351562 630 436 c 2
+ 630 1416 l 1
 EndSplineSet
-Layer: 2
 EndChar

@@ -4,13 +4,12 @@ GlifName: U_tilde
 Width: 1196
 VWidth: 0
 Flags: W
-HStem: -19 140<434.716 761.284> 1570 124<584.537 765.301> 1630 124<430.699 611.463>
+HStem: -19 140<434.716 761.284> 1556 124<584.537 765.301> 1616 124<430.699 611.463>
 VStem: 140 156<260.535 1416> 298 600 900 156<260.535 1416>
 CounterMasks: 1 1c
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
-Refer: 182 732 N 1 0 0 1 189 336 2
+Refer: 182 732 N 1 0 0 1 189 334 2
 Refer: 24 85 N 1 0 0 1 0 0 3
-Layer: 2
 EndChar

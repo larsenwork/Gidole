@@ -12,12 +12,11 @@ Ascent: 1536
 Descent: 512
 InvalidEm: 0
 sfntRevision: 0x0002028f
-LayerCount: 5
+LayerCount: 4
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 Layer: 2 0 "Back 2" 1
 Layer: 3 0 "Back 2" 1
-Layer: 4 0 "Back 2" 1
 PreferredKerning: 4
 XUID: [1021 365 -928128380 2253708]
 FSType: 0
@@ -25,7 +24,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1427820896
+ModificationTime: 1427833320
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5

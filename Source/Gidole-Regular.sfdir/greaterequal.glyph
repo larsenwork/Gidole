@@ -4,9 +4,8 @@ GlifName: greaterequal
 Width: 1020
 Flags: W
 HStem: 264 134<160 860>
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 Refer: 117 8804 S -1 0 0 1 1020 0 2
-Layer: 2
 EndChar

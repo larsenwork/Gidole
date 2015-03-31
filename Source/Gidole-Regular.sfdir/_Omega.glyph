@@ -3,12 +3,11 @@ Encoding: 8486 8486 387
 GlifName: O_mega
 Width: 1270
 VWidth: 0
-Flags: HW
-HStem: 0 140<126 338 932 1144> 1295 140<461.572 808.428>
-VStem: 147 156<372.274 1105.39> 967 156<372.274 1105.39>
-LayerCount: 3
+Flags: W
+HStem: 0 141<126 338 932 1144> 1295 140<457.178 812.822>
+VStem: 147 156<367.347 1131.71> 967 156<367.347 1131.71>
+LayerCount: 2
 Back
 Fore
 Refer: 397 937 N 1 0 0 1 0 0 2
-Layer: 2
 EndChar

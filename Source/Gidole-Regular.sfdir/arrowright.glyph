@@ -4,9 +4,8 @@ GlifName: arrowright
 Width: 1220
 Flags: W
 HStem: 474 134<120 888>
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 Refer: 411 8592 N -1 0 0 -1 1220 1082 2
-Layer: 2
 EndChar

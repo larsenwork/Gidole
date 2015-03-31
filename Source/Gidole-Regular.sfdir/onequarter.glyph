@@ -5,11 +5,10 @@ Width: 1327
 Flags: W
 HStem: 0 21G<1015 1147> 165 118<816 1015 1147 1211> 662 21G<256 388>
 VStem: 256 132<662 1262> 1015 132<0 165 283 447>
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 Refer: 121 8260 S 1 0 0 1 520 0 2
 Refer: 495 -1 S 1 0 0 1 584 0 2
 Refer: 492 -1 N 1 0 0 1 -10 662 2
-Layer: 2
 EndChar

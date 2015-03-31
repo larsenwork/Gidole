@@ -4,13 +4,12 @@ GlifName: N_tilde
 Width: 1254
 VWidth: 0
 Flags: W
-HStem: 0 21G<160 316 926.067 1094> 1570 124<613.537 794.301> 1630 124<459.699 640.463>
+HStem: 0 21G<160 316 926.067 1094> 1556 124<613.537 794.301> 1616 124<459.699 640.463>
 VStem: 160 156<0 1136> 327 600 938 156<280 1416>
 CounterMasks: 1 1c
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
-Refer: 182 732 N 1 0 0 1 218 336 2
+Refer: 182 732 N 1 0 0 1 218 334 2
 Refer: 33 78 N 1 0 0 1 0 0 3
-Layer: 2
 EndChar

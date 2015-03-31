@@ -5,7 +5,7 @@ Width: 718
 Flags: W
 HStem: 0 21G<362 518>
 VStem: 362 156<0 1235>
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -18,7 +18,6 @@ SplineSet
  518 1416 l 5
  518 0 l 5
 EndSplineSet
-Layer: 2
 Substitution2: "'sups' Superscript lookup 35-1" uni00B9
 Substitution2: "'subs' Subscript lookup 34-1" uni2081
 Substitution2: "'tnum' Tabular Numbers lookup 33-1" one.tab

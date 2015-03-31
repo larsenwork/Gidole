@@ -3,13 +3,12 @@ Encoding: 965 965 464
 GlifName: upsilon
 Width: 1050
 VWidth: 0
-Flags: HW
-HStem: -16 134<376.645 673.355>
-VStem: 130 150<218.501 1082> 770 150<218.501 1082>
+Flags: W
+HStem: -16 134<377.535 672.465>
+VStem: 130 150<219.022 1082> 770 150<219.022 1082>
 AnchorPoint: "Top" 525 1082 basechar 0
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 Refer: 65 117 N 1 0 0 1 0 0 2
-Layer: 2
 EndChar

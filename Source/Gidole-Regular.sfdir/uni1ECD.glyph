@@ -3,14 +3,13 @@ Encoding: 7885 7885 332
 GlifName: uni1E_C_D_
 Width: 1060
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -385 220<439.109 620.891> -16 134<370.875 689.125> 964 134<370.875 689.125>
 VStem: 105 150<243.661 838.339> 420 220<-365.891 -184.109> 805 150<243.661 838.339>
 CounterMasks: 1 1c
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 Refer: 402 803 N 1 0 0 1 300 0 2
 Refer: 52 111 N 1 0 0 1 0 0 3
-Layer: 2
 EndChar

@@ -3,13 +3,12 @@ Encoding: 7928 7928 337
 GlifName: uni1E_F_8
 Width: 1042
 VWidth: 0
-Flags: HW
-HStem: 0 21G<443 599> 1558 124<541.843 677.411> 1638 124<364.645 499.748>
-VStem: 218 606 443 156<0 506>
-LayerCount: 3
+Flags: W
+HStem: 0 21G<443 599> 1556 124<507.537 688.301> 1616 124<353.699 534.463>
+VStem: 221 600 443 156<0 506>
+LayerCount: 2
 Back
 Fore
-Refer: 182 732 N 1 0 0 1 112 336 2
+Refer: 182 732 N 1 0 0 1 112 334 2
 Refer: 37 89 N 1 0 0 1 0 0 3
-Layer: 2
 EndChar

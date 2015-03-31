@@ -5,9 +5,8 @@ Width: 420
 Flags: W
 HStem: -220 424<165.391 205>
 VStem: 100 220<4.36516 184.891>
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 Refer: 85 8217 S 1 0 0 1 0 -1308 2
-Layer: 2
 EndChar

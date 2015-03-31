@@ -6,9 +6,8 @@ Flags: W
 HStem: 1088 424<165.391 205>
 VStem: 100 220<1312.37 1492.89>
 AnchorPoint: "Apos" 45 1416 mark 0
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 Refer: 85 8217 N 1 0 0 1 0 0 2
-Layer: 2
 EndChar

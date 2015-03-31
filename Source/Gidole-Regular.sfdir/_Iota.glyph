@@ -7,9 +7,8 @@ Flags: W
 HStem: 0 21G<160 316>
 VStem: 160 156<0 1416>
 AnchorPoint: "Top" 238 1416 basechar 0
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 Refer: 21 73 N 1 0 0 1 0 0 2
-Layer: 2
 EndChar

@@ -3,7 +3,7 @@ Encoding: 215 215 346
 GlifName: multiply
 Width: 970
 Flags: W
-LayerCount: 3
+LayerCount: 2
 Back
 Fore
 SplineSet
@@ -21,5 +21,4 @@ SplineSet
  578 541 l 1
  840 279 l 1
 EndSplineSet
-Layer: 2
 EndChar
