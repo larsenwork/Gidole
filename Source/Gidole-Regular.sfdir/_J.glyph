@@ -2,7 +2,7 @@ StartChar: J
 Encoding: 74 74 22
 GlifName: J_
 Width: 926
-Flags: WO
+Flags: W
 HStem: -19 140<228.692 542.528>
 VStem: 630 156<210.065 1416>
 AnchorPoint: "Bottom" 413 0 basechar 0

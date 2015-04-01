@@ -24,7 +24,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1427833320
+ModificationTime: 1427899318
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -60,6 +60,7 @@ OS2FamilyClass: 1283
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000003.00000000
 OS2UnicodeRanges: e00000ff.4000206a.00000000.00000000
+Lookup: 1 0 0 "'case' Case-Sensitive Forms lookup 36" { "'case' Case-Sensitive Forms lookup 36-1"  } ['case' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'tnum' Tabular Numbers lookup 33" { "'tnum' Tabular Numbers lookup 33-1"  } ['tnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'subs' Subscript lookup 34" { "'subs' Subscript lookup 34-1" ("inferior") } ['subs' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'sups' Superscript lookup 35" { "'sups' Superscript lookup 35-1" ("superior") } ['sups' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
@@ -615,7 +616,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 0 19 14
+WinInfo: 912 19 14
 BeginPrivate: 6
 BlueValues 17 [-41 0 1366 1378]
 BlueShift 1 0
@@ -647,7 +648,7 @@ Grid
  4096 1496 l 1024
   Named: "b"
 -2048 -414 m 0
- 4096 -414 l 1024
+ 4096 -414 l 1028
   Named: "descent"
 -2048 1082 m 0
  4096 1082 l 1024
@@ -655,8 +656,8 @@ Grid
 -2048 1416 m 0
  4096 1416 l 1024
   Named: "caps"
--2048 541 m 4
- 4096 541 l 1028
+-2048 541 m 0
+ 4096 541 l 1024
   Named: "0.5x"
 EndSplineSet
 TeXData: 1 0 0 262144 131072 87381 500171 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144

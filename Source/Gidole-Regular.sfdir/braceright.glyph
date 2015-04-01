@@ -25,4 +25,5 @@ SplineSet
  272 35 262 102 262 174 c 4
  262 346 323 462 419 541 c 5
 EndSplineSet
+Substitution2: "'case' Case-Sensitive Forms lookup 36-1" braceright.case
 EndChar

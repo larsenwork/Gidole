@@ -30,4 +30,5 @@ SplineSet
  190 -191 283 -296 435 -296 c 4
  541 -296 621 -246 678 -191 c 5
 EndSplineSet
+Substitution2: "'case' Case-Sensitive Forms lookup 36-1" questiondown.case
 EndChar
