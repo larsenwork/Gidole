@@ -2,10 +2,10 @@ StartChar: uni2074
 Encoding: 8308 8308 572
 Width: 700
 Flags: W
-HStem: 789 21G<431 563> 954 118<232 431 563 627>
-VStem: 431 132<789 954 1072 1236>
+HStem: 839 21G<431 563> 1004 118<232 431 563 627>
+VStem: 431 132<839 1004 1122 1286>
 LayerCount: 2
 Back
 Fore
-Refer: 515 -1 N 1 0 0 1 0 127 2
+Refer: 515 -1 N 1 0 0 1 0 177 2
 EndChar

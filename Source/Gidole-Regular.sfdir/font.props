@@ -24,7 +24,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1427899318
+ModificationTime: 1427903283
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -616,7 +616,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 912 19 14
+WinInfo: 76 19 14
 BeginPrivate: 6
 BlueValues 17 [-41 0 1366 1378]
 BlueShift 1 0
@@ -629,8 +629,8 @@ Grid
 -2048 754 m 0
  4096 754 l 1024
   Named: "sup"
--2048 1543 m 0
- 4096 1543 l 1024
+-2048 1593 m 4
+ 4096 1593 l 1028
   Named: "sup"
 -2048 1222 m 0
  4096 1222 l 1024
@@ -648,7 +648,7 @@ Grid
  4096 1496 l 1024
   Named: "b"
 -2048 -414 m 0
- 4096 -414 l 1028
+ 4096 -414 l 1024
   Named: "descent"
 -2048 1082 m 0
  4096 1082 l 1024

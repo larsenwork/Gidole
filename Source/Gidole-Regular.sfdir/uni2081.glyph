@@ -3,10 +3,10 @@ Encoding: 8321 8321 579
 Width: 508
 VWidth: 0
 Flags: W
-HStem: -127 21G<266 398>
-VStem: 266 132<-127 473>
+HStem: -177 21G<266 398>
+VStem: 266 132<-177 423>
 LayerCount: 2
 Back
 Fore
-Refer: 492 -1 N 1 0 0 1 0 -127 2
+Refer: 492 -1 N 1 0 0 1 0 -177 2
 EndChar

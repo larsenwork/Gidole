@@ -2,7 +2,7 @@ StartChar: iotadieresistonos
 Encoding: 912 912 607
 Width: 430
 VWidth: 0
-HStem: 0 21G<140 290> 1247 168<-101.323 49.323 380.677 531.323>
+HStem: 0 21G<140 290> 1247 168<-101.323 49.3231 380.677 531.323>
 VStem: -110 168<1255.68 1406.32> 140 150<0 1082> 372 168<1255.68 1406.32>
 CounterMasks: 1 38
 AnchorPoint: "Bottom" 220 0 basechar 0
