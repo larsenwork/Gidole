@@ -5,7 +5,7 @@ Width: 1068
 Flags: W
 HStem: -19 140<389.401 678.599> 761 130<418.779 678.175>
 VStem: 111 156<253.836 627.381> 801 156<253.423 625.558>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -24,6 +24,7 @@ SplineSet
  417 864 l 5
  462 883 512 891 564 891 c 4
 EndSplineSet
+Layer: 2
 Substitution2: "'sups' Superscript lookup 35-1" uni2076
 Substitution2: "'subs' Subscript lookup 34-1" uni2086
 Substitution2: "'tnum' Tabular Numbers lookup 33-1" six.tab

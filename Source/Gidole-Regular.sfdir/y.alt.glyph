@@ -4,7 +4,7 @@ Width: 947
 Flags: W
 HStem: -427 134<100.725 324.879>
 AnchorPoint: "Top" 474 1082 basechar 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -24,4 +24,5 @@ SplineSet
  371 -394 298 -427 202 -427 c 0
  156 -427 114 -419 74 -409 c 1
 EndSplineSet
+Layer: 2
 EndChar

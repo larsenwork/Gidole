@@ -4,7 +4,7 @@ GlifName: chi
 Width: 928
 VWidth: 0
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Back
 SplineSet
 898 -414 m 5
@@ -37,4 +37,5 @@ SplineSet
  547 342 l 1
  898 -414 l 1
 EndSplineSet
+Layer: 2
 EndChar

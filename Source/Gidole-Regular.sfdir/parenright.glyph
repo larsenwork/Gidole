@@ -4,7 +4,7 @@ GlifName: parenright
 Width: 613
 Flags: W
 VStem: 383 140<76.4363 1005.56>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -20,5 +20,6 @@ SplineSet
  523 708 517 880 472 1046 c 4
  421 1227 320 1396 166 1521 c 5
 EndSplineSet
+Layer: 2
 Substitution2: "'case' Case-Sensitive Forms lookup 36-1" parenright.case
 EndChar

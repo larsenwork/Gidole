@@ -5,10 +5,11 @@ VWidth: 0
 Flags: W
 HStem: -284 124<130 322> 1586 124<130 322>
 VStem: 130 332<-284 -160 1586 1710> 322 140<-160 1586>
-LayerCount: 4
+LayerCount: 5
 Back
 Fore
 Refer: 49 93 N 1 0 0 1 0 172 2
 Layer: 2
 Layer: 3
+Layer: 4
 EndChar

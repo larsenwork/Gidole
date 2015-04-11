@@ -8,7 +8,7 @@ VStem: 130 150<219.022 1082> 770 150<219.022 1082>
 AnchorPoint: "Center" 525 1202 basechar 0
 AnchorPoint: "Bottom" 525 0 basechar 0
 AnchorPoint: "Top" 525 1082 basechar 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -28,5 +28,6 @@ SplineSet
  130 292 130 366 130 447 c 2
  130 1082 l 1
 EndSplineSet
+Layer: 2
 Substitution2: "'ss02' Style Set 2 lookup 1 subtable" u.alt
 EndChar

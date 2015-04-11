@@ -4,7 +4,7 @@ GlifName: V_
 Width: 1150
 Flags: W
 HStem: 0 21G<493.22 656.78>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -17,4 +17,5 @@ SplineSet
  500 0 l 5
  20 1416 l 5
 EndSplineSet
+Layer: 2
 EndChar

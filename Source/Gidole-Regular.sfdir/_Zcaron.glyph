@@ -6,9 +6,10 @@ VWidth: 0
 Flags: W
 HStem: 0 140<246 927> 1276 140<85 721> 1556 274
 VStem: 183 622
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 197 711 N 1 0 0 1 83 334 2
 Refer: 38 90 N 1 0 0 1 0 0 3
+Layer: 2
 EndChar

@@ -4,7 +4,7 @@ Width: 1908
 Flags: W
 HStem: -414 134<627.723 1481.94> -16 134<803.543 1101.36 1391.73 1569.2> 964 134<805.013 1100.99> 1362 134<629.858 1278.14>
 VStem: 140 150<53.2914 1028.71> 538 150<242.001 840.617> 1218 150<241.278 839.78> 1618 150<167.739 1028.71>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -49,5 +49,6 @@ SplineSet
  1218 662 1218 782 1158 866 c 4
  1117 924 1046 964 953 964 c 4
 EndSplineSet
+Layer: 2
 Substitution2: "'case' Case-Sensitive Forms lookup 36-1" at.alt.case
 EndChar

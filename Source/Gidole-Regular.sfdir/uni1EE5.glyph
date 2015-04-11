@@ -7,10 +7,11 @@ Flags: W
 HStem: -385 220<434.109 615.891> -16 134<377.535 672.465>
 VStem: 130 150<219.022 1082> 415 220<-365.891 -184.109> 770 150<219.022 1082>
 CounterMasks: 1 38
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 402 803 N 1 0 0 1 295 0 2
 Refer: 65 117 N 1 0 0 1 0 0 3
+Layer: 2
 Substitution2: "'ss02' Style Set 2 lookup 1 subtable" uni1EE5.alt
 EndChar

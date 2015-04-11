@@ -6,10 +6,11 @@ VWidth: 0
 Flags: W
 HStem: -16 134<377.535 672.465> 1132 106<447.491 602.509> 1432 106<447.491 602.509>
 VStem: 130 150<219.022 1082> 316 118<1249.94 1420.06> 616 118<1249.94 1420.06> 770 150<219.022 1082>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 196 730 N 1 0 0 1 216 120 2
 Refer: 65 117 N 1 0 0 1 0 0 3
+Layer: 2
 Substitution2: "'ss02' Style Set 2 lookup 1 subtable" uring.alt
 EndChar

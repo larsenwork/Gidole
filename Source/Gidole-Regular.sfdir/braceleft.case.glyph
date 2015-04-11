@@ -3,10 +3,11 @@ Encoding: 1114196 -1 615
 Width: 663
 Flags: W
 VStem: 251 140<-55.3068 558.359 867.641 1481.31>
-LayerCount: 4
+LayerCount: 5
 Back
 Fore
 Refer: 75 123 N 1 0 0 1 0 172 2
 Layer: 2
 Layer: 3
+Layer: 4
 EndChar

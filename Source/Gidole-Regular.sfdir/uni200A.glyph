@@ -3,7 +3,8 @@ Encoding: 8202 8202 563
 Width: 171
 VWidth: 0
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
+Layer: 2
 EndChar

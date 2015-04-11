@@ -3,9 +3,9 @@ Encoding: 208 208 345
 GlifName: E_th
 Width: 1237
 Flags: W
-HStem: 0 140<376 759.218> 652 140<60.123 616> 1276 140<376 759.199>
-VStem: 220 156<140 1276> 971 156<367.124 1048.87>
-LayerCount: 2
+HStem: 0 140<376 819.172> 652 140<60.123 616> 1276 140<376 819.172>
+VStem: 220 156<140 1276> 971 156<323.682 1092.32>
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -16,4 +16,5 @@ SplineSet
  60 652 l 5
 EndSplineSet
 Refer: 17 68 S 1 0 0 1 60 0 2
+Layer: 2
 EndChar

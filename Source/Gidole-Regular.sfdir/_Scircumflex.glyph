@@ -1,14 +1,15 @@
 StartChar: Scircumflex
 Encoding: 348 348 274
 GlifName: S_circumflex
-Width: 1045
+Width: 1005
 VWidth: 0
 Flags: W
-HStem: -19 140<296.783 684.548> 1295 140<356.996 731.291> 1556 274
-VStem: 94 156<918.977 1189.35> 206 622 809 156<239.194 530.857>
-LayerCount: 2
+HStem: -19 140<286.313 662.85> 1295 140<342.674 708.798> 1556 274
+VStem: 94 156<906.436 1201.65> 186 622 769 156<232.14 543.172>
+LayerCount: 3
 Back
 Fore
-Refer: 142 710 N 1 0 0 1 106 334 2
+Refer: 142 710 N 1 0 0 1 86 334 2
 Refer: 35 83 N 1 0 0 1 0 0 3
+Layer: 2
 EndChar

@@ -7,7 +7,7 @@ Flags: W
 HStem: 1208 124<266.605 443.395>
 VStem: 90 140<1367.93 1496> 480 140<1367.93 1496>
 AnchorPoint: "Top" 354 1082 mark 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -19,4 +19,5 @@ SplineSet
  620 1343.85644531 522.040039062 1208 355 1208 c 0
  187.959960938 1208 90 1343.85644531 90 1496 c 1
 EndSplineSet
+Layer: 2
 EndChar

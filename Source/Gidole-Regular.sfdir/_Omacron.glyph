@@ -7,9 +7,10 @@ Flags: W
 HStem: -19 140<432.945 783.055> 1295 140<432.945 783.055> 1586 134<323 893>
 VStem: 110 156<311.742 1104.26> 323 570<1586 1720> 950 156<311.742 1104.26>
 CounterMasks: 1 1c
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 421 713 N 1 0 0 1 223 334 2
 Refer: 16 79 N 1 0 0 1 0 0 3
+Layer: 2
 EndChar

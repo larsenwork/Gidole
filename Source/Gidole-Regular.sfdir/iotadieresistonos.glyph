@@ -6,9 +6,10 @@ HStem: 0 21G<140 290> 1247 168<-101.323 49.3231 380.677 531.323>
 VStem: -110 168<1255.68 1406.32> 140 150<0 1082> 372 168<1255.68 1406.32>
 CounterMasks: 1 38
 AnchorPoint: "Bottom" 220 0 basechar 0
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 608 901 N 1 0 0 1 -210 0 2
 Refer: 459 953 N 1 0 0 1 0 0 3
+Layer: 2
 EndChar

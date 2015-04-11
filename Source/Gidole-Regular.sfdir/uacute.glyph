@@ -6,10 +6,11 @@ VWidth: 0
 Flags: W
 HStem: -16 134<377.535 672.465> 1222 274<588 592>
 VStem: 130 150<219.022 1082> 434 323 770 150<219.022 1082>
-LayerCount: 2
+LayerCount: 3
 Back
 Fore
 Refer: 478 714 N 1 0 0 1 334 0 2
 Refer: 65 117 N 1 0 0 1 0 0 3
+Layer: 2
 Substitution2: "'ss02' Style Set 2 lookup 1 subtable" uacute.alt
 EndChar
