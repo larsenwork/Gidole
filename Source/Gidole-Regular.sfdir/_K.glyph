@@ -5,10 +5,6 @@ Width: 1139
 Flags: W
 HStem: 0 21G<160 316 909.994 1109>
 VStem: 160 156<0 400 601 1416>
-AnchorPoint: "DoubleTop" 10 0 basechar 0
-AnchorPoint: "Apos" 10 0 basechar 0
-AnchorPoint: "Top" 0 0 basechar 0
-AnchorPoint: "Center" 0 0 basechar 0
 AnchorPoint: "Bottom" 594 0 basechar 0
 LayerCount: 3
 Back
@@ -28,5 +24,6 @@ SplineSet
  316 1416 l 1
  316 601 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

@@ -4,12 +4,13 @@ GlifName: I_breve
 Width: 476
 VWidth: 0
 Flags: W
-HStem: 0 21G<160 316> 1543 124<150.605 327.395>
-VStem: -26 140<1702.93 1831> 160 156<0 1416> 364 140<1702.93 1831>
+HStem: 0 21G<160 316> 1543 124<150.559 327.441>
+VStem: -26 140<1703 1831> 160 156<0 1416> 364 140<1703 1831>
 LayerCount: 3
 Back
 Fore
 Refer: 193 728 N 1 0 0 1 -116 335 2
 Refer: 21 73 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 EndChar

@@ -29,19 +29,22 @@ SplineSet
  690 121 801 222 801 391 c 0xf2
  801 560 690 661 534 661 c 0
 EndSplineSet
+Validated: 1
 Layer: 2
-Substitution2: "'sups' Superscript lookup 35-1" uni2078
-Substitution2: "'subs' Subscript lookup 34-1" uni2088
-Substitution2: "'tnum' Tabular Numbers lookup 33-1" eight.tab
-Substitution2: "Single Substitution lookup 28 subtable" eight.d
+Substitution2: "Single Substitution lookup 38 subtable" eight.d
+Substitution2: "Single Substitution lookup 36 subtable" eight.n
+Substitution2: "Single Substitution lookup 34 subtable" eight.n
+Substitution2: "Single Substitution lookup 32 subtable" eight.n
+Substitution2: "Single Substitution lookup 30 subtable" eight.n
+Substitution2: "Single Substitution lookup 28 subtable" eight.n
 Substitution2: "Single Substitution lookup 26 subtable" eight.n
 Substitution2: "Single Substitution lookup 24 subtable" eight.n
 Substitution2: "Single Substitution lookup 22 subtable" eight.n
 Substitution2: "Single Substitution lookup 20 subtable" eight.n
 Substitution2: "Single Substitution lookup 18 subtable" eight.n
-Substitution2: "Single Substitution lookup 16 subtable" eight.n
-Substitution2: "Single Substitution lookup 14 subtable" eight.n
-Substitution2: "Single Substitution lookup 12 subtable" eight.n
-Substitution2: "Single Substitution lookup 10 subtable" eight.n
-Substitution2: "Single Substitution lookup 8 subtable" eight.n
+Substitution2: "'dnom' Denominators subtable" eight.d
+Substitution2: "'numr' Numerators subtable" eight.n
+Substitution2: "'sups' subtable" uni2078.sup
+Substitution2: "'subs' subtable" uni2088.sub
+Substitution2: "'tnum' subtable" eight.tab
 EndChar

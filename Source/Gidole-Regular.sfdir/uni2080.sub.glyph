@@ -1,0 +1,13 @@
+StartChar: uni2080.sub
+Encoding: 8320 8320 578
+Width: 700
+Flags: W
+HStem: -189 118<239.062 460.938> 471 118<239.062 460.938>
+VStem: 80 132<-42.8337 442.834> 488 132<-42.8337 442.834>
+LayerCount: 3
+Back
+Fore
+Refer: 491 -1 N 1 0 0 1 0 -177 2
+Validated: 1
+Layer: 2
+EndChar

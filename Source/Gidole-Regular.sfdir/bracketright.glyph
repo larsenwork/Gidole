@@ -10,16 +10,17 @@ LayerCount: 3
 Back
 Fore
 SplineSet
-462 1538 m 5xe0
- 462 -456 l 5
- 130 -456 l 5
- 130 -332 l 5xe0
- 322 -332 l 5
- 322 1414 l 5xd0
- 130 1414 l 5
- 130 1538 l 5
- 462 1538 l 5xe0
+462 1538 m 1xe0
+ 462 -456 l 1
+ 130 -456 l 1
+ 130 -332 l 1xe0
+ 322 -332 l 1
+ 322 1414 l 1xd0
+ 130 1414 l 1
+ 130 1538 l 1
+ 462 1538 l 1xe0
 EndSplineSet
+Validated: 1
 Layer: 2
-Substitution2: "'case' Case-Sensitive Forms lookup 36-1" bracketright.case
+Substitution2: "'case' subtable" bracketright.case
 EndChar

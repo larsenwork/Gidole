@@ -44,5 +44,5 @@ SplineSet
  259 445 230 389 230 321 c 4
 EndSplineSet
 Layer: 2
-Substitution2: "'ss01' Style Set 1 lookup 0 subtable" aogonek.alt
+Substitution2: "'ss01' subtable" aogonek.alt
 EndChar

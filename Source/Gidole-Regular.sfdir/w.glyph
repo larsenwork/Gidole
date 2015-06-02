@@ -4,10 +4,6 @@ GlifName: w
 Width: 1368
 Flags: W
 HStem: 0 21G<304.213 460.35 907.65 1063.79>
-AnchorPoint: "DoubleTop" 1 0 basechar 0
-AnchorPoint: "Apos" 1 0 basechar 0
-AnchorPoint: "Bottom" 1 0 basechar 0
-AnchorPoint: "Center" 1 0 basechar 0
 AnchorPoint: "Top" 684 1082 basechar 0
 LayerCount: 3
 Back
@@ -28,5 +24,6 @@ SplineSet
  455 0 l 1
  309 0 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

@@ -4,7 +4,7 @@ GlifName: exclamdown
 Width: 460
 Flags: W
 HStem: 798 220<139.109 320.891>
-VStem: 120 220<817.109 998.891> 152 156<-414 444.902>
+VStem: 120 220<817.109 998.891> 152 156<-414 444.902> 172 116<170.058 614>
 LayerCount: 3
 Back
 Fore
@@ -15,13 +15,14 @@ SplineSet
  295 1018 340 973 340 908 c 4
  340 843 295 798 230 798 c 4xc0
 152 -414 m 5xa0
- 152 -49 l 6
+ 152 -49 l 6xa0
  152 192 172 614 172 614 c 5
- 288 614 l 5
+ 288 614 l 5x90
  288 614 308 190 308 -49 c 6
  308 -414 l 5
  152 -414 l 5xa0
 EndSplineSet
+Validated: 1
 Layer: 2
-Substitution2: "'case' Case-Sensitive Forms lookup 36-1" exclamdown.case
+Substitution2: "'case' subtable" exclamdown.case
 EndChar

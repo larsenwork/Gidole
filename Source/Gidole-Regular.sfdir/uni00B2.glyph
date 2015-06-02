@@ -3,11 +3,12 @@ Encoding: 178 178 418
 GlifName: uni00B_2
 Width: 706
 Flags: W
-HStem: 839 118<279 596> 1487 118<178.522 424.969>
-VStem: 444 132<1292.1 1464.43>
+HStem: 839 118<279 596> 1487 118<179.641 424.969>
+VStem: 444 132<1292.09 1464.43>
 LayerCount: 3
 Back
 Fore
 Refer: 493 -1 S 1 0 0 1 -7 839 2
+Validated: 1
 Layer: 2
 EndChar

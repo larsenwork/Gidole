@@ -26,19 +26,23 @@ SplineSet
  872 490 l 5
  992 490 l 5
 EndSplineSet
+Validated: 1
 Layer: 2
-Substitution2: "'sups' Superscript lookup 35-1" uni2074
-Substitution2: "'subs' Subscript lookup 34-1" uni2084
-Substitution2: "'tnum' Tabular Numbers lookup 33-1" four.tab
-Substitution2: "Single Substitution lookup 28 subtable" four.d
+Substitution2: "Single Substitution lookup 38 subtable" four.d
+Substitution2: "Single Substitution lookup 36 subtable" four.n
+Substitution2: "Single Substitution lookup 34 subtable" four.n
+Substitution2: "Single Substitution lookup 32 subtable" four.n
+Substitution2: "Single Substitution lookup 30 subtable" four.n
+Substitution2: "Single Substitution lookup 28 subtable" four.n
 Substitution2: "Single Substitution lookup 26 subtable" four.n
 Substitution2: "Single Substitution lookup 24 subtable" four.n
 Substitution2: "Single Substitution lookup 22 subtable" four.n
 Substitution2: "Single Substitution lookup 20 subtable" four.n
 Substitution2: "Single Substitution lookup 18 subtable" four.n
-Substitution2: "Single Substitution lookup 16 subtable" four.n
-Substitution2: "Single Substitution lookup 14 subtable" four.n
-Substitution2: "Single Substitution lookup 12 subtable" four.n
-Substitution2: "Single Substitution lookup 10 subtable" four.n
-Substitution2: "Single Substitution lookup 8 subtable" four.n
+Substitution2: "'dnom' Denominators subtable" four.d
+Substitution2: "'numr' Numerators subtable" four.n
+Substitution2: "'ss07' subtable" four.alt
+Substitution2: "'sups' subtable" uni2074.sup
+Substitution2: "'subs' subtable" uni2084.sub
+Substitution2: "'tnum' subtable" four.tab
 EndChar

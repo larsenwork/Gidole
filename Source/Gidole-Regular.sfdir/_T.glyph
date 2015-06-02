@@ -6,24 +6,22 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<426 582> 1277 140<40 426 582 968>
 VStem: 426 156<0 1277>
-AnchorPoint: "DoubleTop" -70 0 basechar 0
-AnchorPoint: "Apos" -70 0 basechar 0
-AnchorPoint: "Center" 2 0 basechar 0
 AnchorPoint: "Bottom" 504 0 basechar 0
 AnchorPoint: "Top" 504 1416 basechar 0
 LayerCount: 3
 Back
 Fore
 SplineSet
-40 1417 m 5
- 968 1417 l 5
- 968 1277 l 5
- 582 1277 l 5
- 582 0 l 5
- 426 0 l 5
- 426 1277 l 5
- 40 1277 l 5
- 40 1417 l 5
+40 1417 m 1
+ 968 1417 l 1
+ 968 1277 l 1
+ 582 1277 l 1
+ 582 0 l 1
+ 426 0 l 1
+ 426 1277 l 1
+ 40 1277 l 1
+ 40 1417 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

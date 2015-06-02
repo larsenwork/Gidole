@@ -3,25 +3,29 @@ Encoding: 121 121 69
 GlifName: y
 Width: 947
 Flags: W
-AnchorPoint: "DoubleTop" -74 0 basechar 0
-AnchorPoint: "Apos" -74 0 basechar 0
+HStem: -427 134<100.725 324.879>
 AnchorPoint: "Top" 474 1082 basechar 0
-AnchorPoint: "Center" -94 0 basechar 0
-AnchorPoint: "Bottom" -94 0 basechar 0
 LayerCount: 3
 Back
 Fore
 SplineSet
-452 -414 m 5
- 307 -414 l 5
- 432 -2 l 5
- 40 1082 l 5
- 197 1082 l 5
- 500 194 l 5
- 752 1082 l 5
- 907 1082 l 5
- 452 -414 l 5
+74 -409 m 1
+ 107 -279 l 1
+ 140 -288 172 -293 202 -293 c 0
+ 254 -293 293 -278 322 -255 c 0
+ 363 -223 378 -178 395 -124 c 2
+ 432 -2 l 1
+ 40 1082 l 1
+ 196 1082 l 1
+ 498 197 l 1
+ 754 1082 l 1
+ 907 1082 l 1
+ 530 -159 l 2
+ 505 -242 478 -299 424 -347 c 0
+ 371 -394 298 -427 202 -427 c 0
+ 156 -427 114 -419 74 -409 c 1
 EndSplineSet
+Validated: 1
 Layer: 2
-Substitution2: "'ss03' Style Set 3 lookup 2 subtable" y.alt
+Substitution2: "'ss05' subtable" y.alt
 EndChar

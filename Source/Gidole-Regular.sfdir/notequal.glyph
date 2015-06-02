@@ -3,17 +3,33 @@ Encoding: 8800 8800 119
 GlifName: notequal
 Width: 1020
 Flags: W
-HStem: 314 134<160 860> 634 134<160 860>
+HStem: 314 134<160 342 520 860> 634 134<160 500 678 860>
 LayerCount: 3
 Back
 Fore
 SplineSet
-210 45 m 5
+160 314 m 5
+ 160 448 l 5
+ 408 448 l 5
+ 500 634 l 5
+ 160 634 l 5
+ 160 768 l 5
+ 566 768 l 5
  698 1037 l 5
  810 1037 l 5
+ 678 768 l 5
+ 860 768 l 5
+ 860 634 l 5
+ 612 634 l 5
+ 520 448 l 5
+ 860 448 l 5
+ 860 314 l 5
+ 454 314 l 5
  322 45 l 5
  210 45 l 5
+ 342 314 l 5
+ 160 314 l 5
 EndSplineSet
-Refer: 82 61 N 1 0 0 1 0 0 2
+Validated: 1
 Layer: 2
 EndChar

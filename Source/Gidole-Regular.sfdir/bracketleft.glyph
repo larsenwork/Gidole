@@ -20,6 +20,7 @@ SplineSet
  150 -456 l 5
  150 1538 l 5xe0
 EndSplineSet
+Validated: 1
 Layer: 2
-Substitution2: "'case' Case-Sensitive Forms lookup 36-1" bracketleft.case
+Substitution2: "'case' subtable" bracketleft.case
 EndChar

@@ -49,6 +49,7 @@ SplineSet
  1218 662 1218 782 1158 866 c 4
  1117 924 1046 964 953 964 c 4
 EndSplineSet
+Validated: 1
 Layer: 2
-Substitution2: "'case' Case-Sensitive Forms lookup 36-1" at.alt.case
+Substitution2: "'case' subtable" at.alt.case
 EndChar

@@ -4,12 +4,13 @@ GlifName: racute
 Width: 657
 VWidth: 0
 Flags: W
-HStem: 0 21G<140 290> 964 134<385.823 615.954> 1222 274<508 512>
-VStem: 140 150<0 872.771 968.388 1082> 354 323
+HStem: 0 21G<140 290> 964 134<385.817 615.954> 1222 274<508 512>
+VStem: 140 150<0 872.61 968 1082> 354 323
 LayerCount: 3
 Back
 Fore
 Refer: 478 714 N 1 0 0 1 254 0 2
 Refer: 61 114 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 EndChar

@@ -3,11 +3,8 @@ Encoding: 82 82 32
 GlifName: R_
 Width: 1101
 Flags: W
-HStem: 0 21G<160 316 852.863 1031> 556 140<316 608> 1276 140<316 728.129>
+HStem: 0 21G<160 316 852.863 1031> 556 140<316 608> 1276 140<316 728.14>
 VStem: 160 156<0 556 696 1276> 850 156<821.173 1153.72>
-AnchorPoint: "DoubleTop" 14 0 basechar 0
-AnchorPoint: "Apos" 14 0 basechar 0
-AnchorPoint: "Center" 4 0 basechar 0
 AnchorPoint: "Bottom" 581 0 basechar 0
 AnchorPoint: "Top" 536 1416 basechar 0
 LayerCount: 3
@@ -15,7 +12,7 @@ Back
 Fore
 SplineSet
 487 1416 m 2
- 597.663638325 1416 667 1416 757 1379 c 0
+ 598 1416 667 1416 757 1379 c 0
  906 1318 1006 1170 1006 986 c 0
  1006 800 903 651 754 592 c 1
  1031 0 l 1
@@ -35,5 +32,6 @@ SplineSet
  850 1071 817 1199 691 1252 c 0
  634 1276 575 1276 487 1276 c 2
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

@@ -7,6 +7,21 @@ HStem: 264 134<160 860>
 LayerCount: 3
 Back
 Fore
-Refer: 117 8804 S -1 0 0 1 1020 0 2
+SplineSet
+215 1144 m 1
+ 860 872 l 1
+ 860 750 l 1
+ 215 478 l 1
+ 163 604 l 1
+ 671 811 l 1
+ 163 1018 l 1
+ 215 1144 l 1
+860 398 m 1
+ 860 264 l 1
+ 160 264 l 1
+ 160 398 l 1
+ 860 398 l 1
+EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

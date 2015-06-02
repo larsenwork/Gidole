@@ -24,19 +24,22 @@ SplineSet
  678 655 796 767 796 975 c 4
  796 1183 678 1295 534 1295 c 4
 EndSplineSet
+Validated: 1
 Layer: 2
-Substitution2: "'sups' Superscript lookup 35-1" uni2079
-Substitution2: "'subs' Subscript lookup 34-1" uni2089
-Substitution2: "'tnum' Tabular Numbers lookup 33-1" nine.tab
-Substitution2: "Single Substitution lookup 28 subtable" nine.d
+Substitution2: "Single Substitution lookup 38 subtable" nine.d
+Substitution2: "Single Substitution lookup 36 subtable" nine.n
+Substitution2: "Single Substitution lookup 34 subtable" nine.n
+Substitution2: "Single Substitution lookup 32 subtable" nine.n
+Substitution2: "Single Substitution lookup 30 subtable" nine.n
+Substitution2: "Single Substitution lookup 28 subtable" nine.n
 Substitution2: "Single Substitution lookup 26 subtable" nine.n
 Substitution2: "Single Substitution lookup 24 subtable" nine.n
 Substitution2: "Single Substitution lookup 22 subtable" nine.n
 Substitution2: "Single Substitution lookup 20 subtable" nine.n
 Substitution2: "Single Substitution lookup 18 subtable" nine.n
-Substitution2: "Single Substitution lookup 16 subtable" nine.n
-Substitution2: "Single Substitution lookup 14 subtable" nine.n
-Substitution2: "Single Substitution lookup 12 subtable" nine.n
-Substitution2: "Single Substitution lookup 10 subtable" nine.n
-Substitution2: "Single Substitution lookup 8 subtable" nine.n
+Substitution2: "'dnom' Denominators subtable" nine.d
+Substitution2: "'numr' Numerators subtable" nine.n
+Substitution2: "'sups' subtable" uni2079.sup
+Substitution2: "'subs' subtable" uni2089.sub
+Substitution2: "'tnum' subtable" nine.tab
 EndChar

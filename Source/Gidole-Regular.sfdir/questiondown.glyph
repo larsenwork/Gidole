@@ -4,7 +4,7 @@ GlifName: questiondown
 Width: 686
 Flags: W
 HStem: -430 134<285.183 596.193> 798 220<344.109 525.891>
-VStem: 40 150<-200.053 98.1885> 325 220<817.109 998.891> 369 132<369.51 614.975>
+VStem: 40 150<-200.053 98.1885> 325 220<817.109 998.891> 369 132<369.51 615>
 LayerCount: 3
 Back
 Fore
@@ -30,6 +30,7 @@ SplineSet
  190 -191 283 -296 435 -296 c 4
  541 -296 621 -246 678 -191 c 5
 EndSplineSet
+Validated: 1
 Layer: 2
-Substitution2: "'case' Case-Sensitive Forms lookup 36-1" questiondown.case
+Substitution2: "'case' subtable" questiondown.case
 EndChar

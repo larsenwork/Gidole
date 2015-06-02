@@ -3,6 +3,7 @@ Encoding: 48 48 2
 GlifName: zero
 Width: 1068
 VWidth: 0
+InSpiro: 1
 Flags: W
 HStem: -19 140<380.406 687.594> 1295 140<380.406 687.594>
 VStem: 116 156<242.808 1173.19> 796 156<242.808 1173.19>
@@ -29,20 +30,23 @@ SplineSet
  796 987 796 1137 719 1222 c 0
  679 1267 617 1295 534 1295 c 0
 EndSplineSet
+Validated: 1
 Layer: 2
-Substitution2: "'sups' Superscript lookup 35-1" uni2070
-Substitution2: "'subs' Subscript lookup 34-1" uni2080
-Substitution2: "'tnum' Tabular Numbers lookup 33-1" zero.tab
-Substitution2: "'zero' Slashed Zero lookup 31 subtable" zero.zero
-Substitution2: "Single Substitution lookup 28 subtable" zero.d
+Substitution2: "Single Substitution lookup 38 subtable" zero.d
+Substitution2: "Single Substitution lookup 36 subtable" zero.n
+Substitution2: "Single Substitution lookup 34 subtable" zero.n
+Substitution2: "Single Substitution lookup 32 subtable" zero.n
+Substitution2: "Single Substitution lookup 30 subtable" zero.n
+Substitution2: "Single Substitution lookup 28 subtable" zero.n
 Substitution2: "Single Substitution lookup 26 subtable" zero.n
 Substitution2: "Single Substitution lookup 24 subtable" zero.n
 Substitution2: "Single Substitution lookup 22 subtable" zero.n
 Substitution2: "Single Substitution lookup 20 subtable" zero.n
 Substitution2: "Single Substitution lookup 18 subtable" zero.n
-Substitution2: "Single Substitution lookup 16 subtable" zero.n
-Substitution2: "Single Substitution lookup 14 subtable" zero.n
-Substitution2: "Single Substitution lookup 12 subtable" zero.n
-Substitution2: "Single Substitution lookup 10 subtable" zero.n
-Substitution2: "Single Substitution lookup 8 subtable" zero.n
+Substitution2: "'dnom' Denominators subtable" zero.d
+Substitution2: "'numr' Numerators subtable" zero.n
+Substitution2: "'sups' subtable" uni2070.sup
+Substitution2: "'subs' subtable" uni2080.sub
+Substitution2: "'zero' subtable" zero.zero
+Substitution2: "'tnum' subtable" zero.tab
 EndChar

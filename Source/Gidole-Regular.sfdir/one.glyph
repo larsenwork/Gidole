@@ -9,28 +9,31 @@ LayerCount: 3
 Back
 Fore
 SplineSet
-518 0 m 5
- 362 0 l 5
- 362 1235 l 5
- 165 1133 l 5
- 100 1261 l 5
- 400 1416 l 5
- 518 1416 l 5
- 518 0 l 5
+518 0 m 1
+ 362 0 l 1
+ 362 1235 l 1
+ 165 1133 l 1
+ 100 1261 l 1
+ 400 1416 l 1
+ 518 1416 l 1
+ 518 0 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
-Substitution2: "'sups' Superscript lookup 35-1" uni00B9
-Substitution2: "'subs' Subscript lookup 34-1" uni2081
-Substitution2: "'tnum' Tabular Numbers lookup 33-1" one.tab
-Substitution2: "Single Substitution lookup 28 subtable" one.d
+Substitution2: "Single Substitution lookup 38 subtable" one.d
+Substitution2: "Single Substitution lookup 36 subtable" one.n
+Substitution2: "Single Substitution lookup 34 subtable" one.n
+Substitution2: "Single Substitution lookup 32 subtable" one.n
+Substitution2: "Single Substitution lookup 30 subtable" one.n
+Substitution2: "Single Substitution lookup 28 subtable" one.n
 Substitution2: "Single Substitution lookup 26 subtable" one.n
 Substitution2: "Single Substitution lookup 24 subtable" one.n
 Substitution2: "Single Substitution lookup 22 subtable" one.n
 Substitution2: "Single Substitution lookup 20 subtable" one.n
 Substitution2: "Single Substitution lookup 18 subtable" one.n
-Substitution2: "Single Substitution lookup 16 subtable" one.n
-Substitution2: "Single Substitution lookup 14 subtable" one.n
-Substitution2: "Single Substitution lookup 12 subtable" one.n
-Substitution2: "Single Substitution lookup 10 subtable" one.n
-Substitution2: "Single Substitution lookup 8 subtable" one.n
+Substitution2: "'dnom' Denominators subtable" one.d
+Substitution2: "'numr' Numerators subtable" one.n
+Substitution2: "'sups' subtable" uni00B9
+Substitution2: "'subs' subtable" uni2081.sub
+Substitution2: "'tnum' subtable" one.tab
 EndChar

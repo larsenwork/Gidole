@@ -5,7 +5,6 @@ Width: 940
 Flags: W
 HStem: 0 140<316 880>
 VStem: 160 156<140 1416>
-AnchorPoint: "DoubleTop" 6 0 basechar 0
 AnchorPoint: "Apos" 480 1416 basechar 0
 AnchorPoint: "Bottom" 521 0 basechar 0
 AnchorPoint: "Center" 316 722 basechar 0
@@ -14,13 +13,14 @@ LayerCount: 3
 Back
 Fore
 SplineSet
-160 1416 m 5
- 316 1416 l 5
- 316 140 l 5
- 880 140 l 5
- 880 0 l 5
- 160 0 l 5
- 160 1416 l 5
+160 1416 m 1
+ 316 1416 l 1
+ 316 140 l 1
+ 880 140 l 1
+ 880 0 l 1
+ 160 0 l 1
+ 160 1416 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

@@ -5,9 +5,6 @@ Width: 987
 VWidth: 0
 Flags: W
 HStem: 0 140<246 927> 1276 140<85 721>
-AnchorPoint: "DoubleTop" -57 0 basechar 0
-AnchorPoint: "Apos" -57 0 basechar 0
-AnchorPoint: "Center" -47 0 basechar 0
 AnchorPoint: "Bottom" 494 0 basechar 0
 AnchorPoint: "Top" 494 1416 basechar 0
 LayerCount: 3
@@ -26,5 +23,6 @@ SplineSet
  721 1276 l 1
  85 1276 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

@@ -24,19 +24,22 @@ SplineSet
  417 864 l 5
  462 883 512 891 564 891 c 4
 EndSplineSet
+Validated: 1
 Layer: 2
-Substitution2: "'sups' Superscript lookup 35-1" uni2076
-Substitution2: "'subs' Subscript lookup 34-1" uni2086
-Substitution2: "'tnum' Tabular Numbers lookup 33-1" six.tab
-Substitution2: "Single Substitution lookup 28 subtable" six.d
+Substitution2: "Single Substitution lookup 38 subtable" six.d
+Substitution2: "Single Substitution lookup 36 subtable" six.n
+Substitution2: "Single Substitution lookup 34 subtable" six.n
+Substitution2: "Single Substitution lookup 32 subtable" six.n
+Substitution2: "Single Substitution lookup 30 subtable" six.n
+Substitution2: "Single Substitution lookup 28 subtable" six.n
 Substitution2: "Single Substitution lookup 26 subtable" six.n
 Substitution2: "Single Substitution lookup 24 subtable" six.n
 Substitution2: "Single Substitution lookup 22 subtable" six.n
 Substitution2: "Single Substitution lookup 20 subtable" six.n
 Substitution2: "Single Substitution lookup 18 subtable" six.n
-Substitution2: "Single Substitution lookup 16 subtable" six.n
-Substitution2: "Single Substitution lookup 14 subtable" six.n
-Substitution2: "Single Substitution lookup 12 subtable" six.n
-Substitution2: "Single Substitution lookup 10 subtable" six.n
-Substitution2: "Single Substitution lookup 8 subtable" six.n
+Substitution2: "'dnom' Denominators subtable" six.d
+Substitution2: "'numr' Numerators subtable" six.n
+Substitution2: "'sups' subtable" uni2076.sup
+Substitution2: "'subs' subtable" uni2086.sub
+Substitution2: "'tnum' subtable" six.tab
 EndChar

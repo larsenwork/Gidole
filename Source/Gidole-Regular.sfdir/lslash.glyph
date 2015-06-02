@@ -4,19 +4,33 @@ GlifName: lslash
 Width: 656
 VWidth: 0
 Flags: W
-HStem: 0 21G<258 408>
-VStem: 45 566 258 150<0 1496>
+HStem: -16 134<414.125 501.64>
+VStem: 258 150<132.663 640 899 1496>
 LayerCount: 3
 Back
 Fore
 SplineSet
-117 542 m 1xc0
- 45 646 l 1
- 539 990 l 1
- 611 886 l 1
- 117 542 l 1xc0
+117 542 m 5
+ 45 646 l 5
+ 258 794 l 5
+ 258 1496 l 5
+ 408 1496 l 5
+ 408 899 l 5
+ 539 990 l 5
+ 611 886 l 5
+ 408 745 l 5
+ 408 191 l 6
+ 408 169 408 146 419 132 c 4
+ 427 122 438 118 454 118 c 4
+ 468 118 484 120 500 124 c 5
+ 524 -4 l 5
+ 497 -12 467 -16 432 -16 c 4
+ 376 -16 328 11 296 50 c 4
+ 258 96 258 158 258 191 c 6
+ 258 640 l 5
+ 117 542 l 5
 EndSplineSet
-Refer: 50 108 S 1 0 0 1 118 0 2
+Validated: 1
 Layer: 2
-Substitution2: "'ss04' Style Set 4 lookup 3 subtable" lslash.alt
+Substitution2: "'ss03' subtable" lslash.alt
 EndChar

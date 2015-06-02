@@ -1,9 +1,9 @@
 StartChar: arrowleft
 Encoding: 8592 8592 411
 GlifName: arrowleft
-Width: 1220
+Width: 1320
 Flags: W
-HStem: 474 134<332 1100>
+HStem: 474 134<332 1200>
 LayerCount: 3
 Back
 Fore
@@ -15,10 +15,11 @@ SplineSet
  548 1074 l 1
  654 982 l 1
  332 608 l 1
- 1100 608 l 5
- 1100 474 l 5
+ 1200 608 l 5
+ 1200 474 l 5
  332 474 l 1
  654 100 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar
