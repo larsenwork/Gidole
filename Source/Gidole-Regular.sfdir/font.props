@@ -3,7 +3,7 @@ FontName: Gidole-Regular
 FullName: Gidole Regular
 FamilyName: Gidole
 Weight: Regular
-Copyright: Copyright (c) 2015, Andreas Larsen @andreaslarsendk
+Copyright: Copyright (c) 2015, Andreas Larsen @larsenwork
 Version: 2.0.2
 ItalicAngle: 0
 UnderlinePosition: -99
@@ -25,7 +25,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1433172194
+ModificationTime: 1433428558
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -61,21 +61,21 @@ OS2FamilyClass: 1283
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000003.00000000
 OS2UnicodeRanges: e00000ff.4000206a.00000000.00000000
-Lookup: 1 0 0 "'numr' Numerators" { "'numr' Numerators subtable" ("n") } ['numr' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'dnom' Denominators" { "'dnom' Denominators subtable" ("d") } ['dnom' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'zero' Slashed" { "'zero' subtable" ("zero") } ['zero' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'tnum' Tabular Numbers" { "'tnum' subtable" ("tab") } ['tnum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'case' Case-Sensitive Forms" { "'case' subtable" ("case") } ['case' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'dlig' Discretionary Ligatures" { "'dlig' subtable"  } ['dlig' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'subs' Subscript" { "'subs' subtable" ("sub") } ['subs' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'sups' Superscript" { "'sups' subtable" ("sup") } ['sups' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss01' a" { "'ss01' subtable" ("alt") } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss02' g" { "'ss02' subtable" ("alt") } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss03' l" { "'ss03' subtable" ("alt") } ['ss03' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss04' u" { "'ss04' subtable" ("alt") } ['ss04' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss05' y" { "'ss05' subtable" ("alt") } ['ss05' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss06' @" { "'ss06' subtable" ("alt") } ['ss06' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss07' 4" { "'ss07' subtable" ("alt") } ['ss07' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'numr' Numerators" { "'numr' Numerators subtable" ("n") } ['numr' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'dnom' Denominators" { "'dnom' Denominators subtable" ("d") } ['dnom' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'zero' Slashed" { "'zero' subtable" ("zero") } ['zero' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'tnum' Tabular Numbers" { "'tnum' subtable" ("tab") } ['tnum' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'case' Case-Sensitive Forms" { "'case' subtable" ("case") } ['case' ('DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "'dlig' Discretionary Ligatures" { "'dlig' subtable"  } ['dlig' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'subs' Subscript" { "'subs' subtable" ("sub") } ['subs' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Superscript" { "'sups' subtable" ("sup") } ['sups' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss01' a" { "'ss01' subtable" ("alt") } ['ss01' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss02' g" { "'ss02' subtable" ("alt") } ['ss02' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss03' l" { "'ss03' subtable" ("alt") } ['ss03' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss04' u" { "'ss04' subtable" ("alt") } ['ss04' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss05' y" { "'ss05' subtable" ("alt") } ['ss05' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss06' @" { "'ss06' subtable" ("alt") } ['ss06' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss07' 4" { "'ss07' subtable" ("alt") } ['ss07' ('DFLT' <'dflt' > ) ]
 Lookup: 6 0 0 "FractionBar" { "FractionBar contextual 0"  "FractionBar contextual 1"  "FractionBar contextual 2"  "FractionBar contextual 3"  "FractionBar contextual 4"  "FractionBar contextual 5"  "FractionBar contextual 6"  "FractionBar contextual 7"  "FractionBar contextual 8"  "FractionBar contextual 9"  "FractionBar contextual 10"  "FractionBar contextual 11"  "FractionBar contextual 12"  "FractionBar contextual 13"  "FractionBar contextual 14"  "FractionBar contextual 15"  "FractionBar contextual 16"  "FractionBar contextual 17"  "FractionBar contextual 18"  "FractionBar contextual 19"  "FractionBar contextual 20"  "FractionBar contextual 21"  "FractionBar contextual 22"  } ['frac' ('DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 16" { "Single Substitution lookup 16 subtable"  } []
 Lookup: 6 0 0 "Numerator1" { "Numerator1 subtable"  } ['frac' ('DFLT' <'dflt' > ) ]
@@ -102,7 +102,7 @@ Lookup: 6 0 0 "Denominator" { "Denominator subtable"  } ['frac' ('DFLT' <'dflt' 
 Lookup: 1 0 0 "Single Substitution lookup 38" { "Single Substitution lookup 38 subtable"  } []
 Lookup: 6 0 0 "'frac' Diagonal Fractions lookup 39" { "'frac' Diagonal Fractions lookup 39 subtable"  } ['frac' ('DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 40" { "Single Substitution lookup 40 subtable"  } []
-Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' 0-1" [150,15,4] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' 0-1" [150,15,4] } ['kern' ('DFLT' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 0" { "'mark' 0-1"  } []
 MarkAttachClasses: 1
 DEI: 91125
@@ -633,7 +633,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 190 19 14
+WinInfo: 57 19 14
 BeginPrivate: 6
 BlueValues 17 [-41 0 1366 1378]
 BlueShift 1 0
