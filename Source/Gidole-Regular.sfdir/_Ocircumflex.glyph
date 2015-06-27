@@ -1,12 +1,11 @@
 StartChar: Ocircumflex
 Encoding: 212 212 144
 GlifName: O_circumflex
-Width: 1216
+Width: 1256
 VWidth: 0
 Flags: W
-HStem: -19 140<432.945 783.055> 1295 140<432.945 783.055> 1556 274
-VStem: 110 156<311.742 1104.26> 297 622 950 156<311.742 1104.26>
-CounterMasks: 1 1c
+HStem: -19 140<452.945 803.055> 1295 140<452.945 803.055> 1556 274
+VStem: 130 156<311.742 1104.26> 970 156<311.742 1104.26>
 LayerCount: 3
 Back
 Fore

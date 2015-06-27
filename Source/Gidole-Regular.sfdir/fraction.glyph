@@ -1,17 +1,17 @@
 StartChar: fraction
 Encoding: 8260 8260 121
 GlifName: fraction
-Width: 236
+Width: 276
 Flags: W
 LayerCount: 3
 Back
 Fore
 SplineSet
-448 1360 m 5
- 556 1292 l 5
- -212 76 l 5
- -320 144 l 5
- 448 1360 l 5
+468 1360 m 1
+ 576 1292 l 1
+ -192 76 l 1
+ -300 144 l 1
+ 468 1360 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

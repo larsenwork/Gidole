@@ -1,11 +1,10 @@
 StartChar: Zdotaccent
 Encoding: 379 379 297
 GlifName: Z_dotaccent
-Width: 987
+Width: 1027
 VWidth: 0
 Flags: W
-HStem: 0 140<246 927> 1276 140<85 721> 1581 188<412.891 575.109>
-VStem: 400 188<1593.89 1756.11>
+HStem: 0 140<266 947> 1276 140<105 741> 1581 188<432.891 595.109>
 LayerCount: 3
 Back
 Fore

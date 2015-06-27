@@ -1,16 +1,16 @@
 StartChar: utilde
 Encoding: 361 361 285
 GlifName: utilde
-Width: 1050
+Width: 1090
 VWidth: 0
 Flags: W
-HStem: -16 134<377.605 672.395> 1222 124<511.537 692.301> 1282 124<357.699 538.463>
-VStem: 130 150<219.022 1082> 225 600 770 150<219.022 1082>
+HStem: -16 134<417.605 712.395> 1062 20G<170 320 810 960> 1222 124<571.537 752.301>
+VStem: 170 150<219.022 1082> 810 150<219.022 1082>
 LayerCount: 3
 Back
 Fore
-Refer: 182 732 N 1 0 0 1 116 0 2
-Refer: 65 117 N 1 0 0 1 0 0 3
+Refer: 182 732 N 1 0 0 1 156 0 2
+Refer: 65 117 N 1 0 0 1 20 0 3
 Validated: 1
 Layer: 2
 Substitution2: "'ss04' subtable" utilde.alt

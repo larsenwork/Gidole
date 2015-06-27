@@ -1,30 +1,30 @@
 StartChar: Lslash
 Encoding: 321 321 362
 GlifName: L_slash
-Width: 1017
+Width: 1057
 VWidth: 0
 Flags: W
-HStem: 0 140<393 957>
-VStem: 237 156<140 623 892 1416>
+HStem: 0 140<413 977> 1396 20G<257 413>
+VStem: 257 156<140 623 892 1416>
 LayerCount: 3
 Back
 Fore
 SplineSet
-545 998 m 5
- 621 890 l 5
- 393 731 l 5
- 393 140 l 5
- 957 140 l 5
- 957 0 l 5
- 237 0 l 5
- 237 623 l 5
- 121 542 l 5
- 45 650 l 5
- 237 784 l 5
- 237 1416 l 5
- 393 1416 l 5
- 393 892 l 5
- 545 998 l 5
+565 998 m 1
+ 641 890 l 1
+ 413 731 l 1
+ 413 140 l 1
+ 977 140 l 1
+ 977 0 l 1
+ 257 0 l 1
+ 257 623 l 1
+ 141 542 l 1
+ 65 650 l 1
+ 257 784 l 1
+ 257 1416 l 1
+ 413 1416 l 1
+ 413 892 l 1
+ 565 998 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

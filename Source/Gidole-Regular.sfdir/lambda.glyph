@@ -1,27 +1,27 @@
 StartChar: lambda
 Encoding: 955 955 458
 GlifName: lambda
-Width: 947
+Width: 987
 Flags: W
-HStem: 0 21G<40 203.824 746.324 907>
-AnchorPoint: "DoubleTop" 0 0 basechar 0
-AnchorPoint: "Apos" 0 0 basechar 0
-AnchorPoint: "Top" 492 979 basechar 0
-AnchorPoint: "Center" -20 0 basechar 0
-AnchorPoint: "Bottom" -20 0 basechar 0
+HStem: 0 21G<60 223.824 766.324 927> 1476 20G<327 478.083>
+AnchorPoint: "DoubleTop" 20 0 basechar 0
+AnchorPoint: "Apos" 20 0 basechar 0
+AnchorPoint: "Top" 512 979 basechar 0
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Bottom" 0 0 basechar 0
 LayerCount: 3
 Back
 Fore
 SplineSet
-452 1496 m 5
- 907 0 l 5
- 752 0 l 5
- 500 888 l 5
- 197 0 l 5
- 40 0 l 5
- 432 1084 l 5
- 307 1496 l 5
- 452 1496 l 5
+472 1496 m 1
+ 927 0 l 1
+ 772 0 l 1
+ 520 888 l 1
+ 217 0 l 1
+ 60 0 l 1
+ 452 1084 l 1
+ 327 1496 l 1
+ 472 1496 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

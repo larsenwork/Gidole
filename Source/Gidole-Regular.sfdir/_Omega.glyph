@@ -1,15 +1,15 @@
 StartChar: Omega
 Encoding: 8486 8486 387
 GlifName: O_mega
-Width: 1270
+Width: 1310
 VWidth: 0
 Flags: W
-HStem: 0 141<126 338 932 1144> 1295 140<457.178 812.822>
-VStem: 147 156<367.347 1131.71> 967 156<367.347 1131.71>
+HStem: 0 141<166 378 972 1184> 1295 140<497.178 852.822>
+VStem: 187 156<367.347 1131.71> 1007 156<367.347 1131.71>
 LayerCount: 3
 Back
 Fore
-Refer: 397 937 S 1 0 0 1 0 0 2
+Refer: 397 937 S 1 0 0 1 20 0 2
 Validated: 1
 Layer: 2
 EndChar

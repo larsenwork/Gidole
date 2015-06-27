@@ -1,26 +1,26 @@
 StartChar: guillemotleft
 Encoding: 171 171 128
 GlifName: guillemotleft
-Width: 902
+Width: 942
 Flags: W
 LayerCount: 3
 Back
 Fore
 SplineSet
-684 939 m 1
- 802 867 l 1
- 592 539 l 1
- 802 211 l 1
- 684 139 l 1
- 440 539 l 1
- 684 939 l 1
-352 955 m 5
- 470 883 l 5
- 252 539 l 5
- 470 195 l 5
- 352 123 l 5
- 100 539 l 5
- 352 955 l 5
+704 939 m 1
+ 822 867 l 1
+ 612 539 l 1
+ 822 211 l 1
+ 704 139 l 1
+ 460 539 l 1
+ 704 939 l 1
+372 955 m 1
+ 490 883 l 1
+ 272 539 l 1
+ 490 195 l 1
+ 372 123 l 1
+ 120 539 l 1
+ 372 955 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

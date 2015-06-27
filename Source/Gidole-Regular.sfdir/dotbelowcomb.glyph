@@ -1,12 +1,12 @@
 StartChar: dotbelowcomb
 Encoding: 803 803 402
 GlifName: dotbelowcomb
-Width: 460
+Width: 500
 VWidth: 0
 Flags: W
-HStem: -385 220<139.109 320.891>
-VStem: 120 220<-365.891 -184.109>
-AnchorPoint: "Bottom" 230 0 mark 0
+HStem: -385 220<159.109 340.891>
+VStem: 140 220<-365.891 -184.109>
+AnchorPoint: "Bottom" 250 0 mark 0
 LayerCount: 3
 Back
 Fore

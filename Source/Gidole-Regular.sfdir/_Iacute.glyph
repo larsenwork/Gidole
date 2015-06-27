@@ -1,15 +1,15 @@
 StartChar: Iacute
 Encoding: 205 205 176
 GlifName: I_acute
-Width: 476
+Width: 516
 VWidth: 0
 Flags: W
-HStem: 0 21G<160 316> 1556 274<301 305>
-VStem: 147 323 160 156<0 1416>
+HStem: 0 21G<180 336> 1396 20G<180 336> 1556 274<301 305>
+VStem: 147 323 180 156<0 1416>
 LayerCount: 3
 Back
 Fore
-Refer: 478 714 N 1 0 0 1 47 334 2
+Refer: 478 714 N 1 0 0 1 27 334 2
 Refer: 21 73 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

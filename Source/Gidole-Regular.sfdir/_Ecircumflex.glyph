@@ -1,15 +1,15 @@
 StartChar: Ecircumflex
 Encoding: 202 202 145
 GlifName: E_circumflex
-Width: 1060
+Width: 1100
 VWidth: 0
 Flags: W
-HStem: 0 140<316 940> 652 140<316 850> 1276 140<316 940> 1556 274
-VStem: 160 156<140 652 792 1276> 246 622
+HStem: 0 140<336 960> 652 140<336 870> 1276 140<336 960> 1556 274
+VStem: 180 156<140 652 792 1276>
 LayerCount: 3
 Back
 Fore
-Refer: 142 710 N 1 0 0 1 146 334 2
+Refer: 142 710 S 1 0 0 1 146 334 2
 Refer: 18 69 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

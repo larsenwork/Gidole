@@ -1,16 +1,15 @@
 StartChar: uni0311
 Encoding: 785 785 382
 GlifName: uni0311
-Width: 710
+Width: 750
 VWidth: 0
 Flags: W
-HStem: 1386 124<266.559 443.441>
-VStem: 90 140<1222 1350> 480 140<1222 1350>
-AnchorPoint: "Top" 355 1082 mark 0
+HStem: 1222 20G<90 230 480 620> 1386 124<266.559 443.441>
+AnchorPoint: "Top" 375 1082 mark 0
 LayerCount: 3
 Back
 Fore
-Refer: 193 728 N -1 0 0 -1 710 2718 2
+Refer: 193 728 N -1 0 0 -1 730 2718 2
 Validated: 1
 Layer: 2
 EndChar

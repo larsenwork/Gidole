@@ -1,13 +1,13 @@
 StartChar: minus
 Encoding: 8722 8722 396
 GlifName: minus
-Width: 1024
+Width: 1064
 Flags: W
-HStem: 472 134<100 924>
+HStem: 472 134<140 964>
 LayerCount: 3
 Back
 Fore
-Refer: 92 8211 N 1 0 0 1 0 0 2
+Refer: 92 8211 N 1 0 0 1 20 0 2
 Validated: 1
 Layer: 2
 EndChar

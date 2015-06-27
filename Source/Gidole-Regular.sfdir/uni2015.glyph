@@ -1,13 +1,13 @@
 StartChar: uni2015
 Encoding: 8213 8213 473
 GlifName: uni2015
-Width: 2048
+Width: 2088
 Flags: W
-HStem: 472 134<100 1948>
+HStem: 472 134<120 1968>
 LayerCount: 3
 Back
 Fore
-Refer: 93 8212 N 1 0 0 1 0 0 2
+Refer: 93 8212 S 1 0 0 1 0 0 2
 Validated: 1
 Layer: 2
 EndChar

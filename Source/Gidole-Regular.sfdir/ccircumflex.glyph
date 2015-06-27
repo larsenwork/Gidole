@@ -1,11 +1,11 @@
 StartChar: ccircumflex
 Encoding: 265 265 211
 GlifName: ccircumflex
-Width: 924
+Width: 964
 VWidth: 0
 Flags: W
-HStem: -16 134<369.816 704.571> 964 134<370.045 695.229> 1222 274
-VStem: 105 150<243.538 837.921> 204 622
+HStem: -16 134<389.816 724.571> 964 134<390.045 715.229> 1222 274
+VStem: 125 150<243.538 837.921>
 LayerCount: 3
 Back
 Fore

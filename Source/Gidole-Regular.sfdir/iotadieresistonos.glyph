@@ -1,16 +1,17 @@
 StartChar: iotadieresistonos
 Encoding: 912 912 607
-Width: 430
+Width: 470
 VWidth: 0
-HStem: 0 21G<140 290> 1247 168<-101.295 49.295 380.705 531.295>
-VStem: -110 168<1255.7 1406.3> 140 150<0 1082> 372 168<1255.7 1406.3>
-CounterMasks: 1 38
-AnchorPoint: "Bottom" 220 0 basechar 0
+Flags: W
+HStem: 0 21G<160 310> 1062 20G<160 310> 1220 168<-81.2953 69.2953 400.705 551.295> 1409 21G<167 300.679>
+VStem: -90 168<1228.7 1379.3> 160 150<0 1082> 392 168<1228.7 1379.3>
+CounterMasks: 1 0e
+AnchorPoint: "Bottom" 240 0 basechar 0
 LayerCount: 3
 Back
 Fore
-Refer: 608 901 N 1 0 0 1 -210 0 2
-Refer: 459 953 N 1 0 0 1 0 0 3
+Refer: 608 901 S 1 0 0 1 -210 -27 2
+Refer: 459 953 S 1 0 0 1 0 0 3
 Validated: 1048577
 Layer: 2
 EndChar

@@ -1,15 +1,15 @@
 StartChar: Uacute
 Encoding: 218 218 178
 GlifName: U_acute
-Width: 1196
+Width: 1236
 VWidth: 0
 Flags: W
-HStem: -19 140<434.716 761.284> 1556 274<661 665>
-VStem: 140 156<260.535 1416> 507 323 900 156<260.535 1416>
+HStem: -19 140<454.716 781.284> 1396 20G<160 316 920 1076> 1556 274<661 665>
+VStem: 160 156<260.535 1416> 507 323 920 156<260.535 1416>
 LayerCount: 3
 Back
 Fore
-Refer: 478 714 N 1 0 0 1 407 334 2
+Refer: 478 714 N 1 0 0 1 387 334 2
 Refer: 24 85 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

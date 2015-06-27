@@ -1,9 +1,9 @@
 StartChar: uni2087.sub
 Encoding: 8327 8327 585
-Width: 700
+Width: 740
 Flags: W
-HStem: -177 21G<150 302.375> 459 118<96 448>
-VStem: 96 512<495 577>
+HStem: -177 21G<170 322.375> 459 118<116 468>
+VStem: 116 512<495 577>
 LayerCount: 3
 Back
 Fore

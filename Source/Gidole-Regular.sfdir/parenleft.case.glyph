@@ -1,8 +1,8 @@
 StartChar: parenleft.case
 Encoding: 1114192 -1 611
-Width: 613
+Width: 653
 Flags: W
-VStem: 90 140<248.436 1177.56>
+VStem: 110 140<248.436 1177.56>
 LayerCount: 5
 Back
 Fore

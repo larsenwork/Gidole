@@ -1,20 +1,20 @@
 StartChar: tonos
 Encoding: 900 900 454
 GlifName: tonos
-Width: 435
+Width: 475
 Flags: W
-HStem: 1222 274<164 238>
-VStem: 112 222
-AnchorPoint: "Top" 178 1082 mark 0
+HStem: 1222 274<184 258>
+VStem: 132 222
+AnchorPoint: "Top" 198 1082 mark 0
 LayerCount: 3
 Back
 Fore
 SplineSet
-334 1496 m 29
- 238 1222 l 5
- 112 1222 l 5
- 164 1496 l 29
- 334 1496 l 29
+354 1496 m 25
+ 258 1222 l 1
+ 132 1222 l 1
+ 184 1496 l 25
+ 354 1496 l 25
 EndSplineSet
 Validated: 1
 Layer: 2

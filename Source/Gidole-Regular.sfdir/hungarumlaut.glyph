@@ -1,25 +1,25 @@
 StartChar: hungarumlaut
 Encoding: 733 733 198
 GlifName: hungarumlaut
-Width: 810
+Width: 850
 Flags: W
 HStem: 1222 274
-VStem: 100 610
-AnchorPoint: "Top" 340 1082 mark 0
+VStem: 110 610
+AnchorPoint: "Top" 360 1082 mark 0
 LayerCount: 3
 Back
 Fore
 SplineSet
-710 1496 m 1
- 546 1222 l 1
- 398 1222 l 1
- 551 1496 l 1
- 710 1496 l 1
-412 1496 m 1
- 248 1222 l 1
- 100 1222 l 1
- 253 1496 l 1
- 412 1496 l 1
+720 1496 m 1
+ 556 1222 l 1
+ 408 1222 l 1
+ 561 1496 l 1
+ 720 1496 l 1
+422 1496 m 1
+ 258 1222 l 1
+ 110 1222 l 1
+ 263 1496 l 1
+ 422 1496 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

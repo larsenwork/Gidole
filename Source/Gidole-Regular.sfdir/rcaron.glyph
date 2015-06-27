@@ -1,11 +1,11 @@
 StartChar: rcaron
 Encoding: 345 345 271
 GlifName: rcaron
-Width: 657
+Width: 697
 VWidth: 0
 Flags: W
-HStem: 0 21G<140 290> 964 134<385.817 615.954> 1222 274
-VStem: 134 622 140 150<0 872.61 968 1082>
+HStem: 964 134<405.817 635.954> 1222 274
+VStem: 160 150<0 872.61 968 1082>
 LayerCount: 3
 Back
 Fore

@@ -1,20 +1,20 @@
 StartChar: guilsinglright
 Encoding: 8250 8250 188
 GlifName: guilsinglright
-Width: 570
+Width: 610
 Flags: W
-VStem: 100 370
+VStem: 120 370
 LayerCount: 3
 Back
 Fore
 SplineSet
-218 955 m 5
- 470 539 l 5
- 218 123 l 5
- 100 195 l 5
- 318 539 l 5
- 100 883 l 5
- 218 955 l 5
+238 955 m 1
+ 490 539 l 1
+ 238 123 l 1
+ 120 195 l 1
+ 338 539 l 1
+ 120 883 l 1
+ 238 955 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

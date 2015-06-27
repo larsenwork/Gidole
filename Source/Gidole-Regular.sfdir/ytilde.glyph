@@ -1,11 +1,10 @@
 StartChar: ytilde
 Encoding: 7929 7929 338
 GlifName: uni1E_F_9
-Width: 947
+Width: 987
 VWidth: 0
 Flags: W
-HStem: -427 134<100.725 324.879> 1222 124<460.537 641.301> 1282 124<306.699 487.463>
-VStem: 174 600
+HStem: -427 134<120.725 344.879> 1062 20G<60 222.825 768.215 927> 1222 124<480.537 661.301>
 LayerCount: 3
 Back
 Fore

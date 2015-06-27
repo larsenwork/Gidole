@@ -1,22 +1,13 @@
 StartChar: Lambda
 Encoding: 923 923 431
 GlifName: L_ambda
-Width: 1150
+Width: 1190
 Flags: W
-HStem: 0 21G<20 189.506 960.494 1130>
+HStem: 0 20G<40 209.506 980.494 1150> 1395 21G<513.22 676.78>
 LayerCount: 3
 Back
 Fore
-SplineSet
-20 0 m 5
- 500 1416 l 5
- 650 1416 l 5
- 1130 0 l 5
- 967 0 l 5
- 575 1205 l 5
- 183 0 l 5
- 20 0 l 5
-EndSplineSet
+Refer: 25 86 S -1 0 0 -1 1190 1416 2
 Validated: 1
 Layer: 2
 EndChar

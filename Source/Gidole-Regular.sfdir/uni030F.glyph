@@ -1,25 +1,25 @@
 StartChar: uni030F
 Encoding: 783 783 375
 GlifName: uni030F_
-Width: 810
+Width: 850
 Flags: W
 HStem: 1222 274
-VStem: 100 610
-AnchorPoint: "Top" 470 1082 mark 0
+VStem: 120 610
+AnchorPoint: "Top" 490 1082 mark 0
 LayerCount: 3
 Back
 Fore
 SplineSet
-100 1496 m 5
- 259 1496 l 5
- 412 1222 l 5
- 264 1222 l 5
- 100 1496 l 5
-398 1496 m 5
- 557 1496 l 5
- 710 1222 l 5
- 562 1222 l 5
- 398 1496 l 5
+120 1496 m 1
+ 279 1496 l 1
+ 432 1222 l 1
+ 284 1222 l 1
+ 120 1496 l 1
+418 1496 m 1
+ 577 1496 l 1
+ 730 1222 l 1
+ 582 1222 l 1
+ 418 1496 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

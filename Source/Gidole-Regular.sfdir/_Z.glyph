@@ -1,27 +1,27 @@
 StartChar: Z
 Encoding: 90 90 38
 GlifName: Z_
-Width: 987
+Width: 1027
 VWidth: 0
 Flags: W
-HStem: 0 140<246 927> 1276 140<85 721>
-AnchorPoint: "Bottom" 494 0 basechar 0
-AnchorPoint: "Top" 494 1416 basechar 0
+HStem: 0 140<266 947> 1276 140<105 741>
+AnchorPoint: "Bottom" 514 0 basechar 0
+AnchorPoint: "Top" 514 1416 basechar 0
 LayerCount: 3
 Back
 Fore
 SplineSet
-85 1276 m 1
- 85 1416 l 1
- 907 1416 l 1
- 907 1315 l 1
- 246 140 l 1
- 927 140 l 1
- 927 0 l 1
- 60 0 l 1
- 60 101 l 1
- 721 1276 l 1
- 85 1276 l 1
+105 1276 m 1
+ 105 1416 l 1
+ 927 1416 l 1
+ 927 1315 l 1
+ 266 140 l 1
+ 947 140 l 1
+ 947 0 l 1
+ 80 0 l 1
+ 80 101 l 1
+ 741 1276 l 1
+ 105 1276 l 1
 EndSplineSet
 Validated: 1048577
 Layer: 2

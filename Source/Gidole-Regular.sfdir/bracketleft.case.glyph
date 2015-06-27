@@ -1,14 +1,14 @@
 StartChar: bracketleft.case
 Encoding: 1114194 -1 613
-Width: 612
+Width: 652
 VWidth: 0
 Flags: W
-HStem: -284 124<290 482> 1586 124<290 482>
-VStem: 150 140<-160 1586> 150 332<-284 -160 1586 1710>
+HStem: -284 124<310 502> 1586 124<310 502>
+VStem: 170 140<-160 1586>
 LayerCount: 5
 Back
 Fore
-Refer: 71 91 N 1 0 0 1 0 172 2
+Refer: 71 91 S 1 0 0 1 0 172 2
 Validated: 1
 Layer: 2
 Layer: 3

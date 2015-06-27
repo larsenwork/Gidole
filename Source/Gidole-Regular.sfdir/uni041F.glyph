@@ -1,24 +1,14 @@
 StartChar: uni041F
 Encoding: 1055 1055 628
-Width: 1220
+Width: 1260
 VWidth: 0
 Flags: W
-HStem: 0 21G<160 316 904 1060> 1276 140<316 904>
-VStem: 160 156<0 1276> 904 156<0 1276>
+HStem: 0 21G<180 336 924 1080> 1276 140<336 924>
+VStem: 180 156<0 1276> 924 156<0 1276>
 LayerCount: 5
 Back
 Fore
-SplineSet
-160 1416 m 1
- 1060 1416 l 5
- 1060 0 l 5
- 904 0 l 5
- 904 1276 l 5
- 316 1276 l 1
- 316 0 l 1
- 160 0 l 1
- 160 1416 l 1
-EndSplineSet
+Refer: 439 928 N 1 0 0 1 0 0 2
 Validated: 1
 Layer: 2
 Layer: 3

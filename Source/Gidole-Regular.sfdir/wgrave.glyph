@@ -1,11 +1,11 @@
 StartChar: wgrave
 Encoding: 7809 7809 318
 GlifName: wgrave
-Width: 1368
+Width: 1408
 VWidth: 0
 Flags: W
-HStem: 0 21G<304.213 460.35 907.65 1063.79> 1222 274<615 619>
-VStem: 450 323
+HStem: 0 21G<324.213 480.35 927.65 1083.79> 1062 20G<70 227.46 625.676 782.324 1180.54 1338> 1222 274<655 659>
+VStem: 490 323
 LayerCount: 3
 Back
 Fore

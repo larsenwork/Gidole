@@ -1,19 +1,19 @@
 StartChar: hyphen
 Encoding: 45 45 80
 GlifName: hyphen
-Width: 780
+Width: 820
 Flags: W
-HStem: 474 134<140 640>
-VStem: 140 500<474 608>
+HStem: 474 134<160 660>
+VStem: 160 500<474 608>
 LayerCount: 3
 Back
 Fore
 SplineSet
-140 474 m 5
- 140 608 l 5
- 640 608 l 5
- 640 474 l 5
- 140 474 l 5
+160 474 m 1
+ 160 608 l 1
+ 660 608 l 1
+ 660 474 l 1
+ 160 474 l 1
 EndSplineSet
 Validated: 1
 Layer: 2

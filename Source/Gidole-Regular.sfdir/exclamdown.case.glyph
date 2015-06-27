@@ -1,13 +1,13 @@
 StartChar: exclamdown.case
 Encoding: 1114199 -1 618
-Width: 460
+Width: 500
 Flags: W
-HStem: 1212 220<139.109 320.891>
-VStem: 120 220<1231.11 1412.89> 152 156<0 858.902> 172 116<584.058 1028>
+HStem: 1212 220<159.109 340.891>
+VStem: 172 156<0 858.902>
 LayerCount: 5
 Back
 Fore
-Refer: 90 161 N 1 0 0 1 0 414 2
+Refer: 90 161 S 1 0 0 1 0 414 2
 Validated: 1
 Layer: 2
 Layer: 3
