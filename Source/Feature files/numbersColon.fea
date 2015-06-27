@@ -1,0 +1,13 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+
+@bigNumbers = [
+  zero one two three four five six seven eight nine
+  zero.tab one.tab two.tab three.tab four.tab five.tab six.tab seven.tab eight.tab nine.tab
+];
+
+feature calt {
+  sub @bigNumbers colon' @bigNumbers by colon.time;
+} calt;
