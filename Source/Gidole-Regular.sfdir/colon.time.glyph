@@ -1,7 +1,7 @@
 StartChar: colon.time
 Encoding: 1114200 -1 645
 Width: 500
-Flags: WO
+Flags: W
 HStem: 220 220<159.109 340.891> 916 220<159.109 340.891>
 VStem: 140 220<239.109 420.891 935.109 1116.89>
 LayerCount: 5
@@ -19,6 +19,7 @@ SplineSet
  185 916 140 961 140 1026 c 4
  140 1091 185 1136 250 1136 c 4
 EndSplineSet
+Validated: 1
 Layer: 2
 Layer: 3
 Layer: 4

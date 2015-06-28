@@ -1,0 +1,15 @@
+StartChar: uni0419
+Encoding: 1049 1049 647
+Width: 1294
+VWidth: 0
+HStem: 0 21G<180 347.933 958 1114> 1396 20G<180 336 946.067 1114> 1542 124<559.559 736.441> 1810 20G<383 523 773 913>
+VStem: 180 156<280 1416> 958 156<0 1136>
+LayerCount: 5
+Back
+Fore
+Refer: 193 728 N 1 0 0 1 273 334 2
+Refer: 624 1048 N 1 0 0 1 0 0 3
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar
