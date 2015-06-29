@@ -1,0 +1,14 @@
+StartChar: uni0302
+Encoding: 770 770 754
+Width: 862
+Flags: W
+HStem: 1222 274
+AnchorPoint: "Top" 431 1082 mark 0
+LayerCount: 5
+Back
+Fore
+Refer: 112 94 S 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

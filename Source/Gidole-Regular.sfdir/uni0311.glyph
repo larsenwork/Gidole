@@ -4,12 +4,11 @@ GlifName: uni0311
 Width: 750
 VWidth: 0
 Flags: W
-HStem: 1222 20G<90 230 480 620> 1386 124<266.559 443.441>
+HStem: 1222 20G<110 250 500 640> 1386 124<286.559 463.441>
 AnchorPoint: "Top" 375 1082 mark 0
 LayerCount: 3
 Back
 Fore
-Refer: 193 728 N -1 0 0 -1 730 2718 2
-Validated: 1
+Refer: 193 728 S -1 0 0 -1 750 2718 2
 Layer: 2
 EndChar

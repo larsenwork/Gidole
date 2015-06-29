@@ -3,11 +3,10 @@ Encoding: 8722 8722 396
 GlifName: minus
 Width: 1064
 Flags: W
-HStem: 472 134<140 964>
+HStem: 472 134<120 944>
 LayerCount: 3
 Back
 Fore
-Refer: 92 8211 N 1 0 0 1 20 0 2
-Validated: 1
+Refer: 92 8211 S 1 0 0 1 0 0 2
 Layer: 2
 EndChar

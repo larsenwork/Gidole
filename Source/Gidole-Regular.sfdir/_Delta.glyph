@@ -3,11 +3,10 @@ Encoding: 8710 8710 392
 GlifName: D_elta
 Width: 1190
 Flags: W
-HStem: 0 140<270 960> 1396 20G<533.22 696.78>
+HStem: 0 140<250 940> 1396 20G<513.22 676.78>
 LayerCount: 3
 Back
 Fore
-Refer: 425 916 N 1 0 0 1 20 0 2
-Validated: 1
+Refer: 425 916 S 1 0 0 1 0 0 2
 Layer: 2
 EndChar

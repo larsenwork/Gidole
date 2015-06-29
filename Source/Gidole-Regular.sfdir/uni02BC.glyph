@@ -2,13 +2,13 @@ StartChar: uni02BC
 Encoding: 700 700 404
 GlifName: uni02B_C_
 Width: 460
-Flags: MW
-VStem: 140 220<1312.37 1492.89>
-AnchorPoint: "Apos" 65 1416 mark 0
+Flags: W
+HStem: 1088 424<185.391 225>
+VStem: 120 220<1312.37 1492.89>
+AnchorPoint: "Apos" 45 1416 mark 0
 LayerCount: 3
 Back
 Fore
-Refer: 85 8217 N 1 0 0 1 20 0 2
-Validated: 1
+Refer: 85 8217 S 1 0 0 1 0 0 2
 Layer: 2
 EndChar

@@ -1,0 +1,14 @@
+StartChar: tildecomb
+Encoding: 771 771 755
+Width: 858
+Flags: W
+HStem: 1222 124<415.537 596.301>
+AnchorPoint: "Top" 429 1082 mark 0
+LayerCount: 5
+Back
+Fore
+Refer: 182 732 N 1 0 0 1 0 0 2
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar
