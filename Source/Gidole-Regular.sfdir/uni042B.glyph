@@ -1,0 +1,43 @@
+StartChar: uni042B
+Encoding: 1067 1067 658
+Width: 1464
+Flags: W
+HStem: 0 140<336 687.978> 652 140<336 687.978> 1396 20G<180 336 1128 1284>
+VStem: 180 156<140 652 792 1416> 790 156<240.785 551.215> 1128 156<0 1416>
+AnchorPoint: "DoubleTop" 30 0 basechar 0
+AnchorPoint: "Apos" 30 0 basechar 0
+AnchorPoint: "Center" 20 0 basechar 0
+AnchorPoint: "Bottom" 257 0 basechar 0
+AnchorPoint: "Top" 258 1416 basechar 0
+LayerCount: 5
+Back
+Fore
+SplineSet
+1284 1416 m 5
+ 1284 0 l 5
+ 1128 0 l 5
+ 1128 1416 l 5
+ 1284 1416 l 5
+790 396 m 0
+ 790 471 761 581 653 629 c 0
+ 601 652 543 652 462 652 c 2
+ 336 652 l 1
+ 336 140 l 1
+ 462 140 l 2
+ 543 140 601 140 653 163 c 0
+ 761 211 790 321 790 396 c 0
+336 792 m 1
+ 462 792 l 2
+ 540 792 604 792 671 773 c 0
+ 855 721 946 559 946 396 c 0
+ 946 233 855 71 671 19 c 0
+ 604 0 540 0 462 0 c 2
+ 180 0 l 1
+ 180 1416 l 1
+ 336 1416 l 1
+ 336 792 l 1
+EndSplineSet
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar
