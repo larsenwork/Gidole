@@ -1,0 +1,23 @@
+StartChar: one
+Encoding: 49 49 3
+GlifName: one
+Width: 758
+Flags: W
+HStem: 0 21G<382 538> 1396 20G<381.29 538>
+VStem: 382 156<0 1235>
+LayerCount: 3
+Back
+Fore
+SplineSet
+538 0 m 1
+ 382 0 l 1
+ 382 1235 l 1
+ 185 1133 l 1
+ 120 1261 l 1
+ 420 1416 l 1
+ 538 1416 l 1
+ 538 0 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

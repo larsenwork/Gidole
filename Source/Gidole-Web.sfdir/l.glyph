@@ -1,0 +1,27 @@
+StartChar: l
+Encoding: 108 108 48
+GlifName: l
+Width: 486
+VWidth: 0
+Flags: W
+HStem: -16 134<316.125 403.64> 1476 20G<160 310>
+VStem: 160 150<132.663 1496>
+LayerCount: 3
+Back
+Fore
+SplineSet
+402 124 m 1
+ 426 -4 l 1
+ 399 -12 369 -16 334 -16 c 0
+ 278 -16 230 11 198 50 c 0
+ 160 96 160 158 160 191 c 2
+ 160 1496 l 1
+ 310 1496 l 1
+ 310 191 l 2
+ 310 169 310 146 321 132 c 0
+ 329 122 340 118 356 118 c 0
+ 370 118 386 120 402 124 c 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

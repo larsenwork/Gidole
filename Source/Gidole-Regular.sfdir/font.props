@@ -25,7 +25,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1435582575
+ModificationTime: 1435942081
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -61,25 +61,24 @@ OS2FamilyClass: 1283
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000003.00000000
 OS2UnicodeRanges: e00000ff.4000206a.00000000.00000000
-Lookup: 1 0 0 "'numr' Numerators" { "'numr' Numerators subtable" ("n") } ['numr' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'dnom' Denominators" { "'dnom' Denominators subtable" ("d") } ['dnom' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'zero' Slashed" { "'zero' subtable" ("zero") } ['zero' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'tnum' Tabular Numbers" { "'tnum' subtable" ("tab") } ['tnum' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'case' Case-Sensitive Forms" { "'case' subtable" ("case") } ['case' ('DFLT' <'dflt' > ) ]
-Lookup: 4 0 0 "'dlig' Discretionary Ligatures" { "'dlig' subtable"  } ['dlig' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'subs' Subscript" { "'subs' subtable" ("sub") } ['subs' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'sups' Superscript" { "'sups' subtable" ("sup") } ['sups' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss01' a" { "'ss01' subtable" ("alt") } ['ss01' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss02' g" { "'ss02' subtable" ("alt") } ['ss02' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss03' l" { "'ss03' subtable" ("alt") } ['ss03' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss04' u" { "'ss04' subtable" ("alt") } ['ss04' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss05' y" { "'ss05' subtable" ("alt") } ['ss05' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss06' @" { "'ss06' subtable" ("alt") } ['ss06' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss07' 4" { "'ss07' subtable" ("alt") } ['ss07' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'numr' Numerators" { "'numr' Numerators subtable" ("n") } ['numr' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'dnom' Denominators" { "'dnom' Denominators subtable" ("d") } ['dnom' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'zero' Slashed" { "'zero' subtable" ("zero") } ['zero' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'tnum' Tabular Numbers" { "'tnum' subtable" ("tab") } ['tnum' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'case' Case-Sensitive Forms" { "'case' subtable" ("case") } ['case' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'dlig' Discretionary Ligatures" { "'dlig' subtable"  } ['dlig' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'subs' Subscript" { "'subs' subtable" ("sub") } ['subs' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Superscript" { "'sups' subtable" ("sup") } ['sups' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss01' a" { "'ss01' subtable" ("alt") } ['ss01' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss02' g" { "'ss02' subtable" ("alt") } ['ss02' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss03' l" { "'ss03' subtable" ("alt") } ['ss03' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss04' u" { "'ss04' subtable" ("alt") } ['ss04' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss05' y" { "'ss05' subtable" ("alt") } ['ss05' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss06' @" { "'ss06' subtable" ("alt") } ['ss06' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss07' 4" { "'ss07' subtable" ("alt") } ['ss07' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 6 0 0 "'calt' Contextual Alternates lookup 15" { "'calt' Contextual Alternates lookup 15 subtable"  } ['calt' ('grek' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 16" { "Single Substitution lookup 16 subtable"  } []
-Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' 0-1" [150,15,4] } ['kern' ('DFLT' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 0" { "'mark' 0-1"  } []
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' 0-1" [150,15,4] } ['kern' ('grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 78 61 "'kern' 0-1"
@@ -237,9 +236,9 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 0 38 14
+WinInfo: 38 38 14
 BeginPrivate: 1
-BlueValues 33 [0 1082 1098 1416 1435 1462 1512]
+BlueValues 27 [-19 0 1082 1098 1416 1435]
 EndPrivate
 Grid
 -2048 754 m 0
@@ -277,5 +276,5 @@ Grid
   Named: "0.5x"
 EndSplineSet
 TeXData: 1 0 0 262144 131072 87381 500171 -1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "DoubleTop" "'mark' 0-1" "Apos" "'mark' 0-1" "Center" "'mark' 0-1" "Bottom" "'mark' 0-1" "Top" "'mark' 0-1" 
+AnchorClass2: "DoubleTop" "" "Apos" "" "Center" "" "Bottom" "" "Top" "" 
 EndSplineFont

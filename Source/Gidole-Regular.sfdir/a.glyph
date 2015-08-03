@@ -2,7 +2,7 @@ StartChar: a
 Encoding: 97 97 489
 GlifName: a
 Width: 1020
-Flags: MW
+Flags: MWO
 HStem: -16 134<325.376 616.88> 527 124<327.926 720> 964 134<286.747 632.331>
 VStem: 100 150<193.031 451.983> 720 150<0 115 226.409 527 651 879.435>
 AnchorPoint: "Top" 485 1082 basechar 0

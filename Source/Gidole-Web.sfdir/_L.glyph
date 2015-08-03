@@ -1,0 +1,26 @@
+StartChar: L
+Encoding: 76 76 23
+GlifName: L_
+Width: 980
+Flags: W
+HStem: 0 140<336 900> 1396 20G<180 336>
+VStem: 180 156<140 1416>
+AnchorPoint: "Apos" 500 1416 basechar 0
+AnchorPoint: "Bottom" 541 0 basechar 0
+AnchorPoint: "Center" 336 722 basechar 0
+AnchorPoint: "Top" 259 1416 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+180 1416 m 1
+ 336 1416 l 1
+ 336 140 l 1
+ 900 140 l 1
+ 900 0 l 1
+ 180 0 l 1
+ 180 1416 l 1
+EndSplineSet
+Validated: 1048577
+Layer: 2
+EndChar

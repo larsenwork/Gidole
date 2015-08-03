@@ -22,6 +22,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Substitution2: "'case' subtable" colon.time
 Substitution2: "Single Substitution lookup 16 subtable" colon.time
+Substitution2: "'case' subtable" colon.time
 EndChar
