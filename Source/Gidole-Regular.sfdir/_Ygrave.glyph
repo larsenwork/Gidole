@@ -9,14 +9,7 @@ VStem: 327 323 463 156<0 506>
 LayerCount: 3
 Back
 Fore
-SplineSet
-327 1830 m 1
- 496 1830 l 1
- 650 1556 l 1
- 492 1556 l 1
- 327 1830 l 1
-EndSplineSet
+Refer: 752 768 N 1 0 0 1 207 334 2
 Refer: 37 89 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 EndChar

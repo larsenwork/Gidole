@@ -12,12 +12,10 @@ Ascent: 1536
 Descent: 512
 InvalidEm: 0
 sfntRevision: 0x0002028f
-LayerCount: 5
+LayerCount: 3
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
-Layer: 2 0 "Back 2" 1
-Layer: 3 0 "Back 2" 1
-Layer: 4 0 "Back 2" 1
+Layer: 2 0 "Back2" 1
 PreferredKerning: 4
 XUID: [1021 365 -928128380 2253708]
 FSType: 0
@@ -25,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1417722385
-ModificationTime: 1435942081
+ModificationTime: 1450959790
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -232,20 +230,22 @@ LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "http://gidole.github.io" "Gi
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -36
+DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 120
-WinInfo: 38 38 14
+WinInfo: 336 14 11
 BeginPrivate: 1
 BlueValues 27 [-19 0 1082 1098 1416 1435]
 EndPrivate
 Grid
+509 2560 m 0
+ 509 -1536 l 1024
 -2048 754 m 0
  4096 754 l 1024
   Named: "sup"
--2048 1593 m 4
- 4096 1593 l 1028
+-2048 1593 m 0
+ 4096 1593 l 1024
   Named: "sup"
 -2048 1222 m 0
  4096 1222 l 1024
@@ -256,8 +256,8 @@ Grid
 -2048 115 m 0
  4096 115 l 1024
   Named: "ink"
--2048 967 m 0
- 4096 967 l 1024
+-2048 966 m 4
+ 4096 966 l 1028
   Named: "ink"
 -2048 1496 m 0
  4096 1496 l 1024

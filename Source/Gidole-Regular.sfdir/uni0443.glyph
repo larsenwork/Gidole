@@ -4,7 +4,7 @@ Width: 987
 Flags: W
 HStem: -427 134<120.725 344.879> 1062 20G<60 222.825 768.215 927>
 AnchorPoint: "Top" 494 1082 basechar 0
-LayerCount: 5
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -26,6 +26,4 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Layer: 3
-Layer: 4
 EndChar

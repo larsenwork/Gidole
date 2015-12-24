@@ -6,12 +6,10 @@ Flags: W
 HStem: 0 21G<645 801> 191 146<489.133 645 801 956.867> 1079 146<489.133 645 801 956.867> 1396 20G<645 801>
 VStem: 135 156<519.604 896.396> 645 156<0 195.529 337 1079 1220.47 1416> 1155 156<519.604 896.396>
 CounterMasks: 1 0e
-LayerCount: 5
+LayerCount: 3
 Back
 Fore
 Refer: 437 934 N 1 0 0 1 0 0 2
 Validated: 1
 Layer: 2
-Layer: 3
-Layer: 4
 EndChar

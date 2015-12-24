@@ -3,12 +3,11 @@ Encoding: 954 954 446
 GlifName: kappa
 Width: 995
 Flags: W
-HStem: 0 21G<180 330 760.327 955> 1062 20G<180 330 754.194 945>
-VStem: 180 150<0 287 489 1082>
+HStem: 0 21G<160 310 740.327 935> 1062 20G<160 310 734.194 925>
+VStem: 160 150<0 287 489 1082>
 LayerCount: 3
 Back
 Fore
-Refer: 381 312 N 1 0 0 1 20 0 2
-Validated: 1
+Refer: 381 312 S 1 0 0 1 0 0 2
 Layer: 2
 EndChar

@@ -4,7 +4,7 @@ Width: 916
 Flags: MW
 HStem: -16 220<330.109 511.891> 1298 134<259.807 570.817>
 VStem: 336 156<555.51 639.474 778 1135> 666 150<903.812 1202.05>
-LayerCount: 5
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -35,6 +35,4 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -2,15 +2,13 @@ StartChar: uni1E37
 Encoding: 7735 7735 776
 Width: 486
 VWidth: 0
-HStem: -358 220<243.109 424.891> -16 134<316.125 403.64> 1476 20G<160 310>
-VStem: 160 150<132.663 1496> 224 220<-338.891 -157.109>
-LayerCount: 5
+HStem: -372 207<223.506 396.494> -16 134<316.125 403.64>
+VStem: 160 150<132.663 1496> 207 206<-355.494 -182.086>
+AnchorPoint: "Top" 235 1496 basechar 0
+LayerCount: 3
 Back
 Fore
-Refer: 402 803 N 1 0 0 1 84 27 2
+Refer: 402 803 N 1 0 0 1 87 0 2
 Refer: 50 108 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
-Layer: 3
-Layer: 4
 EndChar

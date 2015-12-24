@@ -4,13 +4,11 @@ Width: 1110
 VWidth: 0
 HStem: 0 21G<160 322.898 800 950> 1062 20G<160 310 787.102 950> 1208 124<467.559 644.441> 1476 20G<291 431 681 821>
 VStem: 160 150<260 1082> 800 150<0 822>
-LayerCount: 5
+LayerCount: 3
 Back
 Fore
 Refer: 193 728 N 1 0 0 1 181 0 2
 Refer: 649 1080 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2
-Layer: 3
-Layer: 4
 EndChar

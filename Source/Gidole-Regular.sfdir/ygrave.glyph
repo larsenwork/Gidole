@@ -9,15 +9,8 @@ VStem: 280 323
 LayerCount: 3
 Back
 Fore
-SplineSet
-280 1496 m 1
- 449 1496 l 1
- 603 1222 l 1
- 445 1222 l 1
- 280 1496 l 1
-EndSplineSet
+Refer: 752 768 N 1 0 0 1 160 0 2
 Refer: 69 121 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Substitution2: "'ss05' subtable" ygrave.alt
 EndChar

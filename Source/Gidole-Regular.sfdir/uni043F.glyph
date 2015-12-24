@@ -5,7 +5,7 @@ Flags: W
 HStem: 0 21G<160 310 800 950> 948 134<310 800>
 VStem: 160 150<0 948> 800 150<0 948>
 AnchorPoint: "Top" 555 1082 basechar 0
-LayerCount: 5
+LayerCount: 3
 Back
 Fore
 SplineSet
@@ -21,6 +21,4 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Layer: 3
-Layer: 4
 EndChar

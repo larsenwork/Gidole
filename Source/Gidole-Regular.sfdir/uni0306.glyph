@@ -5,12 +5,10 @@ VWidth: 0
 Flags: W
 HStem: 1208 124<286.559 463.441> 1476 20G<110 250 500 640>
 AnchorPoint: "Top" 375 1082 mark 0
-LayerCount: 5
+LayerCount: 3
 Back
 Fore
-Refer: 193 728 N 1 0 0 1 0 0 2
+Refer: 193 728 S 1 0 0 1 0 0 2
 Validated: 1
 Layer: 2
-Layer: 3
-Layer: 4
 EndChar

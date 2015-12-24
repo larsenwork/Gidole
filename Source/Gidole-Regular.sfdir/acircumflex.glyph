@@ -4,14 +4,13 @@ GlifName: acircumflex
 Width: 1020
 VWidth: 0
 Flags: W
-HStem: -16 134<325.376 616.88> 527 124<327.926 720> 964 134<286.747 632.331> 1222 274
+HStem: -16 134<325.376 616.88> 0 21G<720 870> 527 124<327.926 720> 964 134<286.747 632.331> 1222 274
 VStem: 100 150<193.031 451.983> 720 150<0 115 226.409 527 651 879.435>
 LayerCount: 3
 Back
 Fore
-Refer: 142 710 N 1 0 0 1 54 0 2
+Refer: 754 770 N 1 0 0 1 64 0 2
 Refer: 489 97 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Substitution2: "'ss01' subtable" acircumflex.alt
 EndChar

@@ -3,12 +3,10 @@ Encoding: 1061 1061 633
 Width: 1074
 Flags: W
 HStem: 0 21G<60 245.769 868.231 1054> 1396 20G<75 260.772 853.228 1039>
-LayerCount: 5
+LayerCount: 3
 Back
 Fore
 Refer: 36 88 N 1 0 0 1 0 0 2
 Validated: 1
 Layer: 2
-Layer: 3
-Layer: 4
 EndChar

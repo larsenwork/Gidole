@@ -4,12 +4,10 @@ Width: 1126
 Flags: W
 HStem: 0 21G<180 336> 516 140<336 733.654> 1276 140<336 733.654>
 VStem: 180 156<0 516 656 1276> 870 156<794.186 1137.81>
-LayerCount: 5
+LayerCount: 3
 Back
 Fore
 Refer: 31 80 N 1 0 0 1 0 0 2
 Validated: 1
 Layer: 2
-Layer: 3
-Layer: 4
 EndChar

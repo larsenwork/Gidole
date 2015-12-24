@@ -1,27 +1,16 @@
 StartChar: i
 Encoding: 105 105 51
 GlifName: i
-Width: 480
+Width: 470
 VWidth: 0
-Flags: MW
-HStem: 0 21G<165 315> 1062 20G<165 315> 1247 188<158.891 321.109>
-VStem: 165 150<0 1082>
+Flags: W
+HStem: 0 21G<160 310> 1062 20G<160 310> 1247 207<148.506 321.494>
+VStem: 132 206<1263.51 1436.91> 160 150<0 1082>
 AnchorPoint: "Bottom" 240 0 basechar 0
 LayerCount: 3
 Back
 Fore
-SplineSet
-240 1435 m 0
- 295 1435 334 1396 334 1341 c 0
- 334 1286 295 1247 240 1247 c 0
- 185 1247 146 1286 146 1341 c 0
- 146 1396 185 1435 240 1435 c 0
-315 0 m 1
- 165 0 l 1
- 165 1082 l 1
- 315 1082 l 1
- 315 0 l 1
-EndSplineSet
-Validated: 1
+Refer: 758 775 N 1 0 0 1 12 0 2
+Refer: 155 305 N 1 0 0 1 0 0 3
 Layer: 2
 EndChar

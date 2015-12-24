@@ -3,13 +3,12 @@ Encoding: 959 959 447
 GlifName: omicron
 Width: 1100
 Flags: W
-HStem: -16 134<410.875 729.125> 964 134<410.875 729.125>
-VStem: 145 150<243.661 838.339> 845 150<243.661 838.339>
+HStem: -16 134<390.875 709.125> 964 134<390.875 709.125>
+VStem: 125 150<243.661 838.339> 825 150<243.661 838.339>
 AnchorPoint: "Top" 550 1082 basechar 0
 LayerCount: 3
 Back
 Fore
-Refer: 52 111 N 1 0 0 1 20 0 2
-Validated: 1
+Refer: 52 111 N 1 0 0 1 0 0 2
 Layer: 2
 EndChar

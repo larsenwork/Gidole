@@ -9,15 +9,8 @@ VStem: 383 323
 LayerCount: 3
 Back
 Fore
-SplineSet
-706 1496 m 1
- 541 1222 l 1
- 383 1222 l 1
- 537 1496 l 1
- 706 1496 l 1
-EndSplineSet
+Refer: 753 769 N 1 0 0 1 263 0 2
 Refer: 69 121 N 1 0 0 1 0 0 3
-Validated: 1
 Layer: 2
 Substitution2: "'ss05' subtable" yacute.alt
 EndChar

@@ -14,13 +14,6 @@ AnchorPoint: "DoubleTop" 30 0 basechar 0
 LayerCount: 3
 Back
 Fore
-SplineSet
-336 1416 m 5
- 336 0 l 5
- 180 0 l 5
- 180 1416 l 5
- 336 1416 l 5
-EndSplineSet
-Validated: 1
+Refer: 21 73 N 1 0 0 1 0 0 2
 Layer: 2
 EndChar
