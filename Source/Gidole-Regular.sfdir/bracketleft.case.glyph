@@ -4,7 +4,7 @@ Width: 652
 VWidth: 0
 Flags: W
 HStem: -284 124<310 502> 1586 124<310 502>
-VStem: 170 140<-160 1586>
+VStem: 170 140<-160 1586> 170 332<-284 -160 1586 1710>
 LayerCount: 3
 Back
 Fore

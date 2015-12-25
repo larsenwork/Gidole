@@ -3,7 +3,8 @@ Encoding: 814 814 768
 Width: 750
 VWidth: 0
 Flags: W
-HStem: -473 124<286.559 463.441> -205 20G<110 250 500 640>
+HStem: -473 124<286.559 463.441>
+VStem: 110 140<-313.005 -185> 500 140<-313.005 -185>
 AnchorPoint: "Bottom" 375 0 mark 0
 LayerCount: 3
 Back

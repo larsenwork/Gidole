@@ -3,7 +3,7 @@ Encoding: 955 955 458
 GlifName: lambda
 Width: 987
 Flags: W
-HStem: 0 21G<60 223.824 766.324 927> 1476 20G<327 478.083>
+HStem: 0 21G<60 223.824 766.324 927>
 AnchorPoint: "DoubleTop" 20 0 basechar 0
 AnchorPoint: "Apos" 20 0 basechar 0
 AnchorPoint: "Top" 512 979 basechar 0

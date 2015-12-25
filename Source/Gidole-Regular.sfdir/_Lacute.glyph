@@ -4,8 +4,8 @@ GlifName: L_acute
 Width: 980
 VWidth: 0
 Flags: W
-HStem: 0 140<336 900> 1396 20G<180 336> 1556 274<302 306>
-VStem: 148 323 180 156<140 1416>
+HStem: 0 140<336 900> 1396 20G<180 336>
+VStem: 180 156<140 1416>
 LayerCount: 3
 Back
 Fore

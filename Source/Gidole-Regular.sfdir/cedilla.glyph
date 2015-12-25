@@ -2,8 +2,9 @@ StartChar: cedilla
 Encoding: 184 184 189
 GlifName: cedilla
 Width: 587
-Flags: MW
+Flags: W
 HStem: -430 124<145.157 256.975> -20 20G<222.348 352>
+VStem: 264 140<-299.515 -152.686>
 AnchorPoint: "Bottom" 290 0 mark 0
 LayerCount: 3
 Back

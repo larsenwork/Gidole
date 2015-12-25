@@ -2,8 +2,8 @@ StartChar: r
 Encoding: 114 114 61
 GlifName: r
 Width: 697
-Flags: MW
-HStem: 964 134<405.817 635.954>
+Flags: W
+HStem: 0 21G<160 310> 964 134<405.817 635.954> 1062 20G<160 310>
 VStem: 160 150<0 872.61 968 1082>
 AnchorPoint: "Bottom" 234 0 basechar 0
 AnchorPoint: "Top" 465 1082 basechar 0
@@ -11,18 +11,18 @@ LayerCount: 3
 Back
 Fore
 SplineSet
-310 968 m 1
+310 968 m 1xb0
  378 1049 455 1098 565 1098 c 0
  598 1098 629 1093 657 1087 c 1
  635 955 l 1
- 607 959 576 964 545 964 c 0
+ 607 959 576 964 545 964 c 0xd0
  441 964 365 910 332 831 c 0
  310 778 310 712 310 643 c 2
  310 0 l 1
  160 0 l 1
  160 1082 l 1
  310 1082 l 1
- 310 968 l 1
+ 310 968 l 1xb0
 EndSplineSet
 Validated: 1
 Layer: 2

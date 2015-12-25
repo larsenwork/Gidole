@@ -2,8 +2,8 @@ StartChar: onehalf
 Encoding: 189 189 343
 GlifName: onehalf
 Width: 1517
-Flags: MW
-HStem: 0 118<1077 1394> 648 118<977.641 1222.97>
+Flags: W
+HStem: 0 118<1077 1394> 648 118<977.641 1222.97> 663 21G<296 428>
 VStem: 296 132<663 1263> 1242 132<453.085 625.428>
 LayerCount: 3
 Back

@@ -2,8 +2,9 @@ StartChar: asciicircum
 Encoding: 94 94 112
 GlifName: asciicircum
 Width: 862
-Flags: MW
+Flags: W
 HStem: 1222 274
+VStem: 120 622
 AnchorPoint: "Top" 431 1082 mark 0
 LayerCount: 3
 Back
