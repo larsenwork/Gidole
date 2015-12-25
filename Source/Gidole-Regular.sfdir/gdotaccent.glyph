@@ -9,8 +9,9 @@ VStem: 125 150<241.25 840.75> 417 206<1263.51 1436.91> 805 150<-171.521 115 242.
 LayerCount: 3
 Back
 Fore
-Refer: 758 775 N 1 0 0 1 297 0 2
+Refer: 755 775 N 1 0 0 1 297 0 2
 Refer: 58 103 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 Substitution2: "'ss02' subtable" gdotabove.alt
 EndChar

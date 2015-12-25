@@ -7,7 +7,8 @@ VStem: 125 150<236.828 509 633 842.344> 286 323 785 150<633 846.285>
 LayerCount: 3
 Back
 Fore
-Refer: 752 768 N 1 0 0 1 166 -2 2
+Refer: 749 768 N 1 0 0 1 166 -2 2
 Refer: 634 1077 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 EndChar

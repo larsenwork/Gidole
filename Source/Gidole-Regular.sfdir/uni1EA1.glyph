@@ -1,5 +1,5 @@
 StartChar: uni1EA1
-Encoding: 7841 7841 799
+Encoding: 7841 7841 796
 Width: 1020
 VWidth: 0
 HStem: -372 207<398.506 571.494> -16 134<325.376 616.88> 0 21G<720 870> 527 124<327.926 720> 964 134<286.747 632.331>
@@ -10,5 +10,6 @@ Back
 Fore
 Refer: 402 803 S 1 0 0 1 262 0 2
 Refer: 489 97 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 EndChar

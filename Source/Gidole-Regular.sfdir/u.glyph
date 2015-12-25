@@ -5,6 +5,7 @@ Width: 1090
 Flags: W
 HStem: -16 134<397.605 692.395> 1062 20G<150 300 790 940>
 VStem: 150 150<219.022 1082> 790 150<219.022 1082>
+AnchorPoint: "hook" 940 865 basechar 0
 AnchorPoint: "Center" 545 1202 basechar 0
 AnchorPoint: "Bottom" 545 0 basechar 0
 AnchorPoint: "Top" 545 1082 basechar 0

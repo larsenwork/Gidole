@@ -6,8 +6,9 @@ languagesystem grek dflt;
 @bigNumbers = [
   zero one two three four five six seven eight nine
   zero.tab one.tab two.tab three.tab four.tab five.tab six.tab seven.tab eight.tab nine.tab
+  four.alt zero.zero 
 ];
 
 feature calt {
-  sub @bigNumbers colon' @bigNumbers by colon.time;
+  sub @bigNumbers colon' @bigNumbers by colon.case;
 } calt;

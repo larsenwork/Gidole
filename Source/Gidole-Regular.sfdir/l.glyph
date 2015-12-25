@@ -24,6 +24,7 @@ SplineSet
  329 122 340 118 356 118 c 4
  370 118 386 120 402 124 c 5
 EndSplineSet
+Validated: 1
 Layer: 2
 Substitution2: "'ss03' subtable" l.alt
 EndChar

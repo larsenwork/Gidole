@@ -1,5 +1,5 @@
 StartChar: twothirds
-Encoding: 8532 8532 882
+Encoding: 8532 8532 879
 Width: 1685
 Flags: W
 HStem: -12 118<1126.52 1385.35> 330 118<1191 1358.29> 648 118<1129.89 1377.28> 662 118<306 623> 1310 118<206.641 451.969>
@@ -10,5 +10,6 @@ Fore
 Refer: 513 -1 N 1 0 0 1 0 0 2
 Refer: 494 -1 N 1 0 0 1 918 0 2
 Refer: 121 8260 N 1 0 0 1 707 0 2
+Validated: 1
 Layer: 2
 EndChar

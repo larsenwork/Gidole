@@ -1,5 +1,5 @@
 StartChar: uni0324
-Encoding: 804 804 765
+Encoding: 804 804 762
 Width: 810
 VWidth: 0
 Flags: W
@@ -10,5 +10,6 @@ LayerCount: 3
 Back
 Fore
 Refer: 130 168 N 1 0 0 1 0 -1610 2
+Validated: 1
 Layer: 2
 EndChar

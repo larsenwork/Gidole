@@ -1,5 +1,5 @@
 StartChar: hookabovecomb
-Encoding: 777 777 760
+Encoding: 777 777 757
 Width: 616
 VWidth: 0
 Flags: W
@@ -24,5 +24,6 @@ SplineSet
  259 1446 242 1443 223 1436 c 5
  193 1530 l 5
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni1EC9
-Encoding: 7881 7881 835
+Encoding: 7881 7881 832
 Width: 470
 VWidth: 0
 Flags: W
@@ -28,5 +28,6 @@ SplineSet
  190 1416 173 1413 154 1406 c 5
  124 1500 l 5
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

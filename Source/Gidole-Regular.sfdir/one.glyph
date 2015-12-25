@@ -20,9 +20,20 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
+Substitution2: "Single Substitution lookup 40 subtable" one.d
+Substitution2: "Single Substitution lookup 38 subtable" one.n
+Substitution2: "Single Substitution lookup 36 subtable" one.n
+Substitution2: "Single Substitution lookup 34 subtable" one.n
+Substitution2: "Single Substitution lookup 32 subtable" one.n
+Substitution2: "Single Substitution lookup 30 subtable" one.n
+Substitution2: "Single Substitution lookup 28 subtable" one.n
+Substitution2: "Single Substitution lookup 26 subtable" one.n
+Substitution2: "Single Substitution lookup 24 subtable" one.n
+Substitution2: "Single Substitution lookup 22 subtable" one.n
+Substitution2: "Single Substitution lookup 20 subtable" one.n
 Substitution2: "'dnom' Denominators subtable" one.d
 Substitution2: "'numr' Numerators subtable" one.n
-Substitution2: "'sups' subtable" uni00B9
-Substitution2: "'subs' subtable" uni2081.sub
+Substitution2: "'sups' subtable" one.sup
+Substitution2: "'subs' subtable" one.sub
 Substitution2: "'tnum' subtable" one.tab
 EndChar

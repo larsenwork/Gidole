@@ -28,10 +28,21 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
+Substitution2: "Single Substitution lookup 40 subtable" four.d
+Substitution2: "Single Substitution lookup 38 subtable" four.n
+Substitution2: "Single Substitution lookup 36 subtable" four.n
+Substitution2: "Single Substitution lookup 34 subtable" four.n
+Substitution2: "Single Substitution lookup 32 subtable" four.n
+Substitution2: "Single Substitution lookup 30 subtable" four.n
+Substitution2: "Single Substitution lookup 28 subtable" four.n
+Substitution2: "Single Substitution lookup 26 subtable" four.n
+Substitution2: "Single Substitution lookup 24 subtable" four.n
+Substitution2: "Single Substitution lookup 22 subtable" four.n
+Substitution2: "Single Substitution lookup 20 subtable" four.n
 Substitution2: "'dnom' Denominators subtable" four.d
 Substitution2: "'numr' Numerators subtable" four.n
 Substitution2: "'ss07' subtable" four.alt
-Substitution2: "'sups' subtable" uni2074.sup
-Substitution2: "'subs' subtable" uni2084.sub
+Substitution2: "'sups' subtable" four.sup
+Substitution2: "'subs' subtable" four.sub
 Substitution2: "'tnum' subtable" four.tab
 EndChar

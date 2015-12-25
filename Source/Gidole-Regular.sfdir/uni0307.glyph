@@ -1,5 +1,5 @@
 StartChar: uni0307
-Encoding: 775 775 758
+Encoding: 775 775 755
 Width: 446
 VWidth: 0
 Flags: W
@@ -10,5 +10,6 @@ LayerCount: 3
 Back
 Fore
 Refer: 195 729 S 1 0 0 1 0 0 2
+Validated: 1
 Layer: 2
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni1EC3
-Encoding: 7875 7875 829
+Encoding: 7875 7875 826
 Width: 1055
 VWidth: 0
 Flags: W
@@ -8,7 +8,8 @@ VStem: 125 150<236.828 509 633 842.344> 219 622 608 110<1723.23 1843.71> 785 150
 LayerCount: 3
 Back
 Fore
-Refer: 760 777 N 1 0 0 1 250 409 2
+Refer: 757 777 N 1 0 0 1 250 409 2
 Refer: 153 234 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 EndChar

@@ -36,6 +36,7 @@ SplineSet
  657 1098 805 1014 854 851 c 0
  870 798 870 740 870 651 c 2
 EndSplineSet
+Validated: 1
 Layer: 2
 Substitution2: "'ss01' subtable" a.alt
 EndChar

@@ -9,8 +9,9 @@ VStem: 150 150<219.022 1082> 356 106<1284.78 1443.71> 626 106<1284.78 1443.71> 7
 LayerCount: 3
 Back
 Fore
-Refer: 761 778 N 1 0 0 1 236 0 2
+Refer: 758 778 N 1 0 0 1 236 0 2
 Refer: 65 117 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 Substitution2: "'ss04' subtable" uring.alt
 EndChar

@@ -9,6 +9,19 @@ AnchorPoint: "Top" 647 1416 basechar 0
 LayerCount: 3
 Back
 Fore
-Refer: 33 78 S -1 0 0 1 1294 0 2
+SplineSet
+336 1416 m 1
+ 336 280 l 1
+ 957 1416 l 1
+ 1114 1416 l 1
+ 1114 0 l 1
+ 958 0 l 1
+ 958 1136 l 1
+ 337 0 l 1
+ 180 0 l 1
+ 180 1416 l 1
+ 336 1416 l 1
+EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

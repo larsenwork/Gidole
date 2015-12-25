@@ -6,6 +6,7 @@ VWidth: 0
 Flags: W
 HStem: -19 140<452.945 803.055> 1295 140<452.945 803.055>
 VStem: 130 156<311.742 1104.26> 970 156<311.742 1104.26>
+AnchorPoint: "hook" 976 1199 basechar 0
 AnchorPoint: "Bottom" 628 0 basechar 0
 AnchorPoint: "Top" 628 1416 basechar 0
 LayerCount: 3
@@ -31,5 +32,6 @@ SplineSet
  970 850 969 1012 916 1127 c 0
  869 1229 773 1295 628 1295 c 0
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

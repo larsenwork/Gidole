@@ -1,5 +1,5 @@
 StartChar: uni1E43
-Encoding: 7747 7747 782
+Encoding: 7747 7747 779
 Width: 1660
 Flags: W
 HStem: -329 207<748.506 921.494> 0 21G<160 310 760 910 1360 1510> 964 134<408.666 673.41 995.311 1275.22> 1062 20G<160 310>
@@ -9,5 +9,6 @@ Back
 Fore
 Refer: 402 803 N 1 0 0 1 612 43 2
 Refer: 46 109 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 EndChar
