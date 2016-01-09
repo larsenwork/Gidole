@@ -1,0 +1,15 @@
+StartChar: uni0326
+Encoding: 806 806 403
+GlifName: uni0326
+Width: 433
+Flags: W
+HStem: -455 330<178.641 216>
+VStem: 120 193<-299.736 -139.338>
+AnchorPoint: "Bottom" 215 0 mark 0
+LayerCount: 3
+Back
+Fore
+Refer: 401 786 S -1 0 0 -1 433 1081 2
+Validated: 1
+Layer: 2
+EndChar

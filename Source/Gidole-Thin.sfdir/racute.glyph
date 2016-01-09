@@ -1,0 +1,21 @@
+StartChar: racute
+Encoding: 341 341 267
+GlifName: racute
+Width: 624
+VWidth: 0
+Flags: HW
+HStem: 0 21G<160 310> 964 134<405.817 635.954> 1062 20G<160 310>
+VStem: 160 150<0 872.61 968 1082>
+LayerCount: 3
+Back
+Fore
+SplineSet
+677 1496 m 1x90
+ 512 1222 l 1
+ 354 1222 l 1
+ 508 1496 l 1
+ 677 1496 l 1x90
+EndSplineSet
+Refer: 61 114 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

@@ -1,0 +1,26 @@
+StartChar: hungarumlaut
+Encoding: 733 733 198
+GlifName: hungarumlaut
+Width: 850
+Flags: W
+HStem: 1222 274
+VStem: 110 610
+AnchorPoint: "Top" 360 1082 mark 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+720 1496 m 1
+ 556 1222 l 1
+ 408 1222 l 1
+ 561 1496 l 1
+ 720 1496 l 1
+422 1496 m 1
+ 258 1222 l 1
+ 110 1222 l 1
+ 263 1496 l 1
+ 422 1496 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

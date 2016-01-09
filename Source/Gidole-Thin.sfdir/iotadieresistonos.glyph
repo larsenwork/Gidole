@@ -1,0 +1,17 @@
+StartChar: iotadieresistonos
+Encoding: 912 912 607
+Width: 470
+VWidth: 0
+Flags: W
+HStem: -16 134<316.125 403.64> 1062 20G<160 310> 1247 168<-81.2953 69.2953 400.705 551.295> 1436 21G<167 300.679>
+VStem: -90 168<1255.7 1406.3> 160 150<132.663 1082> 392 168<1255.7 1406.3>
+CounterMasks: 1 0e
+AnchorPoint: "Bottom" 240 0 basechar 0
+LayerCount: 3
+Back
+Fore
+Refer: 608 901 N 1 0 0 1 -210 0 2
+Refer: 459 953 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

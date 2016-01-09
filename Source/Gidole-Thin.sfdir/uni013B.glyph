@@ -1,0 +1,16 @@
+StartChar: uni013B
+Encoding: 315 315 248
+GlifName: uni013B_
+Width: 1010
+VWidth: 0
+Flags: W
+HStem: -455 330<504.641 542> 0 140<336 930> 1396 20G<180 336>
+VStem: 180 156<140 1416> 446 193<-299.736 -139.338>
+LayerCount: 3
+Back
+Fore
+Refer: 403 806 N 1 0 0 1 326 0 2
+Refer: 23 76 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

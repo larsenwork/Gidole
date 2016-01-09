@@ -1,0 +1,21 @@
+StartChar: grave
+Encoding: 96 96 110
+GlifName: grave
+Width: 563
+Flags: W
+HStem: 1222 274<285 289>
+VStem: 120 323
+AnchorPoint: "Top" 350 1082 mark 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+120 1496 m 1
+ 289 1496 l 1
+ 443 1222 l 1
+ 285 1222 l 1
+ 120 1496 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

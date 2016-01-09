@@ -1,0 +1,21 @@
+StartChar: Agrave
+Encoding: 192 192 163
+GlifName: A_grave
+Width: 1190
+VWidth: 0
+Flags: W
+HStem: 0 21G<40 209.491 980.509 1150> 342 140<360 830> 1396 20G<513.22 676.78>
+LayerCount: 3
+Back
+Fore
+SplineSet
+381 1830 m 1
+ 550 1830 l 1
+ 704 1556 l 1
+ 546 1556 l 1
+ 381 1830 l 1
+EndSplineSet
+Refer: 13 65 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

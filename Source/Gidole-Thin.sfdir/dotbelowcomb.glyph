@@ -1,0 +1,16 @@
+StartChar: dotbelowcomb
+Encoding: 803 803 402
+GlifName: dotbelowcomb
+Width: 446
+VWidth: 0
+Flags: W
+HStem: -372 207<136.506 309.494>
+VStem: 120 206<-355.494 -182.086>
+AnchorPoint: "Bottom" 223 0 mark 0
+LayerCount: 3
+Back
+Fore
+Refer: 195 729 N 1 0 0 1 0 -1619 2
+Validated: 1
+Layer: 2
+EndChar

@@ -1,0 +1,27 @@
+StartChar: colon
+Encoding: 58 58 12
+GlifName: colon
+Width: 500
+Flags: W
+HStem: -16 220<159.109 340.891> 881 220<159.109 340.891>
+VStem: 140 220<3.10925 184.891 900.109 1081.89>
+LayerCount: 3
+Back
+Fore
+SplineSet
+250 204 m 0
+ 315 204 360 159 360 94 c 0
+ 360 29 315 -16 250 -16 c 0
+ 185 -16 140 29 140 94 c 0
+ 140 159 185 204 250 204 c 0
+250 1101 m 0
+ 315 1101 360 1056 360 991 c 0
+ 360 926 315 881 250 881 c 0
+ 185 881 140 926 140 991 c 0
+ 140 1056 185 1101 250 1101 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "Single Substitution lookup 16 subtable" colon.case
+Substitution2: "'case' subtable" colon.case
+EndChar

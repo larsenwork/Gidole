@@ -1,0 +1,21 @@
+StartChar: egrave
+Encoding: 232 232 160
+GlifName: egrave
+Width: 975
+VWidth: 0
+Flags: HW
+HStem: -16 134<347.746 728.244> 509 124<236 745> 964 134<345.323 633.125>
+VStem: 85 150<236.828 509 633 842.344> 745 150<633 846.285>
+LayerCount: 3
+Back
+Fore
+SplineSet
+276 1496 m 1
+ 445 1496 l 1
+ 599 1222 l 1
+ 441 1222 l 1
+ 276 1496 l 1
+EndSplineSet
+Refer: 56 101 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

@@ -1,0 +1,17 @@
+StartChar: ytilde
+Encoding: 7929 7929 338
+GlifName: uni1E_F_9
+Width: 987
+VWidth: 0
+Flags: W
+HStem: -427 134<120.725 344.879> 1062 20G<60 222.825 768.215 927> 1222 124<480.537 661.301> 1282 124<326.699 507.463> 1396 20G<668.5 711.394>
+VStem: 194 600
+LayerCount: 3
+Back
+Fore
+Refer: 752 771 N 1 0 0 1 65 0 2
+Refer: 69 121 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Substitution2: "'ss05' subtable" ytilde.alt
+EndChar

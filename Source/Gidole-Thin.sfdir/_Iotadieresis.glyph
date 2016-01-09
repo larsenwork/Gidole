@@ -1,0 +1,17 @@
+StartChar: Iotadieresis
+Encoding: 938 938 451
+GlifName: I_otadieresis
+Width: 516
+VWidth: 0
+Flags: W
+HStem: 0 21G<180 336> 1396 20G<180 336> 1581 188<-14.109 148.109 367.891 530.109>
+VStem: -27 188<1593.89 1756.11> 180 156<0 1416> 355 188<1593.89 1756.11>
+CounterMasks: 1 1c
+LayerCount: 3
+Back
+Fore
+Refer: 756 776 N 1 0 0 1 -147 334 2
+Refer: 429 921 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

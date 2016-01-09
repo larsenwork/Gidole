@@ -1,0 +1,38 @@
+StartChar: seven
+Encoding: 55 55 9
+GlifName: seven
+Width: 1108
+Flags: W
+HStem: 0 21G<270 445.245> 1276 140<126 797>
+LayerCount: 3
+Back
+Fore
+SplineSet
+126 1276 m 1
+ 126 1416 l 1
+ 982 1416 l 1
+ 982 1322 l 1
+ 437 0 l 1
+ 270 0 l 1
+ 797 1276 l 1
+ 126 1276 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "Single Substitution lookup 40 subtable" seven.d
+Substitution2: "Single Substitution lookup 38 subtable" seven.n
+Substitution2: "Single Substitution lookup 36 subtable" seven.n
+Substitution2: "Single Substitution lookup 34 subtable" seven.n
+Substitution2: "Single Substitution lookup 32 subtable" seven.n
+Substitution2: "Single Substitution lookup 30 subtable" seven.n
+Substitution2: "Single Substitution lookup 28 subtable" seven.n
+Substitution2: "Single Substitution lookup 26 subtable" seven.n
+Substitution2: "Single Substitution lookup 24 subtable" seven.n
+Substitution2: "Single Substitution lookup 22 subtable" seven.n
+Substitution2: "Single Substitution lookup 20 subtable" seven.n
+Substitution2: "'dnom' Denominators subtable" seven.d
+Substitution2: "'numr' Numerators subtable" seven.n
+Substitution2: "'sups' subtable" seven.sup
+Substitution2: "'subs' subtable" seven.sub
+Substitution2: "'tnum' subtable" seven.tab
+EndChar

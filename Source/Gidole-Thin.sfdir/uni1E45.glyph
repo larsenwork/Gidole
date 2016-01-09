@@ -1,0 +1,15 @@
+StartChar: uni1E45
+Encoding: 7749 7749 310
+GlifName: uni1E_45
+Width: 1020
+VWidth: 0
+Flags: HW
+HStem: 0 21G<160 310 800 950> 964 134<412.928 702.26> 1062 20G<160 310> 1247 207<488.506 661.494>
+VStem: 160 150<0 864.607 968 1082> 472 206<1263.51 1436.91> 800 150<0 863.391>
+LayerCount: 3
+Back
+Fore
+Refer: 755 775 N 1 0 0 1 352 0 2
+Refer: 57 110 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

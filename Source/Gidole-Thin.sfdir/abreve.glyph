@@ -1,0 +1,16 @@
+StartChar: abreve
+Encoding: 259 259 207
+GlifName: abreve
+Width: 940
+VWidth: 0
+Flags: HW
+HStem: -16 134<245.376 536.88> 0 21G<640 790> 527 124<247.926 640> 964 134<206.747 552.331> 1208 124<326.559 503.441>
+VStem: 20 150<193.031 451.983> 150 140<1368 1496> 540 140<1368 1496> 640 150<0 115 226.409 527 651 879.435>
+LayerCount: 3
+Back
+Fore
+Refer: 754 774 N 1 0 0 1 40 0 2
+Refer: 489 97 N 1 0 0 1 0 0 3
+Layer: 2
+Substitution2: "'ss01' subtable" abreve.alt
+EndChar

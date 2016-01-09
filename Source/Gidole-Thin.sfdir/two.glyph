@@ -1,0 +1,45 @@
+StartChar: two
+Encoding: 50 50 4
+GlifName: two
+Width: 1108
+Flags: W
+HStem: 0 140<354 962> 1295 140<350.321 661.445>
+VStem: 764 156<883.397 1189.2>
+LayerCount: 3
+Back
+Fore
+SplineSet
+512 1435 m 0
+ 753 1435 920 1265 920 1040 c 0
+ 920 928 878 836 794 724 c 2
+ 354 140 l 1
+ 962 140 l 1
+ 962 0 l 1
+ 146 0 l 1
+ 146 108 l 1
+ 663 800 l 2
+ 726 884 764 947 764 1040 c 0
+ 764 1188 666 1295 512 1295 c 0
+ 401 1295 322 1242 257 1180 c 1
+ 155 1286 l 1
+ 237 1365 357 1435 512 1435 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "Single Substitution lookup 40 subtable" two.d
+Substitution2: "Single Substitution lookup 38 subtable" two.n
+Substitution2: "Single Substitution lookup 36 subtable" two.n
+Substitution2: "Single Substitution lookup 34 subtable" two.n
+Substitution2: "Single Substitution lookup 32 subtable" two.n
+Substitution2: "Single Substitution lookup 30 subtable" two.n
+Substitution2: "Single Substitution lookup 28 subtable" two.n
+Substitution2: "Single Substitution lookup 26 subtable" two.n
+Substitution2: "Single Substitution lookup 24 subtable" two.n
+Substitution2: "Single Substitution lookup 22 subtable" two.n
+Substitution2: "Single Substitution lookup 20 subtable" two.n
+Substitution2: "'dnom' Denominators subtable" two.d
+Substitution2: "'numr' Numerators subtable" two.n
+Substitution2: "'sups' subtable" two.sup
+Substitution2: "'subs' subtable" two.sub
+Substitution2: "'tnum' subtable" two.tab
+EndChar

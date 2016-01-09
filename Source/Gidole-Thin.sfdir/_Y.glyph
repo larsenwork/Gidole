@@ -1,0 +1,28 @@
+StartChar: Y
+Encoding: 89 89 37
+GlifName: Y_
+Width: 1082
+VWidth: 0
+Flags: W
+HStem: 0 21G<463 619> 1396 20G<40 217.925 864.075 1042>
+VStem: 463 156<0 506>
+AnchorPoint: "Bottom" 541 0 basechar 0
+AnchorPoint: "Top" 541 1416 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+40 1416 m 1
+ 209 1416 l 1
+ 541 672 l 1
+ 873 1416 l 1
+ 1042 1416 l 1
+ 619 506 l 1
+ 619 0 l 1
+ 463 0 l 1
+ 463 506 l 1
+ 40 1416 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

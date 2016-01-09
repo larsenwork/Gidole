@@ -1,0 +1,15 @@
+StartChar: ebreve
+Encoding: 277 277 221
+GlifName: ebreve
+Width: 975
+VWidth: 0
+Flags: HW
+HStem: -16 134<347.746 728.244> 509 124<236 745> 964 134<345.323 633.125> 1208 124<402.559 579.441>
+VStem: 85 150<236.828 509 633 842.344> 226 140<1368 1496> 616 140<1368 1496> 745 150<633 846.285>
+LayerCount: 3
+Back
+Fore
+Refer: 193 728 N 1 0 0 1 116 0 2
+Refer: 56 101 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

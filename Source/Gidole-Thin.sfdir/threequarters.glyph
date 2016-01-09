@@ -1,0 +1,16 @@
+StartChar: threequarters
+Encoding: 190 190 344
+GlifName: threequarters
+Width: 1532
+Flags: W
+HStem: 0 21G<1220 1352> 165 118<1021 1220 1352 1416> 650 118<243.518 502.347> 992 118<308 475.291> 1310 118<246.892 494.279>
+VStem: 528 132<794.82 963.479 1142.71 1277.24> 1220 132<0 165 283 447>
+LayerCount: 3
+Back
+Fore
+Refer: 121 8260 N 1 0 0 1 707 0 2
+Refer: 495 -1 N 1 0 0 1 769 0 2
+Refer: 494 -1 S 1 0 0 1 35 662 2
+Validated: 1
+Layer: 2
+EndChar

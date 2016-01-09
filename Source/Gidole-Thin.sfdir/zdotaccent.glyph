@@ -1,0 +1,16 @@
+StartChar: zdotaccent
+Encoding: 380 380 298
+GlifName: zdotaccent
+Width: 880
+VWidth: 0
+Flags: W
+HStem: 0 134<265 800> 948 134<87 606> 1247 207<353.506 526.494>
+VStem: 337 206<1263.51 1436.91>
+LayerCount: 3
+Back
+Fore
+Refer: 755 775 N 1 0 0 1 217 0 2
+Refer: 70 122 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

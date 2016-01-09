@@ -1,0 +1,30 @@
+StartChar: four.d
+Encoding: 1114116 -1 495
+Width: 740
+Flags: W
+HStem: 0 21G<451 583> 165 118<252 451 583 647>
+VStem: 451 132<0 165 283 447>
+LayerCount: 3
+Back
+Fore
+SplineSet
+647 283 m 1
+ 647 165 l 1
+ 583 165 l 1
+ 583 0 l 1
+ 451 0 l 1
+ 451 165 l 1
+ 94 165 l 1
+ 94 248 l 1
+ 354 754 l 1
+ 494 754 l 1
+ 252 283 l 1
+ 451 283 l 1
+ 451 447 l 1
+ 583 447 l 1
+ 583 283 l 1
+ 647 283 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

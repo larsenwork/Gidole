@@ -1,0 +1,14 @@
+StartChar: one.n
+Encoding: 1114123 -1 512
+Width: 548
+VWidth: 0
+Flags: W
+HStem: 662 21G<286 418>
+VStem: 286 132<662 1262>
+LayerCount: 3
+Back
+Fore
+Refer: 492 -1 S 1 0 0 1 0 662 2
+Validated: 1
+Layer: 2
+EndChar

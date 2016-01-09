@@ -1,0 +1,26 @@
+StartChar: parenleft
+Encoding: 40 40 79
+GlifName: parenleft
+Width: 653
+Flags: W
+VStem: 110 140<76.4363 1005.56>
+LayerCount: 3
+Back
+Fore
+SplineSet
+467 -439 m 1
+ 313 -314 212 -145 161 36 c 0
+ 115 202 110 374 110 541 c 0
+ 110 708 116 880 161 1046 c 0
+ 211 1227 313 1396 467 1521 c 1
+ 543 1433 l 1
+ 426 1325 342 1185 299 1026 c 0
+ 257 871 250 706 250 541 c 0
+ 250 376 257 211 299 56 c 0
+ 342 -103 426 -243 543 -351 c 1
+ 467 -439 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "'case' subtable" parenleft.case
+EndChar

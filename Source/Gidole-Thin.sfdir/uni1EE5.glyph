@@ -1,0 +1,18 @@
+StartChar: uni1EE5
+Encoding: 7909 7909 334
+GlifName: uni1E_E_5
+Width: 1100
+VWidth: 0
+Flags: HW
+HStem: -372 207<458.506 631.494> -16 134<398.305 691.695> 1062 20G<150 300 790 940>
+VStem: 150 150<221.022 1082> 442 206<-355.494 -182.086> 790 150<221.022 1082>
+CounterMasks: 1 1c
+LayerCount: 3
+Back
+Fore
+Refer: 402 803 N 1 0 0 1 322 0 2
+Refer: 65 117 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Substitution2: "'ss04' subtable" uni1EE5.alt
+EndChar

@@ -1,0 +1,16 @@
+StartChar: Ldot
+Encoding: 319 319 252
+GlifName: L_dot
+Width: 1010
+VWidth: 0
+Flags: W
+HStem: 0 140<336 930> 612 220<560.109 741.891> 1396 20G<180 336>
+VStem: 180 156<140 1416> 541 220<631.109 812.891>
+LayerCount: 3
+Back
+Fore
+Refer: 99 183 N 1 0 0 1 381 181 2
+Refer: 23 76 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

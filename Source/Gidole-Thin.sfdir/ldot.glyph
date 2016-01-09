@@ -1,0 +1,17 @@
+StartChar: ldot
+Encoding: 320 320 253
+GlifName: ldot
+Width: 814
+VWidth: 0
+Flags: HW
+HStem: -16 134<316.125 403.64> 614 220<493.109 674.891>
+VStem: 160 150<132.663 1496> 474 220<633.109 814.891>
+LayerCount: 3
+Back
+Fore
+Refer: 99 183 S 1 0 0 1 314 183 2
+Refer: 50 108 S 1 0 0 1 0 0 2
+Validated: 1
+Layer: 2
+Substitution2: "'ss03' subtable" ldot.alt
+EndChar

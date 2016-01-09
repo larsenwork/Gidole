@@ -1,0 +1,31 @@
+StartChar: Lslash
+Encoding: 321 321 362
+GlifName: L_slash
+Width: 1087
+VWidth: 0
+Flags: W
+HStem: 0 140<413 1007> 1396 20G<257 413>
+VStem: 257 156<140 623 892 1416>
+LayerCount: 3
+Back
+Fore
+SplineSet
+565 998 m 1
+ 641 890 l 1
+ 413 731 l 1
+ 413 140 l 1
+ 1007 140 l 5
+ 1007 0 l 5
+ 257 0 l 1
+ 257 623 l 1
+ 141 542 l 1
+ 65 650 l 1
+ 257 784 l 1
+ 257 1416 l 1
+ 413 1416 l 1
+ 413 892 l 1
+ 565 998 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

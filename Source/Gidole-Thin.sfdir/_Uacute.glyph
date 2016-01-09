@@ -1,0 +1,22 @@
+StartChar: Uacute
+Encoding: 218 218 178
+GlifName: U_acute
+Width: 1236
+VWidth: 0
+Flags: W
+HStem: -19 140<454.716 781.284> 1396 20G<160 316 920 1076>
+VStem: 160 156<260.535 1416> 920 156<260.535 1416>
+LayerCount: 3
+Back
+Fore
+SplineSet
+830 1830 m 1
+ 665 1556 l 1
+ 507 1556 l 1
+ 661 1830 l 1
+ 830 1830 l 1
+EndSplineSet
+Refer: 24 85 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

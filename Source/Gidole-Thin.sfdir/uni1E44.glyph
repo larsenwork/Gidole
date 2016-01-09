@@ -1,0 +1,17 @@
+StartChar: uni1E44
+Encoding: 7748 7748 309
+GlifName: uni1E_44
+Width: 1294
+VWidth: 0
+Flags: W
+HStem: 0 21G<180 336 946.067 1114> 1396 20G<180 347.933 958 1114> 1581 207<560.506 733.494>
+VStem: 180 156<0 1136> 544 206<1597.51 1770.91> 958 156<280 1416>
+CounterMasks: 1 1c
+LayerCount: 3
+Back
+Fore
+Refer: 755 775 N 1 0 0 1 424 334 2
+Refer: 33 78 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

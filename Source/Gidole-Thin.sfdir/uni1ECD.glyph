@@ -1,0 +1,15 @@
+StartChar: uni1ECD
+Encoding: 7885 7885 332
+GlifName: uni1E_C_D_
+Width: 1020
+VWidth: 0
+Flags: HW
+HStem: -372 207<406.506 579.494> -16 134<360.875 679.125> 964 134<360.875 679.125>
+VStem: 95 150<243.661 838.339> 390 206<-355.494 -182.086> 795 150<243.661 838.339>
+LayerCount: 3
+Back
+Fore
+Refer: 402 803 N 1 0 0 1 270 0 2
+Refer: 52 111 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

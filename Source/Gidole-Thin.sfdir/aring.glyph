@@ -1,0 +1,16 @@
+StartChar: aring
+Encoding: 229 229 152
+GlifName: aring
+Width: 940
+VWidth: 0
+Flags: HW
+HStem: -16 134<245.376 536.88> 0 21G<640 790> 527 124<247.926 640> 964 134<206.747 552.331> 1182 95<340.746 487.254> 1452 95<341.175 486.825>
+VStem: 20 150<193.031 451.983> 226 106<1284.78 1443.71> 496 106<1284.78 1443.71> 640 150<0 115 226.409 527 651 879.435>
+LayerCount: 3
+Back
+Fore
+Refer: 758 778 N 1 0 0 1 106 0 2
+Refer: 489 97 N 1 0 0 1 0 0 3
+Layer: 2
+Substitution2: "'ss01' subtable" aring.alt
+EndChar

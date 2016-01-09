@@ -1,0 +1,28 @@
+StartChar: uni0446
+Encoding: 1094 1094 694
+Width: 1110
+VWidth: 0
+Flags: W
+HStem: 0 140<310 800> 1062 20G<160 310 800 950>
+VStem: 160 150<140 1082> 800 150<140 1082> 950 150<-264 0>
+LayerCount: 3
+Back
+Fore
+SplineSet
+310 140 m 1xe8
+ 800 140 l 1
+ 800 1082 l 1
+ 950 1082 l 1
+ 950 140 l 1xf0
+ 1100 140 l 1
+ 1100 -264 l 1
+ 950 -264 l 1
+ 950 0 l 1
+ 160 0 l 1
+ 160 1082 l 1
+ 310 1082 l 1
+ 310 140 l 1xe8
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

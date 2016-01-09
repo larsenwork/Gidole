@@ -1,0 +1,17 @@
+StartChar: lacute
+Encoding: 314 314 247
+GlifName: lacute
+Width: 410
+VWidth: 0
+Flags: HW
+HStem: -16 134<316.125 403.64> 1636 274<277 281>
+VStem: 123 323 160 150<132.663 1496>
+LayerCount: 3
+Back
+Fore
+Refer: 750 769 N 1 0 0 1 3 414 2
+Refer: 50 108 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Substitution2: "'ss03' subtable" lacute.alt
+EndChar

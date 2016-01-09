@@ -1,0 +1,33 @@
+StartChar: h
+Encoding: 104 104 55
+GlifName: h
+Width: 1100
+Flags: HW
+HStem: 0 21G<160 310 800 950> 964 134<412.928 702.292>
+VStem: 160 150<0 864.607 968 1496> 800 150<0 863.391>
+AnchorPoint: "Bottom" 550 0 basechar 0
+AnchorPoint: "Top" 234 1496 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+160 1496 m 1
+ 310 1496 l 1
+ 310 968 l 1
+ 382 1047 466 1098 585 1098 c 0
+ 707 1098 806 1043 867 966 c 0
+ 950 862 950 734 950 645 c 2
+ 950 0 l 1
+ 800 0 l 1
+ 800 645 l 2
+ 800 742 800 816 742 884 c 0
+ 702 931 637 964 555 964 c 0
+ 473 964 408 931 368 884 c 0
+ 310 816 310 742 310 645 c 2
+ 310 0 l 1
+ 160 0 l 1
+ 160 1496 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

@@ -1,0 +1,35 @@
+StartChar: u
+Encoding: 117 117 65
+GlifName: u
+Width: 1100
+Flags: W
+HStem: -16 134<398.283 691.717> 1062 20G<150 300 790 940>
+VStem: 150 150<221.022 1082> 790 150<221.022 1082>
+AnchorPoint: "hook" 940 865 basechar 0
+AnchorPoint: "Center" 545 1202 basechar 0
+AnchorPoint: "Bottom" 545 0 basechar 0
+AnchorPoint: "Top" 545 1082 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+150 1082 m 1
+ 300 1082 l 1
+ 300 437 l 2
+ 300 340 300 266 358 198 c 0
+ 398 151 463 118 545 118 c 0
+ 627 118 692 151 732 198 c 0
+ 790 266 790 340 790 437 c 2
+ 790 1082 l 1
+ 940 1082 l 1
+ 940 437 l 2
+ 940 364 940 293 913 221 c 0
+ 859 76 722 -16 545 -16 c 0
+ 368 -16 231 76 177 221 c 0
+ 150 293 150 364 150 437 c 2
+ 150 1082 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "'ss04' subtable" u.alt
+EndChar

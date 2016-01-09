@@ -1,0 +1,16 @@
+StartChar: dcaron
+Encoding: 271 271 217
+GlifName: dcaron
+Width: 1469
+VWidth: 0
+Flags: W
+HStem: -16 134<391.219 689.896> 0 21G<805 955> 964 134<391.219 689.896> 1168 424<1174.39 1214>
+VStem: 125 150<241.25 840.75> 805 150<0 115 242.055 839.945 967 1496> 1109 220<1392.37 1572.89>
+LayerCount: 3
+Back
+Fore
+Refer: 404 700 S 1 0 0 1 989 80 2
+Refer: 48 100 N 1 0 0 1 0 0 2
+Validated: 1
+Layer: 2
+EndChar

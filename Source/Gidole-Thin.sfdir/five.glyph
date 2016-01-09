@@ -1,0 +1,47 @@
+StartChar: five
+Encoding: 53 53 7
+GlifName: five
+Width: 1108
+Flags: W
+HStem: -19 140<375.972 695.617> 731 135<368.469 695.209> 1276 140<356 894>
+VStem: 200 156<815 1276> 816 156<250.963 604.707>
+LayerCount: 3
+Back
+Fore
+SplineSet
+894 1416 m 1
+ 894 1276 l 1
+ 356 1276 l 1
+ 356 815 l 1
+ 424 850 496 866 579 866 c 0
+ 793 866 972 686 972 426 c 0
+ 972 177 805 -19 549 -19 c 0
+ 383 -19 247 59 161 145 c 1
+ 260 252 l 1
+ 329 184 428 121 549 121 c 0
+ 720 121 816 260 816 426 c 0
+ 816 600 715 731 549 731 c 0
+ 462 731 384 702 322 661 c 1
+ 200 719 l 1
+ 200 1416 l 1
+ 894 1416 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "Single Substitution lookup 40 subtable" five.d
+Substitution2: "Single Substitution lookup 38 subtable" five.n
+Substitution2: "Single Substitution lookup 36 subtable" five.n
+Substitution2: "Single Substitution lookup 34 subtable" five.n
+Substitution2: "Single Substitution lookup 32 subtable" five.n
+Substitution2: "Single Substitution lookup 30 subtable" five.n
+Substitution2: "Single Substitution lookup 28 subtable" five.n
+Substitution2: "Single Substitution lookup 26 subtable" five.n
+Substitution2: "Single Substitution lookup 24 subtable" five.n
+Substitution2: "Single Substitution lookup 22 subtable" five.n
+Substitution2: "Single Substitution lookup 20 subtable" five.n
+Substitution2: "'dnom' Denominators subtable" five.d
+Substitution2: "'numr' Numerators subtable" five.n
+Substitution2: "'sups' subtable" five.sup
+Substitution2: "'subs' subtable" five.sub
+Substitution2: "'tnum' subtable" five.tab
+EndChar

@@ -1,0 +1,15 @@
+StartChar: uni0219
+Encoding: 537 537 302
+GlifName: uni0219
+Width: 911
+VWidth: 0
+Flags: HW
+HStem: -455 330<404.641 442> -16 134<215.497 599.49> 964 134<293.531 655.475>
+VStem: 80 150<688.385 902.957> 346 193<-299.736 -139.338> 676 150<191.009 411.925>
+LayerCount: 3
+Back
+Fore
+Refer: 403 806 N 1 0 0 1 226 0 2
+Refer: 47 115 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

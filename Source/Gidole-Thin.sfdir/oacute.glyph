@@ -1,0 +1,21 @@
+StartChar: oacute
+Encoding: 243 243 169
+GlifName: oacute
+Width: 1020
+VWidth: 0
+Flags: HW
+HStem: -16 134<360.875 679.125> 964 134<360.875 679.125>
+VStem: 95 150<243.661 838.339> 795 150<243.661 838.339>
+LayerCount: 3
+Back
+Fore
+SplineSet
+732 1496 m 1
+ 567 1222 l 1
+ 409 1222 l 1
+ 563 1496 l 1
+ 732 1496 l 1
+EndSplineSet
+Refer: 52 111 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

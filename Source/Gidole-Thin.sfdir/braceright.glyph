@@ -1,0 +1,31 @@
+StartChar: braceright
+Encoding: 125 125 78
+GlifName: braceright
+Width: 703
+Flags: W
+VStem: 292 140<-227.307 386.359 695.641 1309.31>
+LayerCount: 3
+Back
+Fore
+SplineSet
+439 541 m 1
+ 343 620 282 736 282 908 c 0
+ 282 980 292 1047 292 1109 c 0
+ 292 1280 221 1379 130 1428 c 1
+ 173 1526 l 1
+ 333 1458 432 1323 432 1109 c 0
+ 432 1037 422 970 422 908 c 0
+ 422 746 487 645 593 597 c 1
+ 593 485 l 1
+ 487 437 422 336 422 174 c 0
+ 422 112 432 45 432 -27 c 0
+ 432 -241 333 -376 173 -444 c 1
+ 130 -346 l 1
+ 221 -297 292 -198 292 -27 c 0
+ 292 35 282 102 282 174 c 0
+ 282 346 343 462 439 541 c 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "'case' subtable" braceright.case
+EndChar

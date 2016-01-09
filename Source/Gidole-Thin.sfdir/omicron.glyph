@@ -1,0 +1,14 @@
+StartChar: omicron
+Encoding: 959 959 447
+GlifName: omicron
+Width: 1020
+Flags: HW
+HStem: -16 134<360.875 679.125> 964 134<360.875 679.125>
+VStem: 95 150<243.661 838.339> 795 150<243.661 838.339>
+AnchorPoint: "Top" 550 1082 basechar 0
+LayerCount: 3
+Back
+Fore
+Refer: 52 111 N 1 0 0 1 0 0 2
+Layer: 2
+EndChar

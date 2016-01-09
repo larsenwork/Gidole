@@ -1,0 +1,21 @@
+StartChar: slash
+Encoding: 47 47 72
+GlifName: slash
+Width: 930
+VWidth: 0
+Flags: W
+HStem: 1396 20G<669.417 824>
+LayerCount: 3
+Back
+Fore
+SplineSet
+677 1416 m 1
+ 824 1416 l 1
+ 253 -90 l 1
+ 106 -90 l 1
+ 677 1416 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "Single Substitution lookup 18 subtable" fraction
+EndChar

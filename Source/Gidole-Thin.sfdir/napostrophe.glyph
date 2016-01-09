@@ -1,0 +1,15 @@
+StartChar: napostrophe
+Encoding: 329 329 364
+GlifName: napostrophe
+Width: 1370
+VWidth: 0
+Flags: HW
+HStem: 0 21G<450 600 1090 1240> 964 134<702.928 992.26> 1062 20G<450 600> 1088 424<205.391 245>
+VStem: 140 220<1312.37 1492.89> 450 150<0 864.607 968 1082> 1090 150<0 863.391>
+LayerCount: 3
+Back
+Fore
+Refer: 57 110 S 1 0 0 1 290 0 2
+Refer: 404 700 N 1 0 0 1 20 0 2
+Layer: 2
+EndChar

@@ -1,0 +1,16 @@
+StartChar: uni1ECC
+Encoding: 7884 7884 331
+GlifName: uni1E_C_C_
+Width: 1256
+VWidth: 0
+Flags: W
+HStem: -372 207<514.506 687.494> -19 140<452.945 803.055> 1295 140<452.945 803.055>
+VStem: 130 156<311.742 1104.26> 498 206<-355.494 -182.086> 970 156<311.742 1104.26>
+LayerCount: 3
+Back
+Fore
+Refer: 402 803 N 1 0 0 1 378 0 2
+Refer: 16 79 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

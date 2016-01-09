@@ -1,0 +1,22 @@
+StartChar: cacute
+Encoding: 263 263 209
+GlifName: cacute
+Width: 964
+VWidth: 0
+Flags: W
+HStem: -16 134<389.816 724.571> 964 134<390.045 715.229>
+VStem: 125 150<243.538 837.921>
+LayerCount: 3
+Back
+Fore
+SplineSet
+747 1496 m 1
+ 582 1222 l 1
+ 424 1222 l 1
+ 578 1496 l 1
+ 747 1496 l 1
+EndSplineSet
+Refer: 53 99 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

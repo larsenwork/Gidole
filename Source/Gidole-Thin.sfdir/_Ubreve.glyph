@@ -1,0 +1,16 @@
+StartChar: Ubreve
+Encoding: 364 364 288
+GlifName: U_breve
+Width: 1236
+VWidth: 0
+Flags: W
+HStem: -19 140<474.716 801.284> 1396 20G<180 336 940 1096> 1543 124<570.559 747.441>
+VStem: 180 156<260.535 1416> 394 140<1703 1831> 784 140<1703 1831> 940 156<260.535 1416>
+LayerCount: 3
+Back
+Fore
+Refer: 193 728 N 1 0 0 1 284 335 2
+Refer: 24 85 N 1 0 0 1 20 0 3
+Validated: 1
+Layer: 2
+EndChar

@@ -1,0 +1,22 @@
+StartChar: Umacron
+Encoding: 362 362 286
+GlifName: U_macron
+Width: 1236
+VWidth: 0
+Flags: W
+HStem: -19 140<474.716 801.284> 1396 20G<180 336 940 1096> 1586 134<373 943>
+VStem: 180 156<260.535 1416> 940 156<260.535 1416>
+LayerCount: 3
+Back
+Fore
+SplineSet
+373 1720 m 1
+ 943 1720 l 1
+ 943 1586 l 1
+ 373 1586 l 1
+ 373 1720 l 1
+EndSplineSet
+Refer: 24 85 N 1 0 0 1 20 0 3
+Validated: 1
+Layer: 2
+EndChar

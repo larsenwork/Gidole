@@ -1,0 +1,22 @@
+StartChar: Racute
+Encoding: 340 340 266
+GlifName: R_acute
+Width: 1151
+VWidth: 0
+Flags: W
+HStem: 0 21G<180 336 872.863 1051> 556 140<336 628> 1276 140<336 748.14>
+VStem: 180 156<0 556 696 1276> 870 156<821.173 1153.72>
+LayerCount: 3
+Back
+Fore
+SplineSet
+768 1830 m 1
+ 603 1556 l 1
+ 445 1556 l 1
+ 599 1830 l 1
+ 768 1830 l 1
+EndSplineSet
+Refer: 32 82 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

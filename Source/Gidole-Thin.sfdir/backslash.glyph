@@ -1,0 +1,20 @@
+StartChar: backslash
+Encoding: 92 92 66
+GlifName: backslash
+Width: 930
+VWidth: 0
+Flags: W
+HStem: 1396 20G<106 260.583>
+LayerCount: 3
+Back
+Fore
+SplineSet
+106 1416 m 1
+ 253 1416 l 1
+ 824 -90 l 1
+ 677 -90 l 1
+ 106 1416 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

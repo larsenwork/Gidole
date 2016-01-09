@@ -1,0 +1,51 @@
+StartChar: three
+Encoding: 51 51 5
+GlifName: three
+Width: 1108
+Flags: W
+HStem: -19 140<377.731 708.639> 661 140<393 697.57> 1295 140<380.568 698.91>
+VStem: 798 156<903.799 1197.3> 821 156<236.504 542.835>
+LayerCount: 3
+Back
+Fore
+SplineSet
+164 145 m 1xe8
+ 270 247 l 1
+ 335 177 432 121 554 121 c 0
+ 716 121 821 231 821 390 c 0xe8
+ 821 480 779 560 725 603 c 0
+ 653 661 575 661 465 661 c 2
+ 393 661 l 1
+ 393 801 l 1
+ 468 801 l 2
+ 574 801 644 801 710 854 c 0
+ 759 893 798 966 798 1049 c 0
+ 798 1193 703 1295 554 1295 c 0
+ 435 1295 338 1236 273 1167 c 1
+ 170 1273 l 1
+ 253 1356 387 1435 554 1435 c 0
+ 787 1435 954 1275 954 1047 c 0xf0
+ 954 914 883 793 782 734 c 1
+ 897 669 977 540 977 392 c 0
+ 977 157 808 -19 554 -19 c 0
+ 384 -19 248 56 164 145 c 1xe8
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "Single Substitution lookup 40 subtable" three.d
+Substitution2: "Single Substitution lookup 38 subtable" three.n
+Substitution2: "Single Substitution lookup 36 subtable" three.n
+Substitution2: "Single Substitution lookup 34 subtable" three.n
+Substitution2: "Single Substitution lookup 32 subtable" three.n
+Substitution2: "Single Substitution lookup 30 subtable" three.n
+Substitution2: "Single Substitution lookup 28 subtable" three.n
+Substitution2: "Single Substitution lookup 26 subtable" three.n
+Substitution2: "Single Substitution lookup 24 subtable" three.n
+Substitution2: "Single Substitution lookup 22 subtable" three.n
+Substitution2: "Single Substitution lookup 20 subtable" three.n
+Substitution2: "'dnom' Denominators subtable" three.d
+Substitution2: "'numr' Numerators subtable" three.n
+Substitution2: "'sups' subtable" three.sup
+Substitution2: "'subs' subtable" three.sub
+Substitution2: "'tnum' subtable" three.tab
+EndChar

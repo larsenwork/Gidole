@@ -1,0 +1,24 @@
+StartChar: equal
+Encoding: 61 61 82
+GlifName: equal
+Width: 1060
+Flags: W
+HStem: 314 134<180 880> 634 134<180 880>
+LayerCount: 3
+Back
+Fore
+SplineSet
+180 634 m 1
+ 180 768 l 1
+ 880 768 l 1
+ 880 634 l 1
+ 180 634 l 1
+180 314 m 1
+ 180 448 l 1
+ 880 448 l 1
+ 880 314 l 1
+ 180 314 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

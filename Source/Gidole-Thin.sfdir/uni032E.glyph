@@ -1,0 +1,15 @@
+StartChar: uni032E
+Encoding: 814 814 765
+Width: 750
+VWidth: 0
+Flags: W
+HStem: -473 124<286.559 463.441>
+VStem: 110 140<-313.005 -185> 500 140<-313.005 -185>
+AnchorPoint: "Bottom" 375 0 mark 0
+LayerCount: 3
+Back
+Fore
+Refer: 193 728 S 1 0 0 1 0 -1681 2
+Validated: 1
+Layer: 2
+EndChar

@@ -1,0 +1,21 @@
+StartChar: emacron
+Encoding: 275 275 219
+GlifName: emacron
+Width: 975
+VWidth: 0
+Flags: HW
+HStem: -16 134<347.746 728.244> 509 124<236 745> 964 134<345.323 633.125> 1252 134<205 775>
+VStem: 85 150<236.828 509 633 842.344> 745 150<633 846.285>
+LayerCount: 3
+Back
+Fore
+SplineSet
+205 1386 m 1
+ 775 1386 l 1
+ 775 1252 l 1
+ 205 1252 l 1
+ 205 1386 l 1
+EndSplineSet
+Refer: 56 101 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

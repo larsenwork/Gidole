@@ -1,0 +1,16 @@
+StartChar: uni2034
+Encoding: 8244 8244 395
+GlifName: uni2034
+Width: 1110
+Flags: W
+HStem: 1088 424<135.222 217 465.222 547 805.222 887>
+VStem: 120 200<1261.34 1496.13> 450 200<1261.34 1496.13> 790 200<1261.34 1496.13>
+LayerCount: 3
+Back
+Fore
+Refer: 393 8242 S 1 0 0 1 670 0 2
+Refer: 393 8242 S 1 0 0 1 330 0 2
+Refer: 393 8242 S 1 0 0 1 0 0 2
+Validated: 1
+Layer: 2
+EndChar

@@ -1,0 +1,16 @@
+StartChar: periodcentered
+Encoding: 183 183 99
+GlifName: periodcentered
+Width: 500
+VWidth: 0
+Flags: W
+HStem: 431 220<179.109 360.891>
+VStem: 160 220<450.109 631.891>
+AnchorPoint: "Center" -45 541 mark 0
+LayerCount: 3
+Back
+Fore
+Refer: 1 46 S 1 0 0 1 20 447 2
+Validated: 1
+Layer: 2
+EndChar

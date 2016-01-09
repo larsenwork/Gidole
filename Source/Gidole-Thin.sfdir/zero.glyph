@@ -1,0 +1,106 @@
+StartChar: zero
+Encoding: 48 48 2
+GlifName: zero
+Width: 1108
+VWidth: 0
+InSpiro: 1
+Flags: W
+HStem: -19 140<400.406 707.594> 1295 140<400.406 707.594>
+VStem: 136 156<242.808 1173.19> 816 156<242.808 1173.19>
+LayerCount: 3
+Back
+Fore
+SplineSet
+554 1435 m 0
+ 680 1435 790 1388 857 1314 c 0
+ 972 1186 972 1031 972 708 c 0
+ 972 385 972 230 857 102 c 0
+ 790 28 680 -19 554 -19 c 0
+ 428 -19 318 28 251 102 c 0
+ 136 230 136 385 136 708 c 0
+ 136 1031 136 1186 251 1314 c 0
+ 318 1388 428 1435 554 1435 c 0
+  Spiro
+    554 1435 o
+    673.554 1420.1 o
+    776.759 1378.21 o
+    857 1314 o
+    937.875 1171.94 o
+    967.754 979.996 o
+    972 708 o
+    967.754 436.004 o
+    937.875 244.061 o
+    857 102 o
+    776.759 37.7945 o
+    673.554 -4.10317 o
+    554 -19 o
+    434.446 -4.10317 o
+    331.241 37.7945 o
+    251 102 o
+    170.125 244.061 o
+    140.246 436.004 o
+    136 708 o
+    140.246 979.996 o
+    170.125 1171.94 o
+    251 1314 o
+    331.241 1378.21 o
+    434.446 1420.1 o
+    0 0 z
+  EndSpiro
+554 1295 m 0
+ 471 1295 409 1267 369 1222 c 0
+ 292 1137 292 987 292 708 c 0
+ 292 429 292 279 369 194 c 0
+ 409 149 471 121 554 121 c 0
+ 637 121 699 149 739 194 c 0
+ 816 279 816 429 816 708 c 0
+ 816 987 816 1137 739 1222 c 0
+ 699 1267 637 1295 554 1295 c 0
+  Spiro
+    554 1295 o
+    478.106 1286.09 o
+    416.242 1260.89 o
+    369 1222 o
+    314.849 1113.1 o
+    294.843 946.17 o
+    292 708 o
+    294.843 469.83 o
+    314.849 302.902 o
+    369 194 o
+    416.242 155.107 o
+    478.106 129.908 o
+    554 121 o
+    629.894 129.908 o
+    691.758 155.107 o
+    739 194 o
+    793.151 302.902 o
+    813.157 469.83 o
+    816 708 o
+    813.157 946.17 o
+    793.151 1113.1 o
+    739 1222 o
+    691.758 1260.89 o
+    629.894 1286.09 o
+    0 0 z
+  EndSpiro
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "Single Substitution lookup 40 subtable" zero.d
+Substitution2: "Single Substitution lookup 38 subtable" zero.n
+Substitution2: "Single Substitution lookup 36 subtable" zero.n
+Substitution2: "Single Substitution lookup 34 subtable" zero.n
+Substitution2: "Single Substitution lookup 32 subtable" zero.n
+Substitution2: "Single Substitution lookup 30 subtable" zero.n
+Substitution2: "Single Substitution lookup 28 subtable" zero.n
+Substitution2: "Single Substitution lookup 26 subtable" zero.n
+Substitution2: "Single Substitution lookup 24 subtable" zero.n
+Substitution2: "Single Substitution lookup 22 subtable" zero.n
+Substitution2: "Single Substitution lookup 20 subtable" zero.n
+Substitution2: "'dnom' Denominators subtable" zero.d
+Substitution2: "'numr' Numerators subtable" zero.n
+Substitution2: "'sups' subtable" zero.sup
+Substitution2: "'subs' subtable" zero.sub
+Substitution2: "'zero' subtable" zero.zero
+Substitution2: "'tnum' subtable" zero.tab
+EndChar

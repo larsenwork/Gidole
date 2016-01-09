@@ -1,0 +1,21 @@
+StartChar: nacute
+Encoding: 324 324 255
+GlifName: nacute
+Width: 1020
+VWidth: 0
+Flags: HW
+HStem: 0 21G<160 310 800 950> 964 134<412.928 702.26> 1062 20G<160 310>
+VStem: 160 150<0 864.607 968 1082> 800 150<0 863.391>
+LayerCount: 3
+Back
+Fore
+SplineSet
+787 1496 m 1x98
+ 622 1222 l 1
+ 464 1222 l 1
+ 618 1496 l 1
+ 787 1496 l 1x98
+EndSplineSet
+Refer: 57 110 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

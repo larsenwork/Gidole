@@ -1,0 +1,17 @@
+StartChar: uring
+Encoding: 367 367 291
+GlifName: uring
+Width: 1100
+VWidth: 0
+Flags: HW
+HStem: -16 134<398.305 691.695> 1062 20G<150 300 790 940> 1182 95<470.746 617.254> 1452 95<471.175 616.825>
+VStem: 150 150<221.022 1082> 356 106<1284.78 1443.71> 626 106<1284.78 1443.71> 790 150<221.022 1082>
+LayerCount: 3
+Back
+Fore
+Refer: 758 778 N 1 0 0 1 236 0 2
+Refer: 65 117 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Substitution2: "'ss04' subtable" uring.alt
+EndChar

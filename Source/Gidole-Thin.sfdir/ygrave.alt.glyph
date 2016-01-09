@@ -1,0 +1,28 @@
+StartChar: ygrave.alt
+Encoding: 1114158 -1 547
+Width: 987
+VWidth: 0
+Flags: W
+HStem: 1062 20G<60 223.824 766.324 927>
+LayerCount: 3
+Back
+Fore
+SplineSet
+472 -414 m 1
+ 327 -414 l 1
+ 452 -2 l 1
+ 60 1082 l 1
+ 217 1082 l 1
+ 520 194 l 1
+ 772 1082 l 1
+ 927 1082 l 1
+ 472 -414 l 1
+260 1496 m 1
+ 429 1496 l 1
+ 583 1222 l 1
+ 425 1222 l 1
+ 260 1496 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

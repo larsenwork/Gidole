@@ -1,0 +1,48 @@
+StartChar: four
+Encoding: 52 52 6
+GlifName: four
+Width: 1142
+Flags: W
+HStem: 0 21G<736 892> 350 140<303 736 892 1012> 1396 20G<535.42 701>
+VStem: 736 156<0 350 490 840>
+LayerCount: 3
+Back
+Fore
+SplineSet
+1012 490 m 1
+ 1012 350 l 1
+ 892 350 l 1
+ 892 0 l 1
+ 736 0 l 1
+ 736 350 l 1
+ 130 350 l 1
+ 130 451 l 1
+ 544 1416 l 1
+ 701 1416 l 1
+ 303 490 l 1
+ 736 490 l 1
+ 736 840 l 1
+ 892 840 l 1
+ 892 490 l 1
+ 1012 490 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "Single Substitution lookup 40 subtable" four.d
+Substitution2: "Single Substitution lookup 38 subtable" four.n
+Substitution2: "Single Substitution lookup 36 subtable" four.n
+Substitution2: "Single Substitution lookup 34 subtable" four.n
+Substitution2: "Single Substitution lookup 32 subtable" four.n
+Substitution2: "Single Substitution lookup 30 subtable" four.n
+Substitution2: "Single Substitution lookup 28 subtable" four.n
+Substitution2: "Single Substitution lookup 26 subtable" four.n
+Substitution2: "Single Substitution lookup 24 subtable" four.n
+Substitution2: "Single Substitution lookup 22 subtable" four.n
+Substitution2: "Single Substitution lookup 20 subtable" four.n
+Substitution2: "'dnom' Denominators subtable" four.d
+Substitution2: "'numr' Numerators subtable" four.n
+Substitution2: "'ss07' subtable" four.alt
+Substitution2: "'sups' subtable" four.sup
+Substitution2: "'subs' subtable" four.sub
+Substitution2: "'tnum' subtable" four.tab
+EndChar

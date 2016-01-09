@@ -1,0 +1,21 @@
+StartChar: ograve
+Encoding: 242 242 161
+GlifName: ograve
+Width: 1020
+VWidth: 0
+Flags: HW
+HStem: -16 134<360.875 679.125> 964 134<360.875 679.125>
+VStem: 95 150<243.661 838.339> 795 150<243.661 838.339>
+LayerCount: 3
+Back
+Fore
+SplineSet
+306 1496 m 1
+ 475 1496 l 1
+ 629 1222 l 1
+ 471 1222 l 1
+ 306 1496 l 1
+EndSplineSet
+Refer: 52 111 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

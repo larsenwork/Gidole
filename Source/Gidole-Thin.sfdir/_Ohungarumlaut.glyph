@@ -1,0 +1,16 @@
+StartChar: Ohungarumlaut
+Encoding: 336 336 264
+GlifName: O_hungarumlaut
+Width: 1256
+VWidth: 0
+Flags: W
+HStem: -19 140<452.945 803.055> 1295 140<452.945 803.055> 1556 274
+VStem: 130 156<311.742 1104.26> 378 610 970 156<311.742 1104.26>
+LayerCount: 3
+Back
+Fore
+Refer: 759 779 N 1 0 0 1 268 334 2
+Refer: 16 79 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

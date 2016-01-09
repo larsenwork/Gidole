@@ -1,0 +1,25 @@
+StartChar: lacute.alt
+Encoding: 1114161 -1 550
+Width: 470
+VWidth: 0
+Flags: W
+HStem: 0 21G<160 310>
+VStem: 160 150<0 1496>
+LayerCount: 3
+Back
+Fore
+SplineSet
+310 0 m 1
+ 160 0 l 1
+ 160 1496 l 1
+ 310 1496 l 1
+ 310 0 l 1
+467 1870 m 1
+ 302 1596 l 1
+ 144 1596 l 1
+ 298 1870 l 1
+ 467 1870 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

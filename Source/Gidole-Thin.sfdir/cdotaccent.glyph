@@ -1,0 +1,16 @@
+StartChar: cdotaccent
+Encoding: 267 267 213
+GlifName: cdotaccent
+Width: 964
+VWidth: 0
+Flags: W
+HStem: -16 134<389.816 724.571> 964 134<390.045 715.229> 1247 207<448.506 621.494>
+VStem: 125 150<243.538 837.921> 432 206<1263.51 1436.91>
+LayerCount: 3
+Back
+Fore
+Refer: 755 775 N 1 0 0 1 312 0 2
+Refer: 53 99 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

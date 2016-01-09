@@ -1,0 +1,24 @@
+StartChar: quoteright
+Encoding: 8217 8217 85
+GlifName: quoteright
+Width: 460
+Flags: W
+HStem: 1088 424<185.391 225>
+VStem: 120 220<1312.37 1492.89>
+AnchorPoint: "Apos" 65 1448 mark 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+230 1512 m 0
+ 295 1512 340 1467 340 1402 c 0
+ 340 1377 336 1361 315 1310 c 2
+ 225 1088 l 1
+ 127 1088 l 1
+ 184 1301 l 1
+ 147 1315 120 1353 120 1402 c 0
+ 120 1467 165 1512 230 1512 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

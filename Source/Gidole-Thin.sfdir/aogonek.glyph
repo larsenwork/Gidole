@@ -1,0 +1,17 @@
+StartChar: aogonek
+Encoding: 261 261 351
+GlifName: aogonek
+Width: 940
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -430 124<599.59 762.997> -16 50<298.59 552.476> 0 21G<740 790> 563 50<305.552 740> 1048 50<302.22 573.505>
+VStem: 100 50<183.727 414.412> 464 124<-297.881 -104.663> 740 50<0 181 227.212 563 613 884.241>
+LayerCount: 3
+Back
+Fore
+Refer: 764 808 N 1 0 0 1 344 0 2
+Refer: 489 97 N 1 0 0 1 0 0 3
+Layer: 2
+Substitution2: "'ss01' subtable" aogonek.alt
+EndChar

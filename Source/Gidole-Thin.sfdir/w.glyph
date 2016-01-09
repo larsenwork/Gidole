@@ -1,0 +1,45 @@
+StartChar: w
+Encoding: 119 119 44
+GlifName: w
+Width: 1326
+Flags: W
+HStem: 0 21G<324.213 378.876 947.124 1001.79> 1062 20G<70 125.755 636.122 689.878 1200.24 1256>
+AnchorPoint: "Top" 663 1082 basechar 0
+LayerCount: 3
+Back
+SplineSet
+70 1082 m 5
+ 121 1082 l 5
+ 354 112 l 5
+ 642 1082 l 5
+ 684 1082 l 5
+ 972 112 l 5
+ 1205 1082 l 5
+ 1256 1082 l 5
+ 997 0 l 5
+ 953 0 l 5
+ 663 977 l 5
+ 373 0 l 5
+ 329 0 l 5
+ 70 1082 l 5
+EndSplineSet
+Fore
+SplineSet
+70 1082 m 1
+ 121 1082 l 1
+ 354 102 l 1
+ 642 1082 l 1
+ 684 1082 l 1
+ 972 102 l 5
+ 1205 1082 l 1
+ 1256 1082 l 1
+ 997 0 l 1
+ 953 0 l 1
+ 663 987 l 1
+ 373 0 l 1
+ 329 0 l 1
+ 70 1082 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

@@ -1,0 +1,14 @@
+StartChar: acutecomb
+Encoding: 769 769 750
+Width: 563
+Flags: W
+HStem: 1222 274<274 278>
+VStem: 120 323
+AnchorPoint: "Top" 231 1082 mark 0
+LayerCount: 3
+Back
+Fore
+Refer: 168 180 N 1 0 0 1 0 0 2
+Validated: 1
+Layer: 2
+EndChar

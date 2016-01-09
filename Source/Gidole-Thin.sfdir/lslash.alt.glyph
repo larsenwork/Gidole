@@ -1,0 +1,28 @@
+StartChar: lslash.alt
+Encoding: 1114165 -1 554
+Width: 696
+VWidth: 0
+Flags: W
+HStem: 0 21G<270 420>
+VStem: 270 150<0 635 893 1496>
+LayerCount: 3
+Back
+Fore
+SplineSet
+137 542 m 1
+ 65 646 l 1
+ 270 789 l 1
+ 270 1496 l 1
+ 420 1496 l 1
+ 420 893 l 1
+ 559 990 l 1
+ 631 886 l 1
+ 420 739 l 1
+ 420 0 l 1
+ 270 0 l 1
+ 270 635 l 1
+ 137 542 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

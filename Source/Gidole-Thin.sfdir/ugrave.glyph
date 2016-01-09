@@ -1,0 +1,23 @@
+StartChar: ugrave
+Encoding: 249 249 162
+GlifName: ugrave
+Width: 1100
+VWidth: 0
+Flags: HW
+HStem: -16 134<398.305 691.695> 1062 20G<150 300 790 940>
+VStem: 150 150<221.022 1082> 790 150<221.022 1082>
+LayerCount: 3
+Back
+Fore
+SplineSet
+331 1496 m 1
+ 500 1496 l 1
+ 654 1222 l 1
+ 496 1222 l 1
+ 331 1496 l 1
+EndSplineSet
+Refer: 65 117 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Substitution2: "'ss04' subtable" ugrave.alt
+EndChar

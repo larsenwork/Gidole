@@ -1,0 +1,15 @@
+StartChar: onethird
+Encoding: 8531 8531 878
+Width: 1517
+Flags: W
+HStem: -12 118<958.518 1217.35> 330 118<1023 1190.29> 648 118<961.892 1209.28> 663 21G<296 428>
+VStem: 296 132<663 1263> 1243 132<132.82 301.479 480.713 615.24>
+LayerCount: 3
+Back
+Fore
+Refer: 494 -1 N 1 0 0 1 750 0 2
+Refer: 121 8260 N 1 0 0 1 539 0 2
+Refer: 492 -1 N 1 0 0 1 10 663 2
+Validated: 1
+Layer: 2
+EndChar

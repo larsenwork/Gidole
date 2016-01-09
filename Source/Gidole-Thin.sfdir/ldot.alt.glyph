@@ -1,0 +1,25 @@
+StartChar: ldot.alt
+Encoding: 1114164 -1 553
+Width: 854
+VWidth: 0
+Flags: W
+HStem: 0 21G<160 310> 614 220<513.109 694.891>
+VStem: 160 150<0 1496> 494 220<633.109 814.891>
+LayerCount: 3
+Back
+Fore
+SplineSet
+310 0 m 1
+ 160 0 l 1
+ 160 1496 l 1
+ 310 1496 l 1
+ 310 0 l 1
+604 834 m 0
+ 669 834 714 789 714 724 c 0
+ 714 659 669 614 604 614 c 0
+ 539 614 494 659 494 724 c 0
+ 494 789 539 834 604 834 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

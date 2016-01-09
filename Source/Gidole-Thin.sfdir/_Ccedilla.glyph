@@ -1,0 +1,16 @@
+StartChar: Ccedilla
+Encoding: 199 199 191
+GlifName: C_cedilla
+Width: 1114
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -430 124<473.157 584.975> -20 20G<550.348 680> -19 140<445.071 823.011> 1295 140<446.451 815.402>
+VStem: 130 156<307.452 1109.37> 592 140<-299.515 -152.686>
+LayerCount: 3
+Back
+Fore
+Refer: 189 184 N 1 0 0 1 328 0 2
+Refer: 15 67 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

@@ -1,0 +1,30 @@
+StartChar: four.alt
+Encoding: 1114172 -1 561
+Width: 1161
+Flags: W
+HStem: 0 21G<759 915> 350 140<314 759 915 1025> 1396 20G<760.708 914.022>
+VStem: 759 156<0 350 490 1160>
+LayerCount: 3
+Back
+Fore
+SplineSet
+1025 490 m 1
+ 1025 350 l 1
+ 915 350 l 1
+ 915 0 l 1
+ 759 0 l 1
+ 759 350 l 1
+ 136 350 l 1
+ 136 456 l 1
+ 774 1416 l 1
+ 914 1416 l 1
+ 915 490 l 1
+ 1025 490 l 1
+759 490 m 1
+ 758 1160 l 1
+ 314 490 l 1
+ 759 490 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

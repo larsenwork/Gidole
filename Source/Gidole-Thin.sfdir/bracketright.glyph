@@ -1,0 +1,26 @@
+StartChar: bracketright
+Encoding: 93 93 49
+GlifName: bracketright
+Width: 652
+VWidth: 0
+Flags: W
+HStem: -456 124<150 342> 1414 124<150 342>
+VStem: 150 332<-456 -332 1414 1538> 342 140<-332 1414>
+LayerCount: 3
+Back
+Fore
+SplineSet
+482 1538 m 1xe0
+ 482 -456 l 1
+ 150 -456 l 1
+ 150 -332 l 1xe0
+ 342 -332 l 1
+ 342 1414 l 1xd0
+ 150 1414 l 1
+ 150 1538 l 1
+ 482 1538 l 1xe0
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "'case' subtable" bracketright.case
+EndChar

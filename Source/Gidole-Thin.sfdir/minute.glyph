@@ -1,0 +1,22 @@
+StartChar: minute
+Encoding: 8242 8242 393
+GlifName: minute
+Width: 440
+Flags: W
+HStem: 1088 424<135.222 217>
+VStem: 120 200<1261.34 1496.13>
+LayerCount: 3
+Back
+Fore
+SplineSet
+320 1414 m 0
+ 320 1388 313 1367 305 1346 c 2
+ 217 1088 l 1
+ 120 1088 l 1
+ 120 1411 l 2
+ 120 1472 163 1512 218 1512 c 0
+ 281 1512 320 1468 320 1414 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

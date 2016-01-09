@@ -1,0 +1,15 @@
+StartChar: uni1EBA
+Encoding: 7866 7866 819
+Width: 1100
+VWidth: 0
+Flags: W
+HStem: 0 140<336 960> 652 140<336 870> 1276 140<336 960> 1543 98<548 604.384> 1780 98<489.451 608.137>
+VStem: 180 156<140 652 792 1276> 626 110<1648.23 1768.71>
+LayerCount: 3
+Back
+Fore
+Refer: 757 777 N 1 0 0 1 268 334 2
+Refer: 18 69 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

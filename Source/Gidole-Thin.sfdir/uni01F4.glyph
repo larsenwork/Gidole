@@ -1,0 +1,20 @@
+StartChar: uni01F4
+Encoding: 500 500 664
+Width: 1236
+VWidth: 0
+HStem: -19 140<445.071 790.929> 602 140<648 949> 1295 140<446.451 815.402>
+VStem: 130 156<307.452 1109.37> 949 157<303.884 602>
+LayerCount: 3
+Back
+Fore
+SplineSet
+830 1830 m 1
+ 665 1556 l 1
+ 507 1556 l 1
+ 661 1830 l 1
+ 830 1830 l 1
+EndSplineSet
+Refer: 28 71 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

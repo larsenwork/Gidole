@@ -1,0 +1,15 @@
+StartChar: at.case
+Encoding: 1114190 -1 609
+Width: 1519
+VWidth: 1000
+Flags: W
+HStem: -65 134<506.511 1257.49> 367 134<794.376 1085.88> 910 124<796.926 1189> 1347 134<508.655 1085.6>
+VStem: 180 150<269.687 1150> 569 150<576.031 834.983> 1189 150<383 498 609.409 910 1034 1244.68>
+LayerCount: 3
+Back
+Fore
+Refer: 115 64 S 1 0 0 1 0 167 2
+Validated: 1
+Layer: 2
+Substitution2: "'ss06' subtable" at.alt.case
+EndChar

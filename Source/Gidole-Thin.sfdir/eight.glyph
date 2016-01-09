@@ -1,0 +1,50 @@
+StartChar: eight
+Encoding: 56 56 10
+GlifName: eight
+Width: 1108
+Flags: W
+HStem: -19 140<398.858 709.142> 661 140<407.993 700.007> 1295 140<409.715 698.285>
+VStem: 131 156<230.183 550.805> 159 156<895.066 1200.19> 793 156<895.066 1200.19> 821 156<230.183 550.805>
+LayerCount: 3
+Back
+Fore
+SplineSet
+554 1435 m 0xe8
+ 789 1435 949 1266 949 1048 c 0xec
+ 949 917 891 805 784 735 c 1
+ 908 663 977 537 977 391 c 0
+ 977 159 804 -19 554 -19 c 0
+ 304 -19 131 159 131 391 c 0xf2
+ 131 537 200 663 324 735 c 1
+ 217 805 159 917 159 1048 c 0
+ 159 1266 319 1435 554 1435 c 0xe8
+554 1295 m 0
+ 415 1295 315 1205 315 1048 c 0
+ 315 891 415 801 554 801 c 0
+ 693 801 793 891 793 1048 c 0
+ 793 1205 693 1295 554 1295 c 0
+554 661 m 0
+ 398 661 287 560 287 391 c 0
+ 287 222 398 121 554 121 c 0
+ 710 121 821 222 821 391 c 0xf2
+ 821 560 710 661 554 661 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "Single Substitution lookup 40 subtable" eight.d
+Substitution2: "Single Substitution lookup 38 subtable" eight.n
+Substitution2: "Single Substitution lookup 36 subtable" eight.n
+Substitution2: "Single Substitution lookup 34 subtable" eight.n
+Substitution2: "Single Substitution lookup 32 subtable" eight.n
+Substitution2: "Single Substitution lookup 30 subtable" eight.n
+Substitution2: "Single Substitution lookup 28 subtable" eight.n
+Substitution2: "Single Substitution lookup 26 subtable" eight.n
+Substitution2: "Single Substitution lookup 24 subtable" eight.n
+Substitution2: "Single Substitution lookup 22 subtable" eight.n
+Substitution2: "Single Substitution lookup 20 subtable" eight.n
+Substitution2: "'dnom' Denominators subtable" eight.d
+Substitution2: "'numr' Numerators subtable" eight.n
+Substitution2: "'sups' subtable" eight.sup
+Substitution2: "'subs' subtable" eight.sub
+Substitution2: "'tnum' subtable" eight.tab
+EndChar

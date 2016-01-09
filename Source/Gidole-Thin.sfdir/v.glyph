@@ -1,0 +1,23 @@
+StartChar: v
+Encoding: 118 118 45
+GlifName: v
+Width: 990
+Flags: W
+HStem: 0 21G<416.29 573.71> 1062 20G<60 223.247 766.753 930>
+AnchorPoint: "Top" 495 1082 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+423 0 m 1
+ 60 1082 l 1
+ 217 1082 l 1
+ 495 192 l 1
+ 773 1082 l 1
+ 930 1082 l 1
+ 567 0 l 1
+ 423 0 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

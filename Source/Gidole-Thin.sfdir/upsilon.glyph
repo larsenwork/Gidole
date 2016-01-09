@@ -1,0 +1,31 @@
+StartChar: upsilon
+Encoding: 965 965 464
+GlifName: upsilon
+Width: 1090
+Flags: W
+HStem: -16 134<397.605 687.47> 1062 20G<150 300 772.667 894>
+VStem: 150 150<219.022 1082> 800 150<239.55 896.825>
+AnchorPoint: "Top" 537 1082 basechar 0
+AnchorPoint: "Bottom" 547 0 basechar 0
+AnchorPoint: "Center" 537 1202 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+545 -16 m 0
+ 366 -16 233 67 177 219 c 0
+ 150 292 150 366 150 447 c 2
+ 150 1082 l 1
+ 300 1082 l 1
+ 300 457 l 2
+ 300 370 300 322 315 276 c 0
+ 349 170 442 118 545 118 c 0
+ 725 118 800 260 800 441 c 0
+ 800 645 768 853 724 1067 c 1
+ 870 1097 l 1
+ 918 871 950 643 950 442 c 0
+ 950 178 823 -16 545 -16 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

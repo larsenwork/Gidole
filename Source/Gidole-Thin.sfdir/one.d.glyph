@@ -1,0 +1,23 @@
+StartChar: one.d
+Encoding: 1114113 -1 492
+Width: 548
+VWidth: 0
+Flags: W
+HStem: 0 21G<286 418>
+VStem: 286 132<0 600>
+LayerCount: 3
+Back
+Fore
+SplineSet
+418 0 m 1
+ 286 0 l 1
+ 286 600 l 1
+ 176 542 l 1
+ 120 650 l 1
+ 319 754 l 1
+ 418 754 l 1
+ 418 0 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

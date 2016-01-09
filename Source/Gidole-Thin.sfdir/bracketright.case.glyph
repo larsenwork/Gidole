@@ -1,0 +1,14 @@
+StartChar: bracketright.case
+Encoding: 1114195 -1 614
+Width: 652
+VWidth: 0
+Flags: W
+HStem: -284 124<150 342> 1586 124<150 342>
+VStem: 150 332<-284 -160 1586 1710> 342 140<-160 1586>
+LayerCount: 3
+Back
+Fore
+Refer: 49 93 N 1 0 0 1 0 172 2
+Validated: 1
+Layer: 2
+EndChar

@@ -1,0 +1,16 @@
+StartChar: alphatonos
+Encoding: 940 940 455
+GlifName: alphatonos
+Width: 1115
+VWidth: 0
+Flags: W
+HStem: -16 134<390.326 688.862 962.521 1048.64> 964 134<390.326 688.885> 1062 20G<805 955> 1222 274<506 580>
+VStem: 125 150<242.001 839.999> 454 222 805 150<241.242 840.758 967 1082>
+LayerCount: 3
+Back
+Fore
+Refer: 454 900 N 1 0 0 1 322 0 2
+Refer: 377 945 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

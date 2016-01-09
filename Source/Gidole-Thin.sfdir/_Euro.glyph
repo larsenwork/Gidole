@@ -1,0 +1,50 @@
+StartChar: Euro
+Encoding: 8364 8364 372
+GlifName: E_uro
+Width: 1232
+VWidth: 0
+Flags: W
+HStem: -19 140<551.313 930.011> 518 110<139 236 397 836> 788 110<146 236 397 917> 1295 140<548.699 922.402>
+VStem: 236 156<305.855 518 628 788 898 1110.15>
+AnchorPoint: "DoubleTop" 61 0 basechar 0
+AnchorPoint: "Apos" 61 0 basechar 0
+AnchorPoint: "Center" 61 0 basechar 0
+AnchorPoint: "Bottom" 655 0 basechar 0
+AnchorPoint: "Top" 655 1366 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+725 1435 m 0
+ 879 1435 1004 1381 1099 1314 c 1
+ 1019 1194 l 1
+ 939 1251 845 1295 725 1295 c 0
+ 579 1295 488 1230 442 1125 c 0
+ 415 1063 403 983 397 898 c 1
+ 950 898 l 1
+ 917 788 l 1
+ 392 788 l 1
+ 392 628 l 1
+ 869 628 l 1
+ 836 518 l 1
+ 397 518 l 1
+ 403 433 415 353 442 291 c 0
+ 488 186 579 121 725 121 c 0
+ 855 121 969 172 1049 240 c 1
+ 1137 124 l 1
+ 1034 43 893 -19 725 -19 c 0
+ 510 -19 365 86 297 238 c 0
+ 261 318 246 416 240 518 c 1
+ 106 518 l 1
+ 139 628 l 1
+ 236 628 l 1
+ 236 788 l 1
+ 113 788 l 1
+ 146 898 l 1
+ 240 898 l 1
+ 246 1002 261 1100 297 1178 c 0
+ 368 1334 515 1435 725 1435 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

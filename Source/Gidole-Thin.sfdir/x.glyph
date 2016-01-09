@@ -1,0 +1,28 @@
+StartChar: x
+Encoding: 120 120 68
+GlifName: x
+Width: 950
+VWidth: 0
+Flags: W
+HStem: 0 21G<70 250.211 699.789 880> 1062 20G<75 255.186 694.814 875>
+LayerCount: 3
+Back
+Fore
+SplineSet
+880 0 m 1
+ 711 0 l 1
+ 475 421 l 1
+ 239 0 l 1
+ 70 0 l 1
+ 390 545 l 1
+ 75 1082 l 1
+ 244 1082 l 5
+ 475 669 l 1
+ 706 1082 l 1
+ 875 1082 l 1
+ 560 545 l 1
+ 880 0 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

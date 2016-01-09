@@ -1,0 +1,17 @@
+StartChar: iotadieresis
+Encoding: 970 970 468
+GlifName: iotadieresis
+Width: 470
+VWidth: 0
+Flags: W
+HStem: -16 134<316.125 403.64> 1062 20G<160 310> 1247 188<-37.109 125.109 344.891 507.109>
+VStem: -50 188<1259.89 1422.11> 160 150<132.663 1082> 332 188<1259.89 1422.11>
+CounterMasks: 1 1c
+LayerCount: 3
+Back
+Fore
+Refer: 756 776 N 1 0 0 1 -170 0 2
+Refer: 459 953 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

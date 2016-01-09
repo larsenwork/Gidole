@@ -1,0 +1,23 @@
+StartChar: dotaccent
+Encoding: 729 729 195
+GlifName: dotaccent
+Width: 446
+VWidth: 0
+Flags: W
+HStem: 1247 207<136.506 309.494>
+VStem: 120 206<1263.51 1436.91>
+AnchorPoint: "Bottom" 222 1632 mark 0
+AnchorPoint: "Top" 223 1082 mark 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+223 1454 m 4
+ 284 1454 326 1410 326 1350 c 4
+ 326 1289 284 1247 223 1247 c 4
+ 162 1247 120 1289 120 1350 c 4
+ 120 1410 162 1454 223 1454 c 4
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

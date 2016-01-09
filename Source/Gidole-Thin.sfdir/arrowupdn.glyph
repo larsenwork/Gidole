@@ -1,0 +1,31 @@
+StartChar: arrowupdn
+Encoding: 8597 8597 416
+GlifName: arrowupdn
+Width: 1306
+Flags: W
+VStem: 578 150<-10 1090>
+LayerCount: 3
+Back
+Fore
+SplineSet
+1094 307 m 1
+ 1186 201 l 1
+ 705 -216 l 1
+ 601 -216 l 1
+ 120 201 l 1
+ 212 307 l 1
+ 578 -10 l 1
+ 578 1090 l 1
+ 212 773 l 1
+ 120 879 l 1
+ 601 1296 l 1
+ 705 1296 l 1
+ 1186 879 l 1
+ 1094 773 l 1
+ 728 1090 l 1
+ 728 -10 l 1
+ 1094 307 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

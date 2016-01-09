@@ -1,0 +1,30 @@
+StartChar: four.tab
+Encoding: 1114183 -1 592
+Width: 1108
+Flags: W
+HStem: 0 21G<712 868> 350 140<293 712 868 988> 1396 20G<525.42 691>
+VStem: 712 156<0 350 490 840>
+LayerCount: 3
+Back
+Fore
+SplineSet
+988 490 m 1
+ 988 350 l 1
+ 868 350 l 1
+ 868 0 l 1
+ 712 0 l 1
+ 712 350 l 1
+ 120 350 l 1
+ 120 451 l 1
+ 534 1416 l 1
+ 691 1416 l 1
+ 293 490 l 1
+ 712 490 l 1
+ 712 840 l 1
+ 868 840 l 1
+ 868 490 l 1
+ 988 490 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

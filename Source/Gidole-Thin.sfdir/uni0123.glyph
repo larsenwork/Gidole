@@ -1,0 +1,17 @@
+StartChar: uni0123
+Encoding: 291 291 357
+GlifName: uni0123
+Width: 1115
+VWidth: 0
+Flags: W
+HStem: -427 134<289.803 684.209> -16 134<391.219 689.896> 964 134<391.219 689.896> 1062 20G<805 955> 1206 330<520 557.359>
+VStem: 125 150<241.25 840.75> 423 193<1220.34 1380.74> 805 150<-171.521 115 242.055 839.945 967 1082>
+LayerCount: 3
+Back
+Fore
+Refer: 401 786 N 1 0 0 1 303 0 2
+Refer: 58 103 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Substitution2: "'ss02' subtable" gcommaaccent.alt
+EndChar

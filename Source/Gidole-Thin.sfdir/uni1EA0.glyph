@@ -1,0 +1,15 @@
+StartChar: uni1EA0
+Encoding: 7840 7840 795
+Width: 1190
+VWidth: 0
+HStem: -372 207<508.506 681.494> 0 21G<40 209.491 980.509 1150> 342 140<360 830> 1396 20G<513.22 676.78>
+VStem: 492 206<-355.494 -182.086>
+AnchorPoint: "Top" 595 1416 basechar 0
+LayerCount: 3
+Back
+Fore
+Refer: 402 803 N 1 0 0 1 372 0 2
+Refer: 13 65 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

@@ -1,0 +1,21 @@
+StartChar: omacron
+Encoding: 333 333 261
+GlifName: omacron
+Width: 1020
+VWidth: 0
+Flags: HW
+HStem: -16 134<380.875 699.125> 964 134<380.875 699.125> 1252 134<275 845>
+VStem: 115 150<243.661 838.339> 815 150<243.661 838.339>
+LayerCount: 3
+Back
+Fore
+SplineSet
+275 1386 m 1
+ 845 1386 l 1
+ 845 1252 l 1
+ 275 1252 l 1
+ 275 1386 l 1
+EndSplineSet
+Refer: 52 111 N 1 0 0 1 20 0 3
+Layer: 2
+EndChar

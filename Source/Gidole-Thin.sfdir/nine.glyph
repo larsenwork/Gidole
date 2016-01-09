@@ -1,0 +1,45 @@
+StartChar: nine
+Encoding: 57 57 11
+GlifName: nine
+Width: 1108
+Flags: W
+HStem: 0 21G<375 556.28> 525 130<415.773 657.29> 1295 140<411.456 696.544>
+VStem: 136 156<783.42 1165.76> 816 156<783.46 1165.76>
+LayerCount: 3
+Back
+Fore
+SplineSet
+554 1435 m 0
+ 811 1435 972 1228 972 975 c 0
+ 972 839 927 741 876 642 c 2
+ 546 0 l 1
+ 375 0 l 1
+ 661 550 l 1
+ 616 532 573 525 524 525 c 0
+ 284 525 136 737 136 975 c 0
+ 136 1228 297 1435 554 1435 c 0
+554 1295 m 0
+ 410 1295 292 1183 292 975 c 0
+ 292 767 410 655 554 655 c 0
+ 698 655 816 767 816 975 c 0
+ 816 1183 698 1295 554 1295 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "Single Substitution lookup 40 subtable" nine.d
+Substitution2: "Single Substitution lookup 38 subtable" nine.n
+Substitution2: "Single Substitution lookup 36 subtable" nine.n
+Substitution2: "Single Substitution lookup 34 subtable" nine.n
+Substitution2: "Single Substitution lookup 32 subtable" nine.n
+Substitution2: "Single Substitution lookup 30 subtable" nine.n
+Substitution2: "Single Substitution lookup 28 subtable" nine.n
+Substitution2: "Single Substitution lookup 26 subtable" nine.n
+Substitution2: "Single Substitution lookup 24 subtable" nine.n
+Substitution2: "Single Substitution lookup 22 subtable" nine.n
+Substitution2: "Single Substitution lookup 20 subtable" nine.n
+Substitution2: "'dnom' Denominators subtable" nine.d
+Substitution2: "'numr' Numerators subtable" nine.n
+Substitution2: "'sups' subtable" nine.sup
+Substitution2: "'subs' subtable" nine.sub
+Substitution2: "'tnum' subtable" nine.tab
+EndChar

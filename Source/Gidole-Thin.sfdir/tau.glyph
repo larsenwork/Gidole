@@ -1,0 +1,31 @@
+StartChar: tau
+Encoding: 964 964 462
+GlifName: tau
+Width: 916
+VWidth: 0
+Flags: W
+HStem: -16 134<539.125 626.64> 948 134<80 383 533 836>
+VStem: 383 150<132.663 948>
+LayerCount: 3
+Back
+Fore
+SplineSet
+625 124 m 5
+ 649 -4 l 5
+ 622 -12 592 -16 557 -16 c 4
+ 501 -16 453 11 421 50 c 4
+ 383 96 383 158 383 191 c 6
+ 383 948 l 5
+ 80 948 l 5
+ 80 1082 l 5
+ 836 1082 l 5
+ 836 948 l 5
+ 533 948 l 5
+ 533 191 l 6
+ 533 169 533 146 544 132 c 4
+ 552 122 563 118 579 118 c 4
+ 593 118 609 120 625 124 c 5
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

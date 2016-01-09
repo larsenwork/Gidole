@@ -1,0 +1,25 @@
+StartChar: arrowup
+Encoding: 8593 8593 412
+GlifName: arrowup
+Width: 1306
+Flags: W
+VStem: 578 150<50 926>
+LayerCount: 3
+Back
+Fore
+SplineSet
+212 609 m 1
+ 120 715 l 1
+ 601 1132 l 1
+ 705 1132 l 1
+ 1186 715 l 1
+ 1094 609 l 1
+ 728 926 l 1
+ 728 50 l 1
+ 578 50 l 1
+ 578 926 l 1
+ 212 609 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

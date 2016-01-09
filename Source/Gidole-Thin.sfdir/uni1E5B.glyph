@@ -1,0 +1,16 @@
+StartChar: uni1E5B
+Encoding: 7771 7771 312
+GlifName: uni1E_5B_
+Width: 624
+VWidth: 0
+Flags: HW
+HStem: -372 207<147.506 320.494> 0 21G<160 310> 964 134<405.817 635.954> 1062 20G<160 310>
+VStem: 131 206<-355.494 -182.086> 160 150<0 872.61 968 1082>
+AnchorPoint: "Top" 465 1082 basechar 0
+LayerCount: 3
+Back
+Fore
+Refer: 402 803 N 1 0 0 1 11 0 2
+Refer: 61 114 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

@@ -1,0 +1,37 @@
+StartChar: mu
+Encoding: 181 181 122
+GlifName: mu
+Width: 1070
+VWidth: 0
+Flags: W
+HStem: -16 134<407.919 706.466> 1062 20G<160 310 800 950>
+VStem: 160 150<-414 112 217.927 1082> 800 150<214.423 1082>
+AnchorPoint: "DoubleTop" 30 0 basechar 0
+AnchorPoint: "Apos" 30 0 basechar 0
+AnchorPoint: "Center" 0 0 basechar 0
+AnchorPoint: "Bottom" 522 0 basechar 0
+AnchorPoint: "Top" 522 975 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+160 1082 m 1
+ 310 1082 l 1
+ 310 496 l 2
+ 310 360 310 278 361 208 c 0
+ 400 154 468 118 555 118 c 0
+ 643 118 713 153 752 208 c 0
+ 800 276 800 360 800 496 c 2
+ 800 1082 l 1
+ 950 1082 l 1
+ 950 496 l 2
+ 950 351 950 238 881 134 c 0
+ 822 45 713 -16 575 -16 c 0
+ 468 -16 378 29 310 112 c 1
+ 310 -414 l 1
+ 160 -414 l 1
+ 160 1082 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

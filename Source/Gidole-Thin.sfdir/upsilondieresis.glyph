@@ -1,0 +1,16 @@
+StartChar: upsilondieresis
+Encoding: 971 971 465
+GlifName: upsilondieresis
+Width: 1090
+VWidth: 0
+Flags: W
+HStem: -16 134<397.605 687.47> 1062 20G<150 300 772.667 894> 1247 188<264.891 427.109 646.891 809.109>
+VStem: 150 150<219.022 1082> 252 188<1259.89 1422.11> 634 188<1259.89 1422.11> 800 150<239.55 896.825>
+LayerCount: 3
+Back
+Fore
+Refer: 756 776 N 1 0 0 1 132 0 2
+Refer: 464 965 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

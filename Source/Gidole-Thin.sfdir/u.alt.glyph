@@ -1,0 +1,34 @@
+StartChar: u.alt
+Encoding: 1114142 -1 531
+Width: 1100
+Flags: W
+HStem: -16 134<393.767 692.081> 0 21G<790 940> 1062 20G<150 300 790 940>
+VStem: 150 150<214.423 1082> 790 150<0 112 217.927 1082>
+AnchorPoint: "Apos" 16 78 basechar 0
+AnchorPoint: "Center" 545 1202 basechar 0
+AnchorPoint: "Bottom" 545 0 basechar 0
+AnchorPoint: "Top" 545 1082 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+525 -16 m 0xb8
+ 387 -16 280 46 219 134 c 0
+ 150 238 150 351 150 496 c 2
+ 150 1082 l 1
+ 300 1082 l 1
+ 300 496 l 2
+ 300 360 300 276 348 208 c 0
+ 387 153 457 118 545 118 c 0xb8
+ 632 118 700 154 739 208 c 0
+ 790 278 790 360 790 496 c 2
+ 790 1082 l 1
+ 940 1082 l 1
+ 940 0 l 1
+ 790 0 l 1x78
+ 790 112 l 1
+ 722 29 632 -16 525 -16 c 0xb8
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

@@ -1,0 +1,31 @@
+StartChar: ycircumflex.alt
+Encoding: 1114157 -1 546
+Width: 987
+VWidth: 0
+Flags: W
+HStem: 1062 20G<60 223.824 766.324 927>
+LayerCount: 3
+Back
+Fore
+SplineSet
+472 -414 m 1
+ 327 -414 l 1
+ 452 -2 l 1
+ 60 1082 l 1
+ 217 1082 l 1
+ 520 194 l 1
+ 772 1082 l 1
+ 927 1082 l 1
+ 472 -414 l 1
+634 1222 m 1
+ 494 1360 l 1
+ 354 1222 l 1
+ 183 1222 l 1
+ 441 1496 l 1
+ 547 1496 l 1
+ 805 1222 l 1
+ 634 1222 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

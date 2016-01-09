@@ -1,0 +1,36 @@
+StartChar: lslash
+Encoding: 322 322 363
+GlifName: lslash
+Width: 696
+VWidth: 0
+Flags: W
+HStem: -16 134<434.125 521.64>
+VStem: 278 150<132.663 640 899 1496>
+LayerCount: 3
+Back
+Fore
+SplineSet
+137 542 m 1
+ 65 646 l 1
+ 278 794 l 1
+ 278 1496 l 1
+ 428 1496 l 1
+ 428 899 l 1
+ 559 990 l 1
+ 631 886 l 1
+ 428 745 l 1
+ 428 191 l 2
+ 428 169 428 146 439 132 c 0
+ 447 122 458 118 474 118 c 0
+ 488 118 504 120 520 124 c 1
+ 544 -4 l 1
+ 517 -12 487 -16 452 -16 c 0
+ 396 -16 348 11 316 50 c 0
+ 278 96 278 158 278 191 c 2
+ 278 640 l 1
+ 137 542 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "'ss03' subtable" lslash.alt
+EndChar

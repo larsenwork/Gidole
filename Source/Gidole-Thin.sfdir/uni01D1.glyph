@@ -1,0 +1,15 @@
+StartChar: uni01D1
+Encoding: 465 465 732
+Width: 1256
+VWidth: 0
+HStem: -19 140<452.945 803.055> 1295 140<452.945 803.055> 1556 274
+VStem: 130 156<311.742 1104.26> 317 622 970 156<311.742 1104.26>
+CounterMasks: 1 1c
+LayerCount: 3
+Back
+Fore
+Refer: 760 780 N 1 0 0 1 197 334 2
+Refer: 16 79 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

@@ -1,0 +1,16 @@
+StartChar: Iogonek
+Encoding: 302 302 360
+GlifName: I_ogonek
+Width: 516
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -430 124<141.59 304.997> 0 21G<180 336> 1396 20G<180 336>
+VStem: 6 124<-297.881 -104.663> 180 156<0 1416>
+LayerCount: 3
+Back
+Fore
+Refer: 371 731 N 1 0 0 1 -114 0 2
+Refer: 21 73 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

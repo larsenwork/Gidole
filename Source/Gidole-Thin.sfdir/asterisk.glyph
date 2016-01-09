@@ -1,0 +1,31 @@
+StartChar: asterisk
+Encoding: 42 42 95
+GlifName: asterisk
+Width: 1043
+VWidth: 0
+Flags: W
+VStem: 452 141<1185 1496>
+LayerCount: 3
+Back
+Fore
+SplineSet
+881 1284 m 1
+ 923 1155 l 1
+ 629 1064 l 1
+ 816 815 l 1
+ 698 730 l 1
+ 522 981 l 1
+ 346 730 l 1
+ 228 815 l 1
+ 415 1064 l 1
+ 120 1155 l 1
+ 163 1284 l 1
+ 452 1184 l 1
+ 447 1496 l 1
+ 597 1496 l 1
+ 593 1185 l 1
+ 881 1284 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

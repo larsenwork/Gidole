@@ -1,0 +1,21 @@
+StartChar: Amacron
+Encoding: 256 256 204
+GlifName: A_macron
+Width: 1190
+VWidth: 0
+Flags: W
+HStem: 0 21G<40 209.491 980.509 1150> 342 140<360 830> 1396 20G<513.22 676.78> 1586 134<310 880>
+LayerCount: 3
+Back
+Fore
+SplineSet
+310 1720 m 1
+ 880 1720 l 1
+ 880 1586 l 1
+ 310 1586 l 1
+ 310 1720 l 1
+EndSplineSet
+Refer: 13 65 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

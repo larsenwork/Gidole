@@ -1,0 +1,21 @@
+StartChar: acute
+Encoding: 180 180 168
+GlifName: acute
+Width: 563
+Flags: W
+HStem: 1222 274<274 278>
+VStem: 120 323
+AnchorPoint: "Top" 213 1082 mark 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+443 1496 m 1
+ 278 1222 l 1
+ 120 1222 l 1
+ 274 1496 l 1
+ 443 1496 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

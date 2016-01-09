@@ -1,0 +1,15 @@
+StartChar: uni045C
+Encoding: 1116 1116 715
+Width: 995
+VWidth: 0
+Flags: W
+HStem: 0 21G<160 310 740.327 935> 1062 20G<160 310 734.194 925> 1222 274<532 536>
+VStem: 160 150<0 287 489 1082> 378 323
+LayerCount: 3
+Back
+Fore
+Refer: 750 769 N 1 0 0 1 258 0 2
+Refer: 654 1082 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

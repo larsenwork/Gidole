@@ -1,0 +1,33 @@
+StartChar: Epsilontonos
+Encoding: 904 904 601
+Width: 1282
+VWidth: 0
+Flags: W
+HStem: 0 140<518 1142> 652 140<518 1062> 1276 140<518 1142>
+VStem: 362 156<140 652 792 1276>
+LayerCount: 3
+Back
+Fore
+SplineSet
+362 1416 m 1
+ 1142 1416 l 1
+ 1142 1276 l 1
+ 518 1276 l 1
+ 518 792 l 1
+ 1062 792 l 1
+ 1062 652 l 1
+ 518 652 l 1
+ 518 140 l 1
+ 1142 140 l 1
+ 1142 0 l 1
+ 362 0 l 1
+ 362 1416 l 1
+272 1543 m 25
+ 176 1269 l 1
+ 50 1269 l 1
+ 102 1543 l 25
+ 272 1543 l 25
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

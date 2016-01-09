@@ -1,0 +1,26 @@
+StartChar: gamma
+Encoding: 947 947 379
+GlifName: gamma
+Width: 990
+Flags: W
+HStem: 1062 20G<60 223.185 766.815 930>
+VStem: 420 150<-414 0>
+AnchorPoint: "Top" 495 1082 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+570 0 m 1
+ 570 -414 l 1
+ 420 -414 l 1
+ 420 0 l 1
+ 60 1082 l 1
+ 217 1082 l 1
+ 495 183 l 1
+ 773 1082 l 1
+ 930 1082 l 1
+ 570 0 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

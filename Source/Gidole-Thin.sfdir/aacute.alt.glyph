@@ -1,0 +1,15 @@
+StartChar: aacute.alt
+Encoding: 1114134 -1 523
+Width: 1115
+VWidth: 0
+Flags: W
+HStem: -16 134<390.543 688.873> 0 21G<805 955> 964 134<390.326 688.885> 1062 20G<805 955> 1222 274<578 582>
+VStem: 125 150<242.001 839.569> 424 323 805 150<0 117 241.242 840.758 967 1082>
+LayerCount: 3
+Back
+Fore
+Refer: 750 769 N 1 0 0 1 304 0 2
+Refer: 521 -1 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

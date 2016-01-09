@@ -1,0 +1,32 @@
+StartChar: A
+Encoding: 65 65 13
+GlifName: A_
+Width: 1190
+Flags: W
+HStem: 0 21G<40 209.491 980.509 1150> 342 140<360 830> 1396 20G<513.22 676.78>
+AnchorPoint: "DoubleTop" 20 0 basechar 0
+AnchorPoint: "Apos" 20 0 basechar 0
+AnchorPoint: "Center" 595 1380 basechar 0
+AnchorPoint: "Bottom" 1075 0 basechar 0
+AnchorPoint: "Top" 595 1416 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+830 482 m 1
+ 595 1205 l 1
+ 360 482 l 1
+ 830 482 l 1
+520 1416 m 1
+ 670 1416 l 1
+ 1150 0 l 1
+ 987 0 l 1
+ 876 342 l 1
+ 314 342 l 1
+ 203 0 l 1
+ 40 0 l 1
+ 520 1416 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

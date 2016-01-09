@@ -1,0 +1,21 @@
+StartChar: sacute
+Encoding: 347 347 273
+GlifName: sacute
+Width: 911
+VWidth: 0
+Flags: HW
+HStem: -16 134<215.497 599.49> 964 134<293.531 655.475>
+VStem: 80 150<688.385 902.957> 676 150<191.009 411.925>
+LayerCount: 3
+Back
+Fore
+SplineSet
+653 1496 m 1
+ 488 1222 l 1
+ 330 1222 l 1
+ 484 1496 l 1
+ 653 1496 l 1
+EndSplineSet
+Refer: 47 115 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

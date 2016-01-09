@@ -1,0 +1,20 @@
+StartChar: bar
+Encoding: 124 124 76
+GlifName: bar
+Width: 492
+VWidth: 0
+Flags: W
+VStem: 176 140<-456 1538>
+LayerCount: 3
+Back
+Fore
+SplineSet
+176 1538 m 1
+ 316 1538 l 1
+ 316 -456 l 1
+ 176 -456 l 1
+ 176 1538 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

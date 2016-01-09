@@ -1,0 +1,21 @@
+StartChar: wacute
+Encoding: 7811 7811 320
+GlifName: wacute
+Width: 1326
+VWidth: 0
+Flags: HW
+HStem: 0 21G<283.213 439.35 886.65 1042.79> 1062 20G<29 186.46 584.676 741.324 1139.54 1297>
+LayerCount: 3
+Back
+Fore
+SplineSet
+875 1496 m 1
+ 710 1222 l 1
+ 552 1222 l 1
+ 706 1496 l 1
+ 875 1496 l 1
+EndSplineSet
+Refer: 44 119 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

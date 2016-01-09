@@ -1,0 +1,17 @@
+StartChar: uni1EE4
+Encoding: 7908 7908 333
+GlifName: uni1E_E_4
+Width: 1236
+VWidth: 0
+Flags: W
+HStem: -372 207<531.506 704.494> -19 140<454.716 781.284> 1396 20G<160 316 920 1076>
+VStem: 160 156<260.535 1416> 515 206<-355.494 -182.086> 920 156<260.535 1416>
+CounterMasks: 1 1c
+LayerCount: 3
+Back
+Fore
+Refer: 402 803 N 1 0 0 1 395 0 2
+Refer: 24 85 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

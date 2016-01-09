@@ -1,0 +1,24 @@
+StartChar: breve
+Encoding: 728 728 193
+GlifName: breve
+Width: 750
+VWidth: 0
+Flags: W
+HStem: 1208 124<286.559 463.441>
+VStem: 110 140<1368 1496> 500 140<1368 1496>
+AnchorPoint: "Top" 374 1082 mark 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+110 1496 m 1
+ 250 1496 l 1
+ 250 1381 312 1332 375 1332 c 0
+ 438 1332 500 1381 500 1496 c 1
+ 640 1496 l 1
+ 640 1344 542 1208 375 1208 c 0
+ 208 1208 110 1344 110 1496 c 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

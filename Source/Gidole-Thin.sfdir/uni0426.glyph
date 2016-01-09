@@ -1,0 +1,28 @@
+StartChar: uni0426
+Encoding: 1062 1062 686
+Width: 1301
+VWidth: 0
+Flags: W
+HStem: 0 140<336 908 1064 1065> 1396 20G<180 336 908 1064>
+VStem: 180 156<140 1416> 908 156<140 1416> 1065 156<-264 0>
+LayerCount: 3
+Back
+Fore
+SplineSet
+908 140 m 5
+ 908 1416 l 5
+ 1064 1416 l 5
+ 1064 140 l 5
+ 1221 140 l 5
+ 1221 -264 l 5
+ 1065 -264 l 5
+ 1065 0 l 5
+ 180 0 l 1
+ 180 1416 l 1
+ 336 1416 l 1
+ 336 140 l 1
+ 908 140 l 5
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

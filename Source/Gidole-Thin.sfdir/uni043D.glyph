@@ -1,0 +1,28 @@
+StartChar: uni043D
+Encoding: 1085 1085 653
+Width: 1110
+Flags: W
+HStem: 0 21G<160 310 800 950> 488 134<310 800> 1062 20G<160 310 800 950>
+VStem: 160 150<0 488 622 1082> 800 150<0 488 624 1082>
+AnchorPoint: "Top" 555 1082 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+160 1082 m 5
+ 310 1082 l 5
+ 310 622 l 5
+ 800 624 l 5
+ 800 1082 l 5
+ 950 1082 l 5
+ 950 0 l 5
+ 800 0 l 5
+ 800 488 l 5
+ 310 488 l 5
+ 310 0 l 5
+ 160 0 l 5
+ 160 1082 l 5
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

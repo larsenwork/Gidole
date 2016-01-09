@@ -1,0 +1,21 @@
+StartChar: Zacute
+Encoding: 377 377 295
+GlifName: Z_acute
+Width: 1027
+VWidth: 0
+Flags: W
+HStem: 0 140<266 947> 1276 140<105 741>
+LayerCount: 3
+Back
+Fore
+SplineSet
+726 1830 m 1
+ 561 1556 l 1
+ 403 1556 l 1
+ 557 1830 l 1
+ 726 1830 l 1
+EndSplineSet
+Refer: 38 90 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

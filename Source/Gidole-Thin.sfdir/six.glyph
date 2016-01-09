@@ -1,0 +1,45 @@
+StartChar: six
+Encoding: 54 54 8
+GlifName: six
+Width: 1108
+Flags: W
+HStem: -19 140<409.401 698.599> 761 130<438.779 698.175> 1396 20G<550.645 727>
+VStem: 131 156<253.836 627.381> 821 156<253.423 625.558>
+LayerCount: 3
+Back
+Fore
+SplineSet
+554 761 m 0
+ 407 761 287 648 287 441 c 0
+ 287 234 407 121 554 121 c 0
+ 701 121 821 234 821 441 c 0
+ 821 648 701 761 554 761 c 0
+584 891 m 0
+ 821 891 977 685 977 441 c 0
+ 977 187 813 -19 554 -19 c 0
+ 295 -19 131 188 131 442 c 0
+ 131 587 184 689 240 796 c 2
+ 561 1416 l 1
+ 727 1416 l 1
+ 437 864 l 1
+ 482 883 532 891 584 891 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "Single Substitution lookup 40 subtable" six.d
+Substitution2: "Single Substitution lookup 38 subtable" six.n
+Substitution2: "Single Substitution lookup 36 subtable" six.n
+Substitution2: "Single Substitution lookup 34 subtable" six.n
+Substitution2: "Single Substitution lookup 32 subtable" six.n
+Substitution2: "Single Substitution lookup 30 subtable" six.n
+Substitution2: "Single Substitution lookup 28 subtable" six.n
+Substitution2: "Single Substitution lookup 26 subtable" six.n
+Substitution2: "Single Substitution lookup 24 subtable" six.n
+Substitution2: "Single Substitution lookup 22 subtable" six.n
+Substitution2: "Single Substitution lookup 20 subtable" six.n
+Substitution2: "'dnom' Denominators subtable" six.d
+Substitution2: "'numr' Numerators subtable" six.n
+Substitution2: "'sups' subtable" six.sup
+Substitution2: "'subs' subtable" six.sub
+Substitution2: "'tnum' subtable" six.tab
+EndChar

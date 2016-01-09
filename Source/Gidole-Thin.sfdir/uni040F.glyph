@@ -1,0 +1,14 @@
+StartChar: uni040F
+Encoding: 1039 1039 681
+Width: 1260
+VWidth: 0
+Flags: W
+HStem: 0 140<336 924> 1395 21G<180 336 924 1080>
+VStem: 180 156<140 1416> 924 156<140 1416>
+LayerCount: 3
+Back
+Fore
+Refer: 628 1055 S -1 0 0 -1 1260 1416 2
+Validated: 1
+Layer: 2
+EndChar

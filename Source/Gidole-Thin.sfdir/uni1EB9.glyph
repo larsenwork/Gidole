@@ -1,0 +1,15 @@
+StartChar: uni1EB9
+Encoding: 7865 7865 326
+GlifName: uni1E_B_9
+Width: 975
+VWidth: 0
+Flags: HW
+HStem: -372 207<423.506 596.494> -16 134<347.746 728.244> 509 124<236 745> 964 134<345.323 633.125>
+VStem: 85 150<236.828 509 633 842.344> 407 206<-355.494 -182.086> 745 150<633 846.285>
+LayerCount: 3
+Back
+Fore
+Refer: 402 803 N 1 0 0 1 287 0 2
+Refer: 56 101 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

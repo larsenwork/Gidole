@@ -1,0 +1,28 @@
+StartChar: z
+Encoding: 122 122 70
+GlifName: z
+Width: 880
+VWidth: 0
+Flags: W
+HStem: 0 134<265 800> 948 134<87 606>
+AnchorPoint: "Bottom" 440 0 basechar 0
+AnchorPoint: "Top" 440 1082 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+800 134 m 1
+ 800 0 l 1
+ 80 0 l 1
+ 80 108 l 1
+ 606 948 l 1
+ 87 948 l 1
+ 87 1082 l 1
+ 791 1082 l 1
+ 791 974 l 1
+ 265 134 l 1
+ 800 134 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

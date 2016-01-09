@@ -1,0 +1,32 @@
+StartChar: y
+Encoding: 121 121 69
+GlifName: y
+Width: 987
+Flags: W
+HStem: -427 134<120.725 344.879> 1062 20G<60 222.825 768.215 927>
+AnchorPoint: "Bottom" 474 -342 basechar 0
+AnchorPoint: "Top" 494 1082 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+94 -409 m 1
+ 127 -279 l 1
+ 160 -288 192 -293 222 -293 c 0
+ 274 -293 313 -278 342 -255 c 0
+ 383 -223 398 -178 415 -124 c 2
+ 452 -2 l 1
+ 60 1082 l 1
+ 216 1082 l 1
+ 518 197 l 1
+ 774 1082 l 1
+ 927 1082 l 1
+ 550 -159 l 2
+ 525 -242 498 -299 444 -347 c 0
+ 391 -394 318 -427 222 -427 c 0
+ 176 -427 134 -419 94 -409 c 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Substitution2: "'ss05' subtable" y.alt
+EndChar

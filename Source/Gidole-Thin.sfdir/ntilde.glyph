@@ -1,0 +1,15 @@
+StartChar: ntilde
+Encoding: 241 241 180
+GlifName: ntilde
+Width: 1020
+VWidth: 0
+Flags: HW
+HStem: 0 21G<160 310 800 950> 964 134<412.928 702.26> 1062 20G<160 310> 1222 124<561.537 742.301> 1282 124<407.699 588.463> 1396 20G<749.5 792.394>
+VStem: 160 150<0 864.607 968 1082> 275 600 800 150<0 863.391>
+LayerCount: 3
+Back
+Fore
+Refer: 182 732 N 1 0 0 1 146 0 2
+Refer: 57 110 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

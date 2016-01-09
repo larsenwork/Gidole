@@ -1,0 +1,25 @@
+StartChar: uni0312
+Encoding: 786 786 401
+GlifName: uni0312
+Width: 433
+VWidth: 0
+Flags: W
+HStem: 1206 330<217 254.359>
+VStem: 120 193<1220.34 1380.74>
+AnchorPoint: "Top" 217 1082 mark 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+120 1301 m 0
+ 120 1330 133 1359 145 1383 c 2
+ 217 1536 l 1
+ 309 1536 l 1
+ 256 1387 l 0
+ 289 1375 313 1344 313 1301 c 0
+ 313 1246 270 1206 217 1206 c 0
+ 164 1206 120 1246 120 1301 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

@@ -1,0 +1,30 @@
+StartChar: Upsilontonos
+Encoding: 910 910 605
+Width: 1426
+VWidth: 0
+Flags: W
+HStem: 0 21G<807 963> 1396 20G<384 561.925 1208.08 1386>
+VStem: 807 156<0 506>
+LayerCount: 3
+Back
+Fore
+SplineSet
+384 1416 m 1
+ 553 1416 l 1
+ 885 672 l 1
+ 1217 1416 l 1
+ 1386 1416 l 1
+ 963 506 l 1
+ 963 0 l 1
+ 807 0 l 1
+ 807 506 l 1
+ 384 1416 l 1
+272 1543 m 25
+ 176 1269 l 1
+ 50 1269 l 1
+ 102 1543 l 25
+ 272 1543 l 25
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar

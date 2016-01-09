@@ -1,0 +1,17 @@
+StartChar: Acircumflex
+Encoding: 194 194 149
+GlifName: A_circumflex
+Width: 1190
+VWidth: 0
+Flags: W
+HStem: 0 21G<40 209.491 980.509 1150> 342 140<360 830> 1396 20G<513.22 676.78> 1556 274
+VStem: 284 622
+AnchorPoint: "Bottom" 595 0 basechar 0
+LayerCount: 3
+Back
+Fore
+Refer: 142 710 N 1 0 0 1 164 334 2
+Refer: 13 65 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

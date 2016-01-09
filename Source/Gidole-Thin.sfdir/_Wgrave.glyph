@@ -1,0 +1,21 @@
+StartChar: Wgrave
+Encoding: 7808 7808 317
+GlifName: W_grave
+Width: 1500
+VWidth: 0
+Flags: W
+HStem: 0 21G<366.607 528.958 971.042 1133.39> 1396 20G<60 224.242 1275.76 1440>
+LayerCount: 3
+Back
+Fore
+SplineSet
+536 1830 m 1
+ 705 1830 l 1
+ 859 1556 l 1
+ 701 1556 l 1
+ 536 1830 l 1
+EndSplineSet
+Refer: 26 87 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+EndChar

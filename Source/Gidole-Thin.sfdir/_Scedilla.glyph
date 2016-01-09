@@ -1,0 +1,16 @@
+StartChar: Scedilla
+Encoding: 350 350 276
+GlifName: S_cedilla
+Width: 1045
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -430 124<372.157 483.975> -20 20G<449.348 579> -19 140<307.351 679.448> 1295 140<364.153 727.724>
+VStem: 114 156<915.619 1204.29> 491 140<-299.515 -152.686> 789 156<229.74 533.193>
+LayerCount: 3
+Back
+Fore
+Refer: 763 807 N 1 0 0 1 227 0 2
+Refer: 35 83 N 1 0 0 1 0 0 3
+Layer: 2
+EndChar

@@ -1,0 +1,31 @@
+StartChar: H
+Encoding: 72 72 20
+GlifName: H_
+Width: 1280
+VWidth: 0
+Flags: W
+HStem: 0 21G<180 336 944 1100> 652 140<336 944> 1396 20G<180 336 944 1100>
+VStem: 180 156<0 652 792 1416> 944 156<0 652 792 1416>
+AnchorPoint: "Bottom" 630 0 basechar 0
+AnchorPoint: "Top" 640 1416 basechar 0
+LayerCount: 3
+Back
+Fore
+SplineSet
+180 1416 m 1
+ 336 1416 l 1
+ 336 792 l 1
+ 944 792 l 1
+ 944 1416 l 1
+ 1100 1416 l 1
+ 1100 0 l 1
+ 944 0 l 1
+ 944 652 l 1
+ 336 652 l 1
+ 336 0 l 1
+ 180 0 l 1
+ 180 1416 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+EndChar
