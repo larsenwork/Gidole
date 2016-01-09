@@ -1,6 +1,6 @@
 StartChar: uni1EDA
 Encoding: 7898 7898 845
-Width: 1220
+Width: 1256
 VWidth: 0
 Flags: W
 HStem: -19 140<452.945 803.055> 1295 140<452.945 804.403> 1556 274<671 675>
@@ -10,5 +10,6 @@ Back
 Fore
 Refer: 750 769 N 1 0 0 1 397 334 2
 Refer: 724 416 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 EndChar

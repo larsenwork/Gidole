@@ -4,6 +4,9 @@ Width: 1616
 Flags: W
 HStem: -19 140<870.641 1181.87> 0 21G<180 336> 652 140<336 568> 1295 140<870.641 1181.87> 1396 20G<180 336>
 VStem: 180 156<0 652 792 1416> 568 156<297.326 652 792 1116.75> 1330 156<301.206 1114.79>
+AnchorPoint: "hook" 976 1199 basechar 0
+AnchorPoint: "Bottom" 628 0 basechar 0
+AnchorPoint: "Top" 628 1416 basechar 0
 LayerCount: 3
 Back
 Fore

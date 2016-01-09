@@ -1,6 +1,6 @@
 StartChar: uni1EDE
 Encoding: 7902 7902 849
-Width: 1220
+Width: 1256
 VWidth: 0
 Flags: W
 HStem: -19 140<452.945 803.055> 1295 140<452.945 804.403> 1543 98<599 655.384> 1780 98<540.451 659.137>
@@ -10,5 +10,6 @@ Back
 Fore
 Refer: 757 777 N 1 0 0 1 319 334 2
 Refer: 724 416 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 EndChar

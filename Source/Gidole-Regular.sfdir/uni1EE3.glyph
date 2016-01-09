@@ -1,6 +1,6 @@
 StartChar: uni1EE3
 Encoding: 7907 7907 854
-Width: 1094
+Width: 1100
 VWidth: 0
 Flags: W
 HStem: -372 207<463.506 636.494> -16 134<390.875 709.125> 964 134<390.875 708.566>
@@ -10,5 +10,6 @@ Back
 Fore
 Refer: 402 803 N 1 0 0 1 327 0 2
 Refer: 725 417 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 EndChar
