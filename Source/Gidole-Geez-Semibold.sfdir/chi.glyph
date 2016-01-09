@@ -1,0 +1,25 @@
+StartChar: chi
+Encoding: 967 967 1
+GlifName: chi
+Width: 2048
+VWidth: 0
+Flags: H
+LayerCount: 2
+Back
+SplineSet
+918 -414 m 5
+ 755 -414 l 5
+ 484 167 l 5
+ 213 -414 l 5
+ 50 -414 l 5
+ 403 342 l 5
+ 57 1082 l 5
+ 220 1082 l 5
+ 484 516 l 5
+ 748 1082 l 5
+ 911 1082 l 5
+ 565 342 l 5
+ 918 -414 l 5
+EndSplineSet
+Fore
+EndChar

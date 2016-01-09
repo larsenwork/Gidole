@@ -1,0 +1,18 @@
+StartChar: uni130E
+Encoding: 4878 4878 183
+Width: 1280
+VWidth: 0
+Flags: W
+HStem: 0 21G<180 1100> 1396 20G<180 1100>
+VStem: 180 920<0 1416>
+LayerCount: 2
+Back
+Fore
+SplineSet
+180 1416 m 5
+ 1100 1416 l 5
+ 1100 0 l 5
+ 180 0 l 5
+ 180 1416 l 5
+EndSplineSet
+EndChar

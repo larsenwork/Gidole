@@ -1,0 +1,114 @@
+SplineFontDB: 3.0
+FontName: Gidole-Geez-SemiBold
+FullName: Gidole Geez SemiBold
+FamilyName: Gidole
+Weight: SemiBold
+Copyright: Copyright (c) 2016, Andreas Larsen @larsenwork
+Version: 0.1
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 30
+Ascent: 1536
+Descent: 512
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+PreferredKerning: 4
+XUID: [1021 365 -928128380 2253708]
+FSType: 0
+OS2Version: 3
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1417722385
+ModificationTime: 1451946140
+PfmFamily: 33
+TTFWeight: 600
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 0 5 3 0 0 0 0 0 0
+OS2TypoAscent: 1496
+OS2TypoAOffset: 0
+OS2TypoDescent: -472
+OS2TypoDOffset: 0
+OS2TypoLinegap: 102
+OS2WinAscent: 1906
+OS2WinAOffset: 0
+OS2WinDescent: 472
+OS2WinDOffset: 0
+HheadAscent: 1860
+HheadAOffset: 0
+HheadDescent: -460
+HheadDOffset: 0
+OS2SubXSize: 1331
+OS2SubYSize: 1434
+OS2SubXOff: 0
+OS2SubYOff: 287
+OS2SupXSize: 1331
+OS2SupYSize: 1434
+OS2SupXOff: 0
+OS2SupYOff: 983
+OS2StrikeYSize: 100
+OS2StrikeYPos: 528
+OS2CapHeight: 0
+OS2XHeight: 0
+OS2FamilyClass: 1283
+OS2Vendor: 'PfEd'
+OS2CodePages: 00000003.00000000
+OS2UnicodeRanges: e00000ff.4000206a.00000000.00000000
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "http://gidole.github.io" "Gidole is dual licensed under OFL (without reserved font name) and MIT license - pick the one you prefer +AK8AXAAA_(+MMQA)_/+AK8A" "https://raw.githubusercontent.com/larsenwork/Gidole/master/Resources/GidoleFont/License.txt"
+Encoding: UnicodeFull
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WidthSeparation: 120
+WinInfo: 0 14 11
+BeginPrivate: 1
+BlueValues 27 [-19 0 1082 1098 1416 1435]
+EndPrivate
+Grid
+509 2560 m 0
+ 509 -1536 l 1024
+-2048 754 m 0
+ 4096 754 l 1024
+  Named: "sup"
+-2048 1593 m 0
+ 4096 1593 l 1024
+  Named: "sup"
+-2048 1222 m 0
+ 4096 1222 l 1024
+  Named: "accents"
+-2048 722 m 0
+ 4096 722 l 1024
+  Named: "E"
+-2048 115 m 0
+ 4096 115 l 1024
+  Named: "ink"
+-2048 966 m 4
+ 4096 966 l 1028
+  Named: "ink"
+-2048 1496 m 0
+ 4096 1496 l 1024
+  Named: "b"
+-2048 -414 m 0
+ 4096 -414 l 1024
+  Named: "descent"
+-2048 1082 m 0
+ 4096 1082 l 1024
+  Named: "x"
+-2048 1416 m 0
+ 4096 1416 l 1024
+  Named: "caps"
+-2048 541 m 0
+ 4096 541 l 1024
+  Named: "0.5x"
+EndSplineSet
+TeXData: 1 0 0 262144 131072 87381 500171 -1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "hook" "" "DoubleTop" "" "Apos" "" "Center" "" "Bottom" "" "Top" "" 
+EndSplineFont
