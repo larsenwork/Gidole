@@ -1,21 +1,23 @@
 StartChar: y.alt
 Encoding: 1114154 -1 543
-Width: 987
+Width: 1010
 Flags: W
-HStem: 1062 20G<60 223.824 766.324 927>
+HStem: 1062 20G<60 223.941 786.79 950>
+AnchorPoint: "Top" 505 1082 basechar 0
+AnchorPoint: "Bottom" 470 -342 basechar 0
 LayerCount: 3
 Back
 Fore
 SplineSet
-472 -414 m 1
- 327 -414 l 1
- 452 -2 l 1
+468 -414 m 5
+ 323 -414 l 5
+ 454 -2 l 1
  60 1082 l 1
  217 1082 l 1
- 520 194 l 1
- 772 1082 l 1
- 927 1082 l 1
- 472 -414 l 1
+ 521 206 l 1
+ 793 1082 l 1
+ 950 1082 l 1
+ 468 -414 l 5
 EndSplineSet
 Validated: 1
 Layer: 2
