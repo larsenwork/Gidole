@@ -1,5 +1,5 @@
 StartChar: uni1EE3
-Encoding: 7907 7907 854
+Encoding: 7907 7907 852
 Width: 1100
 VWidth: 0
 Flags: W
@@ -9,7 +9,7 @@ LayerCount: 3
 Back
 Fore
 Refer: 402 803 N 1 0 0 1 327 0 2
-Refer: 725 417 N 1 0 0 1 0 0 3
+Refer: 723 417 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2
 EndChar

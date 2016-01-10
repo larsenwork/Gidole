@@ -1,5 +1,5 @@
 StartChar: uni0436
-Encoding: 1078 1078 692
+Encoding: 1078 1078 691
 Width: 1396
 Flags: W
 HStem: 0 21G<70 253.167 623 773 1142.83 1326> 480 124<535 623 773 861> 1062 20G<79 258.092 623 773 1137.91 1317>
@@ -34,5 +34,6 @@ SplineSet
  987 547 l 1
  1326 0 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

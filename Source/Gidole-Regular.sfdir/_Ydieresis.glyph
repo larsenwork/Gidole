@@ -10,7 +10,8 @@ CounterMasks: 1 1c
 LayerCount: 3
 Back
 Fore
-Refer: 756 776 N 1 0 0 1 136 334 2
+Refer: 754 776 N 1 0 0 1 136 334 2
 Refer: 37 89 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 EndChar

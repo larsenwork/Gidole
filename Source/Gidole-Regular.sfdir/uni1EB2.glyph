@@ -1,5 +1,5 @@
 StartChar: uni1EB2
-Encoding: 7858 7858 813
+Encoding: 7858 7858 811
 Width: 1190
 VWidth: 0
 Flags: W
@@ -8,7 +8,7 @@ VStem: 331 140<1702 1830> 674 110<2057.23 2177.71> 721 140<1702 1830>
 LayerCount: 3
 Back
 Fore
-Refer: 757 777 N 1 0 0 1 316 743 2
+Refer: 755 777 N 1 0 0 1 316 743 2
 Refer: 206 258 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

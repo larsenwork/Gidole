@@ -1,5 +1,5 @@
 StartChar: uni044D
-Encoding: 1101 1101 701
+Encoding: 1101 1101 700
 Width: 983
 Flags: W
 HStem: -16 134<214.756 595.254> 509 124<271 707> 964 134<227.833 592.955>
@@ -27,5 +27,6 @@ SplineSet
  609 1098 727 1018 789 915 c 4
  857 800 858 664 858 541 c 4
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

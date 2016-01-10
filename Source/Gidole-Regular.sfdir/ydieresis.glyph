@@ -9,8 +9,9 @@ VStem: 220 188<1259.89 1422.11> 602 188<1259.89 1422.11>
 LayerCount: 3
 Back
 Fore
-Refer: 756 776 N 1 0 0 1 100 0 2
+Refer: 754 776 N 1 0 0 1 100 0 2
 Refer: 69 121 N 1 0 0 1 0 0 3
+Validated: 1
 Layer: 2
 Substitution2: "'ss05' subtable" ydieresis.alt
 EndChar

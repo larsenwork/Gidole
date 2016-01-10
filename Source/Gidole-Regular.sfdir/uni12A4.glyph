@@ -1,5 +1,5 @@
 StartChar: uni12A4
-Encoding: 4772 4772 886
+Encoding: 4772 4772 884
 Width: 2048
 InSpiro: 1
 LayerCount: 3
@@ -27,5 +27,6 @@ SplineSet
   EndSpiro
 EndSplineSet
 Fore
+Validated: 1
 Layer: 2
 EndChar

@@ -10,8 +10,8 @@ AnchorPoint: "Bottom" 70 -414 basechar 0
 LayerCount: 3
 Back
 Fore
-Refer: 755 775 N 1 0 0 1 17 0 2
-Refer: 383 567 N 1 0 0 1 0 0 3
+Refer: 753 775 N 1 0 0 1 17 0 2
+Refer: 383 567 S 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2
 EndChar

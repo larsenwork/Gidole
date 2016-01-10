@@ -1,5 +1,5 @@
 StartChar: uni1EE6
-Encoding: 7910 7910 855
+Encoding: 7910 7910 853
 Width: 1236
 VWidth: 0
 Flags: W
@@ -8,7 +8,7 @@ VStem: 160 156<260.535 1416> 667 110<1648.23 1768.71> 920 156<260.535 1416>
 LayerCount: 3
 Back
 Fore
-Refer: 757 777 N 1 0 0 1 309 334 2
+Refer: 755 777 N 1 0 0 1 309 334 2
 Refer: 24 85 N 1 0 0 1 0 0 3
 Validated: 1
 Layer: 2

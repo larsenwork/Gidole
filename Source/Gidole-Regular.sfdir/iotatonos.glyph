@@ -4,7 +4,7 @@ GlifName: iotatonos
 Width: 470
 VWidth: 0
 Flags: W
-HStem: -16 134<316.125 403.64> 1062 20G<160 310> 1222 274<221 295>
+HStem: -16 134<316.948 403.64> 1062 20G<160 310> 1222 274<221 295>
 VStem: 160 150<132.663 1082> 169 222
 AnchorPoint: "Bottom" 310 0 basechar 0
 AnchorPoint: "Top" 234 1496 basechar 0

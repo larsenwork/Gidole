@@ -1,28 +1,29 @@
 StartChar: uni0446
-Encoding: 1094 1094 694
+Encoding: 1094 1094 693
 Width: 1100
 VWidth: 0
 Flags: W
 HStem: 0 140<310 780> 1062 20G<160 310 780 930>
-VStem: 160 150<140 1082> 780 150<140 1082> 930 150<-264 0>
+VStem: 160 150<140 1082> 780 150<140 1082> 950 130<-264 -74.7648>
 AnchorPoint: "Top" 545 1082 basechar 0
 LayerCount: 3
 Back
 Fore
 SplineSet
-310 140 m 1xe8
+310 140 m 1
  780 140 l 1
  780 1082 l 1
  930 1082 l 1
- 930 140 l 1xf0
+ 930 140 l 1
  1080 140 l 1
  1080 -264 l 1
- 930 -264 l 1
+ 950 -264 l 5
  930 0 l 1
  160 0 l 1
  160 1082 l 1
  310 1082 l 1
- 310 140 l 1xe8
+ 310 140 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
 EndChar

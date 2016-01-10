@@ -1,12 +1,13 @@
 StartChar: five.tab
 Encoding: 1114184 -1 593
 Width: 1108
-Flags: W
+Flags: HW
 HStem: -19 140<382.409 697.051> 731 136<384.726 694.014> 1276 140<356 894>
 VStem: 200 156<806 1276> 816 156<251.661 602.608>
 LayerCount: 3
 Back
 Fore
 Refer: 7 53 S 1 0 0 1 0 0 2
+Validated: 1
 Layer: 2
 EndChar
