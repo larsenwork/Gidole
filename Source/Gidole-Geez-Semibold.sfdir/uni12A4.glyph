@@ -37,5 +37,12 @@ SplineSet
  1100 0 l 5
  180 0 l 5
  180 1416 l 5
+  Spiro
+    180 1416 v
+    1100 1416 v
+    1100 0 v
+    180 0 v
+    0 0 z
+  EndSpiro
 EndSplineSet
 EndChar
