@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="1">
+  <advance width="276"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="522.770919106" y="1325.51460649" type="line" smooth="yes"/>
+      <point x="552.029615532" y="1307.09246429"/>
+      <point x="560.874118918" y="1268.05068829"/>
+      <point x="542.411187573" y="1238.81771366" type="curve" smooth="yes"/>
+      <point x="-158.506237078" y="129.031791294" type="line" smooth="yes"/>
+      <point x="-176.930936518" y="99.8593505129"/>
+      <point x="-215.880344112" y="91.0357722186"/>
+      <point x="-245.078453426" y="109.419766972" type="curve" smooth="yes"/>
+      <point x="-246.770919106" y="110.485393511" type="line" smooth="yes"/>
+      <point x="-276.029615532" y="128.907535705"/>
+      <point x="-284.874118918" y="167.949311713"/>
+      <point x="-266.411187573" y="197.182286343" type="curve" smooth="yes"/>
+      <point x="434.506237078" y="1306.96820871" type="line" smooth="yes"/>
+      <point x="452.930936518" y="1336.14064949"/>
+      <point x="491.880344112" y="1344.96422778"/>
+      <point x="521.078453426" y="1326.58023303" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

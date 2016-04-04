@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphatonos" format="1">
+  <advance width="1190"/>
+  <unicode hex="0386"/>
+  <outline>
+    <component base="tonos" xOffset="72" yOffset="47"/>
+    <component base="Alpha"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

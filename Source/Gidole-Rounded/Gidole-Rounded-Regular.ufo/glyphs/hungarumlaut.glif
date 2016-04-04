@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="850"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="573.972789997" y="1252.02771012" type="line" smooth="yes"/>
+      <point x="563.104092527" y="1233.86903264"/>
+      <point x="542.167355048" y="1222.0"/>
+      <point x="521.004506646" y="1222.0" type="curve" smooth="yes"/>
+      <point x="517.077638777" y="1222.0" type="line" smooth="yes"/>
+      <point x="468.086166306" y="1222.0"/>
+      <point x="437.294148695" y="1274.46141662"/>
+      <point x="461.179238519" y="1317.23602192" type="curve" smooth="yes"/>
+      <point x="542.133895241" y="1462.21364246" type="line" smooth="yes"/>
+      <point x="553.512272235" y="1482.59060518"/>
+      <point x="576.358318155" y="1496.0"/>
+      <point x="599.696871511" y="1496.0" type="curve" smooth="yes"/>
+      <point x="601.696871511" y="1496.0" type="line" smooth="yes"/>
+      <point x="653.930758732" y="1496.0"/>
+      <point x="686.068528124" y="1439.30961406"/>
+      <point x="659.242540096" y="1394.49058528" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="275.972789997" y="1252.02771012" type="line" smooth="yes"/>
+      <point x="265.104092527" y="1233.86903264"/>
+      <point x="244.167355048" y="1222.0"/>
+      <point x="223.004506646" y="1222.0" type="curve" smooth="yes"/>
+      <point x="219.077638777" y="1222.0" type="line" smooth="yes"/>
+      <point x="170.086166306" y="1222.0"/>
+      <point x="139.294148695" y="1274.46141662"/>
+      <point x="163.179238519" y="1317.23602192" type="curve" smooth="yes"/>
+      <point x="244.133895241" y="1462.21364246" type="line" smooth="yes"/>
+      <point x="255.512272235" y="1482.59060518"/>
+      <point x="278.358318155" y="1496.0"/>
+      <point x="301.696871511" y="1496.0" type="curve" smooth="yes"/>
+      <point x="303.696871511" y="1496.0" type="line" smooth="yes"/>
+      <point x="355.930758732" y="1496.0"/>
+      <point x="388.068528124" y="1439.30961406"/>
+      <point x="361.242540096" y="1394.49058528" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

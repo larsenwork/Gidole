@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+  <advance width="610"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="458.613918714" y="590.81194371" type="line" smooth="yes"/>
+      <point x="477.491226504" y="559.649403866"/>
+      <point x="477.491226504" y="518.350596134"/>
+      <point x="458.613918714" y="487.18805629" type="curve" smooth="yes"/>
+      <point x="273.045584171" y="180.853027838" type="line" smooth="yes"/>
+      <point x="253.791485163" y="149.068483444"/>
+      <point x="211.982385016" y="138.875154906"/>
+      <point x="180.259863057" y="158.231269999" type="curve" smooth="yes"/>
+      <point x="178.552584497" y="159.27299929" type="line" smooth="yes"/>
+      <point x="146.506086214" y="178.826794852"/>
+      <point x="136.620989622" y="221.22761665"/>
+      <point x="156.716167425" y="252.937438506" type="curve" smooth="yes"/>
+      <point x="332.578207864" y="530.444511492" type="line" smooth="yes"/>
+      <point x="335.763503809" y="535.470850046"/>
+      <point x="335.763503809" y="542.529149954"/>
+      <point x="332.578207864" y="547.555488508" type="curve" smooth="yes"/>
+      <point x="156.716167425" y="825.062561494" type="line" smooth="yes"/>
+      <point x="136.620989622" y="856.77238335"/>
+      <point x="146.506086214" y="899.173205148"/>
+      <point x="178.552584497" y="918.72700071" type="curve" smooth="yes"/>
+      <point x="180.259863057" y="919.768730001" type="line" smooth="yes"/>
+      <point x="211.982385016" y="939.124845094"/>
+      <point x="253.791485163" y="928.931516556"/>
+      <point x="273.045584171" y="897.146972162" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

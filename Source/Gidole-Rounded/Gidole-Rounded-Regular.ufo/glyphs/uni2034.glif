@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2034" format="1">
+  <advance width="1110"/>
+  <unicode hex="2034"/>
+  <outline>
+    <component base="minute" xOffset="670"/>
+    <component base="minute" xOffset="330"/>
+    <component base="minute"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

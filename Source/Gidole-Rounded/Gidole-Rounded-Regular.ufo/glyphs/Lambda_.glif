@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambda" format="1">
+  <advance width="1190"/>
+  <unicode hex="039B"/>
+  <outline>
+    <component base="V" xScale="-1.0" yScale="-1.0" xOffset="1190" yOffset="1416"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

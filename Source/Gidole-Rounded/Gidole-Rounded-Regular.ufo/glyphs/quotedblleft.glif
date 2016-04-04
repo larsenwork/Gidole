@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft" format="1">
+  <advance width="780"/>
+  <unicode hex="201C"/>
+  <outline>
+    <component base="quoteright" xScale="-1.0" yScale="-1.0" xOffset="780" yOffset="2584"/>
+    <component base="quoteright" xScale="-1.0" yScale="-1.0" xOffset="460" yOffset="2584"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

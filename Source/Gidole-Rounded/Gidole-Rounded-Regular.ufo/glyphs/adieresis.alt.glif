@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresis.alt" format="1">
+  <advance width="1115"/>
+  <outline>
+    <component base="dieresis" xOffset="115"/>
+    <component base="a.alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

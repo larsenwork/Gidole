@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="1236"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="405" y="-252" type="move"/>
+    </contour>
+    <contour>
+      <point x="1085.5" y="173.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="1126.37" y="132.63"/>
+      <point x="1126.37" y="55.37"/>
+      <point x="1085.5" y="14.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="1044.63" y="-26.37"/>
+      <point x="967.37" y="-26.37"/>
+      <point x="926.5" y="14.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="885.63" y="55.37"/>
+      <point x="885.63" y="132.63"/>
+      <point x="926.5" y="173.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="967.37" y="214.37"/>
+      <point x="1044.63" y="214.37"/>
+    </contour>
+    <contour>
+      <point x="717.5" y="173.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="758.37" y="132.63"/>
+      <point x="758.37" y="55.37"/>
+      <point x="717.5" y="14.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="676.63" y="-26.37"/>
+      <point x="599.37" y="-26.37"/>
+      <point x="558.5" y="14.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="517.63" y="55.37"/>
+      <point x="517.63" y="132.63"/>
+      <point x="558.5" y="173.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="599.37" y="214.37"/>
+      <point x="676.63" y="214.37"/>
+    </contour>
+    <contour>
+      <point x="349.5" y="173.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="390.37" y="132.63"/>
+      <point x="390.37" y="55.37"/>
+      <point x="349.5" y="14.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="308.63" y="-26.37"/>
+      <point x="231.37" y="-26.37"/>
+      <point x="190.5" y="14.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="149.63" y="55.37"/>
+      <point x="149.63" y="132.63"/>
+      <point x="190.5" y="173.5" type="curve" smooth="yes" name="inserted"/>
+      <point x="231.37" y="214.37"/>
+      <point x="308.63" y="214.37"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

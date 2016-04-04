@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etatonos" format="1">
+  <advance width="1100"/>
+  <unicode hex="03AE"/>
+  <outline>
+    <component base="tonos" xOffset="377"/>
+    <component base="eta"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

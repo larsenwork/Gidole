@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2077.sup" format="1">
+  <advance width="740"/>
+  <unicode hex="2077"/>
+  <outline>
+    <component base="seven.n" yOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

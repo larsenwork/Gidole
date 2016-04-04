@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01F0" format="1">
+  <advance width="480"/>
+  <unicode hex="01F0"/>
+  <outline>
+    <component base="caron" xOffset="-191"/>
+    <component base="uni0237"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
