@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute" format="1">
+  <advance width="1100"/>
+  <unicode hex="00C9"/>
+  <outline>
+    <component base="uni02CA" xOffset="346" yOffset="334"/>
+    <component base="E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="862"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <component base="circumflex" xScale="-1.0" yScale="-1.0" xOffset="862" yOffset="2718"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

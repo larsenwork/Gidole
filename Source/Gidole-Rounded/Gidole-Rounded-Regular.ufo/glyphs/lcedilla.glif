@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcedilla" format="1">
+  <advance width="486"/>
+  <unicode hex="013C"/>
+  <outline>
+    <component base="uni0326" xOffset="118" yOffset="-13"/>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
