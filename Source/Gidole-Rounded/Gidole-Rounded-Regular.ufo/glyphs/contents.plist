@@ -360,12 +360,20 @@
 	<string>arrowboth.glif</string>
 	<key>arrowdown</key>
 	<string>arrowdown.glif</string>
+	<key>arrowdown.salt</key>
+	<string>arrowdown.salt.glif</string>
 	<key>arrowleft</key>
 	<string>arrowleft.glif</string>
+	<key>arrowleft.salt</key>
+	<string>arrowleft.salt.glif</string>
 	<key>arrowright</key>
 	<string>arrowright.glif</string>
+	<key>arrowright.salt</key>
+	<string>arrowright.salt.glif</string>
 	<key>arrowup</key>
 	<string>arrowup.glif</string>
+	<key>arrowup.salt</key>
+	<string>arrowup.salt.glif</string>
 	<key>arrowupdn</key>
 	<string>arrowupdn.glif</string>
 	<key>asciicircum</key>

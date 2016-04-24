@@ -1,0 +1,3 @@
+feature salt { # Stylistic Alternates
+		sub [arrowleft arrowup arrowright arrowdown] by [arrowleft.salt arrowup.salt arrowright.salt arrowdown.salt];
+} salt;
