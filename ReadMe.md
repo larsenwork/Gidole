@@ -1,6 +1,6 @@
 #Gidole Open Source Modern DIN
 
-Gidole is a minimal yet friendly version of the [DIN](https://en.wikipedia.org/wiki/DIN_1451) typeface. The [public website](https://gidole.github.io) includes a short explanation and the following downloads.
+Gidole is a minimal yet friendly version of the [DIN](https://en.wikipedia.org/wiki/DIN_1451) typeface. The [public Gidole website](https://gidole.github.io) includes a short explanation and these downloads:
 
 [Gidole.zip](https://github.com/gidole/Gidole-Typefaces/blob/master/gidole.zip)
 [Readme+Characters.pdf](https://github.com/gidole/Gidole-Typefaces/blob/master/Resources/GidoleFont/Readme+Characters.pdf?raw=true)
