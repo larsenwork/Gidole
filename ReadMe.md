@@ -1,8 +1,8 @@
 #Gidole Open Source Modern DIN
 
-Gidole is an open-source font based on the celebrated typeface, DIN (Deutsche Industrienorm, German Industrial Standard).
+Gidole is a minimal yet friendly version of the typeface called DIN (Deutsche Industrienorm, German Industrial Standard).
 
-Gidole is minimal and narrow, yet friendly. The public website at [https://gidole.github.io](https://gidole.github.io) includes a short explanation and the downloads.
+The [public website](https://gidole.github.io) includes a short explanation and the downloads.
 
 [Gidole.zip](https://github.com/gidole/Gidole-Typefaces/blob/master/gidole.zip)
 [Readme+Characters.pdf](https://github.com/gidole/Gidole-Typefaces/blob/master/Resources/GidoleFont/Readme+Characters.pdf?raw=true)
