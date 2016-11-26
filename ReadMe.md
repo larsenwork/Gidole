@@ -1,6 +1,6 @@
 #Gidole Open Source Modern DIN
 
-Gidole is a minimal yet friendly version of the typeface called DIN (Deutsche Industrienorm, German Industrial Standard).
+Gidole is a minimal yet friendly version of the [DIN](https://en.wikipedia.org/wiki/DIN_1451) typeface.
 
 The [public website](https://gidole.github.io) includes a short explanation and the downloads.
 
