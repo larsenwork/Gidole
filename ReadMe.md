@@ -1,4 +1,4 @@
-#Gidole Open Source Modern DIN  
+# Gidole Open Source Modern DIN  
 
 [Gidole.zip](https://github.com/gidole/Gidole-Typefaces/blob/master/gidole.zip)  
 [Readme+Characters.pdf](https://github.com/gidole/Gidole-Typefaces/blob/master/Resources/GidoleFont/Readme+Characters.pdf?raw=true)  
